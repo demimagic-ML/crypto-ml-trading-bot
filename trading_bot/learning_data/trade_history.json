@@ -1438,5 +1438,35 @@
     },
     "exit": null,
     "outcome": null
+  },
+  {
+    "id": "trade_20251219_092433_1",
+    "timestamp": "2025-12-19T09:24:33.585794",
+    "status": "open",
+    "entry": {
+      "price": 87864.79,
+      "side": "SHORT",
+      "signals": {
+        "ml_score": 0.0004991151271419497,
+        "ml_confidence": 0.4,
+        "news_score": 0,
+        "wisdom_score": 0.0,
+        "wisdom_master": "Jesse Livermore",
+        "quant_score": 0,
+        "htf_bias": -0.39999999999999997,
+        "final_vote": 0.30549895690116596
+      },
+      "market_state": {
+        "rsi": 66.1071056840394,
+        "bb_position": 0.8847748244838137,
+        "volume_ratio": 0.6185174417564001,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": 454.4999664989591,
+        "momentum_1h": 0.010156311615198366
+      }
+    },
+    "exit": null,
+    "outcome": null
   }
 ]
