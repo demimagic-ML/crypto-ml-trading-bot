@@ -1,0 +1,28 @@
+{
+  "fetch_time": "2025-12-16T04:45:51.985732",
+  "source_type": "rss_feeds",
+  "count": 3,
+  "articles": [
+    {
+      "source": "cointelegraph.com",
+      "title": "Bitcoin, altcoins sell-off as Fed chair switch-up, AI bubble fears spook markets",
+      "published": "Tue, 16 Dec 2025 00:17:35 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin, altcoins sell-off as Fed chair switch-up, AI bubble fears spook markets\" src=\"https://images.cointelegraph.com/images/5",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Here’s what happened in crypto today",
+      "published": "Mon, 15 Dec 2025 21:54:06 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91c",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "SEC commissioner says Crypto is ‘helping to nudge reassessment’ on privacy",
+      "published": "Mon, 15 Dec 2025 21:46:36 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC commissioner says Crypto is ‘helping to nudge reassessment’ on privacy\" src=\"https://images.cointelegraph.com/images/528_aHR",
+      "type": "crypto"
+    }
+  ]
+}

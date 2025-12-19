@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-16T20:23:37.353637",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says",
+        "U.S. Senate's Warren asks for Trump-tied crypto probe as market structure bill drags",
+        "BNB tops $870, outperforming crypto majors as volume surges"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.35,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory scrutiny: U.S. Senate's Warren calls for crypto probe tied to Trump, delaying market structure bill",
+        "Institutional interest: Eric Trump's American Bitcoin jumps to 20th among public BTC treasury companies"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is rebounding from recent lows but faces potential downside near $80,000. Regulatory uncertainty from Senator Warren’s call for a crypto probe adds bearish pressure. BNB shows strength with volume surge, while institutional moves like Eric Trump’s Bitcoin company highlight adoption trends. The regulatory environment remains a key risk factor."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "How scammers target crypto users during the holidays and how to stay protected",
+        "Why BitMine is accumulating Ether despite broader market fear",
+        "US banks could soon issue stablecoins under FDIC plan to implement GENIUS Act"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "US banks may issue stablecoins under FDIC-backed GENIUS Act (adoption)",
+        "JPMorgan launches first tokenized money market fund on Ethereum (institutional move)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights emerging institutional adoption with JPMorgan's tokenized fund and potential US bank stablecoin issuance, balanced by ongoing scams and market caution. While not directly Bitcoin-focused, institutional moves signal long-term bullish trends, but current sentiment remains cautious due to security risks and market fear."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin and Ethereum ETFs Expected to Be Approved as Institutions Pull Back",
+        "South Korean Government Gets Bill in Debt Relief to Crypto Market",
+        "Bitwise Says the Bitcoin 4-Year Cycle Will Die in 2026"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.75,
+      "events": [
+        "Potential approval of Bitcoin and Ethereum ETFs",
+        "South Korea's proposed debt relief bill for crypto market",
+        "Institutional pullback from crypto assets"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed signals: anticipation of ETF approvals (bullish potential) offset by institutional caution and regulatory developments in South Korea. The mention of a weakening Bitcoin cycle adds bearish tone, but no immediate catalysts are confirmed. Overall, sentiment is neutral with moderate impact due to speculative ETF rumors and policy shifts."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": -0.1166666666666667,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 22,
+  "headlines": [
+    "Price predictions 12/15: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH",
+    "Bitcoin parabola breakdown raises chance for 80% correction: Veteran trader",
+    "Trump-backed American Bitcoin flips ProCap in corporate BTC treasury race",
+    "How Bitcoin whales move markets, and the signals to ignore",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
+  ],
+  "events": [
+    "Institutional adoption: JPMorgan launches Ethereum-backed fund (MONY)",
+    "Digital asset ETPs show sustained net inflows (institutional adoption)",
+    "Large-scale BTC accumulation by Strategy (institutional buy signal)",
+    "Bitcoin market structure suggests potential 80% correction (technical warning)",
+    "Regulatory warning from U.S. SEC chief on crypto surveillance",
+    "BlackRock expanding crypto team with institutional hires",
+    "BitMine's significant ETH treasury increase indicating strong conviction"
+  ],
+  "timestamp": "2025-12-15T21:43:33.280616"
+}

@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-19T08:37:13.989852",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin jumps above $87,000, yen slides as Bank of Japan hikes interest rates",
+        "Crypto breaks higher as BOJ decision clears a macro overhang",
+        "Senate confirms Trump crypto-friendly nominees to take over CFTC, FDIC"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Bank of Japan raises short-term policy rate to 0.75%, impacting yen and boosting Bitcoin",
+        "Confirmation of Trump-aligned crypto-friendly nominees to lead CFTC and FDIC",
+        "Institutional interest in Ripple-linked assets remains strong"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Bitcoin surged above $87,000 following the Bank of Japan's interest rate hike, which weakened the yen and boosted risk appetite. The confirmation of crypto-friendly regulators at the CFTC and FDIC adds long-term bullish sentiment. Institutional interest in Ripple assets remains strong despite limited broader market participation. This combination of macro-driven momentum and regulatory optimism suggests a high-impact bullish catalyst."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Crypto market cap falls to 8-month low, analysts see more pain ahead",
+        "How cheap power turned Libya into a Bitcoin mining hotspot",
+        "US Senate confirms pro-crypto Selig to lead CFTC, Hill to head FDIC"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "US Senate confirms pro-crypto Selig to lead CFTC (regulatory)",
+        "Libya emerging as a Bitcoin mining hotspot (adoption)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The crypto market is experiencing a bearish downturn with market cap hitting an 8-month low, while regulatory developments in the US show mixed signals—pro-crypto leadership at the CFTC may offer long-term support, but immediate sentiment remains negative due to declining market conditions and macro concerns."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Solana Developers Test Quantum-Resistant Cryptography to Prepare for Future Risks",
+        "Cardano's Hoskinson Criticizes Trump's Crypto Involvement, Says It Risk Industry Bipartisan Efforts",
+        "Intuit Partners With Circle to Integrate USDC Across TurboTax, QuickBooks"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "Intuit partnering with Circle to integrate USDC into TurboTax and QuickBooks (adoption)",
+        "Solana testing quantum-resistant cryptography (security/long-term tech development)"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights ongoing developments in crypto adoption (Intuit-USDC integration) and long-term security planning (Solana’s quantum resistance). While institutional adoption is positive, the lack of regulatory or ETF-related breaking news keeps sentiment neutral. Cardano’s CEO criticism adds political risk noise but no immediate catalyst."
+    }
+  ]
+}

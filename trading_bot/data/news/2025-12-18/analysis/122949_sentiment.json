@@ -1,0 +1,20 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": 0.1,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 19,
+  "headlines": [
+    "Spot Bitcoin ETFs record $450M inflows in ‘early positioning’ push",
+    "MSCI’s crypto treasury rules could spur $15B of forced selling",
+    "Crypto ETPs could see a flood of liquidations by 2027: Analyst",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank"
+  ],
+  "events": [
+    "VivoPower's $300M Ripple share deal (institutional XRP exposure)",
+    "Coinbase deepens India presence after approval of CoinDCX deal (adoption and regulatory development)",
+    "JPMorgan's tokenized dollars quietly rewiring Wall Street moves (institutional adoption)"
+  ],
+  "timestamp": "2025-12-18T12:29:49.505342"
+}

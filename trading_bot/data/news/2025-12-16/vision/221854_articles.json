@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-16T22:18:54.378667",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin derivatives point to broad price range play between $85,000-$100,000",
+        "U.S. Senate's Warren asks for Trump-tied crypto probe as market structure bill drags",
+        "BNB tops $870, outperforming crypto majors as volume surges"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory scrutiny: U.S. Senator Warren calls for a crypto probe tied to Trump, delaying market structure legislation.",
+        "Adoption: Marshall Islands launches world’s first blockchain-based Universal Basic Income (UBI) on Stellar."
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Bitcoin is showing signs of consolidation with derivatives indicating a potential range between $85,000 and $100,000. Regulatory uncertainty persists due to Senator Warren's call for a crypto probe, while BNB shows strength with rising volume. No major ETF approvals or hacks reported, but institutional sentiment remains cautious amid policy delays."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin treasury Kindly MD faces potential delisting after Nasdaq price notice",
+        "3 reasons why trader demand for XRP evaporated: Is $1 next?",
+        "SEC ends probe into Aave after four years, CEO says"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.2,
+      "confidence": 0.8,
+      "events": [
+        "SEC concludes long-running probe into Aave (regulatory event)",
+        "Potential delisting of Bitcoin-related entity from Nasdaq (adoption/regulatory risk)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights regulatory developments with the SEC ending its probe into Aave, which is positive for DeFi sentiment, while a potential delisting of a Bitcoin-related entity from Nasdaq introduces uncertainty. XRP demand concerns suggest weakening momentum in altcoins. No major ETF approvals or institutional moves are reported. Mixed signals indicate caution; no strong directional bias yet."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin and Ethereum ETFs Expected to Be Approved by SEC as Institutions Pull Back",
+        "Visa Expands Stablecoin Pilot to Include US Settlements via Solana",
+        "South Korean Government Grants 10 Billion in Debt Relief to Crypto Firms"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "SEC approval expected for Bitcoin and Ethereum ETFs (institutional adoption)",
+        "Visa expanding stablecoin pilot with Solana (adoption and infrastructure)",
+        "South Korea providing debt relief to crypto firms (regulatory support)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Multiple bullish catalysts are emerging: anticipated ETF approvals, Visa's expansion into stablecoin settlements via Solana, and South Korea's financial support for crypto firms. These indicate strong institutional interest and regulatory tailwinds, supporting a positive market move. The combination of adoption and policy signals suggests high upside potential."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-16T15:50:47.389627",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "U.S. added 64,000 jobs in November, with unemployment rate jumping to four-year high of 4.6%",
+        "Bitcoin slump deepens as most of top 100 tokens fall below key trading signals",
+        "Visa brings Circle's USDC settlement to U.S. banks following $3.5 billion stablecoin pilot"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Visa and Circle launch USDC settlement with U.S. banks (institutional adoption)",
+        "Crypto Markets: Bitcoin and ETH extend pullback amid thin liquidity and macro jitters"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Breaking news highlights a weak U.S. labor market report, which is bearish for risk assets including crypto. Bitcoin and major tokens are showing weakness, with macro concerns amplifying sell pressure. A significant institutional development — Visa’s integration of USDC — is positive for long-term adoption but currently overshadowed by negative sentiment from macro data and market liquidity issues."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Political tokens played key role in memecoin boom and bust: CoinGecko",
+        "Solana under 'industrial scale' DDoS attack: Co-founder says it's 'bullish'",
+        "Crypto exchange turns 2025 into a year of innovation milestones"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.8,
+      "events": [
+        "Solana DDoS attack (potential network resilience test)",
+        "Institutional move: JPMorgan launches first tokenized money market fund on Ethereum"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent news highlights a mix of market volatility driven by memecoins, a major DDoS event on Solana with bullish framing from leadership, and institutional adoption via JPMorgan’s new Ethereum-based fund. While no direct Bitcoin or ETF-related breaking news is present, the institutional move signals growing legitimacy for crypto assets. The sentiment remains neutral due to mixed signals—bullish narratives around innovation and resilience balanced by memecoin busts and security concerns."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's New Entrants Face the Bite as Whales Retreat",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin",
+        "Why President Trump Says He Will Be Pardoning Samourai Wallet CEO"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "Institutional move: PayPal seeks Utah-chartered industrial bank status",
+        "Regulatory signal: Grayscale downplays quantum computing threat",
+        "Political influence: Trump's potential pardon of a crypto wallet CEO"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed signals in the crypto space—institutional developments like PayPal’s banking move suggest adoption, while whale behavior and political rhetoric introduce uncertainty. No major breaking events such as ETF approvals or hacks are present. Sentiment is neutral with cautious optimism around institutional moves but tempered by regulatory and political risks."
+    }
+  ]
+}

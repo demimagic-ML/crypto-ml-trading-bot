@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-16T22:02:19.057457",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin derivatives point to broad price range play between $85,000-$100,000",
+        "U.S. Senate's Warren asks for Trump-tied crypto probe as market structure bill drags",
+        "BNB tops $870, outperforming crypto majors as volume surges"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory scrutiny: U.S. Senator Warren calls for investigation into Trump-linked crypto entities",
+        "Market structure legislation delay may impact regulatory clarity",
+        "Institutional interest: Bitcoin options flow suggests range-bound expectations rather than breakout"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Bitcoin is showing signs of consolidation with derivative flows pointing to a $85K–$100K trading range. Regulatory uncertainty persists due to Senate scrutiny over crypto ties to political figures, while BNB shows strength on the altcoin front. No major ETF or adoption catalysts are present, but institutional positioning via options suggests caution. The overall sentiment is neutral, with no clear bullish or bearish signal."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "The Bitcoin-to-gold ratio fell 50% in 2025: Here's why",
+        "SEC ends probe into Aave after four years, CEO says",
+        "Crypto urges SEC to see the good in blockchain privacy tools"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "SEC concludes investigation into Aave (regulatory clarity)",
+        "JPMorgan launches first tokenized money market fund on Ethereum (institutional adoption)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights regulatory developments with the SEC ending its probe into Aave, signaling potential easing of scrutiny for DeFi protocols. Additionally, JPMorgan’s entry into tokenized money markets on Ethereum reflects growing institutional adoption. However, a notable bearish signal comes from the Bitcoin-to-gold ratio dropping sharply, suggesting reduced relative appeal of BTC. While not all headlines are breaking, the combination of regulatory and institutional moves indicates high-impact developments warranting close monitoring."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin and Ethereum ETFs Expected as Institutions Pull Back",
+        "Visa Expands Stablecoin Pilot to Include US Settlements via Solana",
+        "South Korean Government Grows Million in Debt Relief for Crypto"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "Bitcoin and Ethereum ETFs expected (institutional adoption)",
+        "Visa expands stablecoin pilot with Solana (adoption)",
+        "South Korea government debt relief for crypto (regulatory support)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "The news highlights a mix of institutional interest, regulatory developments, and adoption milestones. While ETF expectations suggest bullish potential, the pullback by institutions adds caution. Visa’s expansion into stablecoin settlements is a strong adoption signal, but not yet materialized. South Korea's support indicates growing regulatory acceptance. Overall sentiment is neutral due to mixed signals."
+    }
+  ]
+}

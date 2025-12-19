@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-15T21:26:39.488941",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Plunges Below $87K as Crypto Weakness Worsens",
+        "BlackRock expands crypto bet with 7 senior hires across U.S. and Asia",
+        "Hedera Slides to Lowest Point in a Year as Crypto Market Plunges"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.9,
+      "events": [
+        "BlackRock expanding crypto team with institutional hires (adoption)",
+        "UK Supreme Court ruling on BSV appeal reinforcing exchange liability limits (regulation)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin has broken below $87K amid broader market weakness, signaling bearish momentum. BlackRock's expansion into crypto indicates institutional interest despite the downturn. Regulatory clarity from UK court adds legal uncertainty for exchanges. The combination of price action and regulatory developments suggests a high-impact bearish environment."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin parabola breakdown raises chance for 80% correction: Veteran trader",
+        "Digital asset ETPs post third straight week of net inflows, led by US demand",
+        "Price predictions 12/15: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "Digital asset ETPs show sustained net inflows (institutional adoption)",
+        "Bitcoin price warning from veteran trader suggesting potential 80% correction"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The top news highlights a bearish technical warning on Bitcoin with potential for an 80% correction, while institutional demand via ETPs remains strong. The conflicting signals suggest a market at a critical juncture, but the dominant theme is caution due to overextension. This breaking news warrants immediate attention and risk management."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Ethereum Treasury Firm BitMine Boosts ETH Stash Above $12 Billion With Latest Buy",
+        "JPMorgan Introduces Ethereum ETF for MONY Fund",
+        "Do Kwon Could Be Tried Again in Korea Over Terra Crypto Fraud"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Institutional adoption: JPMorgan introduces Ethereum ETF for MONY Fund",
+        "Bitcoin/Ethereum accumulation: BitMine increases ETH holdings above $12 billion",
+        "Regulatory development: Do Kwon facing potential retrial in Korea over Terra collapse"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights strong institutional interest in Ethereum with JPMorgan launching an ETF and a major ETH treasury firm increasing holdings, signaling bullish sentiment. Regulatory developments around Terra's founder add uncertainty but are overshadowed by positive adoption trends. This combination suggests a favorable environment for crypto assets, especially ETH."
+    }
+  ]
+}

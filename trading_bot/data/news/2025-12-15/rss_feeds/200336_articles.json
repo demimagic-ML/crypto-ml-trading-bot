@@ -1,0 +1,42 @@
+{
+  "fetch_time": "2025-12-15T20:03:36.553996",
+  "source_type": "rss_feeds",
+  "count": 5,
+  "articles": [
+    {
+      "source": "cointelegraph.com",
+      "title": "Trump-backed American Bitcoin flips ProCap in corporate BTC treasury race",
+      "published": "Mon, 15 Dec 2025 17:24:53 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump-backed American Bitcoin flips ProCap in corporate BTC treasury race\" src=\"https://images.cointelegraph.com/images/528_aHR0",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "How Bitcoin whales move markets, and the signals to ignore",
+      "published": "Mon, 15 Dec 2025 17:10:46 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"How Bitcoin whales move markets, and the signals to ignore\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2l",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Memecoins will rise from the dead, but in a new form: Crypto exec",
+      "published": "Sun, 14 Dec 2025 19:58:25 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Memecoins will rise from the dead, but in a new form: Crypto exec\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9z",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Why oil-rich investors are fueling Bitcoin’s next liquidity wave",
+      "published": "Sun, 14 Dec 2025 15:45:00 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Why oil-rich investors are fueling Bitcoin’s next liquidity wave\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zM",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "How HashKey plans to become Hong Kong’s first crypto IPO",
+      "published": "Sun, 14 Dec 2025 12:05:00 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"How HashKey plans to become Hong Kong’s first crypto IPO\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2lud",
+      "type": "crypto"
+    }
+  ]
+}

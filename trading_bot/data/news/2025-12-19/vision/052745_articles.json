@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-19T05:27:45.680460",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Altcoins plunge as bitcoin's $85,000 test triggers $550 million in liquidations",
+        "U.S. inflation data surprises, with CPI higher by just 2.7% in November",
+        "Gold, silver shine in debasement trade as bitcoin is left behind"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.9,
+      "events": [
+        "Bitcoin price tested $85,000, triggering significant liquidations in altcoins",
+        "CPI data showed lower-than-expected inflation, reducing inflation hedge appeal for gold and silver",
+        "Regulatory uncertainty highlighted by U.S. market structure questions regarding crypto"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin tested $85,000, leading to a sharp selloff in altcoins and $550 million in liquidations, signaling market stress. Inflation data came in softer than expected, reducing demand for inflation-hedge assets like gold and silver, while Bitcoin was left behind in the debase trade. Regulatory concerns over U.S. crypto market structure add further uncertainty. This combination suggests bearish momentum, especially in altcoins."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "SEC flags Bitcoin miner hosting services as subject to securities laws",
+        "Bitwise files with SEC to offer spot Sui ETF",
+        "Crypto has everything needed for a bull market, so why is the market down?"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "SEC regulatory action on Bitcoin mining hosting services",
+        "Bitwise filing for a spot Sui ETF"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "The top headlines indicate mixed signals: regulatory scrutiny over Bitcoin infrastructure (potential bearish) and new ETF filings (bullish). However, the overarching sentiment remains neutral due to conflicting narratives. The SEC's move on mining hosting services raises compliance concerns, while Bitwise’s ETF filing adds institutional interest. Market reaction will depend on how regulators treat these developments. Given the regulatory uncertainty and institutional activity, traders should monitor closely but avoid aggressive positions until clarity emerges."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Cardano's Hoskinson Criticizes Trump's Crypto Involvement, Says It Risk Industry Bipartisan Efforts",
+        "Intuit Partners With Circle to Integrate USDC Across TurboTax, QuickBooks",
+        "European Central Bank Says It's Ready to Move on Digital Euro"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "Intuit's partnership with Circle for USDC integration in TurboTax and QuickBooks (adoption)",
+        "ECB signals readiness to move forward with Digital Euro (regulatory/institutional development)"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights a mix of regulatory developments and institutional adoption. While the ECB's progress on the digital euro adds long-term structural interest, the Intuit-Circle partnership indicates growing mainstream crypto adoption in fintech. However, no major breaking events like ETF approvals or hacks are present. Sentiment is neutral due to mixed signals—positive for adoption but cautious regarding political interference in crypto."
+    }
+  ]
+}

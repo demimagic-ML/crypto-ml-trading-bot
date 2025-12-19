@@ -1,0 +1,25 @@
+{
+  "sentiment": "BEARISH",
+  "sentiment_score": -0.21666666666666665,
+  "confidence": 0.6,
+  "trading_suggestion": "SELL",
+  "news_count": 21,
+  "headlines": [
+    "Trump-backed American Bitcoin flips ProCap in corporate BTC treasury race",
+    "How Bitcoin whales move markets, and the signals to ignore",
+    "Bitcoin sees ‘pure manipulation’ as US sell-off liquidates $200M in an hour",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Bitcoin price drop below $87K",
+    "Trump-backed Bitcoin project acquiring ProCap (adoption/strategic move)",
+    "ETH treasury activity: BitMine adds to ETH holdings, surpassing $12B",
+    "Crypto market cap nearing $3 trillion decline",
+    "ETP net inflows continuing for third week (institutional demand)",
+    "Institutional asset manager BackRock expanding crypto bet with senior hires",
+    "Institutional adoption: JPMorgan launches Ethereum-based MONY fund",
+    "Large-scale BTC accumulation by a strategy firm (over $1B in two weeks)"
+  ],
+  "timestamp": "2025-12-15T20:53:52.875313"
+}

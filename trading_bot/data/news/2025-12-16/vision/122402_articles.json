@@ -1,0 +1,70 @@
+{
+  "fetch_time": "2025-12-16T12:24:02.574805",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's bearish turn deepens as 75 out of top 100 coins trade below key averages; Nasdaq resilient",
+        "Why bitcoin ETFs look like they're falling short, even as their role grows: Asia Morning Briefing",
+        "Bitcoin, ether and XRP extend losses as year-end caution builds"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin ETFs underperforming despite growing institutional interest",
+        "Crypto market-wide sell-off amid year-end caution and declining momentum across top 100 coins"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The crypto market is experiencing a broad bearish trend with 75% of top 100 coins trading below key technical levels. Bitcoin ETFs are failing to gain traction despite institutional interest, and market sentiment is cautious ahead of year-end. This indicates weakening momentum and potential further downside, especially for altcoins."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin long-term holder supply hits 8-month lows: Bullish or bearish?",
+        "Bitcoin sharks stack at fastest pace in 13 years, with BTC down 30%",
+        "Winklevoss-led Gemini rolls out prediction markets in 50 US states"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin whale accumulation at fastest pace in 13 years",
+        "Gemini launches prediction markets across 50 US states"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Bitcoin shows signs of whale accumulation despite a 30% drop, suggesting potential long-term bullish sentiment. However, the current market is bearish with low long-term holder supply. Institutional activity via Gemini's new prediction markets adds complexity. Breakout trades may follow if sentiment shifts."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Sinks Towards $85,000 as Ethereum, XRP Fall Alongside",
+        "PayPal Seeks Utah-Chartered Industrial Bank Status",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.75,
+      "events": [
+        "PayPal's pursuit of a chartered bank status for crypto services (institutional adoption)",
+        "Bitcoin price drop toward $85,000 with ETH and XRP declining (market correction)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin and major altcoins are under pressure, with BTC approaching $85,000 amid broader market weakness. While PayPal's move toward banking status signals long-term institutional interest, short-term sentiment is bearish due to price declines across key assets. The combination of market sell-off and regulatory/structural developments suggests caution."
+    }
+  ]
+}

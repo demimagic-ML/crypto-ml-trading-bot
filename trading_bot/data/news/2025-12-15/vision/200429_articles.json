@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-15T20:04:29.681461",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Plunges Below $87K as Crypto Weakness Worsens",
+        "BNB falls below key support as crypto market cap slips toward $3 trillion",
+        "Bitcoin Hashrate Sees Sharpest Post Halving Drop Since 2024 Amid China Machine Shutdowns"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.9,
+      "events": [
+        "China mining shutdowns leading to sharp drop in Bitcoin hashrate",
+        "BNB price dropping below key technical support level",
+        "Crypto market cap declining toward $3 trillion"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Multiple breaking bearish signals are emerging: Bitcoin price drops below $87K, BNB breaks key support, and Chinese mining shutdowns reduce network security. These developments suggest a broad market downturn with potential for further sell-off. Institutional concern over hash rate decline and macro weakness could amplify volatility."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Digital asset ETPs post third straight week of net inflows, led by US demand",
+        "Trump-backed American Bitcoin flips ProCap in corporate BTC treasury race",
+        "How Bitcoin whales move markets, and the signals to ignore"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "ETF inflows continuing for third consecutive week (institutional adoption)",
+        "Corporate BTC treasury move by Trump-backed American Bitcoin (institutional adoption)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "The latest news highlights strong institutional interest in Bitcoin through ETF inflows and corporate treasury adoption. The continuation of net inflows into digital asset ETPs and a new corporate BTC treasury initiative suggest growing mainstream acceptance. These developments are bullish for Bitcoin’s price momentum, with high urgency due to recent timing."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin, Ethereum and XRP Fall to Lowest Prices in a Week as Liquidations Surge",
+        "JPMorgan Introduces Ethereum-Based MONY Fund",
+        "SEC and OCC Actions Signal Regulation of Tokenized Assets May Be Coming"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "JPMorgan launches Ethereum-based MONY fund (institutional adoption)",
+        "SEC and OCC regulatory actions on tokenized assets (regulatory risk)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The market is experiencing a bearish correction with Bitcoin, Ethereum, and XRP hitting weekly lows amid rising liquidations. While JPMorgan's new Ethereum fund signals institutional interest, regulatory actions from the SEC and OCC introduce downside risks. The combination of price drops and regulatory uncertainty suggests caution, with potential for further sell-off."
+    }
+  ]
+}

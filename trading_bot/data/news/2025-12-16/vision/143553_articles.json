@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-16T14:35:53.061274",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slump deepens as most of top 100 tokens fall below key trading signals",
+        "U.S. bitcoin, ether ETFs see largest outflows since Nov. 20 as BTC declines",
+        "Crypto bank Custodia files petition for a rehearing by all appellate judges"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.75,
+      "confidence": 0.9,
+      "events": [
+        "ETF outflows (BTC and ETH) hit largest since November 2023",
+        "Regulatory development: Custodia appeals decision in Wyoming crypto banking case",
+        "Market sentiment shift: Bitcoin and top tokens breaking key technical levels"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The market is showing bearish momentum with significant ETF outflows, a deepening Bitcoin slump across key technical indicators, and regulatory uncertainty from Custodia's appeal. These developments suggest institutional concern and weakening demand, increasing downside risk."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Custodia renews bid for Fed master account in rehearing push at Tenth Circuit",
+        "Spain's regulator sets out MICA transition rules for crypto platforms",
+        "UK regulator consults on crypto rules for exchanges, lending and DeFi"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory developments in Spain (MICA transition rules)",
+        "UK consultation on crypto regulations for exchanges, lending, and DeFi",
+        "Custodia's ongoing legal effort to gain a Fed master account"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent news highlights regulatory developments across multiple jurisdictions, including Spain's implementation of MICA and the UK's consultation on crypto rules. Custodia's continued legal push for a Fed master account signals institutional interest in banking access for crypto firms. While not directly Bitcoin-focused, these regulatory moves are significant for market structure and could influence broader sentiment. No major ETF approvals, hacks, or adoption milestones reported."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Sinks Towards $85,000 as Ethereum, XRP Fall Alongside",
+        "President Trump Says He Will Consider Pardoning Samourai Wallet Developer",
+        "PayPal Seeks Utah-Chartered Industrial Bank Status"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.75,
+      "events": [
+        "Bitcoin price drop toward $85,000",
+        "PayPal's potential bank charter application for crypto services",
+        "Trump's potential pardon of a crypto developer (institutional adoption signal)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The market is showing bearish pressure with Bitcoin nearing $85,000 and altcoins like Ethereum and XRP falling. However, there are positive institutional signals from PayPal's bank charter pursuit and political developments involving crypto developers. Despite some bullish catalysts, the dominant trend is downward price movement, suggesting caution. The breaking nature of the price decline and macro sentiment suggest a short-term sell opportunity."
+    }
+  ]
+}

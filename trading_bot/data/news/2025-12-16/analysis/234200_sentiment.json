@@ -1,0 +1,25 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": 0.19999999999999998,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 19,
+  "headlines": [
+    "Bitcoin treasury Kindly MD faces potential delisting after Nasdaq price notice",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC"
+  ],
+  "events": [
+    "U.S. FDIC proposes first U.S. stablecoin rule (regulatory development)",
+    "Potential delisting of Bitcoin treasury Kindly MD from Nasdaq due to price notice",
+    "Bitcoin derivatives suggest potential breakout to $85K–$100K (market expectation)",
+    "RedotPay secures $107M funding for stablecoin infrastructure",
+    "Bitwise's prediction on Bitcoin cycle ending in 2026 (market timing signal)",
+    "South Korea providing debt relief to crypto firms (regulatory support)",
+    "US senator raises concerns about DeFi market structure and PancakeSwap",
+    "Bitcoin and Ethereum ETFs moving closer to approval (institutional adoption)"
+  ],
+  "timestamp": "2025-12-16T23:42:00.065345"
+}

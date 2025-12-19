@@ -1,0 +1,25 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": -0.16666666666666666,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 22,
+  "headlines": [
+    "MetaMask adds Bitcoin support after teasing it 10 months ago",
+    "Crypto urges SEC to see the good in blockchain privacy tools",
+    "US crypto market structure legislation to advance in early 2026",
+    "Bitcoin to hit new all-time high within 6 months: Grayscale",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
+  ],
+  "events": [
+    "SEC regulatory discussion on blockchain privacy tools (regulatory)",
+    "MetaMask adds Bitcoin support (adoption)",
+    "Bitcoin and Ethereum ETFs facing performance pressure",
+    "Bitcoin price retreat to $85,000",
+    "President Trump's influence on crypto market dynamics in 2025",
+    "Institutional interest in Dogecoin below $0.13",
+    "Grayscale addressing quantum computing risks to Bitcoin",
+    "ARK Investment firm adding to Coinbase, Bullish, Circle, and crypto miners amid selloff"
+  ],
+  "timestamp": "2025-12-16T07:31:31.997149"
+}

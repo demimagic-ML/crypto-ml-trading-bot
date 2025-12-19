@@ -1,0 +1,70 @@
+{
+  "fetch_time": "2025-12-16T15:25:17.867555",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slump deepens as most of top 100 tokens fall below key trading signals",
+        "Brace for volatility as U.S. jobs data loom: Crypto Daybook Americas",
+        "Visa brings Circle's USDC settlement to U.S. banks following $3.5 billion stablecoin pilot"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "U.S. jobs data looming (potential macro impact)",
+        "Visa and Circle's USDC settlement with U.S. banks (institutional adoption)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin and major cryptocurrencies are experiencing a broad downturn, with key support levels breached. The market is facing macro headwinds from upcoming U.S. jobs data, which could trigger further volatility. However, institutional progress continues with Visa’s integration of USDC, signaling long-term adoption. Immediate sentiment is bearish due to technical breakdowns and negative momentum."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Solana under 'industrial scale' DDoS attack: Co-founder says it's 'bullish'",
+        "Crypto exchange turns 2025 into a year of innovation milestones",
+        "Custodia renews bid for Fed master account in rehearing push at Tenth Circuit"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.7,
+      "events": [
+        "Solana DDoS attack (potential network resilience test)",
+        "Custodia's legal bid for Fed master account (regulatory development)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent headlines include a major DDoS attack on Solana, which the co-founder frames as bullish due to network resilience, signaling potential strength in infrastructure. A crypto exchange highlights innovation in 2025, indicating positive momentum in product development. Custodia’s renewed legal effort for a Fed master account reflects ongoing regulatory challenges in institutional adoption. While no ETF approvals or major hacks are reported, the regulatory and security themes suggest moderate market impact with mixed implications."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's New Entrants Face the Bite as Whales Retreat",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin",
+        "Why President Trump Says He Will Be Pardoning Samourai Wallet CEO"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "Institutional interest in Bitcoin via Grayscale's commentary on quantum threats",
+        "Potential regulatory signal from Trump's mention of pardoning a crypto wallet CEO"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed signals: institutional players like Grayscale are addressing long-term risks (quantum computing), while political figures hint at potential regulatory leniency toward crypto firms. No major breaking events such as ETF approvals, hacks, or large-scale adoption announcements are present. Sentiment remains neutral with no clear bullish or bearish catalysts."
+    }
+  ]
+}

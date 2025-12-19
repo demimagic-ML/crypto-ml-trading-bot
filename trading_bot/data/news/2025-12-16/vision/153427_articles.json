@@ -1,0 +1,70 @@
+{
+  "fetch_time": "2025-12-16T15:34:27.414812",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slump deepens as most of top 100 tokens fall below key trading signals",
+        "Brace for volatility as U.S. jobs data loom: Crypto Daybook Americas",
+        "Visa brings Circle's USDC settlement to U.S. banks following $3.5 billion stablecoin pilot"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Visa and Circle launch USDC settlement with U.S. banks (institutional adoption)",
+        "U.S. jobs data looming (macroeconomic event affecting market volatility)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin and major cryptocurrencies are experiencing a significant downturn, with many top tokens falling below key technical levels. Market sentiment is bearish due to macro concerns around U.S. jobs data and broader market weakness. However, a notable institutional development includes Visa’s expansion of USDC settlements, which may provide long-term support. Despite this, the immediate trend is downward, warranting caution or selling pressure."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Solana under 'industrial scale' DDoS attack: Co-founder says it's 'bullish'",
+        "Crypto exchange turns 2025 into a year of innovation milestones",
+        "Custodia renews bid for Fed master account in rehearing push at Tenth Circuit"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.7,
+      "events": [
+        "Solana DDoS attack (security/adoption test)",
+        "Custodia's renewed legal bid for Fed master account (regulatory/institutional)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The top headlines highlight a major DDoS attack on Solana viewed positively by its co-founder, suggesting resilience and potential bullish sentiment; a crypto exchange outlining innovation for 2025 indicating market optimism; and Custodia's ongoing regulatory effort to gain access to the U.S. banking system. While not directly Bitcoin-focused, these developments reflect broader market dynamics involving security, innovation, and institutional adoption. The sentiment is mixed but leans neutral, with no clear regulatory or ETF announcements driving strong directional bias."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's New Entrants Face the Bite as Whales Retreat",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin",
+        "Why President Trump Says He Will Be Pardoning Samourai Wallet CEO"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "Institutional concern over quantum computing threat to Bitcoin (Grayscale commentary)",
+        "Potential regulatory shift hinted by presidential pardon mention for crypto wallet CEO"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The top headlines reflect mixed signals: concerns about market structure (whale retreat), institutional reassurance on technological threats (quantum computing), and political developments involving a crypto executive. No major breaking events such as ETF approvals, hacks, or regulations are reported. Sentiment is neutral with no clear bullish or bearish momentum."
+    }
+  ]
+}

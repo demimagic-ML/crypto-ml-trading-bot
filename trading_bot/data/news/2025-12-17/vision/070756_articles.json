@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-17T07:07:56.663940",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's massive underperformance to stocks in Q4 bodes well for January, says K33's Lunde",
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says",
+        "Eric Trump’s American Bitcoin jumps to 20th among public BTC treasury companies"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from CENATUS Act",
+        "U.S. Senate's Warren asks for Trump-tied crypto probe as market structure bill drags",
+        "Crypto exchange HashKey's shares fall 5% on trading debut in Hong Kong"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The current news cycle shows mixed signals: Bitcoin has underperformed equities in Q4, which some analysts interpret as a bullish setup for January. However, there are no major breaking developments like ETF approvals or regulatory rulings. Market sentiment remains cautious with modest institutional and regulatory activity. The price action is recovering from recent lows, but downside risks remain near $80,000. No urgent catalysts present, suggesting a wait-and-see approach."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "SAFE Crypto Act will have scammers shaking in their boots: Crypto lawyer",
+        "Exodus, MoonPay to roll out stablecoin in early 2026, joining gold rush",
+        "US government 'tech force' gets backup from Coinbase, Robinhood"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory push with SAFE Crypto Act targeting crypto scams",
+        "Institutional adoption: Coinbase and Robinhood backing US government tech initiative",
+        "Stablecoin expansion by Exodus and MoonPay expected in 2026"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The latest news highlights regulatory progress with the SAFE Crypto Act, institutional support for a U.S. crypto tech task force, and upcoming stablecoin developments. These indicate growing legitimacy and adoption, supporting bullish sentiment. The regulatory clarity and institutional involvement are high-impact catalysts that could drive market momentum."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Former Theta Executives Accuse Crypto Firm's CEO of Fraud. Retaliation",
+        "Actors, Creators Launch Coalition to Push AI Rules Amid Ongoing Concerns",
+        "FDIC Opens Public Comment Period for Rule Proposal on Handling Stablecoin Issuer Applications"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "Regulatory development: FDIC proposes rule for stablecoin issuer applications",
+        "Institutional/industry action: Actors and creators form coalition to push AI regulations",
+        "Legal/fraud allegations: Former Theta executives accuse CEO of fraud"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights regulatory developments around stablecoins from the FDIC, legal issues within a crypto firm (Theta), and a new coalition formed by creators pushing for AI regulation. While there is no direct Bitcoin or ETF-related breaking news, regulatory actions and institutional moves suggest ongoing scrutiny in the crypto space. The sentiment remains neutral as the headlines reflect mixed developments—some risk-oriented (fraud allegations) and others governance-focused (regulation). No immediate bullish or bearish catalysts are evident."
+    }
+  ]
+}

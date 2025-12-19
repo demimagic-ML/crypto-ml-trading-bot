@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-15T22:00:58.510177",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "U.S. SEC chief warns watchdogs need to be limited in tapping crypto's power to snoop",
+        "CME Group Expands Crypto Derivatives With Spot-Quoted XRP and Solana Futures",
+        "Strategy’s STRD credit spread has tightened over past month even as bitcoin struggles"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "CME launches spot-quoted futures for XRP and Solana (institutional adoption)",
+        "SEC chief comments on regulatory oversight of crypto (regulatory development)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Recent developments include the expansion of crypto derivatives by CME, which is a bullish signal for institutional adoption, while regulatory commentary from the SEC introduces uncertainty. The tightening of STRD credit spreads suggests market stress despite Bitcoin’s struggles. While not overtly bearish or bullish, the mix of regulatory caution and new product launches creates a neutral-to-cautious environment with high volatility potential."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin parabola breakdown raises chance for 80% correction: Veteran trader",
+        "Price predictions 12/15: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH",
+        "Bitget tests TradFi trading with forex, gold and stock derivatives using USDT"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Bitget launches TradFi-style trading with USDT-based derivatives (adoption)",
+        "Bitcoin market potentially entering a parabolic correction phase (market structure)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Breaking news highlights a potential 80% Bitcoin correction warning from a veteran trader, signaling bearish sentiment. Additionally, Bitget's expansion into TradFi-like trading with USDT suggests growing institutional adoption. However, the dominant theme is risk aversion due to market overextension, making it prudent to reduce exposure."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Ethereum Treasury Firm BitMine Boosts ETH Stash Above $12 Billion With Latest Buy",
+        "JPMorgan Introduces Ethereum ETF to MONY Fund",
+        "Do Kwon Could Be Tried Again in Korea Over Terra Crypto Fraud"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Institutional adoption: JPMorgan introduces Ethereum ETF into MONY Fund",
+        "Bitcoin accumulation: BitMine increases ETH holdings above $12 billion",
+        "Regulatory development: Do Kwon faces potential retrial over Terra fraud"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights strong institutional interest in crypto with JPMorgan launching an Ethereum ETF and a major ETH accumulation by BitMine. These developments suggest growing institutional adoption, which is bullish for the market. Regulatory scrutiny on Terra’s founder adds risk, but the dominant trend is positive momentum from large players."
+    }
+  ]
+}

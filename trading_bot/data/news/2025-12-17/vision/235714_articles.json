@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-17T23:57:14.621848",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Traders mull the bottom as bitcoin returns to week's lows below $86,000",
+        "Digital Wealth Partners introduces algorithmic XRP trading for qualified retirement accounts",
+        "California's Newsom pokes Trump, flagging convicted crypto allies CZ, Ross Ulbricht"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.35,
+      "confidence": 0.85,
+      "events": [
+        "Institutional adoption of XRP in retirement accounts by Digital Wealth Partners",
+        "Regulatory and political tensions highlighted by California Governor Newsom's criticism of crypto figures"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Bitcoin is testing support near $86,000 with traders assessing a potential bottom, while institutional adoption of XRP in retirement accounts signals growing legitimacy. However, political scrutiny over key crypto figures may weigh on sentiment. The market remains cautious amid mixed signals."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin $70K flush would reset cycle, not confirm new bear market: Analyst",
+        "Jito Foundation to return to US amid 'clearer rules' for digital assets",
+        "Acting CFTC chair to join MoonPay after leaving agency"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory clarity emerging in the US for digital assets (Jito Foundation returning)",
+        "Institutional move: Former CFTC chair joining MoonPay",
+        "Bitcoin price speculation reaching $70K as a potential cycle reset"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news indicates growing regulatory clarity and institutional interest in crypto, with Bitcoin nearing a potential $70K inflection point. The Jito Foundation's return to the US signals improved compliance conditions, while the former CFTC chair’s move to MoonPay reflects strong institutional adoption. These developments suggest bullish momentum despite mixed signals on market direction."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $7 Billion AI Deal With Google Backing",
+        "Santa Rally Hopes Fade as Bitcoin Jumps to $90K, Then Falls Even Harder",
+        "DTCC to Issue Tokenized Securities on Canton Network, Starting With US Treasuries"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.8,
+      "events": [
+        "DTCC issuing tokenized securities on Canton Network (institutional adoption)",
+        "Hut 8 signing $7B AI deal with Google (institutional crypto mining partnership)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights institutional moves in crypto, including DTCC's tokenization of U.S. Treasuries and Hut 8’s major AI-backed mining deal. Despite a brief rally to $90K, Bitcoin has since pulled back, indicating market volatility. These developments signal growing institutional adoption but are offset by short-term bearish price action."
+    }
+  ]
+}

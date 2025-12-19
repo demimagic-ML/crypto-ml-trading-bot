@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-16T19:46:53.183181",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "BNB tops $870, outperforming crypto majors as volume surges",
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says",
+        "Eric Trump’s American Bitcoin jumps to 20th among public BTC treasury companies"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENITUS Act",
+        "Polkadot advances with USDC integration via USD1 partnership",
+        "Marshall Islands launches world’s first blockchain-based UBI on Stellar blockchain"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is recovering from recent lows amid rising institutional interest and regulatory developments. BNB is outperforming major cryptos with strong volume, while new adoption milestones (e.g., UBI, USDC integration) and potential regulatory clarity are boosting sentiment. The FDIC’s stablecoin proposal and Eric Trump’s BTC treasury move signal growing institutional engagement, supporting a bullish bias."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "UK crypto ownership dropped to 8% in 2025: YouGov poll",
+        "How scammers target crypto users during the holidays and how to stay protected",
+        "Solana enters Brazil's main exchange as Valour expands regulated crypto access"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.7,
+      "events": [
+        "Solana adoption in Brazil via Valour exchange listing",
+        "Decline in UK crypto ownership per YouGov poll",
+        "Holiday season crypto scam warnings"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent news highlights mixed signals: Solana gains institutional traction in Brazil, signaling positive adoption, while UK crypto ownership declines, indicating cooling retail interest. Security warnings around holiday scams suggest ongoing risks but no immediate market-moving threats. No major regulatory or ETF developments are reported. Overall sentiment is neutral with moderate impact due to regional adoption and behavioral trends."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "RedotPay Secures $107 Million to Power Stablecoin Payments",
+        "Circle's Acquisition of Interop Labs Without Including the AXL Token Has Upset Axelar Investors",
+        "Bitcoin's New Entrants Face Whales Retreat"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.7,
+      "events": [
+        "RedotPay raising $107M for stablecoin infrastructure (institutional adoption)",
+        "Circle acquires Interop Labs, excluding AXL token (potential market disruption)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent headlines highlight institutional developments in stablecoin infrastructure and DeFi ecosystem shifts, with mixed implications. RedotPay’s funding signals growing adoption, while Circle’s acquisition may affect Axelar’s ecosystem. No major regulatory or ETF announcements are present, but sentiment remains cautious due to whale activity concerns."
+    }
+  ]
+}

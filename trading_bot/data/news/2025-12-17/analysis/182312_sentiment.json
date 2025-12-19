@@ -1,0 +1,26 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.25,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 20,
+  "headlines": [
+    "Bitcoin tags $90K as crypto market spike liquidates $120M shorts",
+    "Did Bitcoin's 4-year cycle break, and is the bull market really over?",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Regulatory consultation on crypto rules by UK regulator",
+    "Federal Reserve's $40 billion bill buy potentially impacting crypto market liquidity",
+    "Bitcoin price drop below $88,000 after brief rally",
+    "Bitcoin price surge to $90K triggering liquidations",
+    "Institutional interest: Robinhood vs Coinbase positioning in crypto markets",
+    "FDIC proposes rule for stablecoin issuer applications (regulatory development)",
+    "Hut 8 secures a $7 billion AI deal with Google, driving stock surge (institutional adoption)",
+    "KindlyMD faces Nasdaq delisting risk due to falling stock price (potential negative market signal)",
+    "YouTube testing stablecoin payouts for creators (adoption)"
+  ],
+  "timestamp": "2025-12-17T18:23:12.187606"
+}

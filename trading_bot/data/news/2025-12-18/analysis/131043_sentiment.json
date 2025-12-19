@@ -1,0 +1,26 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.5833333333333334,
+  "confidence": 0.6,
+  "trading_suggestion": "STRONG_BUY",
+  "news_count": 19,
+  "headlines": [
+    "Spot Bitcoin ETFs record $450M inflows in ‘early positioning’ push",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
+  ],
+  "events": [
+    "Corporate partnership: Hut 8's $750M deal with Google for Bitcoin mining infrastructure",
+    "Institutional adoption: DTCC launching tokenized securities on Canton Network (US Treasuries)",
+    "ARK Invest makes significant new investment in crypto-related stocks despite market downturn",
+    "Institutional adoption via Coinbase expanding mobile payment integration in Poland",
+    "Market analysis warning of bearish potential for XRP",
+    "Regulatory shift: Caroline Pham (CFTC) joining MoonPay, signaling potential regulatory alignment with crypto",
+    "Bitcoin ETF inflows surge, signaling strong institutional interest",
+    "JPMorgan advances tokenized dollar infrastructure, indicating growing institutional adoption",
+    "Regulatory scrutiny on tokenized securities by the SEC"
+  ],
+  "timestamp": "2025-12-18T13:10:43.877041"
+}

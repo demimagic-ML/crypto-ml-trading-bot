@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-17T13:14:59.980548",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slides with ether and XRP as market tests $3 trillion floor",
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+        "Memecoin boom turns into capitulation one year after $150 billion market peak"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.42,
+      "confidence": 0.85,
+      "events": [
+        "U.S. FDIC proposes first U.S. stablecoin regulation under GENIUS Act",
+        "Bitcoin price near key support level, testing $3 trillion market cap",
+        "Memecoin market collapses after $150B peak, signaling broader risk-off sentiment"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is testing critical support levels amid a broader market downturn, with memecoins collapsing and regulatory news emerging on stablecoins. The FDIC's proposed stablecoin rules signal potential regulatory tightening, which could impact market sentiment. Combined with negative BTC price action and declining volume, this suggests a bearish trend. Regulatory developments and institutional moves are high-impact, but current data shows risk-off behavior."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin institutional buys flip new supply for the first time in 6 weeks",
+        "KuCoin taps Tomorrowland festivals as MiCA-era on-ramp for European fans",
+        "Polymarket shows stronger retention than most DeFi, wallets and exchanges"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Institutional Bitcoin buying activity resumes after a 6-week pause",
+        "Regulatory development (MiCA era) influencing crypto adoption via KuCoin's partnership with Tomorrowland",
+        "DeFi platform Polymarket showing strong user retention, indicating growing trust in decentralized markets"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "The latest news indicates renewed institutional interest in Bitcoin, regulatory-driven adoption in Europe, and strong engagement in DeFi platforms. These developments suggest bullish momentum across multiple fronts—especially institutional inflows and regulatory clarity—which could trigger upward price movements. The breaking nature of institutional buy signals makes this high-impact news."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin in Focus as Stock and Options Contracts Expire on Friday",
+        "Bhutan Pledges 10,000 Bitcoin Worth $1B to Fund Mindfulness City",
+        "Visa Expands Stablecoin Pilot with US Settlements via Solana"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin options and futures expiration (potential volatility event)",
+        "Bhutan's institutional-level BTC allocation for a national project",
+        "Visa's expansion of stablecoin pilot using Solana (adoption signal)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "The top crypto news highlights key bullish catalysts: Bitcoin options expiry creating potential volatility, Bhutan's large-scale BTC commitment signaling institutional adoption, and Visa expanding its stablecoin pilot on Solana—indicating growing mainstream integration. These developments collectively suggest strong market momentum and institutional interest, supporting a bullish outlook."
+    }
+  ]
+}

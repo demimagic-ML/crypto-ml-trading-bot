@@ -1,0 +1,38 @@
+{
+  "features": [
+    "rsi",
+    "macd",
+    "macd_signal",
+    "macd_hist",
+    "bb_width",
+    "bb_position",
+    "atr_pct",
+    "volume_ratio",
+    "mom_1h",
+    "mom_4h",
+    "mom_1d",
+    "stoch_k",
+    "stoch_d",
+    "ema_cross",
+    "trend_bias",
+    "volatility",
+    "body_size",
+    "upper_wick",
+    "lower_wick"
+  ],
+  "strategy": {
+    "trend_filter": "price > SMA200",
+    "confidence_threshold": 0.7,
+    "take_profit": 0.025,
+    "stop_loss": 0.012,
+    "hold_bars": 12,
+    "cooldown_bars": 6,
+    "position_size": 0.5
+  },
+  "backtest": {
+    "period": "bearish -14.6%",
+    "alpha": 6.9,
+    "trades": 131,
+    "win_rate": 47
+  }
+}

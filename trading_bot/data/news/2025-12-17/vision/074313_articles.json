@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-17T07:43:13.662966",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's massive underperformance to stocks in Q4 bodes well for January, says K33's Lunde",
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says",
+        "Eric Trump’s American Bitcoin jumps to 20th among public BTC treasury companies"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin price recovery after recent lows with potential for further downside below $80,000",
+        "Institutional interest signaled by Eric Trump’s American Bitcoin gaining traction in public BTC treasury rankings"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Bitcoin showed a bounce from recent lows but faces resistance near $80,000. Analysts suggest a potential pullback despite short-term recovery. Institutional activity is noted through the rise of American Bitcoin in treasury rankings. No major regulatory or ETF developments are reported, and sentiment remains cautious. The market appears to be consolidating post-correction."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Lightning Network hits record capacity on crypto exchange adoption",
+        "SAFE Crypto Act will have scammers shaking in their boots: Crypto lawyer",
+        "Exodus, MoonPay to roll out stablecoin in early 2026, joining gold rush"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory development: UK regulator consults on crypto rules for exchanges, lending and DeFi",
+        "Adoption: Exodus and MoonPay planning stablecoin launch in early 2026",
+        "Security: Web3 Antivirus detects $563k DeFi loss due to phishing attack"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights growing institutional interest in crypto adoption (MoonPay/Exodus stablecoin), regulatory developments in the UK, and security concerns from phishing attacks. The Lightning Network’s capacity growth signals infrastructure expansion, while new regulatory consultations suggest potential policy shifts. These developments collectively point to bullish momentum, especially with upcoming stablecoin launches and regulatory clarity."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Trump 'Open' to Democrats at SEC, CFTC in Possible Boon to Crypto Market Structure Bill",
+        "Social Media Influencers in Hong Kong Face Charges for Promoting JPEX Amid $206 Million in Losses",
+        "FDIC Opens Public Comment Period for Rule Proposal on Handling Stablecoin Issuer Applications"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "Regulatory development: FDIC proposes rule on stablecoin issuer applications",
+        "Political development: Trump's openness to crypto-friendly regulators at SEC/CFTC",
+        "Legal/Compliance risk: Social media influencers charged in Hong Kong over JPEX promotion"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed regulatory and political developments in the crypto space. A potential boost to market structure from political support contrasts with enforcement actions in Hong Kong and new U.S. regulatory scrutiny on stablecoins. No immediate catalysts for strong price movement, but institutional attention to regulation remains high."
+    }
+  ]
+}

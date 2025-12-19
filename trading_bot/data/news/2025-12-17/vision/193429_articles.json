@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-17T19:34:29.964541",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Polkadot's DOT drops 3% to $1.83 as crypto markets reverse lower",
+        "BNB drops nearly 3% as bitcoin whipsaw and tech selloff hit crypto market",
+        "Crypto industry insiders meet with key senators on market structure bill negotiation"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Regulatory meeting between crypto industry insiders and U.S. senators on market structure bill",
+        "Bitcoin price volatility and pullback below $88,000 amid broader market weakness"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The crypto market is experiencing a bearish reversal driven by sharp Bitcoin volatility and a broader tech selloff, with Polkadot and BNB both down over 3%. A regulatory development involving key senators adds uncertainty, while institutional sentiment appears cautious. This combination of market-wide weakness and regulatory risk suggests a high-impact bearish environment."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin tags $90K as crypto market spike liquidates $120M shorts",
+        "Kyrgyzstan's USDKG shows how real-asset stablecoins are evolving in emerging markets",
+        "How YouTube's stablecoin payouts could change creator monetization"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin price surge to $90K triggering short squeezes",
+        "YouTube testing stablecoin payouts for creators (adoption)",
+        "Real-asset stablecoin development in Kyrgyzstan (emerging market adoption)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Bitcoin has surged toward $90K, causing a significant short squeeze and indicating strong bullish momentum. This breaking news is reinforced by positive developments in stablecoin innovation and institutional adoption signals, such as YouTube’s pilot program. Regulatory and macro concerns are absent, with the market showing clear upward momentum. Traders should consider entering long positions quickly."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Decrypto's 2025 Story of the Year: Crypto Treasury Firms Flood Wall Street",
+        "DTCC Handles $3.7 Quadrillion in Transactions a Year—Now Processing Crypto",
+        "Traders Are Monitoring Quartz for Bitcoin 'Witching Friday' for Volatility"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Institutional adoption of crypto through treasury firms flooding Wall Street",
+        "DTCC (Depository Trust & Clearing Corporation) processing crypto, signaling major infrastructure adoption",
+        "Potential regulatory or market volatility event around Bitcoin 'Witching Friday'"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "The news highlights significant institutional interest and adoption of crypto, with Wall Street treasury firms entering the space and DTCC preparing to process crypto transactions. This signals strong bullish momentum and potential for market expansion. Additionally, traders are watching for volatility around Bitcoin's 'Witching Friday', which could trigger short-term price movements. The combination of institutional moves and macro-level adoption suggests a high-impact environment favoring long positions."
+    }
+  ]
+}

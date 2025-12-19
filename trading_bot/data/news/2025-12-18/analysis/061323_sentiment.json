@@ -1,0 +1,23 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": 0.2,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 19,
+  "headlines": [
+    "Bitcoin’s volatility below Nvidia in 2025 as investor base grew: Bitwise",
+    "US Fed pulls guidance blocking its banks from engaging with crypto",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Institutional move: Bitcoin miner Hut 8 signs $7 billion AI deal with Google backing",
+    "Adoption concern: Central African Republic’s crypto initiatives criticized for favoring foreign investors",
+    "Institutional analysis of Bitcoin's growing investor base and reduced volatility",
+    "US Federal Reserve updates guidance on bank engagement with crypto (regulatory)",
+    "Regulatory development: Siberia extends indefinite ban on Bitcoin mining due to power grid concerns",
+    "Potential ETF-related liquidation risks for crypto ETPs (adoption/regulation)"
+  ],
+  "timestamp": "2025-12-18T06:13:23.075826"
+}

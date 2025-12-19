@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-18T15:45:07.540403",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "U.S. inflation data surprises, with CPI higher by just 2.7% in November",
+        "Crypto Market Today: Bitcoin-gold ratio drops to lowest since January 2024",
+        "North Korean hackers stole a record $2 billion of crypto in 2025, Chainalysis says"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "CPI inflation data came in at 2.7%, slightly below expectations and supporting dovish Fed sentiment",
+        "Bitcoin-gold ratio hit a multi-year low, indicating strong relative performance of BTC",
+        "Record $2 billion crypto theft by North Korean hackers highlights security risks but also market size and activity"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Breaking news shows U.S. CPI at 2.7%, which is mildly bullish for risk assets like Bitcoin. The Bitcoin-gold ratio reaching a new low suggests institutional and macro interest in BTC. A major hack by North Korean actors underscores ongoing threats but also reflects high-value targets in the crypto space. Overall, inflation data and relative strength metrics support a bullish bias, while security concerns remain."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Attacker takes over multisig minutes after creation, drains up to $40M slowly",
+        "US Fed pulls guidance blocking its banks from engaging with crypto",
+        "Former SEC counsel explains what it takes to make RWAs compliant"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "Regulatory development: US Fed updates guidance on bank involvement with crypto",
+        "Security breach: Multisig wallet compromised and drained of up to $40M",
+        "RWA (Real-World Assets) compliance discussion by former SEC counsel"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "The top news includes a major security incident involving a $40M drain from a newly created multisig wallet, signaling ongoing risks in smart contract and wallet security. Regulatory developments from the US Fed suggest potential easing of restrictions on banks engaging with crypto, which could be bullish for adoption. However, the former SEC counsel's commentary on RWA compliance highlights regulatory hurdles. The mixed signals—security risk vs. regulatory progress—create a neutral-to-slightly-bearish sentiment. The $40M hack is breaking and high-impact, while the Fed update may drive longer-term institutional interest."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $75M Deal With Google Backing",
+        "DTCC to Issue Tokenized Securities on Canton Network, Starting With US Treasuries",
+        "Caroline Pham Leaves CFTC to Join Crypto Company MoonPay"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "Institutional adoption: DTCC issuing tokenized securities on a blockchain network (Canton)",
+        "Regulatory movement: CFTC official joining crypto firm MoonPay, signaling regulatory engagement",
+        "Corporate partnership: Bitcoin miner Hut 8 partnering with Google-backed entity"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights growing institutional adoption in crypto through DTCC's tokenization initiative and corporate partnerships like Hut 8's deal with Google-backed entities. Regulatory figures moving into the industry (e.g., Caroline Pham joining MoonPay) suggest increasing legitimacy. These developments support bullish sentiment, especially for infrastructure and regulated crypto assets."
+    }
+  ]
+}

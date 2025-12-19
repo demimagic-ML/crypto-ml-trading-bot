@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-17T08:17:52.510758",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slides with ether and XRP as market tests $3 trillion floor",
+        "Grayscale outlines top crypto investing themes for 2026 as institutional adoption grows",
+        "Why XRP’s drop below $1.93 shits short-term market structure"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "Grayscale outlines 2026 institutional adoption themes",
+        "U.S. FDIC proposes first U.S. stablecoin rule",
+        "Senator Warren calls for crypto probe bill to drag on market structure"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin and major cryptos are under pressure as the market approaches a $3 trillion valuation, with mixed signals from regulatory developments and institutional outlooks. Grayscale's 2026 institutional adoption themes suggest long-term bullishness, but near-term bearish momentum is driven by macro weakness and regulatory scrutiny. The FDIC's proposed stablecoin rule and Senator Warren's crypto probe bill add uncertainty. While some institutional interest remains, current price action suggests caution."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Saylor's Bitcoin stash will be very hard for anyone to match: Pompl",
+        "Lightning Network hits record capacity on crypto exchange adoption",
+        "Bhutan pledges 10K Bitcoin to develop its 'mindfulness city'"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory consultation by UK regulator on crypto rules for exchanges, lending and DeFi",
+        "Crypto urges SEC to see the good in blockchain privacy tools",
+        "Institutional adoption signaled by Bhutan's pledge of 10K BTC"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights growing institutional interest in Bitcoin (e.g., Bhutan's BTC pledge), regulatory developments from the UK and SEC, and technical progress in Lightning Network adoption. These signals suggest bullish momentum, particularly around BTC's utility and institutional acceptance, with potential for market moves driven by regulatory clarity and macro adoption."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Former Theta Executives Accuse Crypto Firm's CEO of Fraud. Retaliation",
+        "Actors, Creators Launch Coalition to Push AI Rules Amid Ongoing Concerns",
+        "Visa Expands Stablecoin Pilot for US Settlements via Solana"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "Visa expands stablecoin pilot with Solana for US settlements (adoption)",
+        "Regulatory scrutiny on crypto firms (Theta executives fraud allegations)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news includes a mix of regulatory concerns (fraud allegations against a crypto firm), institutional adoption signals (Visa’s stablecoin pilot), and industry coalition efforts around AI governance. While Visa’s move is bullish for broader adoption, the fraud accusations introduce risk. No major ETF approvals or hacks reported. The overall sentiment is neutral due to mixed signals."
+    }
+  ]
+}

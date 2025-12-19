@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-18T20:05:08.993080",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin bulls foiled again as price tumbles back to $86,000, giving up CPI gains and more",
+        "ICP extends recovery to rise above $3; trading volume increases without spiking",
+        "Flood of new crypto ETFs expected in 2026, says Bitwise"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "Expected flood of new crypto ETFs in 2026 (institutional adoption)",
+        "U.S. SEC aids brokers on crypto custody with closer ATS activity scrutiny (regulatory development)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is under pressure after failing to sustain gains following inflation data, retreating to $86,000. While there is bullish sentiment around future ETF approvals in 2026, immediate market reaction is bearish due to weak macro data and regulatory scrutiny. The U.S. SEC's focus on crypto custody and ATS activity adds uncertainty. This is breaking news with high market impact, suggesting a short-term sell-off."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "ETH nears $3K after cool CPI print but $553M Ether ETF outflow raises alarm",
+        "MEV trading returns to court in Pump.fun class-action lawsuit",
+        "Apotos introduces post-quantum signatures before they're urgently needed"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "Ether ETF outflow of $553M",
+        "Class-action lawsuit involving MEV trading and Pump.fun",
+        "Introduction of post-quantum cryptographic signatures by Apotos"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent news highlights mixed signals: ETH is approaching $3K on favorable CPI data but faces headwinds from a significant ETF outflow, suggesting institutional caution. A legal development in MEV trading adds regulatory uncertainty, while Apotos' quantum-resistant tech points to long-term adoption trends. No major regulatory or adoption breakthroughs are present, keeping sentiment neutral."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Crypto Treasuries Attract $2.6 Billion in Institutional Capital, Led by Starbucks Bitcoin Buys",
+        "Over $2 Billion in Crypto Swiped by North Korean Hackers in 2025: Chainalysis",
+        "SoFi Set to Launch Stablecoin on Ethereum"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Institutional adoption of Bitcoin via corporate treasuries (Starbucks)",
+        "SoFi launching a stablecoin on Ethereum (institutional crypto expansion)",
+        "North Korean crypto hacks indicating ongoing security threats and potential regulatory scrutiny"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The latest news highlights strong institutional interest in Bitcoin through treasury allocations, particularly by major companies like Starbucks, which is bullish for long-term adoption. SoFi's stablecoin launch adds momentum to DeFi and institutional infrastructure. However, the North Korean hack report introduces risk, though it may be more of a catalyst for tighter regulation than immediate market sell-off. Overall, the sentiment is bullish due to adoption trends, with high urgency given the timing and scale of institutional moves."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": 0.09999999999999999,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 20,
+  "headlines": [
+    "Price predictions 12/15: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH",
+    "Bitcoin parabola breakdown raises chance for 80% correction: Veteran trader",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc."
+  ],
+  "events": [
+    "UK Supreme Court ruling limits crypto exchange liability",
+    "Aave governance controversy over CoW Swap fees",
+    "Crypto executive commentary on memecoins resurgence",
+    "Bitcoin/ETH accumulation: BitMine increases ETH holdings above $12 billion",
+    "BackRock expands crypto bet with 7 senior hires",
+    "Institutional adoption: JPMorgan introduces Ethereum ETF into MONY Fund",
+    "SEC regulatory warning on surveillance of crypto",
+    "Market price predictions for multiple assets including BTC and ETH",
+    "STRD credit spread narrows amid Bitcoin weakness",
+    "Regulatory/legal development: Do Kwon faces potential retrial over Terra collapse"
+  ],
+  "timestamp": "2025-12-15T22:17:33.060544"
+}

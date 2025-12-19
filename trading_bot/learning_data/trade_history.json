@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "trade_20251216_131543_1",
+    "timestamp": "2025-12-16T13:15:43.331440",
+    "status": "closed",
+    "entry": {
+      "price": 86950.91,
+      "side": "SHORT",
+      "signals": {
+        "ml_score": -0.0014553268176805084,
+        "ml_confidence": 0.85,
+        "news_score": 0,
+        "wisdom_score": -0.92,
+        "wisdom_master": "George Soros",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.6574914715746166
+      },
+      "market_state": {
+        "rsi": 81.42512437069959,
+        "bb_position": 0.9562478004130154,
+        "volume_ratio": 0.9194955962954687,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": 197.3609694641491,
+        "momentum_1h": 0.005764665792352686
+      }
+    },
+    "exit": {
+      "price": 85211.89,
+      "timestamp": "2025-12-16T14:45:00.000000"
+    },
+    "outcome": {
+      "pnl_percent": 2.0,
+      "won": true,
+      "grade": "A"
+    }
+  },
+  {
+    "id": "trade_20251216_133006_1",
+    "timestamp": "2025-12-16T13:30:06.169836",
+    "status": "closed",
+    "entry": {
+      "price": 87071.81,
+      "side": "SHORT",
+      "signals": {
+        "ml_score": 0.0006215556950012601,
+        "ml_confidence": 0.85,
+        "news_score": 0,
+        "wisdom_score": -0.87,
+        "wisdom_master": "George Soros",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.5982359500000001
+      },
+      "market_state": {
+        "rsi": 82.19854974050594,
+        "bb_position": 0.9695847187961146,
+        "volume_ratio": 0.6896982128974166,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": 223.5441259549698,
+        "momentum_1h": 0.007798674089984914
+      }
+    },
+    "exit": {
+      "price": 87768.53,
+      "timestamp": "2025-12-16T15:00:00.000000"
+    },
+    "outcome": {
+      "pnl_percent": -0.8,
+      "won": false,
+      "grade": "D"
+    }
+  },
+  {
+    "id": "trade_20251216_153443_1",
+    "timestamp": "2025-12-16T15:34:43.342436",
+    "status": "closed",
+    "entry": {
+      "price": 87262.0,
+      "side": "SHORT",
+      "signals": {
+        "ml_score": 0.00034815150279569694,
+        "ml_confidence": 0.85,
+        "news_score": 0,
+        "wisdom_score": -0.75,
+        "wisdom_master": "Ray Dalio",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.21106250000000001
+      },
+      "market_state": {
+        "rsi": 72.20740740740776,
+        "bb_position": 0.7267941221080544,
+        "volume_ratio": 2.251555793911243,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": 279.1638706172671,
+        "momentum_1h": 4.8477058260720796e-05
+      }
+    },
+    "exit": {
+      "price": 87523.62,
+      "timestamp": "2025-12-16T16:30:00.000000"
+    },
+    "outcome": {
+      "pnl_percent": -0.3,
+      "won": false,
+      "grade": "C"
+    }
+  },
+  {
+    "id": "trade_20251216_171702_1",
+    "timestamp": "2025-12-16T17:17:02.470025",
+    "status": "closed",
+    "entry": {
+      "price": 87265.17,
+      "side": "SHORT",
+      "signals": {
+        "ml_score": -0.0008931273376418577,
+        "ml_confidence": 0.85,
+        "news_score": 0,
+        "wisdom_score": 0.0,
+        "wisdom_master": "Paul Tudor Jones",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.14300000000000002
+      },
+      "market_state": {
+        "rsi": 50.266747473367936,
+        "bb_position": 0.6936550043215525,
+        "volume_ratio": 0.017441235422512313,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": 172.24334733115393,
+        "momentum_1h": 0.0037780353342062867
+      }
+    },
+    "exit": {
+      "price": 87962.0,
+      "timestamp": "2025-12-16T18:00:00.000000"
+    },
+    "outcome": {
+      "pnl_percent": -0.8,
+      "won": false,
+      "grade": "D"
+    }
+  },
+  {
+    "id": "trade_20251216_174013_1",
+    "timestamp": "2025-12-16T17:40:13.755657",
+    "status": "closed",
+    "entry": {
+      "price": 87101.41,
+      "side": "SHORT",
+      "signals": {
+        "ml_score": 0.0008192881666434533,
+        "ml_confidence": 0.85,
+        "news_score": 0,
+        "wisdom_score": 0.0,
+        "wisdom_master": "Paul Tudor Jones",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.14300000000000002
+      },
+      "market_state": {
+        "rsi": 47.150157967061574,
+        "bb_position": 0.5070095873592143,
+        "volume_ratio": 0.5042984044912976,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": 154.27050902110932,
+        "momentum_1h": -0.00010584242129807464
+      }
+    },
+    "exit": {
+      "price": 87798.0,
+      "timestamp": "2025-12-16T18:30:00.000000"
+    },
+    "outcome": {
+      "pnl_percent": -0.8,
+      "won": false,
+      "grade": "D"
+    }
+  },
+  {
+    "id": "trade_20251216_182236_1",
+    "timestamp": "2025-12-16T18:22:36.416755",
+    "status": "closed",
+    "entry": {
+      "price": 87725.06,
+      "side": "SHORT",
+      "signals": {
+        "ml_score": -0.0022225520906249117,
+        "ml_confidence": 0.85,
+        "news_score": 0,
+        "wisdom_score": 0.0,
+        "wisdom_master": "Jesse Livermore",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.32560164294530963
+      },
+      "market_state": {
+        "rsi": 58.284463061690836,
+        "bb_position": 0.8762531800552529,
+        "volume_ratio": 0.4618951034526805,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": 265.5632123710966,
+        "momentum_1h": 0.006476437682773284
+      }
+    },
+    "exit": {
+      "price": 88426.0,
+      "timestamp": "2025-12-16T19:00:00.000000"
+    },
+    "outcome": {
+      "pnl_percent": -0.8,
+      "won": false,
+      "grade": "D"
+    }
+  },
+  {
+    "id": "trade_20251216_194938_1",
+    "timestamp": "2025-12-16T19:49:38.268775",
+    "status": "closed",
+    "entry": {
+      "price": 87197.08,
+      "side": "SHORT",
+      "signals": {
+        "ml_score": 0.0005601998512221952,
+        "ml_confidence": 0.85,
+        "news_score": 0,
+        "wisdom_score": 0.0,
+        "wisdom_master": "Paul Tudor Jones",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.107979
+      },
+      "market_state": {
+        "rsi": 54.812747236496776,
+        "bb_position": 0.429743387289839,
+        "volume_ratio": 0.07449161077867335,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": 161.3219455293729,
+        "momentum_1h": -0.004360862763904572
+      }
+    },
+    "exit": {
+      "price": 87894.0,
+      "timestamp": "2025-12-16T20:30:00.000000"
+    },
+    "outcome": {
+      "pnl_percent": -0.8,
+      "won": false,
+      "grade": "D"
+    }
+  },
+  {
+    "id": "trade_20251217_074330_1",
+    "timestamp": "2025-12-17T07:43:30.274815",
+    "status": "closed",
+    "entry": {
+      "price": 86416.0,
+      "side": "LONG",
+      "signals": {
+        "ml_score": 0.0005241867353363132,
+        "ml_confidence": 0.4,
+        "news_score": 0,
+        "wisdom_score": 0.87,
+        "wisdom_master": "Warren Buffett",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.034012499999999994
+      },
+      "market_state": {
+        "rsi": 21.174258141371368,
+        "bb_position": 0.000779422646905251,
+        "volume_ratio": 1.3620237814920895,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": -264.01679347884783,
+        "momentum_1h": -0.00519814361058879
+      }
+    },
+    "exit": {
+      "price": 86595.0,
+      "timestamp": "2025-12-17T07:48:28.642313"
+    },
+    "outcome": {
+      "pnl_percent": 0.2071375671172005,
+      "won": true,
+      "grade": "C"
+    }
+  },
+  {
+    "id": "trade_20251217_081451_1",
+    "timestamp": "2025-12-17T08:14:51.302977",
+    "status": "closed",
+    "entry": {
+      "price": 86896.24,
+      "side": "SHORT",
+      "signals": {
+        "ml_score": -0.0003246028019078639,
+        "ml_confidence": 0.4,
+        "news_score": 0,
+        "wisdom_score": 0.0,
+        "wisdom_master": "Ray Dalio",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.08258250000000002
+      },
+      "market_state": {
+        "rsi": 36.803897476620016,
+        "bb_position": 0.35204110668605837,
+        "volume_ratio": 2.330451301910726,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": -240.82463353598723,
+        "momentum_1h": 0.003223963335599711
+      }
+    },
+    "exit": {
+      "price": 86828.9,
+      "timestamp": "2025-12-17T08:16:34.456138"
+    },
+    "outcome": {
+      "pnl_percent": 0.07749472244139799,
+      "won": true,
+      "grade": "C"
+    }
+  },
+  {
+    "id": "trade_20251217_081844_1",
+    "timestamp": "2025-12-17T08:18:44.884202",
+    "status": "closed",
+    "entry": {
+      "price": 86861.04,
+      "side": "SHORT",
+      "signals": {
+        "ml_score": 0.00023814817060419417,
+        "ml_confidence": 0.4,
+        "news_score": 0,
+        "wisdom_score": 0.0,
+        "wisdom_master": "Ray Dalio",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.09736725000000002
+      },
+      "market_state": {
+        "rsi": 32.3303994116834,
+        "bb_position": 0.3501206684955007,
+        "volume_ratio": 0.07257461765767773,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": -226.14218256667664,
+        "momentum_1h": 0.005200106605946386
+      }
+    },
+    "exit": {
+      "price": 86844.8,
+      "timestamp": "2025-12-17T08:21:19.440812"
+    },
+    "outcome": {
+      "pnl_percent": 0.01869652953728241,
+      "won": true,
+      "grade": "C"
+    }
+  },
+  {
+    "id": "trade_20251217_082442_1",
+    "timestamp": "2025-12-17T08:24:42.147309",
+    "status": "closed",
+    "entry": {
+      "price": 86836.0,
+      "side": "SHORT",
+      "signals": {
+        "ml_score": 0.0005058311116141249,
+        "ml_confidence": 0.4,
+        "news_score": 0,
+        "wisdom_score": 0.0,
+        "wisdom_master": "Paul Tudor Jones",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.1002765
+      },
+      "market_state": {
+        "rsi": 31.844944355579727,
+        "bb_position": 0.3343602394990484,
+        "volume_ratio": 0.4536561132017999,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": -228.1396754441812,
+        "momentum_1h": 0.004910330998039614
+      }
+    },
+    "exit": {
+      "price": 86830.9,
+      "timestamp": "2025-12-17T08:27:15.955884"
+    },
+    "outcome": {
+      "pnl_percent": 0.005873140172285482,
+      "won": true,
+      "grade": "C"
+    }
+  },
+  {
+    "id": "trade_20251217_083531_1",
+    "timestamp": "2025-12-17T08:35:31.262802",
+    "status": "open",
+    "entry": {
+      "price": 86897.48,
+      "side": "SHORT",
+      "signals": {
+        "ml_score": -0.0004962471304731479,
+        "ml_confidence": 0.4,
+        "news_score": 0,
+        "wisdom_score": 0.0,
+        "wisdom_master": "Ray Dalio",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.15266762500000003
+      },
+      "market_state": {
+        "rsi": 34.77198602551148,
+        "bb_position": 0.392680675908056,
+        "volume_ratio": 0.09922570840331414,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": -206.61114933049248,
+        "momentum_1h": 0.004838280522674321
+      }
+    },
+    "exit": null,
+    "outcome": null
+  },
+  {
+    "id": "trade_20251217_152158_1",
+    "timestamp": "2025-12-17T15:21:58.298461",
+    "status": "closed",
+    "entry": {
+      "price": 86862.82,
+      "side": "LONG",
+      "signals": {
+        "ml_score": 0.0013681684782803785,
+        "ml_confidence": 0.85,
+        "news_score": 0,
+        "wisdom_score": 0.0,
+        "wisdom_master": "Ray Dalio",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.05824457282579433
+      },
+      "market_state": {
+        "rsi": 62.34027885401607,
+        "bb_position": 0.6493103798252317,
+        "volume_ratio": 0.1682048471454901,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": 33.82313983999484,
+        "momentum_1h": -0.0023536843435140176
+      }
+    },
+    "exit": {
+      "price": 87155.94,
+      "timestamp": "2025-12-17T15:39:47.791052"
+    },
+    "outcome": {
+      "pnl_percent": 0.33745162775050974,
+      "won": true,
+      "grade": "C"
+    }
+  },
+  {
+    "id": "trade_20251217_154304_1",
+    "timestamp": "2025-12-17T15:43:04.402579",
+    "status": "closed",
+    "entry": {
+      "price": 87174.43,
+      "side": "SHORT",
+      "signals": {
+        "ml_score": 0.00043015378771452025,
+        "ml_confidence": 0.4,
+        "news_score": 0,
+        "wisdom_score": 0.0,
+        "wisdom_master": "Jesse Livermore",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.40700000000000003
+      },
+      "market_state": {
+        "rsi": 63.604004568110746,
+        "bb_position": 0.8826003378357701,
+        "volume_ratio": 1.2960549403619164,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": 69.43120394204743,
+        "momentum_1h": 0.0038511054813448187
+      }
+    },
+    "exit": {
+      "price": 88447.32,
+      "timestamp": "2025-12-17T16:55:29.882881"
+    },
+    "outcome": {
+      "pnl_percent": -1.4601644083018541,
+      "won": false,
+      "grade": "F"
+    }
+  },
+  {
+    "id": "trade_20251217_171303_2",
+    "timestamp": "2025-12-17T17:13:03.775154",
+    "status": "closed",
+    "entry": {
+      "price": 89903.31,
+      "side": "SHORT",
+      "signals": {
+        "ml_score": 0.0023960866052392107,
+        "ml_confidence": 0.4,
+        "news_score": 0,
+        "wisdom_score": -0.87,
+        "wisdom_master": "Jesse Livermore",
+        "quant_score": 0,
+        "htf_bias": 0.5,
+        "final_vote": 0.18048593532972565
+      },
+      "market_state": {
+        "rsi": 84.90580902287002,
+        "bb_position": 1.2136540552177957,
+        "volume_ratio": 3.791880578569069,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": 527.079272820818,
+        "momentum_1h": 0.02663171908005313
+      }
+    },
+    "exit": {
+      "price": 87632.44,
+      "timestamp": "2025-12-17T18:06:51.815579"
+    },
+    "outcome": {
+      "pnl_percent": 2.52590255019531,
+      "won": true,
+      "grade": "A"
+    }
+  },
+  {
+    "id": "trade_20251217_182423_3",
+    "timestamp": "2025-12-17T18:24:23.084147",
+    "status": "open",
+    "entry": {
+      "price": 86513.54,
+      "side": "LONG",
+      "signals": {
+        "ml_score": 0.00279725650600089,
+        "ml_confidence": 0.85,
+        "news_score": 0,
+        "wisdom_score": 0.0,
+        "wisdom_master": "Jesse Livermore",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.03983291822251445
+      },
+      "market_state": {
+        "rsi": 46.71317342327111,
+        "bb_position": 0.2407092396441571,
+        "volume_ratio": 1.552661267659397,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": 217.68353839499468,
+        "momentum_1h": -0.03770408325571284
+      }
+    },
+    "exit": null,
+    "outcome": null
+  },
+  {
+    "id": "trade_20251217_215639_1",
+    "timestamp": "2025-12-17T21:56:39.132609",
+    "status": "closed",
+    "entry": {
+      "price": 86156.25,
+      "side": "SHORT",
+      "signals": {
+        "ml_score": -0.0006866201233830861,
+        "ml_confidence": 0.4,
+        "news_score": 0,
+        "wisdom_score": 0.0,
+        "wisdom_master": "Paul Tudor Jones",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.275165
+      },
+      "market_state": {
+        "rsi": 47.618804223552374,
+        "bb_position": 0.36879673714472605,
+        "volume_ratio": 0.6166636021479089,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": -423.40318709716666,
+        "momentum_1h": 0.004010740678934699
+      }
+    },
+    "exit": {
+      "price": 86247.15,
+      "timestamp": "2025-12-18T02:37:10.366992"
+    },
+    "outcome": {
+      "pnl_percent": -0.10550598476604331,
+      "won": false,
+      "grade": "D"
+    }
+  },
+  {
+    "id": "trade_20251218_023855_2",
+    "timestamp": "2025-12-18T02:38:55.302381",
+    "status": "closed",
+    "entry": {
+      "price": 86247.15,
+      "side": "LONG",
+      "signals": {
+        "ml_score": -0.001236012900586506,
+        "ml_confidence": 0.85,
+        "news_score": 0,
+        "wisdom_score": 0.0,
+        "wisdom_master": "Paul Tudor Jones",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.24914541926906147
+      },
+      "market_state": {
+        "rsi": 58.16357269269854,
+        "bb_position": 0.7915372656855112,
+        "volume_ratio": 0.10377974597869055,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": -76.81740846032335,
+        "momentum_1h": 0.0019047855806442193
+      }
+    },
+    "exit": {
+      "price": 86400.52,
+      "timestamp": "2025-12-18T04:26:20.815852"
+    },
+    "outcome": {
+      "pnl_percent": 0.17782616585012942,
+      "won": true,
+      "grade": "C"
+    }
+  },
+  {
+    "id": "trade_20251218_042621_3",
+    "timestamp": "2025-12-18T04:26:21.408399",
+    "status": "open",
+    "entry": {
+      "price": 86400.52,
+      "side": "SHORT",
+      "signals": {
+        "ml_score": 0.002584169455322094,
+        "ml_confidence": 0.85,
+        "news_score": 0,
+        "wisdom_score": -0.75,
+        "wisdom_master": "George Soros",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.46136449270203195
+      },
+      "market_state": {
+        "rsi": 52.14354580713042,
+        "bb_position": 0.9345371414531438,
+        "volume_ratio": 1.7981135379476045,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": -14.074138931333437,
+        "momentum_1h": 0.004930293266902863
+      }
+    },
+    "exit": null,
+    "outcome": null
+  },
+  {
+    "id": "trade_20251218_114711_1",
+    "timestamp": "2025-12-18T11:47:11.331832",
+    "status": "open",
+    "entry": {
+      "price": 87349.99,
+      "side": "SHORT",
+      "signals": {
+        "ml_score": -0.0016669281021323536,
+        "ml_confidence": 0.85,
+        "news_score": 0,
+        "wisdom_score": -0.78,
+        "wisdom_master": "Jesse Livermore",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.5060226633193015
+      },
+      "market_state": {
+        "rsi": 73.58385549358508,
+        "bb_position": 1.1557456845120306,
+        "volume_ratio": 2.2281057322184292,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": 162.41748423836543,
+        "momentum_1h": 0.003846450434170867
+      }
+    },
+    "exit": null,
+    "outcome": null
+  },
+  {
+    "id": "trade_20251218_115347_1",
+    "timestamp": "2025-12-18T11:53:47.217893",
+    "status": "open",
+    "entry": {
+      "price": 87263.0,
+      "side": "SHORT",
+      "signals": {
+        "ml_score": 2.4251539422548528e-05,
+        "ml_confidence": 0.4,
+        "news_score": 0,
+        "wisdom_score": -0.87,
+        "wisdom_master": "Jesse Livermore",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.6032065
+      },
+      "market_state": {
+        "rsi": 73.49403114236426,
+        "bb_position": 0.9763796683104565,
+        "volume_ratio": 0.3884870704062001,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": 179.0694821321522,
+        "momentum_1h": 0.0035190960496676027
+      }
+    },
+    "exit": null,
+    "outcome": null
+  },
+  {
+    "id": "trade_20251218_121528_1",
+    "timestamp": "2025-12-18T12:15:28.941736",
+    "status": "open",
+    "entry": {
+      "price": 87322.48,
+      "side": "SHORT",
+      "signals": {
+        "ml_score": -0.0005769405787264215,
+        "ml_confidence": 0.85,
+        "news_score": 0,
+        "wisdom_score": -0.75,
+        "wisdom_master": "Jesse Livermore",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.3962725
+      },
+      "market_state": {
+        "rsi": 73.86527737664144,
+        "bb_position": 0.9578639597878662,
+        "volume_ratio": 1.0683913454098979,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": 194.32490137999412,
+        "momentum_1h": 0.0059368402038910695
+      }
+    },
+    "exit": null,
+    "outcome": null
+  },
+  {
+    "id": "trade_20251218_121829_1",
+    "timestamp": "2025-12-18T12:18:29.194469",
+    "status": "open",
+    "entry": {
+      "price": 87250.11,
+      "side": "SHORT",
+      "signals": {
+        "ml_score": 0.00012650309236842718,
+        "ml_confidence": 0.4,
+        "news_score": 0,
+        "wisdom_score": -0.72,
+        "wisdom_master": "Ray Dalio",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.559234
+      },
+      "market_state": {
+        "rsi": 68.31643621582904,
+        "bb_position": 0.8515587216104651,
+        "volume_ratio": 0.18955435408564744,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": 198.575850064095,
+        "momentum_1h": 0.002980774635849448
+      }
+    },
+    "exit": null,
+    "outcome": null
+  },
+  {
+    "id": "trade_20251218_124936_1",
+    "timestamp": "2025-12-18T12:49:36.949771",
+    "status": "closed",
+    "entry": {
+      "price": 87253.2,
+      "side": "LONG",
+      "signals": {
+        "ml_score": 0.0006023681020524476,
+        "ml_confidence": 0.85,
+        "news_score": 0,
+        "wisdom_score": -0.82,
+        "wisdom_master": "George Soros",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.6578
+      },
+      "market_state": {
+        "rsi": 63.873117350983236,
+        "bb_position": 0.7735627275395092,
+        "volume_ratio": 0.5821116824243293,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": 207.60983758151997,
+        "momentum_1h": -2.0170773100014472e-05
+      }
+    },
+    "exit": {
+      "price": 87267.74,
+      "timestamp": "2025-12-18T12:58:00.969503"
+    },
+    "outcome": {
+      "pnl_percent": 0.016664145269179986,
+      "won": true,
+      "grade": "C"
+    }
+  },
+  {
+    "id": "trade_20251218_125801_2",
+    "timestamp": "2025-12-18T12:58:01.267663",
+    "status": "open",
+    "entry": {
+      "price": 87267.74,
+      "side": "SHORT",
+      "signals": {
+        "ml_score": 0.00045248444020659255,
+        "ml_confidence": 0.85,
+        "news_score": 0,
+        "wisdom_score": 0.0,
+        "wisdom_master": "George Soros",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.2031
+      },
+      "market_state": {
+        "rsi": 64.47730510757106,
+        "bb_position": 0.7842224301523205,
+        "volume_ratio": 0.9372775686879752,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": 208.76972362140077,
+        "momentum_1h": 0.00014646731830492143
+      }
+    },
+    "exit": null,
+    "outcome": null
+  },
+  {
+    "id": "trade_20251218_133833_1",
+    "timestamp": "2025-12-18T13:38:33.800845",
+    "status": "open",
+    "entry": {
+      "price": 87148.82,
+      "side": "LONG",
+      "signals": {
+        "ml_score": 0.0005099295651368122,
+        "ml_confidence": 0.4,
+        "news_score": 0,
+        "wisdom_score": 0.0,
+        "wisdom_master": "Ray Dalio",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.042
+      },
+      "market_state": {
+        "rsi": 63.50072301827266,
+        "bb_position": 0.628007201583831,
+        "volume_ratio": 0.2159329261621568,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": 169.32725767335796,
+        "momentum_1h": -0.001983005882367661
+      }
+    },
+    "exit": null,
+    "outcome": null
+  },
+  {
+    "id": "trade_20251218_154629_1",
+    "timestamp": "2025-12-18T15:46:29.680056",
+    "status": "closed",
+    "entry": {
+      "price": 88643.72,
+      "side": "SHORT",
+      "signals": {
+        "ml_score": -0.0007790280291580076,
+        "ml_confidence": 0.4,
+        "news_score": 0,
+        "wisdom_score": -0.75,
+        "wisdom_master": "Jesse Livermore",
+        "quant_score": 0,
+        "htf_bias": -0.4,
+        "final_vote": 0.3221725
+      },
+      "market_state": {
+        "rsi": 72.43931771600835,
+        "bb_position": 1.3580120998826801,
+        "volume_ratio": 6.177160342531597,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": 283.6742800131615,
+        "momentum_1h": 0.014950193501110709
+      }
+    },
+    "exit": {
+      "price": 89203.7,
+      "timestamp": "2025-12-18T17:43:57.893410"
+    },
+    "outcome": {
+      "pnl_percent": -0.6317198781820031,
+      "won": false,
+      "grade": "D"
+    }
+  },
+  {
+    "id": "trade_20251218_174547_2",
+    "timestamp": "2025-12-18T17:45:47.275159",
+    "status": "closed",
+    "entry": {
+      "price": 89087.36,
+      "side": "SHORT",
+      "signals": {
+        "ml_score": -0.0019603793046863733,
+        "ml_confidence": 0.4,
+        "news_score": 0,
+        "wisdom_score": -0.72,
+        "wisdom_master": "Jesse Livermore",
+        "quant_score": 0,
+        "htf_bias": -0.4,
+        "final_vote": 0.37597882740230715
+      },
+      "market_state": {
+        "rsi": 66.13361627323768,
+        "bb_position": 0.9776564362725428,
+        "volume_ratio": 1.730053697663638,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": 424.54538030631375,
+        "momentum_1h": 0.014801111769262354
+      }
+    },
+    "exit": {
+      "price": 88064.09,
+      "timestamp": "2025-12-18T18:30:59.674069"
+    },
+    "outcome": {
+      "pnl_percent": 1.148614124383082,
+      "won": true,
+      "grade": "B"
+    }
+  },
+  {
+    "id": "trade_20251218_183100_3",
+    "timestamp": "2025-12-18T18:31:00.014791",
+    "status": "closed",
+    "entry": {
+      "price": 88064.09,
+      "side": "LONG",
+      "signals": {
+        "ml_score": 0.001256180425566854,
+        "ml_confidence": 0.85,
+        "news_score": 0,
+        "wisdom_score": 0.0,
+        "wisdom_master": "Paul Tudor Jones",
+        "quant_score": 0,
+        "htf_bias": -0.39999999999999997,
+        "final_vote": 0.058294613830922756
+      },
+      "market_state": {
+        "rsi": 56.298736077027556,
+        "bb_position": 0.5387930773345595,
+        "volume_ratio": 1.0495421709386725,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": 330.87374520819867,
+        "momentum_1h": -0.005672462087236596
+      }
+    },
+    "exit": {
+      "price": 87073.09,
+      "timestamp": "2025-12-18T19:11:02.240956"
+    },
+    "outcome": {
+      "pnl_percent": -1.1253168005256173,
+      "won": false,
+      "grade": "F"
+    }
+  },
+  {
+    "id": "trade_20251218_191658_4",
+    "timestamp": "2025-12-18T19:16:58.138941",
+    "status": "closed",
+    "entry": {
+      "price": 86118.7,
+      "side": "LONG",
+      "signals": {
+        "ml_score": 0.003356551547229037,
+        "ml_confidence": 0.85,
+        "news_score": 0,
+        "wisdom_score": 0.65,
+        "wisdom_master": "Warren Buffett",
+        "quant_score": 0,
+        "htf_bias": -0.39999999999999997,
+        "final_vote": 0.3778824252849438
+      },
+      "market_state": {
+        "rsi": 30.145775595268717,
+        "bb_position": -0.11363384275196765,
+        "volume_ratio": 0.09376871045347408,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": -49.29971330954868,
+        "momentum_1h": -0.02212170771557853
+      }
+    },
+    "exit": {
+      "price": 86345.4,
+      "timestamp": "2025-12-18T19:59:44.520758"
+    },
+    "outcome": {
+      "pnl_percent": 0.2632413169265178,
+      "won": true,
+      "grade": "C"
+    }
+  },
+  {
+    "id": "trade_20251218_205319_1",
+    "timestamp": "2025-12-18T20:53:19.267569",
+    "status": "closed",
+    "entry": {
+      "price": 85979.84,
+      "side": "LONG",
+      "signals": {
+        "ml_score": 0.0014489645848966056,
+        "ml_confidence": 0.85,
+        "news_score": 0,
+        "wisdom_score": 0.65,
+        "wisdom_master": "Warren Buffett",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.02715288675685475
+      },
+      "market_state": {
+        "rsi": 27.22835732597123,
+        "bb_position": 0.13147948545330435,
+        "volume_ratio": 0.346879673806007,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": -376.6504078064172,
+        "momentum_1h": -0.0054563509850316105
+      }
+    },
+    "exit": {
+      "price": 84602.85,
+      "timestamp": "2025-12-18T21:48:06.941449"
+    },
+    "outcome": {
+      "pnl_percent": -1.6015265904193248,
+      "won": false,
+      "grade": "F"
+    }
+  },
+  {
+    "id": "trade_20251218_215405_2",
+    "timestamp": "2025-12-18T21:54:05.894727",
+    "status": "closed",
+    "entry": {
+      "price": 84633.1,
+      "side": "LONG",
+      "signals": {
+        "ml_score": 0.0014187972240252945,
+        "ml_confidence": 0.85,
+        "news_score": 0,
+        "wisdom_score": 0.87,
+        "wisdom_master": "Warren Buffett",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.15620759227718847
+      },
+      "market_state": {
+        "rsi": 19.24885235859786,
+        "bb_position": 0.07802492919526094,
+        "volume_ratio": 1.1284712455802317,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": -679.1331617479591,
+        "momentum_1h": -0.015405896063571012
+      }
+    },
+    "exit": {
+      "price": 85280.99,
+      "timestamp": "2025-12-18T23:22:05.527619"
+    },
+    "outcome": {
+      "pnl_percent": 0.765527908111601,
+      "won": true,
+      "grade": "B"
+    }
+  },
+  {
+    "id": "trade_20251218_232814_3",
+    "timestamp": "2025-12-18T23:28:14.682302",
+    "status": "closed",
+    "entry": {
+      "price": 85218.13,
+      "side": "SHORT",
+      "signals": {
+        "ml_score": -0.001221610971534608,
+        "ml_confidence": 0.85,
+        "news_score": 0,
+        "wisdom_score": 0.0,
+        "wisdom_master": "Paul Tudor Jones",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.3784417107235275
+      },
+      "market_state": {
+        "rsi": 36.614677385748124,
+        "bb_position": 0.3477624244771508,
+        "volume_ratio": 0.3071760717143402,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": -674.8981977061485,
+        "momentum_1h": 0.0032078161986890397
+      }
+    },
+    "exit": {
+      "price": 85443.0,
+      "timestamp": "2025-12-19T01:28:16.127400"
+    },
+    "outcome": {
+      "pnl_percent": -0.2638757738523426,
+      "won": false,
+      "grade": "D"
+    }
+  },
+  {
+    "id": "trade_20251219_012816_4",
+    "timestamp": "2025-12-19T01:28:16.498762",
+    "status": "closed",
+    "entry": {
+      "price": 85443.0,
+      "side": "LONG",
+      "signals": {
+        "ml_score": 0.001041717417236354,
+        "ml_confidence": 0.4,
+        "news_score": 0,
+        "wisdom_score": 0.0,
+        "wisdom_master": "Ray Dalio",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.11464903794177073
+      },
+      "market_state": {
+        "rsi": 65.07390227782871,
+        "bb_position": 0.5553605725449134,
+        "volume_ratio": 0.13491789132827603,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": -318.6241568214318,
+        "momentum_1h": -0.00025051363485695255
+      }
+    },
+    "exit": {
+      "price": 85411.35,
+      "timestamp": "2025-12-19T01:49:33.944629"
+    },
+    "outcome": {
+      "pnl_percent": -0.037042238685432605,
+      "won": false,
+      "grade": "D"
+    }
+  },
+  {
+    "id": "trade_20251219_014935_5",
+    "timestamp": "2025-12-19T01:49:35.258145",
+    "status": "closed",
+    "entry": {
+      "price": 85411.35,
+      "side": "SHORT",
+      "signals": {
+        "ml_score": 9.317121909663829e-05,
+        "ml_confidence": 0.4,
+        "news_score": 0,
+        "wisdom_score": 0.0,
+        "wisdom_master": "Paul Tudor Jones",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.12260252659414625
+      },
+      "market_state": {
+        "rsi": 59.459459459459694,
+        "bb_position": 0.6016423930204764,
+        "volume_ratio": 0.006245407963680728,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": -277.67488921839686,
+        "momentum_1h": -0.0016929225109252322
+      }
+    },
+    "exit": {
+      "price": 85136.9,
+      "timestamp": "2025-12-19T04:05:50.081407"
+    },
+    "outcome": {
+      "pnl_percent": 0.3213273177394007,
+      "won": true,
+      "grade": "C"
+    }
+  },
+  {
+    "id": "trade_20251219_040551_6",
+    "timestamp": "2025-12-19T04:05:51.423816",
+    "status": "closed",
+    "entry": {
+      "price": 85136.9,
+      "side": "LONG",
+      "signals": {
+        "ml_score": 8.611064638227349e-05,
+        "ml_confidence": 0.4,
+        "news_score": 0,
+        "wisdom_score": 0.87,
+        "wisdom_master": "Warren Buffett",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.023082213248993316
+      },
+      "market_state": {
+        "rsi": 35.71199847387511,
+        "bb_position": 0.01129126600376242,
+        "volume_ratio": 0.33791888530552655,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": -194.4641261841025,
+        "momentum_1h": -0.0032317121072886756
+      }
+    },
+    "exit": {
+      "price": 85362.54,
+      "timestamp": "2025-12-19T04:27:08.398521"
+    },
+    "outcome": {
+      "pnl_percent": 0.26503196616273256,
+      "won": true,
+      "grade": "C"
+    }
+  },
+  {
+    "id": "trade_20251219_042708_7",
+    "timestamp": "2025-12-19T04:27:08.679766",
+    "status": "closed",
+    "entry": {
+      "price": 85362.54,
+      "side": "SHORT",
+      "signals": {
+        "ml_score": -0.0010425223727322215,
+        "ml_confidence": 0.85,
+        "news_score": 0,
+        "wisdom_score": 0.0,
+        "wisdom_master": "Paul Tudor Jones",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.43001184365788575
+      },
+      "market_state": {
+        "rsi": 43.77855311602409,
+        "bb_position": 0.4155568293870451,
+        "volume_ratio": 0.780620525747026,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": -173.17328564480704,
+        "momentum_1h": 0.002696133967305947
+      }
+    },
+    "exit": {
+      "price": 86297.56,
+      "timestamp": "2025-12-19T05:15:03.642070"
+    },
+    "outcome": {
+      "pnl_percent": -1.0953516612790624,
+      "won": false,
+      "grade": "F"
+    }
+  },
+  {
+    "id": "trade_20251219_052124_8",
+    "timestamp": "2025-12-19T05:21:24.977441",
+    "status": "closed",
+    "entry": {
+      "price": 86122.38,
+      "side": "SHORT",
+      "signals": {
+        "ml_score": 0.0017449777104655575,
+        "ml_confidence": 0.85,
+        "news_score": 0,
+        "wisdom_score": 0.0,
+        "wisdom_master": "Jesse Livermore",
+        "quant_score": 0,
+        "htf_bias": -1.0,
+        "final_vote": 0.43713698265274764
+      },
+      "market_state": {
+        "rsi": 62.751833846784386,
+        "bb_position": 1.0433267865457303,
+        "volume_ratio": 0.9144161646481004,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": 19.332203728423337,
+        "momentum_1h": 0.00745463070064134
+      }
+    },
+    "exit": {
+      "price": 86819.38,
+      "timestamp": "2025-12-19T05:29:12.139340"
+    },
+    "outcome": {
+      "pnl_percent": -0.8093134444264081,
+      "won": false,
+      "grade": "D"
+    }
+  },
+  {
+    "id": "trade_20251219_053517_9",
+    "timestamp": "2025-12-19T05:35:17.547780",
+    "status": "open",
+    "entry": {
+      "price": 87437.61,
+      "side": "SHORT",
+      "signals": {
+        "ml_score": 0.0009492793265268733,
+        "ml_confidence": 0.85,
+        "news_score": 0,
+        "wisdom_score": -0.87,
+        "wisdom_master": "Jesse Livermore",
+        "quant_score": 0,
+        "htf_bias": -0.39999999999999997,
+        "final_vote": 0.5201825105269068
+      },
+      "market_state": {
+        "rsi": 79.10351849623983,
+        "bb_position": 1.2362770678637371,
+        "volume_ratio": 1.6860040009861479,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": 220.71436611116224,
+        "momentum_1h": 0.021774893940045503
+      }
+    },
+    "exit": null,
+    "outcome": null
+  },
+  {
+    "id": "trade_20251219_084413_1",
+    "timestamp": "2025-12-19T08:44:13.355164",
+    "status": "closed",
+    "entry": {
+      "price": 87011.98,
+      "side": "LONG",
+      "signals": {
+        "ml_score": 0.0011063539994275154,
+        "ml_confidence": 0.85,
+        "news_score": 0,
+        "wisdom_score": 0.0,
+        "wisdom_master": "Paul Tudor Jones",
+        "quant_score": 0,
+        "htf_bias": -0.39999999999999997,
+        "final_vote": 0.07253256825107553
+      },
+      "market_state": {
+        "rsi": 61.96345241501624,
+        "bb_position": 0.6569826080884776,
+        "volume_ratio": 0.38320880029851595,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": 334.17473089550913,
+        "momentum_1h": 0.001800459613427119
+      }
+    },
+    "exit": {
+      "price": 87256.49,
+      "timestamp": "2025-12-19T08:57:28.389802"
+    },
+    "outcome": {
+      "pnl_percent": 0.2810072819857787,
+      "won": true,
+      "grade": "C"
+    }
+  },
+  {
+    "id": "trade_20251219_085728_2",
+    "timestamp": "2025-12-19T08:57:28.674267",
+    "status": "open",
+    "entry": {
+      "price": 87256.49,
+      "side": "SHORT",
+      "signals": {
+        "ml_score": 3.492683982738796e-05,
+        "ml_confidence": 0.4,
+        "news_score": 0,
+        "wisdom_score": 0.0,
+        "wisdom_master": "Paul Tudor Jones",
+        "quant_score": 0,
+        "htf_bias": -0.4,
+        "final_vote": 0.31549696510444625
+      },
+      "market_state": {
+        "rsi": 53.3161064310397,
+        "bb_position": 0.723831080453443,
+        "volume_ratio": 0.8985402489960932,
+        "funding_rate": 0,
+        "volatility_percentile": 50,
+        "macd": 346.51376433514815,
+        "momentum_1h": 0.0017966704936853706
+      }
+    },
+    "exit": null,
+    "outcome": null
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-17T01:20:38.759011",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's massive underperformance to stocks in Q4 bodes well for January, says K33's Lunde",
+        "Bitcoin derivatives point to broad price range play between $85,000-$100,000",
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.2,
+      "confidence": 0.8,
+      "events": [
+        "U.S. FDIC proposes first U.S. stablecoin rule (regulatory development)",
+        "Bitcoin derivatives signaling potential price range of $85,000–$100,000 (market expectation)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent news highlights Bitcoin's underperformance against equities in Q4 as a potential bullish setup for January, with derivatives suggesting a strong move toward $85,000–$100,000. Regulatory developments around stablecoins are emerging, but no immediate catalysts or institutional moves are reported. Market sentiment is cautiously neutral, with mixed signals between technical expectations and regulatory uncertainty."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Spot Bitcoin ETFs see $358M outflow: Are investors abandoning BTC?",
+        "Here's what happened in crypto today",
+        "RedotPay raises $107M Series B led by Goodwater for stablecoin payments"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin ETF outflows of $358M",
+        "RedotPay raises $107M in funding for stablecoin infrastructure",
+        "UK regulator consults on crypto rules for exchanges, lending and DeFi"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The top news highlights a significant outflow from Bitcoin ETFs, signaling potential investor caution or profit-taking. This is compounded by regulatory scrutiny from the UK and ongoing institutional developments like RedotPay's funding round. While there are positive signs in stablecoin adoption, the ETF outflows are a major bearish signal that could trigger further selling pressure in BTC."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Why Bitwise Expects New Bitcoin Highs in 2026—And the End of the 4-Year Cycle",
+        "FTC Compels Nomad Operator to Repay Users After $186M Crypto Theft",
+        "Trump 'Open' to Democrats at SEC, CFTC in Possible Boon to Crypto Market Structure Bill"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory development: Trump's openness to Democratic involvement at SEC/CFTC could lead to favorable crypto market structure legislation",
+        "Institutional move: Bitwise’s bullish outlook on Bitcoin reaching new highs in 2026 signals strong institutional sentiment",
+        "Security incident: FTC enforcement action against Nomad operator following $186M theft highlights regulatory scrutiny and risks in DeFi"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The top news indicates a mix of bullish institutional sentiment (Bitwise's forecast), regulatory optimism (potential bipartisan support for crypto legislation), and a major security enforcement case (Nomad theft). The combination of positive regulatory signals and institutional confidence suggests a constructive environment for Bitcoin, despite ongoing risks from DeFi vulnerabilities. This is breaking news with significant implications for market direction."
+    }
+  ]
+}

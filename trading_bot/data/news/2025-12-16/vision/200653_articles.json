@@ -1,0 +1,51 @@
+{
+  "fetch_time": "2025-12-16T20:06:53.518178",
+  "source_type": "vision",
+  "count": 2,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+        "Eric Trump's American Bitcoin jumps to 20th among public BTC treasury companies",
+        "BNB tops $870, outperforming crypto majors as volume surges"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.85,
+      "events": [
+        "U.S. FDIC proposes first U.S. stablecoin regulation (GENIUS Act)",
+        "BNB price surge above $870 with high trading volume",
+        "Polkadot and Coinbase integrate USDC stablecoin"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Breaking regulatory news from the U.S. FDIC on stablecoins, combined with strong institutional momentum in BNB and new adoption milestones like Polkadot-USDC integration, signals bullish market sentiment. The proposed stablecoin rule could catalyze further innovation and institutional participation, while BNB's breakout performance suggests broad market strength."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin and Ethereum ETFs Face Backlash as Institutions Pull Back",
+        "South Korean Government Goes After Crypto Miners in Debt Relief to Cryptocurrency Holders",
+        "Bitwise Says the Bitcoin 4-Year Cycle Will Die in 2026"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.75,
+      "events": [
+        "Institutional pullback from Bitcoin and Ethereum ETFs",
+        "South Korea's regulatory crackdown on crypto miners",
+        "Bitwise's bearish prediction on Bitcoin's 4-year cycle ending in 2026"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Recent headlines indicate growing institutional skepticism toward Bitcoin and Ethereum ETFs, a regulatory crackdown in South Korea targeting crypto miners, and a bearish outlook from Bitwise on Bitcoin's cyclical performance. These developments suggest a deteriorating sentiment in the crypto market, with potential for further downside pressure. The combination of regulatory risk and institutional retreat points to significant near-term market impact."
+    }
+  ]
+}

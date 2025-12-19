@@ -1,0 +1,21 @@
+{
+  "fetch_time": "2025-12-16T22:34:13.607330",
+  "source_type": "rss_feeds",
+  "count": 2,
+  "articles": [
+    {
+      "source": "cointelegraph.com",
+      "title": "Bitcoin treasury Kindly MD faces potential delisting after Nasdaq price notice",
+      "published": "Tue, 16 Dec 2025 20:01:27 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin treasury Kindly MD faces potential delisting after Nasdaq price notice\" src=\"https://images.cointelegraph.com/images/528",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "The Bitcoin-to-gold ratio fell 50% in 2025: Here’s why",
+      "published": "Tue, 16 Dec 2025 18:45:25 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"The Bitcoin-to-gold ratio fell 50% in 2025: Here’s why\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGV",
+      "type": "crypto"
+    }
+  ]
+}

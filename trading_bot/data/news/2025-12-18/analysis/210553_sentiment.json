@@ -1,0 +1,25 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": 0.13333333333333333,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 19,
+  "headlines": [
+    "Why Bitcoin’s popular narratives don’t match the data: James Check on 2026",
+    "Federal Reserve Board publishes first of several staff manuals for the supervision of the largest and most complex banks",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
+  ],
+  "events": [
+    "SoFi launches a US dollar stablecoin via its bank subsidiary",
+    "Former SEC counsel discusses RWAs compliance (regulatory context)",
+    "SEC intensifies scrutiny of crypto custody and ATS (Alternative Trading Systems)",
+    "North Korean crypto thefts indicating ongoing security risks and potential regulatory scrutiny",
+    "Institutional adoption of Bitcoin via corporate treasuries (Starbucks)",
+    "SoFi's stablecoin launch on Ethereum (adoption and infrastructure development)",
+    "Bitcoin price correction following CPI data release",
+    "Intuit adopts Circle's stablecoin for financial platforms"
+  ],
+  "timestamp": "2025-12-18T21:05:53.006351"
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": -0.18333333333333335,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 22,
+  "headlines": [
+    "US crypto market structure legislation to advance in early 2026",
+    "Bitcoin to hit new all-time high within 6 months: Grayscale",
+    "Bitcoin, altcoins sell-off as Fed chair switch-up, AI bubble fears spook markets",
+    "Here’s what happened in crypto today",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
+  ],
+  "events": [
+    "Institutional commentary: Grayscale predicts Bitcoin reaching a new all-time high within 6 months",
+    "Institutional interest in Dogecoin near key support ($0.13)",
+    "Regulatory shift signaled by Bank of America analysts",
+    "Bitcoin price drop due to macro concerns (rate cuts and AI stock weakness)",
+    "Bitcoin price decline toward $85,000",
+    "Ripple expanding RLUSD on multiple blockchains",
+    "Regulatory development: US crypto market structure legislation expected in early 2026",
+    "XRP weakening at critical technical level",
+    "Political involvement: Trump signals interest in reviewing case of convicted crypto figure"
+  ],
+  "timestamp": "2025-12-16T06:09:48.777754"
+}

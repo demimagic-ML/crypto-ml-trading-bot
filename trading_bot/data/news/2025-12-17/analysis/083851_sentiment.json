@@ -1,0 +1,25 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": 0.10000000000000002,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 23,
+  "headlines": [
+    "Bitcoin could go ‘sub-$50K if quantum isn’t solved by 2028: Capriole",
+    "Bhutan pledges 10K Bitcoin to develop its ‘mindfulness city’",
+    "Saylor’s Bitcoin stash will be very hard for anyone to match: Pomp",
+    "Lightning Network hits record capacity on crypto exchange adoption",
+    "SAFE Crypto Act will have scammers shaking in their boots: Crypto lawyer"
+  ],
+  "events": [
+    "Web3 Antivirus detects $563k DeFi loss after phishing approval during Aave and Compound...",
+    "Aster launches Shield Mode, a protected high-performance trading mode for on-chain traders",
+    "U.S. FDIC proposes first U.S. stablecoin rule (regulatory development)",
+    "Visa expands stablecoin pilot using Solana for US settlements",
+    "Grayscale outlines 2026 institutional crypto adoption themes (institutional interest)",
+    "Potential institutional adoption signals from Visa",
+    "Regulatory scrutiny on crypto market structure with CFTC involvement",
+    "UK regulator consults on crypto rules for exchanges, lending and DeFi"
+  ],
+  "timestamp": "2025-12-17T08:38:51.188940"
+}

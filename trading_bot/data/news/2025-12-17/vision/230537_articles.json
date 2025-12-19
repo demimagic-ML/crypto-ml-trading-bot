@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-17T23:05:37.718765",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Traders mull the bottom as bitcoin returns to week's lows below $86,000",
+        "Memecoin boom turns into capitulation one year after $150 billion market peak",
+        "Don't call it QE – the Fed's $40 billion bill buys may not shake crypto out of slump"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin price nears $86,000 support level with trader sentiment cautious",
+        "Fed's $40 billion bill purchases signaling potential monetary tightening concerns for crypto markets",
+        "Meme coin market experiences capitulation after massive rally"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is testing key support at $86,000 amid bearish sentiment and weak momentum. Meme coins are collapsing after a speculative bubble, and Fed actions suggest continued monetary caution, which could pressure risk assets like crypto. Traders are positioning for a potential further decline."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Price predictions 12/17: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK",
+        "Binance mulls new US strategy, CZ potentially reducing stake: Report",
+        "The real crypto adoption shows on Tuesday morning payments"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.8,
+      "events": [
+        "Binance considering new US regulatory strategy with potential stake reduction by CZ",
+        "Real-world crypto adoption highlighted in payment activity",
+        "Space announces public sale of its native token SPACE"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The site features a mix of price predictions, institutional developments (Binance/CZ), and adoption signals. While there is no immediate breaking news, Binance's strategic shift and potential stake reduction could impact market sentiment. Adoption stories add bullish context, but lack of regulatory or ETF catalysts keeps overall sentiment neutral."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $7 Billion AI Deal With Google Backing",
+        "Central African Republic's Crypto Initiatives Criticized for Benefiting Foreign Investors Over Citizens",
+        "Bitcoin Mining Ban in Siberia Extended Indefinitely to Address Power Grid Strain"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "Institutional adoption: Bitcoin miner Hut 8 secures a $7B AI deal with Google backing",
+        "Regulatory/energy concern: Siberia extends indefinite ban on Bitcoin mining due to power grid strain"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Mixed signals in crypto news: positive institutional momentum from Hut 8’s AI partnership, but tempered by regulatory and energy concerns in Siberia. No major ETF or regulatory announcements, but institutional moves suggest underlying confidence. Sentiment is neutral as bullish developments are offset by operational risks."
+    }
+  ]
+}

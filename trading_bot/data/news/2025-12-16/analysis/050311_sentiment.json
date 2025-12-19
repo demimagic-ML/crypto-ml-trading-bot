@@ -1,0 +1,24 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": 0.06666666666666665,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 22,
+  "headlines": [
+    "Bitcoin to hit new all-time high within 6 months: Grayscale",
+    "Bitcoin, altcoins sell-off as Fed chair switch-up, AI bubble fears spook markets",
+    "Here’s what happened in crypto today",
+    "SEC commissioner says Crypto is ‘helping to nudge reassessment’ on privacy",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
+  ],
+  "events": [
+    "Institutional endorsement: Grayscale predicts Bitcoin reaching a new all-time high within 6 months",
+    "Ripple expanding its stablecoin (RLUSD) to new networks (adoption)",
+    "SBI and Startale launching regulated yen stablecoin (adoption in Asia)",
+    "PayPal applies for Utah industrial bank license (institutional adoption)",
+    "Regulatory development: US crypto market structure legislation expected in early 2026",
+    "Political involvement: Trump signals interest in case of convicted crypto wallet founder",
+    "Regulatory shift towards on-chain assets (institutional move)"
+  ],
+  "timestamp": "2025-12-16T05:03:11.209844"
+}

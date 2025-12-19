@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-17T09:34:04.108548",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slides with ether and XRP as market tests $3 trillion floor",
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+        "Grayscale outlines top crypto investing themes for 2026 as institutional adoption grows"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "FDIC proposes first U.S. stablecoin regulation under GENIUS Act",
+        "Grayscale highlights institutional adoption trends for 2026"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Market sentiment is mixed with Bitcoin testing a $3 trillion floor, regulatory developments in stablecoins emerging from the GENIUS Act, and Grayscale highlighting institutional interest for 2026. No major breaking events or ETF approvals reported. Regulatory news could trigger volatility but remains speculative."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin could go 'sub-$50K if quantum isn't solved by 2028: Capriole",
+        "Saylor's Bitcoin stash will be very hard for anyone to match: Pompl",
+        "Buthan pledges 10K Bitcoin to develop its 'mindfulness city'"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory consultation on crypto rules in the UK (exchanges, lending, DeFi)",
+        "SEC urged by crypto advocates to recognize blockchain privacy tools",
+        "Institutional adoption signal: Buthan pledges 10K BTC for city development"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights regulatory developments in the UK and US, with a focus on DeFi and privacy tools, alongside institutional interest in Bitcoin via Buthan's pledge. A bearish sentiment emerges from a warning about quantum computing risks to Bitcoin, but no immediate catalysts or ETF announcements are present. The overall tone is neutral with mixed implications."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Treasury KindlyMD Risks Nasdaq Delisting as Stock Price Craters",
+        "Trump 'Open' to Democrats at SEC, CFTC in Possible Boon to Crypto Market Structure Bill",
+        "Social Media Influencers in H... Face Charges for Promoting Crypto, $206 Million in Losses"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "Regulatory scrutiny on crypto influencers leading to charges and financial losses",
+        "Potential regulatory developments with SEC/CFTC under new administration (Trump's openness to Democrats)",
+        "Risk of Nasdaq delisting for Bitcoin-related stock due to price decline"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed signals: regulatory risks from influencer crackdowns and potential policy shifts under a new administration, alongside concerns over market stability due to declining stock prices linked to Bitcoin. No major breaking events like ETF approvals or large institutional moves are reported, keeping sentiment neutral."
+    }
+  ]
+}

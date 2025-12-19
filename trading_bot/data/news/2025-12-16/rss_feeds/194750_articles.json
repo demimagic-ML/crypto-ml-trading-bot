@@ -1,0 +1,35 @@
+{
+  "fetch_time": "2025-12-16T19:47:50.462468",
+  "source_type": "rss_feeds",
+  "count": 4,
+  "articles": [
+    {
+      "source": "cointelegraph.com",
+      "title": "How scammers target crypto users during the holidays and how to stay protected",
+      "published": "Tue, 16 Dec 2025 17:19:22 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"How scammers target crypto users during the holidays and how to stay protected\" src=\"https://images.cointelegraph.com/images/528",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Solana enters Brazil’s main exchange as Valour expands regulated crypto access",
+      "published": "Tue, 16 Dec 2025 17:10:26 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana enters Brazil’s main exchange as Valour expands regulated crypto access\" src=\"https://images.cointelegraph.com/images/528",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "UK crypto ownership dropped to 8% in 2025: YouGov poll",
+      "published": "Tue, 16 Dec 2025 16:45:44 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK crypto ownership dropped to 8% in 2025: YouGov poll\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGV",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Bitcoin liquidity ‘battle’ rages as bull case sees clear run to $95K",
+      "published": "Tue, 16 Dec 2025 15:39:10 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin liquidity ‘battle’ rages as bull case sees clear run to $95K\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
+      "type": "crypto"
+    }
+  ]
+}

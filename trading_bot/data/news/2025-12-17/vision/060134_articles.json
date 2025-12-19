@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-17T06:01:34.615800",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's massive underperformance to stocks in Q4 bodes well for January, says K33's Lunde",
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says",
+        "Eric Trump’s American Bitcoin jumps to 20th among public BTC treasury companies"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+        "U.S. Senator Warren asks for Trump-tied crypto probe as market structure bill drags",
+        "Exodus joins stablecoin race with MoonPay-backed digital dollar"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Bitcoin shows signs of a potential rebound after underperforming equities in Q4, with analysts suggesting bullish momentum ahead. Regulatory developments including proposed U.S. stablecoin rules and Senate scrutiny of crypto market structures signal growing institutional attention. Institutional moves like Exodus launching a new stablecoin and Eric Trump's Bitcoin company rising in rankings reflect increasing adoption. The sentiment is moderately bullish with emerging catalysts."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Exodus, MoonPay to roll out stablecoin in early 2026, joining gold rush",
+        "US government 'tech force' gets backup from Coinbase, Robinhood",
+        "Aave founder outlines 2026 'master plan' after end to SEC probe"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Institutional support: US government tech force backed by Coinbase and Robinhood",
+        "Regulatory relief: Aave founder announces post-SEC probe master plan",
+        "Adoption: Exodus and MoonPay planning stablecoin launch in 2026"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The news highlights strong institutional involvement, regulatory clarity for DeFi projects like Aave, and upcoming stablecoin adoption by major platforms. These developments signal growing legitimacy and market expansion, supporting bullish sentiment. The US government's tech initiative with Coinbase and Robinhood adds credibility, while the Aave update reduces regulatory risk. The stablecoin rollout in 2026 is a long-term catalyst but indicates accelerating adoption."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin to Hit $100K by 2026, Says Bitwise CEO Amid New ETF Hopes",
+        "Visa Expands Stablecoin Pilot for US Settlements via Solana",
+        "FDIC Opens Public Comment Period on Stablecoin Issuer Application Rules"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Institutional adoption: Visa expands stablecoin pilot using Solana for US settlements",
+        "Regulatory development: FDIC opens public comment period on stablecoin issuer rules",
+        "Market outlook: Bitwise CEO forecasts Bitcoin to reach $100K by 2026"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The crypto market is seeing strong bullish signals with institutional moves like Visa's stablecoin pilot and regulatory developments from the FDIC. Additionally, Bitwise’s optimistic BTC price forecast adds momentum. These factors suggest a positive near-term outlook, particularly for Bitcoin and related assets."
+    }
+  ]
+}

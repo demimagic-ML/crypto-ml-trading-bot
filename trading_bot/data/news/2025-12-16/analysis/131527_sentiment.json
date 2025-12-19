@@ -1,0 +1,25 @@
+{
+  "sentiment": "BEARISH",
+  "sentiment_score": -0.4000000000000001,
+  "confidence": 0.6,
+  "trading_suggestion": "SELL",
+  "news_count": 21,
+  "headlines": [
+    "Bitcoin long-term holder supply hits 8-month lows: Bullish or bearish?",
+    "Bitcoin sharks stack at fastest pace in 13 years, with BTC down 30%",
+    "Most crypto sectors lagged Bitcoin over past 3 months: Glassnode",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Bitcoin and top 100 tokens falling below key technical levels",
+    "StraitsX expanding stablecoin offerings to Solana (adoption)",
+    "Grayscale addressing quantum computing risks (institutional concern)",
+    "Gemini launches prediction markets in 50 US states (institutional adoption)",
+    "PayPal's pursuit of bank charter status (potential institutional adoption)",
+    "Institutional interest in Dogecoin near $0.13 support level",
+    "Bitcoin price decline towards $85,000",
+    "Circle's strategic move affecting Axelar (AXL) ecosystem"
+  ],
+  "timestamp": "2025-12-16T13:15:27.450900"
+}

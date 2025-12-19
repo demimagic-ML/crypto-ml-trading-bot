@@ -1,0 +1,24 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": -0.016666666666666663,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 19,
+  "headlines": [
+    "Bitcoin $70K flush would reset cycle, not confirm new bear market: Analyst",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
+  ],
+  "events": [
+    "Bitcoin price retracement below $86,000 after rally",
+    "Institutional adoption of XRP in retirement accounts via Digital Wealth Partners",
+    "Hut 8's $7B AI deal with Google backing signals institutional crypto adoption",
+    "Crypto security breach via malware impersonating legitimate software",
+    "Coinbase approved to acquire CoinDCX stake in India (institutional adoption)",
+    "Jito Foundation returning to the US due to clearer regulatory environment (regulatory clarity)",
+    "Bitcoin price surge to $90K followed by sharp decline (Santa Rally failure)"
+  ],
+  "timestamp": "2025-12-18T00:14:30.766004"
+}

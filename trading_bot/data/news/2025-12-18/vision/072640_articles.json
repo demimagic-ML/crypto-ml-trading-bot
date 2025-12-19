@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-18T07:26:40.211901",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin could drop to $10,000, one analyst says, spelling doom for ETH, ADA, XRP",
+        "Traders mull the bottom as bitcoin returns to week's lows below $86,000",
+        "Bitcoin drifts lower as $81.3k emerges as the market’s key fault line: Asia Morning Briefing"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.75,
+      "confidence": 0.9,
+      "events": [
+        "CFTC's acting chief Pham poised to go to crypto firm MoonPay once Mike Selig lands",
+        "VivoPower eyes $300M Ripple share deal, bagging nearly $1B in XRP exposure"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is under pressure near $86,000 with analysts warning of a potential drop to $10,000, creating bearish sentiment across altcoins. Institutional interest remains mixed, with VivoPower's $300M Ripple deal signaling adoption, but regulatory uncertainty and CFTC leadership changes add volatility. The market is reacting to technical breakdowns and negative sentiment, suggesting a risk-off move."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's volatility below Nvidia in 2025 as investor base grew: Bitwise",
+        "Crypto ETPs could see a flood of liquidations by 2027: Analyst",
+        "US Fed pulls guidance blocking its banks from engaging with crypto"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "US Federal Reserve updates guidance on crypto engagement",
+        "Potential ETP liquidation risk by 2027",
+        "Bitcoin volatility compared to Nvidia, indicating growing institutional interest"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights regulatory shifts from the US Fed allowing banks to engage with crypto, which is bullish for adoption, but also warns of potential ETP liquidations by 2027 due to market conditions. Bitcoin's volatility being lower than Nvidia's signals increasing stability and institutional involvement. However, the overall sentiment remains neutral due to mixed signals between regulatory progress and future liquidity risks."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $7 Billion AI Deal With Google Backing",
+        "Bitcoin Mining Ban in Siberia Extended Indefinitely to Address Power Issues",
+        "Singapore Entrepreneur Loses Crypto Holdings to Malware Dressed Up as a Game"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "Hut 8's $7 billion AI deal with Google backing (institutional adoption)",
+        "Siberian Bitcoin mining ban extension (regulatory impact on mining)",
+        "Crypto malware attack targeting users (security risk)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The top crypto news includes institutional interest via Hut 8’s AI partnership, regulatory headwinds from Russia’s extended mining ban, and security concerns from malware targeting crypto holders. While the AI deal is bullish for long-term adoption, the mining ban adds bearish pressure on hash rate and energy-dependent miners. The malware incident highlights ongoing risks but has limited systemic impact. Overall sentiment remains neutral due to mixed signals."
+    }
+  ]
+}

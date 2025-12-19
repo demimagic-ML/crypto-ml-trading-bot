@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-18T04:42:43.033246",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Coinbase rolls out stock trading, prediction markets and more in bid to become the 'Everything Exchange'",
+        "CFTC's acting chief Pham poised to go to crypto firm MoonPay once Mike Selig lands",
+        "Digital Wealth Partners introduces algorithmic XRP trading for qualified retirement accounts"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Coinbase expanding into stock and prediction markets (adoption/institutional move)",
+        "CFTC leadership change with potential regulatory implications",
+        "XRP trading introduced in retirement accounts (institutional adoption)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Breaking news highlights Coinbase's expansion into broader financial services, signaling strong institutional adoption. Regulatory shifts at the CFTC and new XRP offerings in retirement accounts further support bullish momentum. These developments suggest growing mainstream acceptance of crypto, particularly for Bitcoin and XRP, warranting immediate attention."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Coinbase adds stock trading, prediction markets in 'everything app' push",
+        "Ethereum could get faster in January with gas limit rise to 80M",
+        "World Liberty proposes using 5% of treasury to boost its stablecoin"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.7,
+      "events": [
+        "Coinbase expands into stock trading and prediction markets (adoption)",
+        "Ethereum network upgrade expected in January (technical development)",
+        "Regulatory consultation by UK on crypto rules for exchanges, lending, and DeFi (regulation)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights institutional expansion (Coinbase), technical improvements on Ethereum, and regulatory developments in the UK. While Coinbase's move is adoption-driven and potentially bullish for crypto ecosystems, it lacks direct Bitcoin or market-moving catalysts. Ethereum’s upcoming gas limit increase may improve scalability but is not a major event yet. Regulatory consultations suggest potential future policy shifts but are currently neutral. No immediate breaking events like ETF approvals or hacks are present."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $7 Billion AI Deal With Google Backing",
+        "Central African Republic's Crypto Initiatives Criticized for Benefiting Foreign Investors Over Citizens",
+        "Bitcoin Mining Ban in Siberia Extended Indefinitely to Address Power Grid Strain"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "Bitcoin mining ban extension in Siberia (regulatory/adoption impact)",
+        "Hut 8's $7B AI deal with Google (institutional adoption signal)"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent news highlights mixed signals: institutional interest via Hut 8’s AI partnership suggests bullish potential, while regulatory headwinds like the Siberian mining ban and criticism of CAR's crypto policy introduce caution. No major breaking events or ETF/regulatory announcements present."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-18T21:05:53.006094",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin bulls foiled again as price tumbles back to $86,000, giving up CPI gains and more",
+        "Bitcoin's 'realized cap' holds at record high over $1 trillion, casting doubt on four-year cycle",
+        "U.S. SEC aids brokers on crypto custody, looks more closely at ATS activity"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "SEC intensifies scrutiny of crypto custody and ATS (Alternative Trading Systems)",
+        "Bitcoin price correction following CPI data release"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin experienced a sharp pullback to $86,000 after softer-than-expected inflation data failed to spark a rally, indicating bearish momentum. The SEC's increased focus on crypto custody and trading systems adds regulatory uncertainty. While Bitcoin's realized cap remains strong, the market reaction suggests short-term weakness. Regulatory developments and macroeconomic data are driving the current sentiment."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Why Bitcoin's popular narratives don't match the data: James Check on 2026",
+        "Intuit to use Circle's stablecoin for financial platforms",
+        "SoFi rolls out US dollar stablecoin issued by bank subsidiary"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "SoFi launches a US dollar stablecoin via its bank subsidiary",
+        "Intuit adopts Circle's stablecoin for financial platforms",
+        "Former SEC counsel discusses RWAs compliance (regulatory context)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent developments include institutional adoption of stablecoins by SoFi and Intuit, signaling growing acceptance in traditional finance. Regulatory insights from former SEC counsel suggest ongoing scrutiny of crypto compliance. While not directly bullish or bearish, these moves reflect steady institutional integration, with moderate market impact expected."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Crypto Treasuries Attract $2.6 Billion in Institutional Capital, Led by Starbucks Bitcoin Buys",
+        "Over $2 Billion in Crypto Swiped by North Korean Hackers in 2025: Chainalysis",
+        "SoFi Set to Launch Stablecoin on Ethereum"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Institutional adoption of Bitcoin via corporate treasuries (Starbucks)",
+        "SoFi's stablecoin launch on Ethereum (adoption and infrastructure development)",
+        "North Korean crypto thefts indicating ongoing security risks and potential regulatory scrutiny"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The top headlines indicate strong institutional interest in Bitcoin through corporate treasury allocations, with Starbucks leading a major capital inflow. This is bullish for BTC price action. Additionally, SoFi’s stablecoin launch signals growing fintech adoption, supporting broader crypto ecosystem growth. While North Korean thefts highlight systemic risks, they also underscore demand and activity in the space. The combination of institutional moves and new product launches suggests momentum favoring long-term holders."
+    }
+  ]
+}

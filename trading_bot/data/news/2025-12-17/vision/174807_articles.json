@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-17T17:48:07.351289",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin re-takes $90,000 as price spikes early in U.S. session",
+        "Bitcoin shorts scramble for the exits as BTC climbs",
+        "Hut 8 and Coinbase outperform as Crypto stocks jump on bitcoin's sudden rally"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin price surge to $90,000 driven by aggressive spot buying",
+        "Institutional players (Hut 8, Coinbase) show strong performance amid crypto rally",
+        "Fed's $40 billion bill purchase potentially impacting crypto market sentiment"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Bitcoin has reclaimed $90,000 with strong intraday momentum, driven by aggressive spot buying and a wave of short covering. Institutional stocks like Hut 8 and Coinbase are rallying, signaling bullish sentiment. The Fed's recent large-scale bond purchase is being interpreted as a potential catalyst for risk-on behavior in crypto markets. This is breaking news with high urgency and significant market impact."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Did Bitcoin's 4-year cycle break, and is the bull market really over?",
+        "How YouTube's stablecoin payouts could change creator monetization",
+        "Securitize announces 'real' tokenized stocks, touts DeFi integration"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "Regulatory consultation on crypto rules by UK regulator for exchanges, lending, and DeFi",
+        "Securitize launching tokenized stocks with DeFi integration",
+        "Web3 Antivirus detecting $563k DeFi loss due to phishing"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news features a mix of regulatory developments, institutional innovation in tokenization, and security threats in DeFi. While there is no immediate catalyst like an ETF approval or major hack, the regulatory scrutiny and new tokenization efforts suggest evolving market dynamics. The headline questioning Bitcoin’s cycle signals uncertainty, but lacks confirmation of trend reversal. Overall, sentiment remains neutral with moderate implications for trading."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Treasury KindlyMD Risks Nasdaq Delisting as Stock Price Craters",
+        "Trump 'Open' to Democrats at SEC, CFTC in Possible Boon to Crypto Market Structure Bill",
+        "Social Media Influencers in H--- Face Charges for Promoting $206 Million in Losses"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "Regulatory development: SEC/CFTC market structure bill discussion under Trump administration",
+        "Adoption risk: Social media influencer fraud case impacting crypto marketing credibility",
+        "Market risk: Bitcoin treasury company facing delisting due to stock price decline"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed signals in the crypto space: regulatory optimism from potential bipartisan cooperation at SEC/CFTC, but offset by risks from influencer-driven scams and corporate governance issues affecting Bitcoin-related firms. No immediate catalysts are present, but ongoing regulatory discussions could be impactful."
+    }
+  ]
+}

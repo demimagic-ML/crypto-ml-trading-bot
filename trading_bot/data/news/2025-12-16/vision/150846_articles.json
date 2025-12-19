@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-16T15:08:46.830234",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slump deepens as most of top 100 tokens fall below key trading signals",
+        "U.S. bitcoin, ether ETFs see largest outflows since Nov. 20 as BTC declines",
+        "Crypto bank Custodia files petition for a rehearing by all appellate judges"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "ETF outflows: U.S. Bitcoin and Ether ETFs experience largest outflows since November 2023",
+        "Regulatory development: UK regulators start major consultation on crypto listings, DeFi, and staking",
+        "Legal challenge: Crypto bank Custodia seeks rehearing in appeal against state banking authority ruling"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The market is showing signs of bearish momentum with significant ETF outflows, declining BTC price, and negative sentiment across top tokens. Regulatory developments in the UK and legal challenges from custodial banks add uncertainty. The combination of institutional withdrawal and regulatory scrutiny suggests a high-risk environment, warranting caution or defensive positioning."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Solana under 'industrial scale' DDoS attack: Co-founder says it's 'bullish'",
+        "Crypto exchange turns 2025 into a year of innovation milestones",
+        "Custodia renews bid for Fed master account in rehearing push at Tenth Circuit"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "Solana DDoS attack (potential network resilience test)",
+        "Custodia's renewed legal push for Fed master account (regulatory development)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The latest news highlights a major DDoS attack on Solana, which the co-founder interprets as bullish—suggesting strong network resilience. Meanwhile, Custodia's continued effort to gain access to a Fed master account signals ongoing institutional interest in crypto infrastructure. The regulatory and security developments are noteworthy but not yet decisive. No ETF approvals or major hacks are reported. Overall sentiment is neutral with mixed implications."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's New Entrants Face the Bite as Whales Retreat",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin",
+        "Why President Trump Had the Most Impact on Bitcoin and Crypto"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "Institutional move: Grayscale comments on quantum computing threat",
+        "Political influence: President Trump's impact on crypto markets discussed"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed signals in the crypto market, with institutional commentary downplaying quantum threats while noting whale activity shifts. Political influence remains a key narrative, but no major regulatory or adoption events are reported. No ETF approvals, hacks, or large-scale institutional inflows detected."
+    }
+  ]
+}

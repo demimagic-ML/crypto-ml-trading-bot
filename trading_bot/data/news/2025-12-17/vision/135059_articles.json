@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-17T13:50:59.006172",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Crypto Markets Today: Bitcoin drifts lower as bearish trend persists",
+        "How China's strengthening yuan could support bitcoin prices",
+        "Bitcoin long term holder supply hits 8 month low, breaking historical cycle patterns"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.9,
+      "events": [
+        "Bitcoin long-term holder supply hitting an 8-month low, indicating potential selling pressure",
+        "China's strengthening yuan potentially supporting BTC prices (macroeconomic influence)",
+        "No ETF or regulatory announcements detected"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is experiencing a bearish trend with recent price declines and reduced long-term holder supply, signaling increased selling pressure. While macro factors like China's yuan may offer some support, the dominant narrative is negative. The market is reacting to ongoing weakness, with no major bullish catalysts present. This represents high-impact breaking news for traders."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin institutional buys flip new supply for the first time in 6 weeks",
+        "KuCoin taps Tomorrowland festivals as MiCA-era on-ramp for European fans",
+        "Polymarket shows stronger retention than most DeFi, wallets and exchanges"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Institutional Bitcoin buying activity resumes after 6-week pause",
+        "Regulatory developments (MiCA) influencing exchange adoption in Europe",
+        "UK regulator consults on crypto rules for exchanges, lending and DeFi"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights a resurgence in institutional Bitcoin demand, regulatory clarity efforts in Europe and the UK, and growing adoption via major events like Tomorrowland. These signals point to bullish momentum driven by both market dynamics and policy shifts."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin in Focus as Stock and Options Contracts Expire on Friday",
+        "Bhutan Pledges 10,000 Bitcoin Worth $1B to Fund Mindfulness City",
+        "Visa Expands Stablecoin Pilot with US Settlements via Solana"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin options and stock contracts expiring (potential volatility event)",
+        "Bhutan's institutional commitment of 10,000 BTC for a mindfulness city project (institutional adoption)",
+        "Visa expanding stablecoin pilot using Solana (adoption by major financial institution)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "The top news highlights significant institutional interest in Bitcoin and crypto adoption, including Bhutan’s large BTC allocation and Visa’s expansion into stablecoin settlements. Combined with Bitcoin options expiry, these events create a bullish catalyst. The regulatory and adoption signals suggest strong market momentum."
+    }
+  ]
+}

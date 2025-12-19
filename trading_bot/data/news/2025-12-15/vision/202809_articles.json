@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-15T20:28:09.516901",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Plunges Below $87K as Crypto Weakness Worsens",
+        "Hedera Slides to Lowest Point in a Year as Crypto Market Plunges",
+        "BNB falls below key support as crypto market cap slips toward $3 trillion"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.75,
+      "confidence": 0.9,
+      "events": [
+        "Crypto market capitulation with Bitcoin dropping below $87K",
+        "BNB breaking key support level, signaling broader market weakness",
+        "Hedera hitting year-low amid broad sell-off"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The crypto market is experiencing a significant downturn with Bitcoin falling below $87K, BNB breaching key support, and Hedera hitting a yearly low. The overall sentiment is strongly bearish, driven by widespread selling pressure across major assets. This appears to be breaking news with high market impact, suggesting a potential continuation of downside momentum."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin parabola breakdown raises chance for 80% correction: Veteran trader",
+        "Digital asset ETPs post third straight week of net inflows, led by US demand",
+        "Trump-backed American Bitcoin flips ProCap in corporate BTC treasury race"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin price correction warning from veteran trader",
+        "Third consecutive week of net inflows into digital asset ETPs",
+        "Corporate BTC treasury race involving Trump-backed American Bitcoin"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The top headlines indicate a mix of bearish technical warnings about Bitcoin and bullish institutional activity. A veteran trader warns of an 80% correction, signaling strong bearish sentiment. However, digital asset ETPs show sustained institutional inflows, indicating ongoing demand. The emergence of a corporate BTC treasury race adds potential adoption tailwinds. While the market shows signs of institutional interest, the dominant narrative is caution due to overextension in Bitcoin's price. Breaking news on potential corrections suggests immediate risk."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin, Ethereum and XRP Fall to Lowest Prices in a Week as Liquidations Surge",
+        "JPMorgan Introduces Ethereum-Based MONY Fund",
+        "SEC and OCC Actions Signal Regulation of Tokenized Assets Could Be on the Horizon"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "JPMorgan launches Ethereum-based MONY fund (institutional adoption)",
+        "SEC and OCC actions signal potential regulatory crackdown on tokenized assets"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Market sentiment is bearish due to a sharp drop in Bitcoin, Ethereum, and XRP prices amid rising liquidations. However, there is institutional interest with JPMorgan launching an Ethereum-based fund. Regulatory scrutiny from SEC and OCC adds uncertainty, which could lead to further volatility. The combination of price drops and regulatory news suggests caution, making it a high-impact moment for traders."
+    }
+  ]
+}

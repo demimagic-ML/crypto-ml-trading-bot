@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-19T06:27:50.992645",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin jumps above $87,000, yen slides as Bank of Japan hikes interest rates",
+        "Senate confirms Trump crypto-friendly nominees to take over CFTC, FDIC",
+        "Alcoins plunge as bitcoin's $85,000 test triggers $550 million in liquidations"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.85,
+      "events": [
+        "Bank of Japan raises interest rate to 0.75%, impacting global risk assets and strengthening Bitcoin",
+        "Senate confirmation of Trump-aligned crypto-friendly nominees for CFTC and FDIC, signaling potential regulatory easing",
+        "Bitcoin testing $85,000 resistance leading to significant liquidations across altcoins"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Bitcoin surged past $87,000 amid a hawkish BoJ rate hike, while the Senate confirmed pro-crypto regulators for key U.S. financial agencies. This combination of macro strength and favorable regulatory signals supports bullish momentum. However, altcoin weakness suggests caution on broader market exposure."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "SEC flags Bitcoin miner hosting services as subject to securities laws",
+        "Crypto market cap falls to 8-month low, analysts see more pain ahead",
+        "Raoul Pal says capital rotation could be fuelling Zcash boom"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "SEC regulatory action on Bitcoin mining services",
+        "Market cap reaching an 8-month low",
+        "Institutional commentary on capital rotation into Zcash"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Recent headlines highlight regulatory scrutiny from the SEC targeting Bitcoin mining infrastructure, combined with a significant drop in overall crypto market cap, signaling bearish sentiment. While there is some speculative interest in Zcash due to capital rotation, the dominant theme is regulatory pressure and market weakness. The SEC news is particularly impactful due to potential compliance costs and uncertainty for miners. Market cap hitting an 8-month low suggests broader sell-off pressure."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Cardano's Hoskinson Criticizes Trump's Crypto Involvement, Says It Risk Industry Bipartisan Efforts",
+        "Intuit Partners With Circle to Integrate USDC Across TurboTax, QuickBooks",
+        "European Central Bank Says It's Ready to Move on Digital Euro"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.2,
+      "confidence": 0.7,
+      "events": [
+        "Institutional adoption: Intuit partnering with Circle to integrate USDC into TurboTax and QuickBooks",
+        "Regulatory development: ECB signaling readiness for Digital Euro implementation"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed signals in the crypto space: regulatory progress from the ECB on a digital euro, institutional adoption via Intuit’s USDC integration, and political commentary from Cardano’s founder that may affect bipartisan support. While not breaking news, these developments suggest moderate market impact, particularly around stablecoin adoption and central bank digital currency (CBDC) momentum."
+    }
+  ]
+}

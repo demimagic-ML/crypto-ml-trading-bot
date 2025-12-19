@@ -1,0 +1,23 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": 0.16666666666666666,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 22,
+  "headlines": [
+    "UK crypto ownership dropped to 8% in 2025: YouGov poll",
+    "Bitcoin liquidity ‘battle’ rages as bull case sees clear run to $95K",
+    "Crypto’s ‘super app’ race is on as industry enters aggregation era: Report",
+    "Here’s what happened in crypto today",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank"
+  ],
+  "events": [
+    "U.S. FDIC proposes first U.S. stablecoin rule under GENIUS Act (regulatory development)",
+    "JPMorgan launches its first tokenized money market fund on Ethereum",
+    "Tether's $8M investment in Speed to expand USDT adoption (institutional move)",
+    "Web3 Antivirus detects $563k DeFi loss after phishing approval during Aave and Compound...",
+    "Grayscale addressing quantum computing threat (long-term risk discussion)",
+    "PayPal seeking industrial bank status (institutional adoption)"
+  ],
+  "timestamp": "2025-12-16T18:56:00.253309"
+}

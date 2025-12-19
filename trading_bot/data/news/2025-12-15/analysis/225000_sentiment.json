@@ -1,0 +1,25 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": -0.15,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 21,
+  "headlines": [
+    "Bitcoin drops under $86K as $2.78B in BTC whale selling overwhelms active dip buyers",
+    "Price predictions 12/15: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH",
+    "Bitcoin parabola breakdown raises chance for 80% correction: Veteran trader",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Tokenization expansion: Ondo Finance launching tokenized stocks and ETFs on Solana",
+    "Bitcoin price drop below $86K indicating market weakness",
+    "Institutional adoption: Anchorage Digital acquires advisory SaaS platform",
+    "Stablecoin expansion: Ripple expanding RLUSD across multiple blockchains",
+    "Adoption: Bitget launches TradFi-style trading with USDT-based derivatives (forex, gold, stocks)",
+    "Regulatory warning from U.S. SEC chief on surveillance of crypto",
+    "UK Supreme Court decision limiting BSV's legal challenge against exchanges",
+    "Institutional move: Anchorage Digital acquires a unit of Securitize to expand its RIA services"
+  ],
+  "timestamp": "2025-12-15T22:50:00.158289"
+}

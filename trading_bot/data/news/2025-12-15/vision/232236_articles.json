@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-15T23:22:36.103865",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin plunges below $86,000 as crypto weakness worsens",
+        "Crypto's 'Best Days Are Ahead': Tom Lee's Bitmine Immersion Adds $320M of Ether",
+        "U.S. SEC chief warns watchdogs need to be limited in tapping crypto's power to swoop"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.75,
+      "confidence": 0.9,
+      "events": [
+        "Bitcoin price drop below $86,000",
+        "SEC warning on regulatory overreach in crypto",
+        "Tom Lee's $320M ETH investment via Bitmine Immersion"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin has broken below $86,000 amid broader crypto market weakness, signaling a bearish trend. While institutional interest remains (e.g., Tom Lee’s $320M ETH investment), regulatory concerns from the U.S. SEC add uncertainty. The market is reacting negatively to technical breakdowns and macro risks, making this a high-impact breaking event. Traders should consider selling or reducing exposure."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin drops under $86K as $2.78B in BTC whale selling overwhelms active dip buyers",
+        "SEC 'eased up on' 60% of crypto enforcement cases under Trump: Report",
+        "Anchorage Digital deepens RIA market push by acquiring unit of Securitize"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "SEC regulatory easing under Trump (historical context)",
+        "Anchorage Digital acquires RIA unit of Securitize (institutional adoption)",
+        "BTC whale selling pressure ($2.78B outflow)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is under downward pressure due to a massive $2.78B sell-off from whales, which is overwhelming buying interest. Regulatory news suggests potential future easing but lacks immediate impact. Institutional move by Anchorage Digital signals long-term adoption, but short-term bearish momentum dominates. This breaking news indicates high urgency for defensive positioning."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Ethereum Treasury Firm BitMEX ETH Stash Above $12 Billion: Latest Buy",
+        "Ripple Expanding RLUSD From XRP Ledger and Ethereum",
+        "Anchorage Digital Acquires SaaS for Advisors"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Institutional adoption: Anchorage Digital acquires advisory SaaS, indicating growing institutional infrastructure in crypto",
+        "Tokenization expansion: Ondo Finance plans to roll out tokenized stocks, ETFs on Solana",
+        "Stablecoin expansion: Ripple expanding RLUSD across XRP Ledger and Ethereum networks"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent headlines highlight strong institutional momentum with Anchorage’s acquisition, stablecoin expansion by Ripple, and tokenization initiatives by Ondo Finance. The ETH treasury activity suggests bullish sentiment from major players. These developments point to increased adoption and infrastructure growth, supporting a bullish outlook."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "fetch_time": "2025-12-18T23:05:58.557644",
+  "source_type": "rss_feeds",
+  "count": 4,
+  "articles": [
+    {
+      "source": "cointelegraph.com",
+      "title": "Bitcoin trips at $90K despite CPI showing curbed US inflation: What gives?",
+      "published": "Thu, 18 Dec 2025 19:57:22 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin trips at $90K despite CPI showing curbed US inflation: What gives?\" src=\"https://images.cointelegraph.com/images/528_aHR",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Why the ‘great China Bitcoin mining crackdown’ fell short of early claims",
+      "published": "Thu, 18 Dec 2025 19:25:00 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Why the ‘great China Bitcoin mining crackdown’ fell short of early claims\" src=\"https://images.cointelegraph.com/images/528_aHR0",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Bitcoin Policy Institute reps sound alarm on de minimis tax exclusion",
+      "published": "Thu, 18 Dec 2025 19:05:35 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin Policy Institute reps sound alarm on de minimis tax exclusion\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Why Bitcoin’s popular narratives don’t match the data: James Check on 2026",
+      "published": "Thu, 18 Dec 2025 18:25:00 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Why Bitcoin’s popular narratives don’t match the data: James Check on 2026\" src=\"https://images.cointelegraph.com/images/528_aHR",
+      "type": "crypto"
+    }
+  ]
+}

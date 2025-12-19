@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-17T18:23:12.187351",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin tumbles back below $88,000 as gains evaporate as quickly as they formed",
+        "Bitcoin shorts scramble for the exits as BTC climbs",
+        "Robinhood looks better placed than Coinbase for prediction-market upside, Mizuho says"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.9,
+      "events": [
+        "Bitcoin price drop below $88,000 after brief rally",
+        "Institutional interest: Robinhood vs Coinbase positioning in crypto markets",
+        "Federal Reserve's $40 billion bill buy potentially impacting crypto market liquidity"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin has dropped below $88,000 after a short-lived rally, with bearish momentum emerging due to macroeconomic factors and institutional positioning shifts. The Fed’s large-scale bond purchases may be contributing to market volatility. Robinhood is seen as outperforming Coinbase in crypto adoption, indicating potential institutional tailwinds. However, the breaking news of Bitcoin’s reversal suggests a near-term sell-off, especially given the 'buy the rumor, sell the news' dynamic."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin tags $90K as crypto market spike liquidates $120M shorts",
+        "Kyrgyzstan's USDKG shows how real-asset stablecoins are evolving in emerging markets",
+        "How YouTube's stablecoin payouts could change creator monetization"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin price surge to $90K triggering liquidations",
+        "YouTube testing stablecoin payouts for creators (adoption)",
+        "Regulatory consultation on crypto rules by UK regulator"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is surging toward $90K, triggering massive short liquidations, signaling strong bullish momentum. Emerging adoption of stablecoins in new markets and YouTube's stablecoin payout experiment suggest growing institutional interest. Regulatory consultations from the UK add potential future compliance clarity. This combination of breaking price action and adoption news supports a strong buy signal."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8's Stock Soars After Inking $7 Billion Google-Backed AI Deal",
+        "Bitcoin Treasury KindlyMD Risks Nasdaq Delisting as Stock Price Craters",
+        "FDIC Opens Comment Period for Rule Proposal on Handling Stablecoin Issuer Applications"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "Hut 8 secures a $7 billion AI deal with Google, driving stock surge (institutional adoption)",
+        "FDIC proposes rule for stablecoin issuer applications (regulatory development)",
+        "KindlyMD faces Nasdaq delisting risk due to falling stock price (potential negative market signal)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The top news highlights institutional adoption of crypto through Hut 8’s major AI deal with Google, which is bullish for Bitcoin mining and tech integration. Regulatory developments from the FDIC on stablecoins add clarity and potential long-term support. However, a negative signal comes from KindlyMD’s delisting risk, indicating volatility in crypto-related equities. The overall sentiment leans bullish due to high-profile institutional moves."
+    }
+  ]
+}

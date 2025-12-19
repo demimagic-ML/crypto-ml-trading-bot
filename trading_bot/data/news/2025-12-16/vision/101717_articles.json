@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-16T10:17:17.950942",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's bearish turn deepens as 75 out of top 100 coins trade below key averages; Nasdaq resilient",
+        "Axelar token falls 15% after Circle deal takes the developer team, leaves AXL behind",
+        "ARK steps in as crypto stocks extend multi-day selloff"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.9,
+      "events": [
+        "Bitcoin and top 100 cryptocurrencies trading below key technical averages",
+        "Circle's acquisition of Axelar team impacting AXL token price",
+        "ARK Investment firm entering crypto market amid broader selloff"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin and a majority of top cryptocurrencies are experiencing a bearish trend with key averages being breached, signaling widespread weakness. Institutional players like ARK are involved, but their entry comes amid a selloff, not strength. The Circle-Axelar development adds volatility to altcoins. This is breaking news with significant market impact due to broad technical breakdowns and institutional activity during a downturn."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin sharks stack at the fastest pace in 13 years, with BTC down 30%",
+        "Most crypto sectors lagged Bitcoin over past 3 months: Glassnode",
+        "Ripple pilots RLUSD on Ethereum L2s in multichain push"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.8,
+      "events": [
+        "Ripple launches RLUSD pilot on Ethereum L2s (adoption)",
+        "Bitcoin accumulation at record pace despite price drop (institutional behavior)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Bitcoin is seeing accelerated accumulation despite a 30% price decline, indicating potential long-term institutional interest. However, broader crypto markets are underperforming Bitcoin, suggesting sector-wide weakness. Ripple's RLUSD pilot on Ethereum L2s marks a significant step in stablecoin adoption across chains. The overall sentiment leans bearish due to market underperformance and recent volatility, but accumulation signals possible future bullish momentum."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Sinks Towards $85,000 as Ethereum, XRP Fall Alongside",
+        "Why President Trump Had the Biggest Impact on Bitcoin and Crypto in 2025",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.75,
+      "events": [
+        "Bitcoin price decline toward $85,000",
+        "President Trump's influence on crypto market in 2025",
+        "Institutional concern over quantum computing threat to Bitcoin"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is experiencing a notable drop near $85,000 amid broader crypto weakness, including Ethereum and XRP. While institutional players like Grayscale are downplaying long-term threats (e.g., quantum computing), political commentary from President Trump has had a significant impact on market sentiment. This combination of macro price action and political influence suggests a bearish short-term trend with high urgency for traders to reassess exposure."
+    }
+  ]
+}

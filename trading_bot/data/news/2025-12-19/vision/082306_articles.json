@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-19T08:23:06.887621",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin jumps above $87,000, yen slides as Bank of Japan hikes interest rates",
+        "Crypto breaks higher as BOJ decision clears a macro overhang",
+        "Senate confirms Trump crypto-friendly nominees to take over CFTC, FDIC"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.9,
+      "events": [
+        "Bank of Japan raises short-term policy rate to 0.75% (highest in ~30 years)",
+        "Confirmation of crypto-friendly nominees to lead CFTC and FDIC under Trump administration",
+        "Institutional interest in Ripple-linked assets remains strong despite limited overall participation"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Bitcoin surged above $87,000 following the Bank of Japan's interest rate hike, which boosted risk appetite and reduced yen strength. Simultaneously, confirmation of crypto-friendly regulators at the CFTC and FDIC signals potential regulatory tailwinds. These developments represent major macro and institutional catalysts driving bullish momentum in crypto markets."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Crypto market cap falls to 8-month low, analysts see more pain ahead",
+        "How cheap power turned Libya into a Bitcoin mining hotspot",
+        "US Senate confirms pro-crypto Selig to lead CFTC, Hill to head FDIC"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.9,
+      "events": [
+        "US Senate confirms pro-crypto Selig to lead CFTC",
+        "Crypto market cap reaches 8-month low",
+        "Libya emerging as a Bitcoin mining hotspot due to cheap electricity"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The crypto market is experiencing downward pressure with market cap hitting an 8-month low, signaling bearish sentiment. However, there is positive regulatory news with a pro-crypto figure confirmed to lead the CFTC, which could be a long-term bullish catalyst. In the short term, however, the dominant narrative is bearish due to market downturns and lack of momentum."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Solana Developers Test Quantum-Resistant Cryptography to Prepare for Future Risks",
+        "Cardano's Hoskinson Criticizes Trump's Crypto Involvement, Says It Risks Industry Bipartisan Efforts",
+        "Intuit Partners With Circle to Integrate USDC Across TurboTax, QuickBooks"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "Institutional adoption: Intuit partnering with Circle to integrate USDC into TurboTax and QuickBooks",
+        "Regulatory/political risk: Charles Hoskinson criticizing political involvement in crypto, potentially affecting bipartisan support",
+        "Security/technology development: Solana testing quantum-resistant cryptography, indicating long-term security planning"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights a mix of technological advancement (Solana’s quantum resistance), regulatory concerns (Hoskinson’s critique of political interference), and institutional adoption (Intuit-USDC integration). While the Intuit partnership signals growing mainstream acceptance, it is not yet a breaking event. No major ETF approvals, hacks, or regulatory rulings are present. The overall tone is neutral with moderate implications for market sentiment."
+    }
+  ]
+}

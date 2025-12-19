@@ -1,0 +1,35 @@
+{
+  "fetch_time": "2025-12-15T21:25:44.888180",
+  "source_type": "rss_feeds",
+  "count": 4,
+  "articles": [
+    {
+      "source": "cointelegraph.com",
+      "title": "Price predictions 12/15: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH",
+      "published": "Mon, 15 Dec 2025 19:10:00 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 12/15: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH\" src=\"https://images.cointelegraph.com/images/528_aHR",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Bitcoin parabola breakdown raises chance for 80% correction: Veteran trader",
+      "published": "Mon, 15 Dec 2025 18:05:00 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin parabola breakdown raises chance for 80% correction: Veteran trader\" src=\"https://images.cointelegraph.com/images/528_aH",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Trump-backed American Bitcoin flips ProCap in corporate BTC treasury race",
+      "published": "Mon, 15 Dec 2025 17:24:53 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump-backed American Bitcoin flips ProCap in corporate BTC treasury race\" src=\"https://images.cointelegraph.com/images/528_aHR0",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "How Bitcoin whales move markets, and the signals to ignore",
+      "published": "Mon, 15 Dec 2025 17:10:46 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"How Bitcoin whales move markets, and the signals to ignore\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2l",
+      "type": "crypto"
+    }
+  ]
+}

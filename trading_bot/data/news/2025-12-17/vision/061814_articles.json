@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-17T06:18:14.049014",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says",
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+        "Why XRP’s drop below $1.93 shifts short-term market structure"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.2,
+      "confidence": 0.8,
+      "events": [
+        "U.S. FDIC proposes first U.S. stablecoin regulation under GENIUS Act",
+        "Bitcoin price bounce after sharp dip, with analysts cautioning on potential retest of $80K support"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Bitcoin shows signs of recovery from recent lows, but analysts warn of continued volatility near $80K. Regulatory developments involving the FDIC's proposed stablecoin rules are emerging as a key macro factor. Meanwhile, XRP continues to face downward pressure following failed breakout attempts. The overall sentiment is mixed, with regulatory news potentially causing significant market moves in the coming days."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Exodus, MoonPay to roll out stablecoin in early 2026, joining gold rush",
+        "US government 'tech force' gets backup from Coinbase, Robinhood",
+        "Aave founder outlines 2026 'master plan' after end to SEC probe"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory development: UK regulator consults on crypto rules for exchanges, lending and DeFi",
+        "Institutional adoption: US government tech force backed by Coinbase and Robinhood",
+        "Adoption: Exodus and MoonPay planning stablecoin launch in 2026"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights growing institutional support for crypto (Coinbase, Robinhood backing US tech force), regulatory developments in the UK, and major adoption signals with Exodus and MoonPay preparing a stablecoin rollout. The Aave founder's roadmap post-SEC resolution also suggests market stabilization and confidence. These developments collectively signal bullish momentum, especially in adoption and regulatory clarity."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Actors, Creators Launch Coalition to Push AI Rules Amid Ongoing Strike",
+        "Why Bitwise Expects New Bitcoin Highs in 2026—And the End of the 4-Year Cycle",
+        "Visa Expands Stablecoin Pilot for US Settlements via Solana"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Visa expands stablecoin pilot using Solana for US settlements (adoption)",
+        "Bitwise's bullish outlook on Bitcoin reaching new highs in 2026 (institutional sentiment)"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "BUY",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights institutional and adoption-driven developments in crypto, including Visa's expansion into Solana-based stablecoin settlements and Bitwise’s optimistic forecast for Bitcoin. While not breaking, these signals reflect growing institutional interest and infrastructure development, supporting a bullish narrative."
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "fetch_time": "2025-12-17T23:38:51.906015",
+  "source_type": "macro_news",
+  "count": 15,
+  "articles": [
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+      "published": "Wed, 17 Dec 2025 21:00:00 GMT",
+      "summary": "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+      "published": "Tue, 16 Dec 2025 16:00:00 GMT",
+      "summary": "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "published": "Mon, 15 Dec 2025 16:00:00 GMT",
+      "summary": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "published": "Mon, 15 Dec 2025 16:00:00 GMT",
+      "summary": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
+      "published": "Thu, 11 Dec 2025 22:00:00 GMT",
+      "summary": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC",
+      "published": "Thu, 11 Dec 2025 22:00:00 GMT",
+      "summary": "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve Board announces reappointment of Reserve Bank presidents and first vice presidents",
+      "published": "Thu, 11 Dec 2025 21:00:00 GMT",
+      "summary": "Federal Reserve Board announces reappointment of Reserve Bank presidents and first vice presidents",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve Board announces termination of enforcement actions with Credit Suisse Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., Credit Suisse AG, New York Branch, and JPMorgan Chase & Co.",
+      "published": "Thu, 11 Dec 2025 16:00:00 GMT",
+      "summary": "Federal Reserve Board announces termination of enforcement actions with Credit Suisse Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., Credit Suisse AG, New York Branch, and JPMorgan Chase &amp; Co.",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve issues FOMC statement",
+      "published": "Wed, 10 Dec 2025 19:00:00 GMT",
+      "summary": "Federal Reserve issues FOMC statement",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
+      "published": "Wed, 10 Dec 2025 19:00:00 GMT",
+      "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "cnbc_markets",
+      "title": "Prediction markets could hit a trillion dollars in trading volume by the end of this decade, new report says",
+      "published": "Wed, 17 Dec 2025 20:32:34 GMT",
+      "summary": "Sports is fueling the growth in prediction markets and is forecasted to make up 44% of volume as the industry matures, according to new research.",
+      "type": "macro",
+      "is_fed": false
+    },
+    {
+      "source": "cnbc_markets",
+      "title": "Tricolor CEO received a $6.25 million bonus weeks before company’s bankruptcy, prosecutors say",
+      "published": "Wed, 17 Dec 2025 18:49:59 GMT",
+      "summary": "Tricolor's collapse was one of a string of defaults that churned the U.S. banking industry this fall, sparking concerns over risks in the financial system.",
+      "type": "macro",
+      "is_fed": false
+    },
+    {
+      "source": "cnbc_markets",
+      "title": "WBD tells shareholders Netflix deal is superior to Paramount offer: 'It was not a hard choice,' chairman tells CNBC",
+      "published": "Wed, 17 Dec 2025 17:17:21 GMT",
+      "summary": "Paramount launched a hostile bid for WBD, taking a $30-per-share, all-cash offer directly to shareholders.",
+      "type": "macro",
+      "is_fed": false
+    },
+    {
+      "source": "cnbc_markets",
+      "title": "Consumers are feeling gloomy about the economy. Here's why they're spending anyway",
+      "published": "Tue, 16 Dec 2025 20:54:58 GMT",
+      "summary": "Consumer sentiment is low and the job market is shaky. Shoppers are still spending during the holidays.",
+      "type": "macro",
+      "is_fed": false
+    },
+    {
+      "source": "cnbc_economy",
+      "title": "Watch Fed Governor Christopher Waller speak on interest rates and the race to succeed Powell",
+      "published": "Wed, 17 Dec 2025 13:39:38 GMT",
+      "summary": "Waller is one of the five finalists considered for to replace Fed Chairman Jerome Powell when his term expires in May.",
+      "type": "macro",
+      "is_fed": false
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-16T19:12:55.886316",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says",
+        "Tether leads $8 million investment in Speed to push USDT further into everyday payments",
+        "CoreWeave collapse sparks fears of cracks in AI infrastructure boom"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.8,
+      "events": [
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act (regulatory)",
+        "Tether invests $8 million in Speed for USDT adoption (institutional adoption)",
+        "CoreWeave collapse raises concerns about AI infrastructure stability (market risk)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Mixed signals in crypto markets: Bitcoin shows short-term rebound after sharp drop, with analysts warning of possible downside below $80K. Regulatory developments from the FDIC on stablecoins could impact market structure. Institutional move by Tether into Speed suggests continued USDT adoption growth. However, CoreWeave’s collapse raises broader systemic risks in AI and infrastructure sectors, potentially affecting crypto mining and cloud computing demand. Overall sentiment is neutral due to conflicting bullish momentum and bearish structural risks."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin liquidity 'battle' rages as bull case sees clear run to $95K",
+        "UK crypto ownership dropped to 8% in 2025: YouGov poll",
+        "Solana enters Brazil's main exchange as Valour expands regulated crypto access"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "Solana's expansion into Brazil's main exchange (adoption)",
+        "JPMorgan launches first tokenized money market fund on Ethereum (institutional move)",
+        "Web3 Antivirus detects $563k DeFi loss due to phishing (security risk)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights institutional adoption (JPMorgan, Solana in Brazil) and bullish sentiment around Bitcoin reaching $95K, while also warning of security risks in DeFi. The combination of regulatory-friendly moves and strong market narratives supports a bullish outlook with high urgency for traders."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's New Entrants Face the Bite as Whales Retreat",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin",
+        "Why President Trump Says He Will Be Pardoning Samourai Wallet CEO"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "Institutional interest in Bitcoin remains mixed with whale activity declining",
+        "Quantum computing threat discussed but downplayed by Grayscale",
+        "Potential regulatory shift signaled by presidential pardon mention"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights a mix of institutional caution, technological concerns, and political signals related to crypto. While there are no major breaking developments like ETF approvals or hacks, the tone reflects ongoing uncertainty and strategic positioning among market participants."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-18T07:44:45.975899",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin could drop to $10,000, one analyst says, spelling doom for ETH, ADA, XRP",
+        "Bitcoin drifts lower as $81.3k emerges as the market’s key fault line: Asia Morning Briefing",
+        "CFTC's acting chief Pham poised to go to crypto firm MoonPay once Mike Selig lands"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Regulatory shift: CFTC's acting chief expected to join MoonPay, signaling institutional interest in crypto",
+        "Market structure discussion: Crypto industry insiders meet with key senators on market structure bill negotiation"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The market is showing bearish sentiment with Bitcoin facing potential downside to $10,000 per analyst warning, and price action testing a key support at $81.3k. Institutional movement is highlighted by the CFTC official's potential move to MoonPay, which may signal regulatory acceptance but also increased scrutiny. Regulatory discussions with senators add uncertainty. The combination of technical weakness and regulatory overtones suggests caution."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin’s volatility below Nvidia in 2025 as investor base grew: Bitwise",
+        "MSCI’s crypto treasury rules could spur $15B of forced selling",
+        "Crypto ETPs could see a flood of liquidations by 2027: Analyst"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "Regulatory development: MSCI’s new crypto treasury rules may trigger forced selling",
+        "Institutional adoption: Bitcoin’s growing investor base compared to Nvidia",
+        "Market structure risk: Potential flood of ETP liquidations by 2027"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The latest news highlights regulatory and structural risks for the crypto market, including potential forced selling due to MSCI's treasury rules and looming ETP liquidations. While institutional interest in Bitcoin is growing, these systemic risks suggest caution. The breaking nature of MSCI’s rule impact and ETP concerns indicate high urgency and bearish implications for short-term trading."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $7 Billion AI Deal With Google Backing",
+        "Bitcoin Mining Ban in Siberia Extended Indefinitely to Address Power Concerns",
+        "Singapore Entrepreneur Loses Crypto Holdings to Malware Dressed Up as a Game"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "Institutional adoption: Bitcoin miner Hut 8 signs major AI deal with Google backing",
+        "Regulatory/operational: Bitcoin mining ban extended in Siberia due to power concerns",
+        "Security incident: Crypto theft via malware disguised as game"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The top crypto news includes a significant institutional move by Hut 8 with Google, signaling potential long-term demand for Bitcoin mining infrastructure. However, this is offset by regulatory pressure in Siberia and a security breach involving malware targeting crypto holders. While the institutional development is bullish, the other two stories introduce risk and uncertainty. Overall sentiment remains neutral with mixed implications."
+    }
+  ]
+}

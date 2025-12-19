@@ -1,0 +1,25 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.6,
+  "confidence": 0.6,
+  "trading_suggestion": "STRONG_BUY",
+  "news_count": 19,
+  "headlines": [
+    "Crypto ETPs to enter ‘cheesecake factory’ era in 2026: Bitwise",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC"
+  ],
+  "events": [
+    "Institutional adoption: US government tech force supported by Coinbase and Robinhood",
+    "Visa's expansion of stablecoin pilot using Solana (adoption)",
+    "FDIC public comment period on stablecoin issuer rules (regulation)",
+    "HashKey's IPO debut in Hong Kong with 5% drop (adoption/institutional)",
+    "Adoption: Exodus and MoonPay planning stablecoin launch in 2026",
+    "Regulatory development: SEC probe conclusion for Aave",
+    "U.S. FDIC proposes first U.S. stablecoin rule under GENIUS Act (regulatory)",
+    "Potential crypto-friendly leadership at SEC and CFTC under Trump (regulatory optimism)"
+  ],
+  "timestamp": "2025-12-17T05:44:59.708810"
+}

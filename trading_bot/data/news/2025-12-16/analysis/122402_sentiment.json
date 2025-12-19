@@ -1,0 +1,23 @@
+{
+  "sentiment": "BEARISH",
+  "sentiment_score": -0.5166666666666667,
+  "confidence": 0.6,
+  "trading_suggestion": "STRONG_SELL",
+  "news_count": 21,
+  "headlines": [
+    "Bitcoin long-term holder supply hits 8-month lows: Bullish or bearish?",
+    "Bitcoin sharks stack at fastest pace in 13 years, with BTC down 30%",
+    "Most crypto sectors lagged Bitcoin over past 3 months: Glassnode",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "PayPal's pursuit of a chartered bank status for crypto services (institutional adoption)",
+    "Bitcoin ETFs underperforming despite growing institutional interest",
+    "Bitcoin whale accumulation at fastest pace in 13 years",
+    "Gemini launches prediction markets across 50 US states",
+    "Crypto market-wide sell-off amid year-end caution and declining momentum across top 100 coins",
+    "Bitcoin price drop toward $85,000 with ETH and XRP declining (market correction)"
+  ],
+  "timestamp": "2025-12-16T12:24:02.575035"
+}

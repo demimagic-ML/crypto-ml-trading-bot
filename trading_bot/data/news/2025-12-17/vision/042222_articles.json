@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-17T04:22:22.574564",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's massive underperformance to stocks in Q4 bodes well for January, says K33's Lunde",
+        "Bitcoin derivatives point to broad price range play between $85,000-$100,000",
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENTUS Act"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "U.S. FDIC proposes first U.S. stablecoin rule (regulatory development)",
+        "Bitcoin derivatives indicate bullish price target range of $85,000–$100,000",
+        "Institutional interest highlighted via Cantor and MoonPay's stablecoin initiatives"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights a potential bullish reversal for Bitcoin after Q4 underperformance, supported by institutional activity in stablecoins and regulatory progress on U.S. stablecoin rules. Derivatives suggest strong upside momentum toward $100,000. While not yet confirmed ETF or major hack events, regulatory clarity and market positioning signal high near-term potential."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Crypto ETPs to enter 'cheesecake factory' era in 2026: Bitwise",
+        "Tether leads $8M funding for Lightning startup focused on stablecoins",
+        "Aave founder outlines 2026 'master plan' after end to SEC probe"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Crypto ETP (Exchange-Traded Product) development by Bitwise signaling institutional adoption",
+        "SEC probe conclusion for Aave, indicating regulatory clarity progress",
+        "Tether's $8M investment into Lightning Network infrastructure — potential scaling catalyst"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights growing institutional interest in crypto products (ETPs), regulatory relief for major DeFi protocols like Aave, and significant funding into Layer-2 infrastructure. These developments suggest increasing legitimacy and scalability in the ecosystem, with high potential for bullish momentum."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin to Hit $100K in 2026—And the End of the 4-Year Cycle",
+        "Visa Expands Stablecoin Pilot for US Settlements via Solana",
+        "Bitwise CEO Predicts Bitcoin Will Surge Ahead of the Next Halving"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Visa expands stablecoin pilot with Solana for US settlements (adoption)",
+        "Predictions of Bitcoin reaching $100K by 2026 (market sentiment/expectation)"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "BUY",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights bullish sentiment around Bitcoin's future price, driven by institutional predictions and continued adoption through Visa’s stablecoin pilot on Solana. While not breaking news, these developments suggest growing institutional interest and market optimism ahead of the next halving cycle."
+    }
+  ]
+}

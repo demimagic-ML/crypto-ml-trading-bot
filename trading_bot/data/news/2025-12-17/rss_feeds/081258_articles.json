@@ -1,0 +1,35 @@
+{
+  "fetch_time": "2025-12-17T08:12:58.040373",
+  "source_type": "rss_feeds",
+  "count": 4,
+  "articles": [
+    {
+      "source": "cointelegraph.com",
+      "title": "Bhutan pledges 10K Bitcoin to develop its ‘mindfulness city’",
+      "published": "Wed, 17 Dec 2025 06:00:00 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bhutan pledges 10K Bitcoin to develop its ‘mindfulness city’\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Saylor’s Bitcoin stash will be very hard for anyone to match: Pomp",
+      "published": "Wed, 17 Dec 2025 05:44:51 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Saylor’s Bitcoin stash will be very hard for anyone to match: Pomp\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Lightning Network hits record capacity on crypto exchange adoption",
+      "published": "Wed, 17 Dec 2025 05:22:40 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Lightning Network hits record capacity on crypto exchange adoption\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "SAFE Crypto Act will have scammers shaking in their boots: Crypto lawyer",
+      "published": "Wed, 17 Dec 2025 04:30:59 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SAFE Crypto Act will have scammers shaking in their boots: Crypto lawyer\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
+      "type": "crypto"
+    }
+  ]
+}

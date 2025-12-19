@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-16T23:08:43.181930",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's massive underperformance to stocks in Q4 bodes well for January, says K33's Lunde",
+        "Bitcoin derivatives point to broad price range play between $85,000-$100,000",
+        "U.S. Senate's Warren asks for Trump-tied crypto probe as market structure bill drags"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.85,
+      "events": [
+        "Regulatory scrutiny on crypto market structure (Senate inquiry)",
+        "Bitcoin derivatives signaling potential breakout to $100K range"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is showing signs of a potential bullish reversal after underperforming equities in Q4, with analysts predicting a move toward $100,000. Derivatives data supports a broad upside range. Meanwhile, regulatory attention from Senator Warren adds risk but may also signal growing institutional legitimacy. This combination of technical optimism and regulatory momentum suggests a favorable environment for near-term gains."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin treasury Kindly MD faces potential delisting after Nasdaq price notice",
+        "Three reasons trader demand for XRP evaporated: Is $1 next?",
+        "US senator sounds alarm on DeFi, cites PancakeSwap amid market structure delay"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory scrutiny on DeFi platforms (PancakeSwap)",
+        "Potential delisting of Bitcoin ETF or related product from Nasdaq",
+        "SEC-related concerns over crypto privacy tools and exchange rules"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Recent headlines highlight regulatory pressure on DeFi and potential delisting risks for Bitcoin-related products, indicating a bearish sentiment driven by regulatory uncertainty and market structure concerns. The mention of SEC consultation and Nasdaq notices suggests high-impact developments that could trigger volatility."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin and Ethereum ETFs Expected as Institutions Pull Back",
+        "Visa Expands Stablecoin Pilot to Include US Settlements via Solana",
+        "South Korean Government Grants 1.5 Trillion Won in Debt Relief to Crypto Firms"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin and Ethereum ETF approval expected (institutional adoption)",
+        "Visa's stablecoin pilot expansion (adoption by major financial institution)",
+        "South Korea's debt relief for crypto firms (regulatory support)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Multiple bullish catalysts are emerging: potential ETF approvals, Visa's expanded stablecoin use case, and regulatory support from South Korea. These institutional and regulatory developments signal growing legitimacy and adoption, which could drive significant market upside."
+    }
+  ]
+}

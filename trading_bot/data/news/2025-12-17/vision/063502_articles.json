@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-17T06:35:02.557934",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says",
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+        "Eric Trump’s American Bitcoin jumps to 20th among public BTC treasury companies"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "U.S. FDIC proposes new stablecoin regulation under GENIUS Act",
+        "American Bitcoin (BTC treasury company) gains market traction"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent news highlights a mixed market environment: Bitcoin shows signs of recovery after a sharp dip, while regulatory developments around stablecoins are emerging. The FDIC's proposed stablecoin rule is a significant regulatory development that could impact market structure and stability. Meanwhile, institutional activity in BTC treasuries suggests growing adoption. However, no major ETF approvals or hacks were reported, keeping overall sentiment neutral."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "SAFE Crypto Act will have scammers shaking in their boots: Crypto lawyer",
+        "Exodus, MoonPay to roll out stablecoin in early 2026, joining gold rush",
+        "US government 'tech force' gets backup from Coinbase, Robinhood"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory crackdown on crypto scams via SAFE Crypto Act",
+        "Institutional support for stablecoins with Exodus and MoonPay launching in 2026",
+        "US government tech taskforce backed by Coinbase and Robinhood"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights regulatory clarity through the SAFE Crypto Act, institutional adoption of stablecoins by major platforms, and strong backing of crypto infrastructure by US government with support from Coinbase and Robinhood. These developments signal increased legitimacy and adoption, creating a bullish environment for crypto assets."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin to Hit $100K by 2026—Bitwise CEO Predicts Surge Ahead of the Next Halving",
+        "Visa Expands Stablecoin Pilot for US Settlements via Solana, Boosting Adoption",
+        "FDIC Opens Public Comment Period on Handling Stablecoin Issuer Applications"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Visa expands stablecoin pilot using Solana for US settlements (adoption)",
+        "FDIC opens public comment period on stablecoin issuer applications (regulation)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The news highlights bullish macro trends in crypto, including institutional adoption via Visa's Solana-based stablecoin pilot and regulatory developments from the FDIC. Bitwise’s prediction of $100K Bitcoin adds momentum. These are high-impact events with potential for market acceleration."
+    }
+  ]
+}

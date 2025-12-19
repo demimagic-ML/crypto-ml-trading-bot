@@ -1,0 +1,25 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.31666666666666665,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 21,
+  "headlines": [
+    "Saylor’s Bitcoin stash will be very hard for anyone to match: Pomp",
+    "Lightning Network hits record capacity on crypto exchange adoption",
+    "SAFE Crypto Act will have scammers shaking in their boots: Crypto lawyer",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
+  ],
+  "events": [
+    "Regulatory scrutiny on crypto firms (Theta executive fraud accusations)",
+    "Technology advancement: Lightning Network reaches new capacity milestone",
+    "Crypto exchange HashKey's shares fall 5% on trading debut in Hong Kong",
+    "Visa expands stablecoin pilot using Solana for US settlements",
+    "Institutional move: MicroStrategy CEO Michael Saylor’s Bitcoin accumulation highlighted as a benchmark",
+    "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+    "Grayscale outlines top crypto investing themes for 2026 as institutional adoption grows",
+    "Adoption event: Bhutan’s commitment to use 10,000 BTC for infrastructure development"
+  ],
+  "timestamp": "2025-12-17T08:02:09.005430"
+}

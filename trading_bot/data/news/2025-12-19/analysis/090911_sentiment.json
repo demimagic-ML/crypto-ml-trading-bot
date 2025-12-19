@@ -1,0 +1,26 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": 0.06666666666666667,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 22,
+  "headlines": [
+    "US Senate confirms pro-crypto Selig to lead CFTC, Hill to head FDIC",
+    "How cheap power turned Libya into a Bitcoin mining hotspot",
+    "Crypto market cap falls to 8-month low, analysts see more pain ahead",
+    "SEC flags Bitcoin miner hosting services as subject to securities laws",
+    "Federal Reserve Board publishes first of several staff manuals for the supervision of the largest and most complex banks"
+  ],
+  "events": [
+    "SEC lawsuit against third-party Bitcoin mining services (regulatory action)",
+    "Bank of Japan raises short-term policy rate to 0.75% (major macro shift)",
+    "Crypto market cap reaches 8-month low",
+    "US Senate confirms pro-crypto Selig to lead CFTC",
+    "Senate confirms pro-crypto nominees for CFTC and FDIC (regulatory tailwinds)",
+    "Bitcoin price surges above $87,000 amid institutional interest in Ripple-linked assets",
+    "Solana testing quantum-resistant cryptography (adoption/technology development)",
+    "Cardano CEO criticism of political involvement in crypto (regulatory/political risk)",
+    "Bitcoin mining activity in Libya due to cheap power"
+  ],
+  "timestamp": "2025-12-19T09:09:11.114258"
+}

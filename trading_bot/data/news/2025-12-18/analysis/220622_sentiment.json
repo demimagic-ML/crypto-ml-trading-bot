@@ -1,0 +1,25 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": 0.06666666666666665,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 22,
+  "headlines": [
+    "Bitcoin trips at $90K despite CPI showing curbed US inflation: What gives?",
+    "Why the ‘great China Bitcoin mining crackdown’ fell short of early claims",
+    "Bitcoin Policy Institute reps sound alarm on de minimis tax exclusion",
+    "Why Bitcoin’s popular narratives don’t match the data: James Check on 2026",
+    "Federal Reserve Board publishes first of several staff manuals for the supervision of the largest and most complex banks"
+  ],
+  "events": [
+    "Institutional adoption of crypto treasuries with $2.6B inflow led by Starbucks",
+    "US Fed guidance blocking banks from engaging with crypto (regulatory)",
+    "U.S. SEC aids brokers on crypto custody, looks more closely at ATS activity",
+    "SoFi launching stablecoin on Ethereum (potential major adoption event)",
+    "North Korean cybercrime activity highlighting risks but also market volume",
+    "De minimis tax exclusion concern raised by Bitcoin Policy Institute (regulatory)",
+    "China's Bitcoin mining crackdown outcome analysis (adoption/regulation)",
+    "Coinbase shares rise as 'ambitious expansion' wins analyst praise"
+  ],
+  "timestamp": "2025-12-18T22:06:22.283527"
+}

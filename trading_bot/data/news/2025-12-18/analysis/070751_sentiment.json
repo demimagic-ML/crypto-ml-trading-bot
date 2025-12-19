@@ -1,0 +1,24 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": -0.08333333333333333,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 21,
+  "headlines": [
+    "Crypto ETPs could see a flood of liquidations by 2027: Analyst",
+    "Bitcoin’s volatility below Nvidia in 2025 as investor base grew: Bitwise",
+    "US Fed pulls guidance blocking its banks from engaging with crypto",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank"
+  ],
+  "events": [
+    "Hut 8's $7 billion AI deal with Google backing (institutional adoption)",
+    "Potential ETP liquidation risks by 2027 (adoption/regulatory risk)",
+    "Malware targeting crypto holders in Singapore (security risk)",
+    "Bitcoin volatility comparison to Nvidia (market dynamics)",
+    "US Federal Reserve updates guidance on banks' engagement with crypto (regulatory)",
+    "CFTC regulatory leadership change with acting chief moving to MoonPay (institutional shift)",
+    "Coinbase expanding into stock trading and prediction markets (adoption and platform diversification)"
+  ],
+  "timestamp": "2025-12-18T07:07:51.350219"
+}

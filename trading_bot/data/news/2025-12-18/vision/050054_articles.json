@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-18T05:00:54.596184",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin drifts lower as $81.3k emerges as the market’s key fault line: Asia Morning Briefing",
+        "Traders mull the bottom as bitcoin returns to week's lows below $86,000",
+        "Coinbase rolls out stock trading, prediction markets and more in bid to become the 'Everything Exchange'"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "Coinbase launches stock trading and prediction markets (institutional adoption)",
+        "CFTC acting chief Pham poised to join crypto firm MoonPay (regulatory shift)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is testing support near $86,000 after a sharp decline, with negative sentiment from major players. Coinbase's expansion into traditional finance highlights institutional interest but also regulatory risks. The CFTC's top official joining a crypto firm signals potential regulatory softening, though current price action remains bearish. Trading should be cautious due to volatility around key levels."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Ethereum could get faster in January with gas limit rise to 80M",
+        "World Liberty proposes using 5% of treasury to boost its stablecoin",
+        "Robo-advisers, custom stablecoins: 8 things Coinbase is cooking up"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.75,
+      "events": [
+        "Ethereum network upgrade (gas limit increase)",
+        "Coinbase developing new financial products including robo-advisory and custom stablecoins",
+        "Regulatory consultation by UK regulator on crypto rules for exchanges, lending, and DeFi"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "BUY",
+      "urgency": "MEDIUM",
+      "summary": "Recent news highlights Ethereum's upcoming scalability improvements, Coinbase's expansion into robo-advisory and stablecoins, and regulatory developments in the UK. These signals point toward growing institutional adoption and technological progress in the crypto space, supporting a bullish sentiment. The Ethereum gas limit increase may improve network efficiency and lower fees, potentially driving renewed interest. Coinbase’s strategic moves suggest increased confidence in the ecosystem. Regulatory consultations indicate evolving frameworks, which could lead to clearer market conditions."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $7 Billion AI Deal With Google Backing",
+        "Singapore Entrepreneur Loses Crypto Holdings to Malware Dressed Up as a Game",
+        "Central African Republic's Crypto Initiatives Criticized for Benefiting Foreign Investors Over Citizens"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.7,
+      "events": [
+        "Bitcoin mining firm Hut 8 secures major AI infrastructure deal with Google-backed funding",
+        "Cybersecurity incident involving malware targeting crypto holders in Singapore",
+        "Regulatory and adoption concerns raised over Central African Republic's crypto initiatives"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The top news highlights institutional interest in Bitcoin mining through a significant AI partnership, a cybersecurity threat impacting individual investors, and geopolitical scrutiny on emerging crypto policies. While the Hut 8 deal suggests bullish institutional momentum, the malware incident introduces risk, and regulatory skepticism dampens broader optimism. No immediate catalysts for large market moves are present."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.35000000000000003,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 22,
+  "headlines": [
+    "UK crypto ownership dropped to 8% in 2025: YouGov poll",
+    "Bitcoin liquidity ‘battle’ rages as bull case sees clear run to $95K",
+    "Crypto’s ‘super app’ race is on as industry enters aggregation era: Report",
+    "Here’s what happened in crypto today",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank"
+  ],
+  "events": [
+    "Potential regulatory shift signaled by presidential pardon mention",
+    "Solana's expansion into Brazil's main exchange (adoption)",
+    "CoreWeave collapse raises concerns about AI infrastructure stability (market risk)",
+    "Tether invests $8 million in Speed for USDT adoption (institutional adoption)",
+    "Web3 Antivirus detects $563k DeFi loss due to phishing (security risk)",
+    "Quantum computing threat discussed but downplayed by Grayscale",
+    "JPMorgan launches first tokenized money market fund on Ethereum (institutional move)",
+    "Institutional interest in Bitcoin remains mixed with whale activity declining",
+    "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act (regulatory)"
+  ],
+  "timestamp": "2025-12-16T19:12:55.886580"
+}

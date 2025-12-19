@@ -1,0 +1,26 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.4666666666666666,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 20,
+  "headlines": [
+    "Here’s what happened in crypto today",
+    "Crypto losses near $3.4B as hackers went ‘big game hunting’",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Record $2 billion crypto theft by North Korean hackers highlights security risks but also market size and activity",
+    "RWA (Real-World Assets) compliance discussion by former SEC counsel",
+    "Bitcoin-gold ratio hit a multi-year low, indicating strong relative performance of BTC",
+    "Security breach: Multisig wallet compromised and drained of up to $40M",
+    "Regulatory movement: CFTC official joining crypto firm MoonPay, signaling regulatory engagement",
+    "Corporate partnership: Bitcoin miner Hut 8 partnering with Google-backed entity",
+    "CPI inflation data came in at 2.7%, slightly below expectations and supporting dovish Fed sentiment",
+    "Regulatory development: US Fed updates guidance on bank involvement with crypto",
+    "Institutional adoption: DTCC issuing tokenized securities on a blockchain network (Canton)"
+  ],
+  "timestamp": "2025-12-18T15:45:07.540594"
+}

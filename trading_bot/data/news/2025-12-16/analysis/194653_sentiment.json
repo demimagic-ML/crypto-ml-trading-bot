@@ -1,0 +1,25 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.4166666666666667,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 22,
+  "headlines": [
+    "How scammers target crypto users during the holidays and how to stay protected",
+    "Solana enters Brazil’s main exchange as Valour expands regulated crypto access",
+    "UK crypto ownership dropped to 8% in 2025: YouGov poll",
+    "Bitcoin liquidity ‘battle’ rages as bull case sees clear run to $95K",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank"
+  ],
+  "events": [
+    "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENITUS Act",
+    "Circle acquires Interop Labs, excluding AXL token (potential market disruption)",
+    "Polkadot advances with USDC integration via USD1 partnership",
+    "Holiday season crypto scam warnings",
+    "RedotPay raising $107M for stablecoin infrastructure (institutional adoption)",
+    "Decline in UK crypto ownership per YouGov poll",
+    "Solana adoption in Brazil via Valour exchange listing",
+    "Marshall Islands launches world’s first blockchain-based UBI on Stellar blockchain"
+  ],
+  "timestamp": "2025-12-16T19:46:53.183532"
+}

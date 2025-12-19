@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-17T04:55:28.732303",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's massive underperformance to stocks in Q4 bodes well for January, says K33's Lunde",
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says",
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "FDIC proposes first U.S. stablecoin regulation under GENIUS Act",
+        "Bitcoin price rebound after sharp dip, with analysts cautioning potential pullback below $80K"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Bitcoin showed strong rebound momentum after a sharp decline, with analysts suggesting potential short-term consolidation below $80,000. Meanwhile, regulatory developments around stablecoins are emerging, signaling growing institutional scrutiny. The market sentiment is cautiously bullish, driven by macro underperformance of Bitcoin versus equities and renewed optimism for January."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Tether leads $8M funding for Lightning startup focused on stablecoins",
+        "Crypto ETPs to enter 'cheesecake factory' era in 2026: Bitwise",
+        "Aave founder outlines 2026 'master plan' after end to SEC probe"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory development: UK regulator consults on crypto rules for exchanges, lending and DeFi",
+        "Institutional adoption: Tether funds $8M into Lightning Network startup",
+        "ETF-related: Crypto ETPs expected to scale significantly by 2026 (Bitwise)",
+        "SEC probe resolution: Aave founder announces post-SEC master plan"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent developments show strong institutional interest in Bitcoin infrastructure (Lightning Network), regulatory clarity progress in the UK, and growing ETF adoption expectations. The resolution of the SEC probe against Aave and new funding for stablecoin innovation signal bullish momentum across multiple vectors. These are breaking news items with high market impact potential, especially given regulatory and institutional themes."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Hits New All-Time High Ahead of the 2024 Halving",
+        "Visa Expands Stablecoin Pilot for US Settlements via Solana",
+        "FDIC Opens Public Comment Period for Rule Proposal on Handling Stablecoin Issuer Applications"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Visa's stablecoin settlement pilot expansion (adoption)",
+        "FDIC public comment period on stablecoin issuer rules (regulation)",
+        "Bitcoin approaching halving event (macro catalyst)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "The crypto market is experiencing bullish momentum driven by Bitcoin nearing a halving cycle, Visa expanding its stablecoin adoption efforts, and regulatory developments from the FDIC. These factors collectively signal strong institutional interest and potential price acceleration."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-17T05:44:59.708571",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says",
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+        "Crypto exchange HashKey's shares fall 5% on trading debut in Hong Kong"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.8,
+      "events": [
+        "U.S. FDIC proposes first U.S. stablecoin rule under GENIUS Act (regulatory)",
+        "HashKey's IPO debut in Hong Kong with 5% drop (adoption/institutional)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Bitcoin shows a rebound after recent lows but faces potential downside near $80,000. A major regulatory development emerges with the FDIC proposing the first U.S. stablecoin rule, signaling increased oversight. Meanwhile, HashKey's weak IPO performance reflects market caution toward new crypto exchanges. Regulatory news and institutional developments are key drivers, with mixed signals from price action and sentiment."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Exodus, MoonPay to roll out stablecoin in early 2026, joining gold rush",
+        "US government 'tech force' gets backup from Coinbase, Robinhood",
+        "Aave founder outlines 2026 'master plan' after end to SEC probe"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory development: SEC probe conclusion for Aave",
+        "Institutional adoption: US government tech force supported by Coinbase and Robinhood",
+        "Adoption: Exodus and MoonPay planning stablecoin launch in 2026"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights growing institutional involvement and regulatory clarity in the crypto space, with major players like Coinbase and Robinhood backing government initiatives, while Aave's resolution with the SEC signals reduced legal risk. Additionally, upcoming stablecoin launches by Exodus and MoonPay indicate increased adoption. These developments collectively suggest a bullish momentum in the market."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Visa Expands Stablecoin Pilot for US Settlements via Solana",
+        "FDIC Opens Public Comment Period for Rule Proposal on Handling Stablecoin Issuer Applications",
+        "Trump 'Open' to Democrats at SEC, CFTC in Possible Boon to Crypto Market Structure Bill"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Visa's expansion of stablecoin pilot using Solana (adoption)",
+        "FDIC public comment period on stablecoin issuer rules (regulation)",
+        "Potential crypto-friendly leadership at SEC and CFTC under Trump (regulatory optimism)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "The news highlights major institutional adoption (Visa-Solana), regulatory clarity progress (FDIC proposal), and potential pro-crypto regulatory shifts (Trump comments). These developments collectively signal strong bullish momentum, especially with Visa’s move indicating real-world usage expansion. Regulatory optimism and institutional moves are high-impact catalysts."
+    }
+  ]
+}

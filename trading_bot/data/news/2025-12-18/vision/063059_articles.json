@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-18T06:30:59.168590",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Coinbase rolls out stock trading, prediction markets and more in bid to become the 'Everything Exchange'",
+        "CFTC's acting chief Pham poised to go to crypto firm MoonPay once Mike Selig lands",
+        "Digital Wealth Partners introduces algorithmic XRP trading for qualified retirement accounts"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Coinbase expanding into stock and prediction markets (adoption/institutional move)",
+        "CFTC acting chief joining MoonPay (regulatory transition/adoption signal)",
+        "Algorithmic XRP trading for retirement accounts (institutional adoption)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Breaking news highlights significant institutional adoption and regulatory shifts in crypto. Coinbase’s expansion into broader financial products signals growing legitimacy. CFTC leadership moving to a major crypto firm suggests regulatory softening. Algorithmic XRP in retirement accounts marks a new frontier in institutional crypto access. These developments collectively indicate strong bullish momentum."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's volatility below Nvidia in 2025 as investor base grew: Bitwise",
+        "Crypto ETPs could see a flood of liquidations by 2027: Analyst",
+        "US Fed pulls guidance blocking its banks from engaging with crypto"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "US Federal Reserve updates guidance on bank engagement with crypto",
+        "Potential ETF-related liquidity risks highlighted by analyst",
+        "Institutional interest in Bitcoin growing, but volatility remains high"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights regulatory developments from the US Fed that may ease restrictions on banks engaging with crypto, potentially boosting institutional adoption. However, concerns about future ETP liquidations and Bitcoin’s volatility relative to tech stocks like Nvidia introduce uncertainty. While not overtly bullish or bearish, the mix of regulatory progress and market risk suggests caution. The Fed update is breaking and high-impact; other stories are speculative but relevant for long-term positioning."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $7 Billion AI Deal With Google Backing",
+        "Singapore Entrepreneur Loses Crypto Holdings to Malware Dressed Up as a Game",
+        "Central African Republic's Crypto Initiatives Criticized for Benefiting Foreign Investors Over Citizens"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.75,
+      "events": [
+        "Bitcoin mining company Hut 8 secures $7 billion AI deal with Google backing (institutional adoption)",
+        "Crypto-related malware targeting users in Singapore (security risk)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The top crypto news includes a major institutional development with Hut 8 signing a large AI deal backed by Google, signaling potential long-term growth in Bitcoin mining infrastructure. However, a cybersecurity incident involving malware disguised as a game highlights ongoing risks for retail investors. Regulatory and adoption themes are mixed, with no clear bullish or bearish catalysts present. The sentiment is neutral due to balanced institutional progress and security concerns."
+    }
+  ]
+}

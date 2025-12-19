@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-16T16:23:36.879225",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "U.S. added 64,000 jobs in November, with unemployment rate jumping to four-year high of 4.6%",
+        "Bitcoin slump deepens as most of top 100 tokens fall below key trading signals",
+        "Axelar token falls 15% after Circle deal takes the developer team, leaves AXL behind"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "BTC and other ETFs see largest outflows since Nov. 20 as BTC declines",
+        "Circle's USDC settlement with Visa brings $3.5 billion stablecoin pilot",
+        "Axelar developer team exits amid Circle deal, causing AXL price drop"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Recent breaking news shows a bearish market tone with Bitcoin and top cryptocurrencies declining, driven by macroeconomic weakness (rising unemployment), ETF outflows, and negative developments in key crypto projects like Axelar. Institutional moves such as Visa’s stablecoin pilot with Circle suggest ongoing adoption but are overshadowed by broader sell-offs. The U.S. job report is weaker than expected, adding pressure on risk assets. This environment favors caution and potential short-term selling."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Crypto's 'superapp' race is on as industry enters aggregation era: Report",
+        "Here's what happened in crypto today",
+        "Ronin and ZKsync's onchain metrics fell the most in 2025"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "JPMorgan launches its first tokenized money market fund on Ethereum",
+        "Independent audit verifies gold reserves backing Kyrgyzstan's USDKG stablecoin"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights institutional adoption (JPMorgan's tokenized fund) and growing stability in stablecoins (USDKG audit), but also notes a decline in L2 network activity (Ronin, ZKsync). No major regulatory or ETF developments are reported. The overall tone is neutral with mixed signals—adoption is progressing, but on-chain activity is cooling."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's New Entrants Face the Bite as Whales Retreat",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin",
+        "Why President Trump Says He Will Be Pardoning Samourai Wallet Creator"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "Institutional interest in Bitcoin remains mixed with whale activity declining",
+        "Quantum computing threat discussed by Grayscale, but downplayed",
+        "Political signal from Trump regarding crypto-related pardons"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed institutional sentiment around Bitcoin, with whale retreats signaling caution despite new entrants. Grayscale's downplaying of quantum threats suggests confidence in current security. Political commentary from Trump adds speculative intrigue but lacks immediate regulatory or adoption implications. No breaking developments or major events reported."
+    }
+  ]
+}

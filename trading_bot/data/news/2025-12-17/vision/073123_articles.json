@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-17T07:31:23.693122",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's massive underperformance to stocks in Q4 bodes well for January, says K33's Lunde",
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says",
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "U.S. FDIC proposes first U.S. stablecoin rule (regulatory development)",
+        "Bitcoin price bounce after recent lows (market movement)"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The market shows mixed signals: Bitcoin has bounced from recent lows but faces potential downside near $80,000. Regulatory developments around stablecoins are emerging, which could impact broader crypto markets. No major breaking events such as ETF approvals or hacks are reported. Sentiment is cautiously neutral with some bullish technical optimism balanced by regulatory uncertainty."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Lightning Network hits record capacity on crypto exchange adoption",
+        "SAFE Crypto Act will have scammers shaking in their boots: Crypto lawyer",
+        "Exodus, MoonPay to roll out stablecoin in early 2026, joining gold rush"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory development: UK regulator consults on crypto rules for exchanges, lending and DeFi",
+        "Institutional adoption: Exodus and MoonPay planning stablecoin rollout in early 2026",
+        "Security concern: Web3 Antivirus detects $563k DeFi loss due to phishing"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent developments highlight growing institutional interest in stablecoins and regulatory clarity efforts in the UK, which are bullish signals. The Lightning Network's capacity surge suggests strong adoption momentum. While a phishing incident caused losses, it underscores market maturity and security awareness. Regulatory consultations and upcoming stablecoin launches could drive further market expansion."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Former Theta Executives Accuse Crypto Firm's CEO of Fraud. Retaliation",
+        "Actors, Creators Launch Coalition to Push AI Rules Amid Ongoing Industry Concerns",
+        "FDIC Opens Public Comment Period for Rule Proposal on Handling Stablecoin Issuer Applications"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "Regulatory development: FDIC proposes rule on stablecoin issuer applications",
+        "Industry backlash: Theta executives accuse CEO of fraud, indicating internal turmoil in a crypto firm"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights regulatory developments around stablecoins from the FDIC, which could impact market stability and investor confidence. Additionally, there is a notable internal conflict within Theta, a crypto firm, suggesting governance risks. While not breaking or highly bullish/bearish, these events carry moderate implications for institutional sentiment and potential future regulations."
+    }
+  ]
+}

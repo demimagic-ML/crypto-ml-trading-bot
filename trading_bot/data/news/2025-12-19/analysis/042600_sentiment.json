@@ -1,0 +1,26 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": -0.11666666666666665,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 20,
+  "headlines": [
+    "Anxiety of quantum risk to Bitcoin is weighing on its price: Execs",
+    "Crypto CLARITY Act set for Senate markup in January, Sacks says",
+    "Federal Reserve Board publishes first of several staff manuals for the supervision of the largest and most complex banks",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank"
+  ],
+  "events": [
+    "ECB signals readiness for digital euro launch",
+    "Fed Chair nomination speculation involving Chris Waller",
+    "SEC intensifies scrutiny of crypto custody and alternative trading systems (ATS)",
+    "Quantum computing risk concerns for Bitcoin",
+    "SEC lawsuit against third-party Bitcoin mining services as securities",
+    "Bitcoin tested $85,000, triggering significant liquidations in altcoins",
+    "Solana and Aptos implementing quantum-resistant security measures",
+    "Regulatory uncertainty highlighted with concerns over U.S. crypto market structure",
+    "XRP ETF assets surpass $1B"
+  ],
+  "timestamp": "2025-12-19T04:26:00.853025"
+}

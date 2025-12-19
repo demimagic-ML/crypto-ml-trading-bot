@@ -1,0 +1,29 @@
+{
+  "fetch_time": "2025-12-18T12:29:49.503973",
+  "source_type": "vision",
+  "count": 1,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin is all over the place ahead of U.S. inflation data",
+        "Is XRP crashing? The sustained break below $2 signals trouble",
+        "VivoPower eyes $300M Ripple share deal, bagging nearly $1B in XRP exposure"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "JPMorgan's tokenized dollars quietly rewiring Wall Street moves (institutional adoption)",
+        "Coinbase deepens India presence after approval of CoinDCX deal (adoption and regulatory development)",
+        "VivoPower's $300M Ripple share deal (institutional XRP exposure)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "The market is reacting to mixed signals: institutional interest in XRP via VivoPower, JPMorgan's blockchain initiatives, and Bitcoin volatility ahead of inflation data. While there are bullish catalysts like institutional moves, bearish sentiment persists around XRP price action. Inflation data is a key upcoming event that could shift market direction."
+    }
+  ]
+}

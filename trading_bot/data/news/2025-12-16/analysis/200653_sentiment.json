@@ -1,0 +1,23 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": 0.1,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 21,
+  "headlines": [
+    "How scammers target crypto users during the holidays and how to stay protected",
+    "Solana enters Brazil’s main exchange as Valour expands regulated crypto access",
+    "UK crypto ownership dropped to 8% in 2025: YouGov poll",
+    "Bitcoin liquidity ‘battle’ rages as bull case sees clear run to $95K",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank"
+  ],
+  "events": [
+    "Bitwise's bearish prediction on Bitcoin's 4-year cycle ending in 2026",
+    "Polkadot and Coinbase integrate USDC stablecoin",
+    "U.S. FDIC proposes first U.S. stablecoin regulation (GENIUS Act)",
+    "Institutional pullback from Bitcoin and Ethereum ETFs",
+    "South Korea's regulatory crackdown on crypto miners",
+    "BNB price surge above $870 with high trading volume"
+  ],
+  "timestamp": "2025-12-16T20:06:53.518474"
+}

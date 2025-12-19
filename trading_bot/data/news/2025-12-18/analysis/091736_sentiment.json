@@ -1,0 +1,25 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": 0.06666666666666665,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 22,
+  "headlines": [
+    "MSCI’s crypto treasury rules could spur $15B of forced selling",
+    "Crypto ETPs could see a flood of liquidations by 2027: Analyst",
+    "Bitcoin’s volatility below Nvidia in 2025 as investor base grew: Bitwise",
+    "US Fed pulls guidance blocking its banks from engaging with crypto",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation"
+  ],
+  "events": [
+    "Regulatory scrutiny on crypto rules for exchanges, lending, and DeFi (UK regulator consultation)",
+    "Upcoming U.S. inflation data release expected to impact market sentiment and Fed policy expectations",
+    "Regulatory shift: Caroline Pham leaving CFTC to join MoonPay (regulatory insider movement)",
+    "Institutional move: VivoPower's $300M Ripple share deal with potential $1B XRP exposure",
+    "Corporate adoption: Hut 8 signing $750M deal with Google (major institutional crypto mining partnership)",
+    "Concerns over future liquidation risks in Crypto ETPs",
+    "Institutional adoption: DTCC issuing tokenized securities on Canton Network (institutional move)",
+    "Potential institutional sell-off due to MSCI's crypto treasury rules"
+  ],
+  "timestamp": "2025-12-18T09:17:36.452992"
+}

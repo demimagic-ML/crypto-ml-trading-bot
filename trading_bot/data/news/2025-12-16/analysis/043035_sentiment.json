@@ -1,0 +1,25 @@
+{
+  "sentiment": "BEARISH",
+  "sentiment_score": -0.5833333333333334,
+  "confidence": 0.6,
+  "trading_suggestion": "STRONG_SELL",
+  "news_count": 21,
+  "headlines": [
+    "Bitcoin, altcoins sell-off as Fed chair switch-up, AI bubble fears spook markets",
+    "Here’s what happened in crypto today",
+    "SEC commissioner says Crypto is ‘helping to nudge reassessment’ on privacy",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "SBI and Startale launching regulated yen stablecoin (adoption/institutional move)",
+    "Regulatory shift towards On-Chain Monitoring by Bank of America's analysts",
+    "Market psychology: Fear of AI bubble and Fed policy shift triggering sell-off",
+    "Regulatory development: Japan’s SBI and Startale planning regulated yen stablecoin (institutional adoption)",
+    "Regulatory/Political risk: Trump’s potential review of convicted crypto figure (potential regulatory scrutiny)",
+    "PayPal applying for Utah industrial bank license (regulatory/adoption)",
+    "Ripple expanding RLUSD across multiple blockchains",
+    "Bitcoin price decline toward $85,000"
+  ],
+  "timestamp": "2025-12-16T04:30:35.301540"
+}

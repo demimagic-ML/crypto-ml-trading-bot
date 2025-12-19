@@ -1,0 +1,36 @@
+# Binance Trading Bot Requirements
+
+# Core dependencies
+python-binance>=1.0.16
+python-dotenv>=1.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+tensorflow>=2.13.0
+scikit-learn>=1.3.0
+ta>=0.10.2
+matplotlib>=3.7.0
+schedule>=1.2.0
+xgboost>=2.0.0
+feedparser>=6.0.0
+requests>=2.31.0
+Pillow>=10.0.0
+selenium>=4.15.0
+
+# Machine Learning
+tensorflow>=2.13.0
+keras>=2.13.0
+
+# Technical Analysis (optional, for ta library)
+ta>=0.11.0
+
+# Scheduling
+schedule>=1.2.0
+
+# HTTP
+requests>=2.31.0
+
+# Plotting (for backtesting visualization)
+matplotlib>=3.7.0
+
+# Utilities
+ntplib>=0.4.0

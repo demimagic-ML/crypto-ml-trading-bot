@@ -1,0 +1,21 @@
+{
+  "fetch_time": "2025-12-17T15:17:55.089216",
+  "source_type": "rss_feeds",
+  "count": 2,
+  "articles": [
+    {
+      "source": "cointelegraph.com",
+      "title": "Bitcoin miner Hut 8 lands $7B Google-backed AI data center lease",
+      "published": "Wed, 17 Dec 2025 13:07:24 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin miner Hut 8 lands $7B Google-backed AI data center lease\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zM",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "CAR’s crypto push fueled ‘state capture’ by elites, criminal networks: Report",
+      "published": "Wed, 17 Dec 2025 12:17:51 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CAR’s crypto push fueled ‘state capture’ by elites, criminal networks: Report\" src=\"https://images.cointelegraph.com/images/528_",
+      "type": "crypto"
+    }
+  ]
+}

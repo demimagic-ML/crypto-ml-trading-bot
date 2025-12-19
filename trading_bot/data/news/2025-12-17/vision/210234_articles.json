@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-17T21:02:34.335035",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin tumbles back below $88,000 as gains evaporate as quickly as they formed",
+        "Crypto industry insiders met with key senators on market structure bill negotiation",
+        "Don't call it QE – the Fed's $40 billion bill buys may not shake crypto out of slump"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Regulatory discussions between crypto industry and U.S. senators on market structure legislation",
+        "Fed's $40 billion in Treasury bill purchases potentially impacting crypto market sentiment"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin has dropped below $88,000 amid volatile market conditions, with signs of weakening momentum. Regulatory discussions with senators suggest potential policy changes that could impact market structure. Meanwhile, Fed actions are being monitored closely for their effect on risk assets. The combination of bearish price action and regulatory uncertainty suggests a cautious or defensive stance."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Binance mulls new US strategy, CZ potentially reducing stake: Report",
+        "The real crypto adoption shows on Tuesday morning payments",
+        "Silvergate Bank lawsuit calls for FTX, Alameda clients to weigh in on $10M settlement"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.75,
+      "events": [
+        "Binance's potential strategic shift in the US market",
+        "Silvergate Bank legal action involving FTX and Alameda clients"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent news highlights Binance's possible restructuring in the US, which could impact its market positioning, while a legal development involving Silvergate, FTX, and Alameda adds regulatory uncertainty. Adoption signals remain positive but not yet transformative. No major ETF approvals or hacks reported; sentiment is mixed with no clear bullish or bearish catalyst."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Traders Are Monitoring Quarter-End Bitcoin 'Witching Friday' for Volatility",
+        "Institutional Interest in XRP Exceeds $1 Billion as Major Players Enter Market",
+        "Senators Introduce Bipartisan Bill to Establish Federal Crypto Framework"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Senate introduces bipartisan crypto regulation bill",
+        "Institutional adoption of XRP surpasses $1 billion",
+        "Bitcoin market volatility expected ahead of quarter-end"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent headlines indicate strong institutional interest in XRP, potential regulatory clarity via a Senate bill, and heightened market volatility around Bitcoin's quarter-end. These developments suggest bullish momentum driven by both adoption and policy anticipation."
+    }
+  ]
+}

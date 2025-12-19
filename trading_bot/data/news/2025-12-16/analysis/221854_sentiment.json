@@ -1,0 +1,24 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.35000000000000003,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 20,
+  "headlines": [
+    "Bitcoin treasury Kindly MD faces potential delisting after Nasdaq price notice",
+    "The Bitcoin-to-gold ratio fell 50% in 2025: Here’s why",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "SEC concludes long-running probe into Aave (regulatory event)",
+    "Potential delisting of Bitcoin-related entity from Nasdaq (adoption/regulatory risk)",
+    "Regulatory scrutiny: U.S. Senator Warren calls for a crypto probe tied to Trump, delaying market structure legislation.",
+    "SEC approval expected for Bitcoin and Ethereum ETFs (institutional adoption)",
+    "South Korea providing debt relief to crypto firms (regulatory support)",
+    "Visa expanding stablecoin pilot with Solana (adoption and infrastructure)",
+    "Adoption: Marshall Islands launches world’s first blockchain-based Universal Basic Income (UBI) on Stellar."
+  ],
+  "timestamp": "2025-12-16T22:18:54.378862"
+}

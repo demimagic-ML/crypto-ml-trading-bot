@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-16T13:29:52.105946",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slump deepens as most of top 100 tokens fall below key trading signals",
+        "Why bitcoin ETFs look like they're falling short, even as their role grows: Asia Morning Briefing",
+        "Why Dogecoin's drop below $0.13 is drawing institutional attention"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Institutional interest in Dogecoin due to price drop below $0.13",
+        "Bitcoin ETFs showing limited traction despite growing role in market",
+        "Axelar token drops 15% after Circle deal announcement"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The crypto market is experiencing a broad sell-off with Bitcoin and top 100 tokens breaking key support levels. Institutional attention on Dogecoin suggests potential bottom-fishing activity, but overall sentiment remains bearish. ETF momentum is lagging, and recent negative developments (e.g., Circle deal impact on Axelar) are contributing to downward pressure. This is breaking news with high market impact."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin long-term holder supply hits 8-month lows: Bullish or bearish?",
+        "Singapore-licensed StraitsX to bring its SGD, USD stablecoins to Solana in 2026",
+        "Alexander Ray, our partner within the CTDG initiative and a Web3 entrepreneur, co-founder of Albus Protocol and JPool, has passed away"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "StraitsX expanding to Solana with SGD/USD stablecoins (institutional adoption)",
+        "Death of Alexander Ray (potential impact on CTDG/Web3 projects)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The top headlines include a mixed signal on Bitcoin's long-term holder supply, potentially indicating accumulation or distribution, while Singapore-based StraitsX announces expansion into Solana, signaling institutional adoption. The passing of a notable Web3 entrepreneur may affect related project sentiment. No major regulatory or ETF developments are reported. Overall sentiment is neutral with moderate market implications."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Sinks Towards $85,000 as Ethereum, XRP Fall Alongside Market Sell-Off",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin",
+        "PayPal Seeks Utah-Chartered Industrial Bank Status"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.75,
+      "events": [
+        "Bitcoin price drop toward $85,000",
+        "PayPal's move to establish a bank charter (potential institutional adoption)",
+        "Quantum computing threat discussion by Grayscale (long-term risk)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The market is showing bearish momentum with Bitcoin approaching $85,000 amid broader crypto sell-off. While PayPal's bank charter pursuit signals potential institutional expansion, the immediate sentiment is driven by fear and selling pressure. The mention of quantum computing risks adds long-term uncertainty. This is breaking news with high market impact due to price action and macro trends."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-17T12:57:02.013692",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slides with ether and XRP as market tests $3 trillion floor",
+        "Bitcoin trades near key price safety net that Strategy already breached",
+        "Grayscale outlines top crypto investing themes for 2026 as institutional adoption grows"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin testing $3 trillion market cap floor",
+        "Institutional adoption themes outlined by Grayscale for 2026",
+        "Regulatory scrutiny on Trump-tied crypto probe mentioned (policy risk)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is trading near a critical support level after sliding, with market cap approaching $3 trillion. Institutional interest remains strong, but regulatory uncertainty and technical breakdowns are increasing downside pressure. Recent headlines emphasize bearish momentum and potential policy risks."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin institutional buys flip new supply for the first time in 6 weeks",
+        "KuCoin taps Tomorrowland festivals as MiCA-era on-ramp for European fans",
+        "Hyperliquid governance vote aims to permanently sideline $1B Assistance Fund"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Institutional Bitcoin buying activity resumes after a 6-week pause",
+        "Regulatory developments (MiCA) impacting exchange adoption in Europe",
+        "Hyperliquid's $1B fund governance decision affecting market dynamics"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "The latest crypto news highlights renewed institutional demand for Bitcoin, regulatory-driven adoption by KuCoin in Europe under MiCA, and a major governance move at Hyperliquid that could influence capital allocation. Institutional buying is a strong bullish signal, while regulatory clarity and festival-based on-ramps suggest growing mainstream acceptance. These factors collectively point to positive momentum in the market."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin in Focus as Stock and Options Contracts Expire on Friday",
+        "Bhutan Pledges 10,000 Bitcoin Worth $1B to Fund Mindfulness City",
+        "Visa Expands Stablecoin Pilot with US Settlements via Solana"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin options and futures expiration (potential volatility event)",
+        "Bhutan's institutional BTC allocation for a mindfulness city project",
+        "Visa's expansion of stablecoin pilot using Solana for US settlements"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "The market is experiencing bullish momentum driven by major institutional developments including Bhutan's commitment to allocate 10,000 BTC for a public project, Visa’s expansion of its stablecoin pilot on Solana signaling increased adoption, and the upcoming Bitcoin options expiration which could trigger significant trading activity. These events suggest strong demand-side pressure and growing institutional interest, supporting upward price movement."
+    }
+  ]
+}

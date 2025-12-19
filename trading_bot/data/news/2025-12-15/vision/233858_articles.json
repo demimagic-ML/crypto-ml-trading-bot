@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-15T23:38:58.465795",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slides to $86,000 as slower rate cut risk, AI stock woes shake markets",
+        "Senate punts crypto market structure bill to next year",
+        "Much more than a backend refresh': Coinbase's fintech pivot hits milestone"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Senate delays crypto market structure legislation",
+        "Coinbase announces major fintech infrastructure update",
+        "Bitcoin price drops to $86,000 amid macroeconomic and AI-related market volatility"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin has dropped to $86,000 due to macro concerns including delayed rate cuts and AI stock sell-offs. The Senate postponed critical crypto market structure legislation, delaying regulatory clarity. Meanwhile, Coinbase announced a significant fintech milestone, which may signal institutional adoption but is overshadowed by broader market weakness. Breaking news dominates with negative sentiment, suggesting high volatility and downward pressure on crypto assets."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin drops under $86K as $2.78B in BTC whale selling overwhelms active dip buyers",
+        "SEC 'eased up on' 60% of crypto enforcement cases under Trump: Report",
+        "Circle to acquire Interop Labs team and IP as Axelar remains independent"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "BTC whale selling of $2.78B",
+        "SEC reducing crypto enforcement actions",
+        "Circle acquiring Interop Labs team"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin price dropped below $86K due to massive whale selling, signaling bearish momentum. Regulatory news shows SEC easing enforcement, which could be bullish long-term but is currently overshadowed by market sell-off. Circle's acquisition of Interop Labs indicates institutional adoption, but the immediate impact is dominated by Bitcoin’s downward pressure from large-scale liquidations."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "UK Supreme Court Shuts Down $13 Billion Bitcoin SV Case Appeal",
+        "Ripple Expanding RLUSD From XRP Ledger and Ethereum",
+        "Ondo Finance Plans to Roll Out Tokenized Stocks, ETFs on Solana"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.2,
+      "confidence": 0.75,
+      "events": [
+        "UK Supreme Court decision on Bitcoin SV case appeal (regulatory)",
+        "Ripple expanding RLUSD across XRP Ledger and Ethereum (adoption)",
+        "Ondo Finance launching tokenized stocks and ETFs on Solana (institutional adoption)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "The top crypto news includes a major regulatory development with the UK Supreme Court rejecting a $13 billion Bitcoin SV case appeal, which may impact investor confidence in related projects. Ripple is expanding its stablecoin RLUSD across multiple blockchains, signaling continued institutional adoption. Ondo Finance's plan to launch tokenized ETFs on Solana highlights growing institutional interest in decentralized finance. While some developments are bullish for ecosystem growth, the regulatory outcome introduces uncertainty, leading to a neutral overall sentiment."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-17T20:44:40.255074",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin tumbles back below $88,000 as gains evaporate as quickly as they formed",
+        "Crypto industry insiders meet with key senators on market structure bill negotiation",
+        "Crypto stocks pare gains as bitcoin retreats from $90,000 rally"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Regulatory discussions between crypto industry insiders and U.S. senators on market structure legislation",
+        "Bitcoin price drop below $88,000 after a brief rally to $90,000"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin has reversed sharply from a $90,000 peak, falling below $88,000 amid weak momentum and selling pressure. Regulatory discussions with U.S. senators suggest ongoing uncertainty around market structure, adding risk. This combination of technical breakdown and regulatory ambiguity supports a bearish outlook, warranting caution or short positioning."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin tags $90K as crypto market spike liquidates $120M shorts",
+        "The real crypto adoption shows on Tuesday morning payments",
+        "Silvergate Bank lawsuit calls for FTX, Alameda clients to weigh in on $10M settlement"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin price surge to $90K triggering liquidations of $120M in short positions",
+        "Institutional adoption signaled by Okolo's payment use case",
+        "Regulatory and legal developments involving Silvergate Bank and FTX/Alameda"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Bitcoin surged toward $90K, causing massive liquidations of short positions, signaling strong bullish momentum. Institutional adoption is gaining traction with new use cases like Okolo's payment system. Meanwhile, ongoing legal actions involving Silvergate Bank and FTX highlight regulatory scrutiny, but the market appears resilient and driven by positive price action."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Decrypto's 2025 Story of the Year: Crypto Treasury Firms Flood Wall Street",
+        "Senators Introduce Bipartisan Bill to Establish Federal Crypto Regulator",
+        "Traders Are Monitoring Quarterly Bitcoin 'Witching Friday' for Volatility"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Introduction of a bipartisan federal crypto regulator bill by U.S. Senators",
+        "Institutional interest in XRP ETF and growing adoption of crypto treasury firms on Wall Street"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The news highlights increasing institutional involvement in crypto through treasury firms and regulatory developments with a bipartisan bill aiming to establish a federal crypto regulator. This suggests growing legitimacy and infrastructure development, which supports bullish sentiment. The mention of 'Witching Friday' indicates market volatility monitoring, but the overall tone reflects momentum in adoption and policy progress."
+    }
+  ]
+}

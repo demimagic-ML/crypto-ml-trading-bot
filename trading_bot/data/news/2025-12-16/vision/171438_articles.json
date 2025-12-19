@@ -1,0 +1,70 @@
+{
+  "fetch_time": "2025-12-16T17:14:38.291401",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slump deepens as most of top 100 tokens fall below key trading signals",
+        "Visa brings Circle's USDC settlement to U.S. banks following $3.5 billion stablecoin pilot",
+        "Building the Infrastructure for the $2 Trillion Stablecoin Economy"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Visa and Circle's USDC settlement pilot with U.S. banks (institutional adoption)",
+        "Stablecoin infrastructure development ($2T economy focus)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The market is showing bearish momentum with Bitcoin and top tokens breaking key support levels. However, there is significant institutional progress in stablecoin adoption via Visa and Circle's $3.5B pilot. While long-term infrastructure developments are positive, immediate price action reflects a sell-off. The 'buy the rumor, sell the news' principle applies—recent bullish sentiment around ETFs or macro trends may have been priced in, triggering profit-taking. Institutional moves remain high-impact but current price action dominates short-term outlook."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Crypto’s 'super app' race is on as industry enters aggregation era: Report",
+        "Here's what happened in crypto today",
+        "Ronin and ZKsync's onchain metrics fell the most in 2025"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "JPMorgan launches its first tokenized money market fund on Ethereum",
+        "Independent audit verifies gold reserves backing Kyrgyzstan's USDKG stablecoin"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights ongoing developments in blockchain adoption, including institutional moves by JPMorgan into tokenized funds and a new stablecoin backed by verified gold reserves. There is no major regulatory or ETF announcement, but emerging trends in super apps and network activity suggest structural shifts. Sentiment remains neutral with mixed signals between innovation and declining on-chain metrics."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin, Ethereum ETFs Shed $582M in a Day as Institutions Trim Risk",
+        "Bitcoin Sinks Towards $85,000 as Ethereum, XRP Fall Alongside",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.9,
+      "events": [
+        "Institutional selling of Bitcoin and Ethereum ETFs ($582M outflow)",
+        "Bitcoin price drop toward $85,000 with broader crypto market sell-off"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Recent headlines indicate a significant bearish shift in the crypto market, driven by institutional withdrawal from Bitcoin and Ethereum ETFs and a broad decline in major cryptocurrencies. The ETF outflows signal risk aversion among large players, which could trigger further downside pressure. While quantum computing concerns are being downplayed, market sentiment is clearly negative due to recent price action and fund flows."
+    }
+  ]
+}

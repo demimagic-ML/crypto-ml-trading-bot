@@ -1,0 +1,35 @@
+{
+  "fetch_time": "2025-12-16T00:43:00.796125",
+  "source_type": "rss_feeds",
+  "count": 4,
+  "articles": [
+    {
+      "source": "cointelegraph.com",
+      "title": "Here’s what happened in crypto today",
+      "published": "Mon, 15 Dec 2025 21:54:06 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91c",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "SEC commissioner says Crypto is ‘helping to nudge reassessment’ on privacy",
+      "published": "Mon, 15 Dec 2025 21:46:36 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC commissioner says Crypto is ‘helping to nudge reassessment’ on privacy\" src=\"https://images.cointelegraph.com/images/528_aHR",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "SEC ’eased up on’ 60% of crypto enforcement cases under Trump: Report",
+      "published": "Mon, 15 Dec 2025 20:52:26 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC ’eased up on’ 60% of crypto enforcement cases under Trump: Report\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Bitcoin drops under $86K as $2.78B in BTC whale selling overwhelms active dip buyers",
+      "published": "Mon, 15 Dec 2025 20:30:00 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin drops under $86K as $2.78B in BTC whale selling overwhelms active dip buyers\" src=\"https://images.cointelegraph.com/imag",
+      "type": "crypto"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": 0.06666666666666665,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 21,
+  "headlines": [
+    "Price predictions 12/15: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH",
+    "Bitcoin parabola breakdown raises chance for 80% correction: Veteran trader",
+    "Trump-backed American Bitcoin flips ProCap in corporate BTC treasury race",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Bitcoin market potentially entering a parabolic correction phase (market structure)",
+    "Institutional adoption: JPMorgan introduces Ethereum ETF into MONY Fund",
+    "CME launches spot-quoted futures for XRP and Solana (institutional adoption)",
+    "Bitcoin accumulation: BitMine increases ETH holdings above $12 billion",
+    "SEC chief comments on regulatory oversight of crypto (regulatory development)",
+    "Regulatory development: Do Kwon faces potential retrial over Terra fraud",
+    "Bitget launches TradFi-style trading with USDT-based derivatives (adoption)"
+  ],
+  "timestamp": "2025-12-15T22:00:58.510442"
+}

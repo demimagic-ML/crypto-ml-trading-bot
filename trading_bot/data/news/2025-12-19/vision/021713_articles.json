@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-19T02:17:13.657332",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Altcoins plunge as bitcoin's $85,000 test triggers $550 million in liquidations",
+        "XRP slumps as bitcoin once again falls back to $85,000 level after surge",
+        "What if crypto's U.S. market structure effort just never gets there?"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.9,
+      "events": [
+        "Bitcoin testing $85,000 resistance with significant liquidations",
+        "U.S. SEC aiding brokers on crypto custody — regulatory developments underway"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is facing strong selling pressure near the $85,000 level, triggering over $550 million in liquidations across altcoins. This indicates a potential breakdown in momentum, with bearish sentiment spreading. Regulatory uncertainty around U.S. market structure and custody rules adds to volatility. The recent CPI print briefly lifted Bitcoin but failed to sustain gains, suggesting weak follow-through. Institutional moves are not evident here, but liquidation events signal retail-driven sell-offs."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "XRP's familiarity helps push ETF past $1B assets: Exec",
+        "Synthetix returns to Ethereum mainnet after 3 years: 'We can run it back'",
+        "Crypto CLARITY Act set for Senate markup in January, Sacks says"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "XRP ETF reaches $1B in assets under management",
+        "Crypto CLARITY Act to be reviewed by Senate in January",
+        "Synthetix relaunches on Ethereum mainnet"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "The news highlights key developments including XRP ETF crossing $1B in assets (indicating strong institutional interest), regulatory progress with the Crypto CLARITY Act, and a major DeFi protocol return to Ethereum. These are bullish catalysts, especially the ETF milestone and upcoming regulatory clarity, which could drive market momentum."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Solana, Aptos Move to Harden Blockchains Against Future Quantum Threats",
+        "Intuit Partners With Circle to Integrate USDC Across TurboTax, QuickBooks",
+        "European Central Bank Says It's Ready to Move on Digital Euro"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Institutional adoption: Intuit partnering with Circle to integrate USDC into TurboTax and QuickBooks",
+        "Central bank digital currency (CBDC) development: ECB signals readiness to move forward with a digital euro",
+        "Blockchain security innovation: Solana and Aptos enhancing blockchain resilience against quantum computing threats"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The top crypto news highlights institutional adoption via Intuit’s integration of USDC, central bank progress on digital currencies, and proactive blockchain security upgrades by Solana and Aptos. These developments signal growing legitimacy and infrastructure maturity in the crypto space, supporting bullish momentum. The ECB's digital euro announcement adds regulatory clarity, while Intuit’s move boosts real-world utility for stablecoins."
+    }
+  ]
+}

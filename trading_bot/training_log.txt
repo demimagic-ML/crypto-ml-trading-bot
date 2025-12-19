@@ -1,0 +1,59 @@
+2025-12-14 22:05:47.055693: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-12-14 22:05:47.067568: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2025-12-14 22:05:47.163662: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2025-12-14 22:05:47.164324: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-12-14 22:05:47.783875: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+============================================================
+2-MODEL ENSEMBLE TRAINER
+XGBoost + LightGBM (best performers)
+============================================================
+Fetching 2 years of BTCUSDC data...
+Fetched 70176 candles from 2023-12-14 20:15:00 to 2025-12-14 20:00:00
+Fetching futures data (funding rate, OI, L/S ratio)...
+  Added funding rate data
+  Added open interest data
+  Added long/short ratio data
+  Added top trader ratio data
+Adding technical indicators...
+Data shape after indicators: (70079, 48)
+Features: 29
+Samples: 70079
+Sequences: (70019, 60, 29)
+Train: 50413, Val: 5602, Test: 14004
+
+[1/2] Training XGBoost with GridSearch...
+Fitting 3 folds for each of 8 candidates, totalling 24 fits
+  Best params: {'learning_rate': 0.02, 'max_depth': 8, 'n_estimators': 500}
+  Best RMSE: $0.00
+
+[2/2] Training LightGBM with GridSearch...
+Fitting 3 folds for each of 8 candidates, totalling 24 fits
+  Best params: {'learning_rate': 0.05, 'max_depth': 6, 'n_estimators': 500}
+  Best RMSE: $0.00
+
+============================================================
+EVALUATION
+============================================================
+XGBoost      | RMSE: $1798.82 | MAE: $1162.06 | Dir: 50.4%
+LightGBM     | RMSE: $1690.31 | MAE: $1086.19 | Dir: 50.3%
+------------------------------------------------------------
+ENSEMBLE     | RMSE: $1741.47 | MAE: $1118.09 | Dir: 50.6%
+
+============================================================
+MODEL AGREEMENT ANALYSIS
+============================================================
+2/2 models agree: 12628 (90.2%)
+Models disagree:   1375 (9.8%)
+
+Saving models...
+All models saved!
+Plot saved to results/ensemble_training.png
+
+============================================================
+TRAINING COMPLETE
+============================================================
+Ensemble RMSE: $1741.47
+Ensemble MAE: $1118.09
+Directional Accuracy: 50.6%
+2/2 Agreement: 90.2%

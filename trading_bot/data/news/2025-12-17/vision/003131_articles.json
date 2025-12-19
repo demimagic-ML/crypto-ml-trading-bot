@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-17T00:31:31.992355",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's massive underperformance to stocks in Q4 bodes well for January, says K33's Lunde",
+        "Bitcoin derivatives point to broad price range play between $85,000-$100,000",
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.7,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin derivatives suggest a potential breakout range of $85,000–$100,000",
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+        "K33's Lunde highlights Bitcoin's underperformance vs stocks as a bullish signal for January"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news indicates a bullish technical setup for Bitcoin, with analysts pointing to a potential rebound after underperformance against equities in Q4. Derivatives markets suggest a strong price range target above $85,000. Regulatory developments around stablecoins and institutional commentary support longer-term confidence. While short-term volatility remains, the overall tone is constructive for BTC."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Spot Bitcoin ETFs see $358M outflow: Are investors abandoning BTC?",
+        "Here's what happened in crypto today",
+        "RedotPay raises $107M Series B led by Goodwater for stablecoin payments"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin ETF outflow of $358M",
+        "Regulatory consultation on crypto rules by UK regulator",
+        "RedotPay raises $107M in funding for stablecoin infrastructure"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The top news highlights a major $358M outflow from Bitcoin ETFs, signaling potential investor concern or profit-taking. This is compounded by regulatory scrutiny from the UK and broader market analysis suggesting caution. While RedotPay's funding indicates institutional interest in stablecoins, the dominant theme is bearish pressure on BTC. The ETF outflow is breaking news with high market impact, warranting a cautious stance."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin and Ethereum ETFs Back on Track as Institutions Pull Back",
+        "Visa Expands Stablecoin Pilot to Include US Settlements via Solana",
+        "Pudgy Penguins Says It'll Be on Las Vegas Sphere Following Dogecoin's Failed Attempt"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "Visa expands stablecoin pilot with Solana for US settlements (adoption)",
+        "Bitcoin and Ethereum ETFs back on track (institutional interest)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent news shows mixed signals: institutional interest in Bitcoin/Ethereum ETFs suggests potential bullish momentum, while Visa's expansion into Solana-based stablecoin settlements indicates broader adoption. However, no major regulatory or market-moving events are confirmed yet. The overall sentiment remains neutral due to conflicting developments."
+    }
+  ]
+}

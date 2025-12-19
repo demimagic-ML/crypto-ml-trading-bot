@@ -1,0 +1,24 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": 0.033333333333333326,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 22,
+  "headlines": [
+    "Here’s what happened in crypto today",
+    "SEC commissioner says Crypto is ‘helping to nudge reassessment’ on privacy",
+    "SEC ’eased up on’ 60% of crypto enforcement cases under Trump: Report",
+    "Bitcoin drops under $86K as $2.78B in BTC whale selling overwhelms active dip buyers",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
+  ],
+  "events": [
+    "Institutional move: Ondo Finance planning tokenized stocks and ETFs on Solana",
+    "Circle acquires Interop Labs team and IP — institutional adoption move",
+    "Regulatory development: Trump considering pardon for Bitcoin app developer",
+    "Adoption: Ripple expanding RLUSD across multiple blockchains",
+    "Bitcoin price drop to $86,000 due to macroeconomic concerns and AI stock weakness",
+    "Senate delays crypto market structure legislation, pushing regulatory clarity into next year",
+    "SEC commissioner comments on crypto privacy, indicating potential regulatory reassessment"
+  ],
+  "timestamp": "2025-12-16T02:04:21.077421"
+}

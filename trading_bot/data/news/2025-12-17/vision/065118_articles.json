@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-17T06:51:18.174018",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's massive underperformance to stocks in Q4 bodes well for January, says K33's Lunde",
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says",
+        "Eric Trump’s American Bitcoin jumps to 20th among public BTC treasury companies"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin price bounce after recent lows with potential support below $80,000",
+        "Institutional adoption signaled by Eric Trump's American Bitcoin rising in BTC treasury rankings"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Bitcoin shows signs of recovery after a sharp dip, with analysts suggesting a potential rebound into January. Institutional interest is growing, as seen in the rise of American Bitcoin in public BTC treasury rankings. While short-term volatility remains, the narrative favors bullish momentum ahead of key macro events."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "SAFE Crypto Act will have scammers shaking in their boots: Crypto lawyer",
+        "Exodus, MoonPay to roll out stablecoin in early 2026, joining gold rush",
+        "US government 'tech force' gets backup from Coinbase, Robinhood"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory crackdown on crypto scams via SAFE Crypto Act (potential positive regulatory shift)",
+        "Institutional adoption: Coinbase and Robinhood backing US government tech force for crypto oversight",
+        "Stablecoin expansion by Exodus and MoonPay signaling broader market adoption"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The news highlights a mix of regulatory clarity (SAFE Crypto Act), institutional support from major firms like Coinbase and Robinhood, and upcoming stablecoin launches by prominent platforms. These developments suggest increasing legitimacy and adoption in the crypto space, which could drive bullish momentum. Regulatory support and institutional involvement are high-impact factors, especially as they reduce uncertainty and signal mainstream acceptance."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Actors, Creators Launch Coalition to Push AI Rules Amid Ongoing Strike",
+        "Why Bitwise Expects New Bitcoin Highs in 2026—And the End of the 4-Year Cycle",
+        "Visa Expands Stablecoin Pilot for US Settlements via Solana"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Visa expands stablecoin pilot with Solana for US settlements (adoption)",
+        "Bitwise's bullish forecast for Bitcoin in 2026 (institutional sentiment)",
+        "Actors' coalition pushing AI rules amid strike (potential regulatory impact)"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "BUY",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights growing institutional and corporate adoption of crypto (Visa-Solana), bullish long-term sentiment from a major ETF player (Bitwise), and regulatory developments around AI impacting crypto ecosystems. While not breaking, these signals support a constructive narrative for Bitcoin and stablecoins, especially ahead of potential ETF approvals and macro trends."
+    }
+  ]
+}

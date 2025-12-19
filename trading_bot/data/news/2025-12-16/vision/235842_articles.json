@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-16T23:58:42.578507",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin derivatives point to broad price range play between $85,000-$100,000",
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says",
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.8,
+      "events": [
+        "U.S. FDIC proposes first U.S. stablecoin regulation under GENIUS Act",
+        "Bitcoin derivatives suggest potential breakout toward $100,000"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights regulatory developments with the FDIC proposing a stablecoin rule, which could impact crypto market structure. Bitcoin shows technical strength near $87,000 with derivatives indicating a possible move to $100,000, though short-term volatility remains. The sentiment is neutral due to mixed signals—regulatory clarity is positive, but market positioning suggests caution. Breaking news includes both regulatory and technical developments that warrant close monitoring."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin treasury Kindly MD faces potential delisting after Nasdaq price notice",
+        "US senator sounds alarm on DeFi, cites PancakeSwap amid market structure delay",
+        "RedotPay raises $107M Series B led by Goodwater for stablecoin payments"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.2,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory scrutiny on DeFi and market structure (US senator's warning)",
+        "Potential Nasdaq delisting of Bitcoin treasury Kindly MD due to price notice",
+        "Institutional investment in stablecoin infrastructure via RedotPay's $107M funding"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The latest crypto news features regulatory concerns over DeFi platforms, a potential delisting risk for a Bitcoin-related entity on Nasdaq, and institutional capital flowing into stablecoin infrastructure. While there is no immediate bullish catalyst, regulatory developments could trigger volatility. The sentiment is neutral with mixed implications—regulatory risks are bearish but new funding signals adoption."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin and Ethereum ETFs Edge Closer as Institutions Pull Back",
+        "South Korean Government Grants $1 Million in Debt Relief for Crypto Firms",
+        "Bitwise Says the Bitcoin 4-Year Cycle Will Die in 2026"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.75,
+      "events": [
+        "Institutional pullback on Bitcoin and Ethereum ETFs",
+        "South Korea's debt relief for crypto firms",
+        "Bitwise's prediction on Bitcoin's 4-year cycle ending in 2026"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed signals: institutional caution around ETFs, government support in South Korea, and a bearish long-term outlook from Bitwise. No immediate regulatory or market-moving events are breaking. The sentiment is neutral due to conflicting themes—supportive policy vs. institutional hesitation and bearish macro predictions."
+    }
+  ]
+}

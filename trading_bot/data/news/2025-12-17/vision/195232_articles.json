@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-17T19:52:32.306895",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin tumbles back below $88,000 as gains evaporate as quickly as they formed",
+        "BNB drops nearly 3% to as bitcoin whipsaw and tech selloff hit crypto market",
+        "Crypto industry insiders meet with key senators on market structure bill negotiation"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Crypto industry meets with U.S. senators to discuss market structure bill (regulatory)",
+        "Bitcoin price retreats below $88,000 amid volatility and tech selloff"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is experiencing a sharp pullback below $88,000 amid heightened volatility and a broader tech selloff, contributing to bearish sentiment across the crypto market. Regulatory discussions between industry leaders and U.S. senators add uncertainty. While no major institutional moves or ETF news are reported, the combination of price weakness and regulatory scrutiny suggests a high-risk environment for short-term traders."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin tags $90K as crypto market spike liquidates $120M shorts",
+        "Silvergate Bank lawsuit calls for FTX, Alameda clients to weigh in on $10M settlement",
+        "Kyrgyzstan’s USDKG shows how real-asset stablecoins are evolving in emerging markets"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin price surge to $90K triggering short squeezes",
+        "Regulatory developments involving Silvergate Bank and FTX/Alameda legal proceedings",
+        "Institutional adoption of stablecoins in emerging markets (Kyrgyzstan)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Bitcoin surged toward $90K, causing a major short squeeze that liquidated $120M in positions, signaling strong bullish momentum. Simultaneously, regulatory scrutiny continues with Silvergate's lawsuit implicating FTX and Alameda, while institutional innovation is evident in Kyrgyzstan's real-asset-backed stablecoin. The combination of price action and regulatory/legal developments suggests high volatility and opportunity, especially for BTC."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Decrypted: 2025 Story of the Year - Crypto Treasury Firms Flood Wall Street",
+        "Senators Introduce Bipartisan Bill to Establish Federal Crypto Regulatory Framework",
+        "Traders Are Monitoring Quarterly Bitcoin 'Witching Friday' for Volatility"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Bipartisan Senate bill introduces federal crypto regulatory framework",
+        "Institutional interest in XRP ETF shows potential adoption momentum",
+        "Bitcoin 'Witching Friday' event anticipated for market volatility"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The top news highlights growing institutional involvement in crypto, including a bipartisan Senate bill aiming to establish a federal regulatory framework and increasing interest in XRP ETFs. Bitcoin's upcoming 'Witching Friday' adds volatility risk, but overall sentiment is bullish due to regulatory clarity progress and Wall Street engagement."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-18T13:10:43.876813",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "U.S. bitcoin ETFs see strongest inflows for over a month as BTC dominance hits 60%",
+        "ARK Invest buys another $25.4 million of COIN, BLSH, BMNR as crypto stocks slide",
+        "JPMorgan’s tokenized dollars are quietly rewiring how Wall Street moves money"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin ETF inflows surge, signaling strong institutional interest",
+        "ARK Invest makes significant new investment in crypto-related stocks despite market downturn",
+        "JPMorgan advances tokenized dollar infrastructure, indicating growing institutional adoption"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Bitcoin ETFs are experiencing their strongest inflows in over a month, with BTC dominance rising to 60%, suggesting renewed institutional confidence. ARK Invest's fresh $25.4M investment into crypto stocks indicates bullish conviction despite market volatility. Meanwhile, JPMorgan's development of tokenized dollars highlights broader financial system integration of digital assets. These developments collectively signal strong institutional momentum and positive sentiment toward Bitcoin and crypto adoption."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Coinbase expands in Poland with Blik mobile payments integration",
+        "Tokenized stocks may be onchain, but the SEC still wants the keys",
+        "XRP's 'bearish' setup may crash price below $1: Analyst"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.75,
+      "events": [
+        "Regulatory scrutiny on tokenized securities by the SEC",
+        "Institutional adoption via Coinbase expanding mobile payment integration in Poland",
+        "Market analysis warning of bearish potential for XRP"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent news highlights mixed developments: Coinbase’s expansion into Poland signals growing institutional adoption, while SEC concerns over tokenized stocks indicate regulatory risks. A bearish technical outlook for XRP adds caution. No major ETF approvals or hacks reported, but regulatory and adoption themes are prominent."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $750M Deal With Google Backing",
+        "DTCC to Issue Tokenized Securities on Canton Network, Starting With US Treasuries",
+        "Caroline Pham Leaves CFTC to Join Crypto Company MoonPay"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.7,
+      "confidence": 0.8,
+      "events": [
+        "Institutional adoption: DTCC launching tokenized securities on Canton Network (US Treasuries)",
+        "Regulatory shift: Caroline Pham (CFTC) joining MoonPay, signaling potential regulatory alignment with crypto",
+        "Corporate partnership: Hut 8's $750M deal with Google for Bitcoin mining infrastructure"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Multiple high-impact developments are unfolding: institutional infrastructure (DTCC), corporate backing (Google/Hut 8), and regulatory talent movement (Pham to MoonPay). These suggest growing legitimacy and adoption in the crypto space, particularly around Bitcoin and tokenized assets. The news is fresh and points to accelerating institutional involvement."
+    }
+  ]
+}

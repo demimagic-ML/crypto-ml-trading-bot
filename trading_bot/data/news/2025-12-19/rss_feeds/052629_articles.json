@@ -1,0 +1,28 @@
+{
+  "fetch_time": "2025-12-19T05:26:29.410932",
+  "source_type": "rss_feeds",
+  "count": 3,
+  "articles": [
+    {
+      "source": "cointelegraph.com",
+      "title": "SEC flags Bitcoin miner hosting services as subject to securities laws",
+      "published": "Fri, 19 Dec 2025 03:23:48 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC flags Bitcoin miner hosting services as subject to securities laws\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Crypto has everything needed for a bull market, so why is the market down?",
+      "published": "Fri, 19 Dec 2025 02:40:02 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto has everything needed for a bull market, so why is the market down?\" src=\"https://images.cointelegraph.com/images/528_aHR",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Anxiety of quantum risk to Bitcoin is weighing on its price: Execs",
+      "published": "Fri, 19 Dec 2025 01:55:25 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Anxiety of quantum risk to Bitcoin is weighing on its price: Execs\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
+      "type": "crypto"
+    }
+  ]
+}

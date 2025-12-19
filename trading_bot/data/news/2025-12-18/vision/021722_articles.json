@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-18T02:17:22.939698",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Coinbase rolls out stock trading, prediction markets and more in bid to become the 'Everything Exchange'",
+        "Traders mull the bottom as bitcoin returns to week's lows below $86,000",
+        "CFTC's acting chief Pham poised to go to crypto firm MoonPay once Mike Selig lands"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.8,
+      "events": [
+        "Coinbase expands into stock and prediction markets, signaling broader financial ecosystem integration",
+        "Regulatory shift: CFTC acting chief potentially moving to MoonPay, indicating regulatory engagement with crypto firms"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Breaking news highlights Coinbase's strategic expansion into new asset classes, which could boost adoption but also raise regulatory scrutiny. Bitcoin is testing support near $86,000, indicating market uncertainty. Regulatory personnel movement suggests potential policy shifts. While not a direct catalyst for immediate price action, these developments are high-impact for long-term sentiment and institutional participation."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Coinbase adds stock trading, prediction markets in 'everything app' push",
+        "Coinbase gets nod from Indian regulators to acquire CoinDCX stake",
+        "Web3 Antivirus detects $563k DeFi loss after phishing approval during Aave and Compound..."
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.7,
+      "confidence": 0.8,
+      "events": [
+        "Coinbase expands into stock trading and prediction markets (adoption)",
+        "Coinbase receives regulatory approval in India to acquire CoinDCX stake (institutional move)",
+        "DeFi phishing attack results in $563k loss (security incident)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent developments show strong institutional adoption with Coinbase expanding globally and gaining regulatory approvals, which is bullish for crypto market sentiment. However, a notable security breach in DeFi highlights ongoing risks. The combination of regulatory greenlights and new product launches suggests momentum in the ecosystem."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $7 Billion AI Deal With Google Backing",
+        "Central African Republic's Crypto Initiatives Criticized for Benefiting Foreign Investors Over Citizens",
+        "Bitcoin Mining Ban in Siberia May Be Lifted to Address Power Grid Issues"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "Hut 8's $7 billion AI deal with Google backing signals institutional adoption of Bitcoin mining infrastructure",
+        "Siberian mining ban potential reversal indicates regulatory flexibility and energy policy shifts impacting crypto mining"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent headlines highlight strong institutional interest in Bitcoin mining through Hut 8's major AI-backed deal, signaling growing adoption. Additionally, regulatory developments in Siberia suggest potential easing of mining restrictions, which could boost hash rate and market sentiment. These events collectively indicate bullish momentum driven by institutional involvement and favorable regulatory shifts."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": -0.1166666666666667,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 21,
+  "headlines": [
+    "Bitcoin drops under $86K as $2.78B in BTC whale selling overwhelms active dip buyers",
+    "Price predictions 12/15: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH",
+    "Bitcoin parabola breakdown raises chance for 80% correction: Veteran trader",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Regulatory development: Do Kwon faces potential retrial over Terra fraud",
+    "UK Supreme Court decision limits BSV’s legal claim in $13B crypto lawsuit",
+    "Bitcoin price drop below $86K amid broader market weakness",
+    "Bitcoin/Ethereum accumulation: BitMine increases ETH holdings above $12 billion",
+    "Institutional adoption: JPMorgan launches Ethereum ETF strategy via MONY Fund",
+    "Regulatory warning from U.S. SEC chief on surveillance of crypto markets",
+    "Bitget expands into TradFi via USDT-based derivatives (adoption)",
+    "Major BTC whale sell-off ($2.78B) causing price drop below $86K",
+    "Anchorage Digital acquires RIA unit of Securitize (institutional adoption)"
+  ],
+  "timestamp": "2025-12-15T22:33:49.695441"
+}

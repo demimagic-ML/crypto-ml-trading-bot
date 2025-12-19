@@ -1,0 +1,24 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.35000000000000003,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 19,
+  "headlines": [
+    "Crypto ETPs to enter ‘cheesecake factory’ era in 2026: Bitwise",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC"
+  ],
+  "events": [
+    "US government tech force backed by Coinbase and Robinhood (institutional adoption)",
+    "Visa expands stablecoin pilot with Solana for US settlements (adoption)",
+    "Tether's $8M funding for Lightning Network startup (adoption)",
+    "Bitwise's prediction of new Bitcoin highs in 2026 (institutional outlook)",
+    "Institutional move: Eric Trump's American Bitcoin gains market traction in BTC treasury rankings",
+    "Bitcoin price bounce from recent lows with potential downside near $80,000",
+    "Aave founder announces 2026 roadmap post-SEC probe resolution (institutional clarity)"
+  ],
+  "timestamp": "2025-12-17T05:28:28.480918"
+}

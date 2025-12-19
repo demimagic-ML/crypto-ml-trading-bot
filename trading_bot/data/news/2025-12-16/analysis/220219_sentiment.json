@@ -1,0 +1,25 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": 0.16666666666666666,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 19,
+  "headlines": [
+    "The Bitcoin-to-gold ratio fell 50% in 2025: Here’s why",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC"
+  ],
+  "events": [
+    "Regulatory scrutiny: U.S. Senator Warren calls for investigation into Trump-linked crypto entities",
+    "South Korea government debt relief for crypto (regulatory support)",
+    "Institutional interest: Bitcoin options flow suggests range-bound expectations rather than breakout",
+    "SEC concludes investigation into Aave (regulatory clarity)",
+    "Bitcoin and Ethereum ETFs expected (institutional adoption)",
+    "Market structure legislation delay may impact regulatory clarity",
+    "Visa expands stablecoin pilot with Solana (adoption)",
+    "JPMorgan launches first tokenized money market fund on Ethereum (institutional adoption)"
+  ],
+  "timestamp": "2025-12-16T22:02:19.057627"
+}

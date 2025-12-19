@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-18T18:55:43.581305",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Flood of new crypto ETFs expected in 2026, says Bitwise",
+        "CF Benchmarks views bitcoin as portfolio staple, projects $1.4 million price target by 2035",
+        "U.S. SEC aids brokers on crypto custody, looks more closely at ATS activity"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Expected flood of new crypto ETFs in 2026",
+        "SEC increasing scrutiny on crypto custody and ATS (Alternative Trading Systems)",
+        "Institutional adoption signaled by CF Benchmarks' $1.4M BTC price target"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights bullish institutional sentiment toward Bitcoin with a long-term price target of $1.4 million by 2035, alongside anticipation of increased ETF approvals in 2026. Regulatory developments from the SEC suggest growing oversight but not immediate restriction. While not breaking, these themes signal strong future demand and potential market expansion, supporting a buy stance ahead of anticipated ETF launches."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin hunts liquidity as US CPI inflation drops to lowest since 2021",
+        "Tokenization arrives onchain for institutions — AMA recap with Redbelly Network",
+        "Aptos introduces post-quantum signatures before they're urgently needed"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "US Fed pulls guidance blocking its banks from engaging with crypto",
+        "Former SEC counsel explains what it takes to make RWAs compliant",
+        "Space announces public sale of its native token, SPACE"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed developments in the crypto space: regulatory easing by the US Fed and RWA compliance insights suggest potential institutional adoption, while Bitcoin's search for liquidity amid falling inflation could signal market caution. Institutional moves and regulatory shifts are present but not yet decisive. No major ETF approvals or hacks reported."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Crypto Treasuries Attract $2.6 Billion in Institutional Capital, Led by Starbucks Bitcoin Buys",
+        "Over $2 Billion in Crypto Swiped by North Korean Hackers in 2025: Chainalysis",
+        "SoFi Set to Launch Stablecoin on Ethereum"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Institutional adoption of Bitcoin via corporate treasuries (Starbucks)",
+        "SoFi launching stablecoin on Ethereum (major fintech adoption)",
+        "North Korean crypto thefts indicating ongoing risks but also market activity"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights strong institutional interest in Bitcoin and crypto assets, with major players like Starbucks allocating capital to Bitcoin. SoFi's stablecoin launch signals growing mainstream adoption. While North Korean cybercrime remains a risk, the overall trend points to increasing legitimacy and demand in the crypto space, supporting bullish sentiment."
+    }
+  ]
+}

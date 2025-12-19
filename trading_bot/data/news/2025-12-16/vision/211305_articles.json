@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-16T21:13:05.567863",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says",
+        "Eric Trump's American Bitcoin jumps to 20th among public BTC treasury companies"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "U.S. FDIC proposes first U.S. stablecoin regulation under GENIUS Act",
+        "Marshall Islands launches world's first blockchain-based UBI on Stellar blockchain",
+        "Polkadot advances as Coinbase unlocks integration with USDC stablecoin"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The market shows bullish momentum with regulatory progress on stablecoins (FDIC proposal), institutional adoption signals (American Bitcoin ranking), and new blockchain integrations (Coinbase-Polkadot). The FDIC’s stablecoin rule is a major regulatory development that could catalyze broader crypto acceptance. Price action suggests short-term volatility near $80k, but macro trends favor long-term growth."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "The Bitcoin-to-gold ratio fell 50% in 2025: Here's why",
+        "US banks could soon issue stablecoins under FDIC plan to implement GENIUS Act",
+        "Why BitMine is accumulating Ether despite broader market fear"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.8,
+      "events": [
+        "Potential FDIC-backed stablecoin issuance by US banks (institutional adoption)",
+        "JPMorgan launches first tokenized money market fund on Ethereum (institutional move)",
+        "SEC scrutiny on blockchain privacy tools (regulatory risk)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights regulatory scrutiny of blockchain privacy tools, JPMorgan’s entry into tokenized finance, and potential US bank-backed stablecoins—indicating growing institutional involvement. However, a 50% drop in the Bitcoin-to-gold ratio and market fear around ETH accumulation suggest bearish sentiment. The mix of bullish institutional moves and bearish macro signals creates volatility. Regulatory developments and FDIC-linked stablecoin plans are high-impact events that could drive 5%+ price swings."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin and Ethereum ETFs Expected to Be Approved by SEC, as Institutions Pull Back",
+        "Visa Expands Stablecoin Pilot to Include US Settlements via Solana",
+        "South Korean Government Gears Up for $1 Billion in Debt Relief for Crypto Projects"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "SEC expected to approve Bitcoin and Ethereum ETFs",
+        "Visa expanding stablecoin pilot with Solana integration",
+        "South Korea's $1 billion crypto debt relief initiative"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights strong institutional momentum with potential ETF approvals, Visa's expansion into stablecoin settlements via Solana, and South Korea's major financial support for the crypto sector. These developments suggest increased adoption and regulatory clarity, creating a bullish environment for Bitcoin and altcoins."
+    }
+  ]
+}

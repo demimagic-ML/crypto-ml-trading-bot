@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-17T20:27:22.347294",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin tumbles back below $88,000 as gains evaporate as quickly as they formed",
+        "Polkadot's DOT drops 3% to $1.83 as crypto markets reverse lower",
+        "BNB drops nearly 3% as bitcoin whipsaw and tech selloff hit crypto market"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.75,
+      "confidence": 0.9,
+      "events": [
+        "Bitcoin price drop below $88,000 after sharp rally reversal",
+        "Crypto market selloff driven by tech stock weakness and volatility in Bitcoin"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin has reversed sharply from recent highs, dropping below $88,000 amid a broader crypto market selloff. Polkadot and BNB are also down significantly, reflecting widespread selling pressure. The decline is linked to increased volatility in Bitcoin and weakness in U.S. tech stocks, suggesting a risk-off sentiment. No major regulatory or institutional events are reported, but the market reaction is strong and immediate."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin tags $90K as crypto market spike liquidates $120M shorts",
+        "The real crypto adoption shows on Tuesday morning payments",
+        "Silvergate Bank lawsuit calls for FTX, Alameda clients to weigh in on $10M settlement"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin price surge to $90K triggering liquidations of $120M in short positions",
+        "Institutional adoption highlighted with Okolo's payment processing use case",
+        "Regulatory and legal developments involving Silvergate Bank and FTX/Alameda"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Bitcoin surged toward $90K, causing massive liquidations of short positions, signaling strong bullish momentum. Institutional adoption is being demonstrated through new payment solutions, while ongoing legal actions around Silvergate and FTX add regulatory context. The combination of price action, adoption signals, and institutional involvement suggests a high-impact bullish environment."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Traders Are Monitoring Quarterly Bitcoin 'Witching Friday' for Volatility",
+        "Institutional Interest in XRP Exceeds $1 Billion as Ripple Surpasses Bitcoin, Says Analyst",
+        "Securitize Platform Will Provide Direct Ownership of Tokenized Public Stocks With Real Shareholder Rights"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Institutional interest in XRP exceeding $1 billion",
+        "Tokenization platform enabling direct ownership of public stocks via blockchain",
+        "Bitcoin 'Witching Friday' event signaling potential market volatility"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights growing institutional interest in XRP, a major development in tokenized asset ownership, and heightened market anticipation around Bitcoin's quarterly options expiration ('Witching Friday'). These factors suggest bullish momentum, especially with institutional moves and innovation in tokenization. The combination of adoption signals and regulatory-friendly developments supports a constructive outlook."
+    }
+  ]
+}

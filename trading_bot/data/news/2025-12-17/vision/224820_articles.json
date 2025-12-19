@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-17T22:48:20.898837",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Traders mull the bottom as bitcoin returns to week's lows below $86,000",
+        "Crypto industry insiders met with key senators on market structure bill negotiation",
+        "Don't call it QE – the Fed's $40 billion bill buys may not shake crypto out of slump"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Crypto industry meeting with U.S. senators on market structure legislation (regulatory)",
+        "Bitcoin price near $86,000 support level with bearish technicals and oversold conditions"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is testing weekly lows below $86,000 amid bearish sentiment and oversold conditions. Regulatory discussions with U.S. senators suggest potential policy shifts that could impact market structure. The Federal Reserve's recent bond purchases are being interpreted as a signal of monetary tightening, which may pressure risk assets including crypto. While no major ETF or hack events are reported, institutional concerns about macroeconomic conditions are driving caution."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "The real crypto adoption shows on Tuesday morning payments",
+        "Binance mulls new US strategy, CZ potentially reducing stake: Report",
+        "Price predictions 12/17: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.75,
+      "events": [
+        "Binance considering new US regulatory strategy with potential stake reduction by CZ",
+        "Real-world crypto adoption highlighted in payment activity",
+        "Regulatory consultation by UK on crypto rules for exchanges, lending, and DeFi"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights moderate market developments including institutional strategy shifts at Binance, early signs of real-world crypto adoption, and ongoing regulatory scrutiny from the UK. While there is no immediate breaking event, Binance's potential stake reduction and regulatory discussions could influence sentiment. Price predictions are speculative but suggest mixed near-term movements. No major ETF approvals, hacks, or large-scale institutional entries are reported."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $7 Billion AI Deal With Google Backing",
+        "Central African Republic's Crypto Initiatives Criticized for Benefiting Foreign Investors Over Citizens",
+        "Bitcoin Mining Ban in Siberia Extended Indefinitely to Address Power Grid Strain"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "Hut 8's $7 billion AI deal with Google backing (institutional adoption)",
+        "Siberian Bitcoin mining ban extension (regulatory impact on mining)"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The top news includes a major institutional move by Hut 8 partnering with Google, signaling potential long-term demand for crypto infrastructure. However, regulatory headwinds persist with the extension of a Bitcoin mining ban in Siberia. The sentiment remains neutral due to mixed signals—positive institutional interest offset by regional regulatory constraints. No immediate breaking developments or ETF/regulatory announcements are present."
+    }
+  ]
+}

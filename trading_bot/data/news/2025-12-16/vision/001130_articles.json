@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-16T00:11:30.461800",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slides to $86,000 as slower rate cut risk, AI stock woes shake markets",
+        "Senate punts crypto market structure bill to next year",
+        "'Much more than a backend refresh': Coinbase's fintech pivot hits milestone"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.9,
+      "events": [
+        "Senate delays crypto market structure bill",
+        "Coinbase announces major fintech infrastructure upgrade"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin dropped to $86,000 amid macroeconomic concerns and AI stock weakness. The Senate delayed critical crypto regulation legislation, adding uncertainty. Coinbase announced a strategic fintech pivot, but the broader market reaction is negative due to regulatory delay and macro headwinds."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "SEC commissioner says Crypto is 'helping to nudge reassessment' on privacy",
+        "Circle to acquire Interop Labs team and IP as Axelar remains independent",
+        "Here's what happened in crypto today"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.75,
+      "events": [
+        "SEC commissioner comments on crypto privacy (regulatory signal)",
+        "Circle acquires Interop Labs team and IP (institutional adoption)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent headlines include regulatory commentary from a SEC commissioner suggesting potential shifts in crypto oversight, and institutional movement with Circle acquiring Interop Labs. While not directly bullish or bearish, these developments indicate evolving regulatory dynamics and growing institutional engagement in the space. The news is timely but lacks strong directional catalysts."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "UK Supreme Court Shuts Down $13 Billion Bitcoin SV Case Appeal",
+        "Ripple Expanding RLUSD From XRP Ledger and Ethereum",
+        "Bank of America's Analysts See US Regulatory Shift Towards On-Chain Assets"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.2,
+      "confidence": 0.8,
+      "events": [
+        "UK Supreme Court ruling on Bitcoin SV case appeal (regulatory)",
+        "Ripple expanding RLUSD across XRP Ledger and Ethereum (adoption)",
+        "Bank of America analysts predicting regulatory shift toward on-chain assets (institutional move)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "The top news includes a major regulatory development in the UK with the Supreme Court closing a high-profile Bitcoin SV case, signaling potential legal clarity. Ripple is expanding its stablecoin (RLUSD) across multiple blockchains, indicating increased adoption. Meanwhile, Bank of America analysts suggest a growing institutional acceptance of on-chain assets, pointing to structural shifts in market dynamics. While not overtly bullish or bearish, these developments collectively suggest a period of regulatory stabilization and institutional interest—favorable for long-term positioning but caution advised due to legal uncertainties."
+    }
+  ]
+}

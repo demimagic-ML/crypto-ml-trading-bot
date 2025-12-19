@@ -1,0 +1,24 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": 0.06666666666666667,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 21,
+  "headlines": [
+    "Bitcoin liquidity ‘battle’ rages as bull case sees clear run to $95K",
+    "Crypto’s ‘super app’ race is on as industry enters aggregation era: Report",
+    "Here’s what happened in crypto today",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Aster launches Shield Mode, a protected high-performance trading mode for on-chain traders",
+    "Bitcoin market correction with top tokens breaking key technical levels",
+    "JPMorgan launches its first tokenized money market fund on Ethereum",
+    "Visa and Circle launch USDC settlement with U.S. banks (institutional adoption)",
+    "Grayscale addressing quantum computing risks (regulatory/technological concern)",
+    "PayPal seeking bank charter in Utah (institutional adoption)",
+    "U.S. employment data showing rising unemployment (macroeconomic risk)"
+  ],
+  "timestamp": "2025-12-16T17:48:21.013969"
+}

@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-17T07:53:45.549583",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's massive underperformance to stocks in Q4 bodes well for January, says K33's Lunde",
+        "DOGE exits range as selling pressure builds at key levels",
+        "Why XRP's drop below $1.93 shifts short-term market structure"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.2,
+      "confidence": 0.8,
+      "events": [
+        "Grayscale outlines top crypto investing themes for 2026 as institutional adoption grows",
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+        "Crypto exchange HashKey's shares fall 5% on trading debut in Hong Kong"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The latest news highlights mixed sentiment across the crypto market: Bitcoin shows signs of potential rebound after underperforming equities in Q4, while DOGE and XRP face downward pressure. Institutional interest remains strong with Grayscale outlining future investment themes and regulatory developments like the FDIC’s stablecoin proposal. The debut of HashKey in Hong Kong adds a new layer of market dynamics. While there are bullish signals from macro narratives, near-term technical resistance and regulatory uncertainty keep overall sentiment neutral."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Saylor's Bitcoin stash will be very hard for anyone to match: Pompliano",
+        "Lightning Network hits record capacity on crypto exchange adoption",
+        "SAFE Crypto Act will have scammers shaking in their boots: Crypto lawyer"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Regulatory development: UK regulator consults on crypto rules for exchanges, lending and DeFi",
+        "Institutional move: Saylor's massive Bitcoin holdings highlighted as benchmark",
+        "Adoption: Lightning Network reaches record capacity on crypto exchanges"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights strong institutional positioning (Saylor's BTC holdings), regulatory developments in the UK, and technical progress with Lightning Network adoption. These signals suggest growing legitimacy and infrastructure support for Bitcoin, reinforcing bullish momentum. Regulatory clarity and adoption milestones are key catalysts."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Former Theta Executives Accuse Crypto Firm's CEO of Fraud. Retaliation",
+        "Actors, Creators Launch Coalition to Push AI Rules Amid Ongoing Concerns",
+        "FDIC Opens Public Comment Period for Rule Proposal on Handling Stablecoin Issuer Applications"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "FDIC proposes new rule for stablecoin issuer applications (regulatory)",
+        "Theta executives accuse CEO of fraud (internal conflict within crypto firm)"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights regulatory developments around stablecoins from the FDIC and internal turmoil at a crypto firm (Theta), but lacks major institutional adoption or ETF-related announcements. No clear bullish or bearish catalysts present."
+    }
+  ]
+}

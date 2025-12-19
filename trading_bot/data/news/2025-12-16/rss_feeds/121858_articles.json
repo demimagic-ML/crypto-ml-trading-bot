@@ -1,0 +1,28 @@
+{
+  "fetch_time": "2025-12-16T12:18:58.699393",
+  "source_type": "rss_feeds",
+  "count": 3,
+  "articles": [
+    {
+      "source": "cointelegraph.com",
+      "title": "Bitcoin sharks stack at fastest pace in 13 years, with BTC down 30%",
+      "published": "Tue, 16 Dec 2025 08:13:48 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin sharks stack at fastest pace in 13 years, with BTC down 30%\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Most crypto sectors lagged Bitcoin over past 3 months: Glassnode",
+      "published": "Tue, 16 Dec 2025 06:10:26 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Most crypto sectors lagged Bitcoin over past 3 months: Glassnode\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zM",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "MetaMask adds Bitcoin support after teasing it 10 months ago",
+      "published": "Tue, 16 Dec 2025 04:47:18 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MetaMask adds Bitcoin support after teasing it 10 months ago\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb",
+      "type": "crypto"
+    }
+  ]
+}

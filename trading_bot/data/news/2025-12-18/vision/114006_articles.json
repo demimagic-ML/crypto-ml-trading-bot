@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-18T11:40:06.769558",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin is all over the place ahead of U.S. inflation data",
+        "Is XRP crashing? The sustained break below $2 signals trouble",
+        "Coinbase rolls out stock trading, prediction markets and more in bid to become the 'Everything Exchange'"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "JPMorgan's tokenized dollars are quietly rewiring how Wall Street moves money",
+        "Coinbase launches new features including stock trading and prediction markets",
+        "VivoPower eyes $300M Ripple share deal"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "The market is reacting to mixed signals: Bitcoin volatility ahead of key inflation data, concerns over XRP's price breakdown, and Coinbase's strategic expansion into traditional finance. JPMorgan's adoption of tokenized dollars signals growing institutional interest in blockchain, while VivoPower’s potential Ripple investment adds speculative momentum. However, no clear bullish or bearish trend emerges yet—this is a period of high uncertainty before macro data release."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Spot Bitcoin ETFs record $450M inflows in 'early positioning' push",
+        "Ethereum needs simple explanation to see true trustlessness: Buterin",
+        "MSCI's crypto treasury rules could spur $15B of forced selling"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "Spot Bitcoin ETF inflows of $450M indicate strong institutional interest and early positioning",
+        "MSCI’s potential crypto treasury rule changes could trigger significant liquidation ($15B) in the market"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The top news highlights strong inflows into spot Bitcoin ETFs, signaling growing institutional adoption and bullish sentiment. However, a potential MSCI rule change may trigger large-scale sell-offs, creating volatility. The ETF inflows are breaking and high-impact, while the MSCI news introduces bearish risk. Overall, the market appears to be in a bullish phase driven by institutional moves, but caution is advised due to regulatory risks."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $750M Deal With Google Backing",
+        "DTCC to Issue Tokenized Securities on Canton Network, Starting With US Treasuries",
+        "Senators Propose Task Force to Combat Crypto Scams and Protect Investors"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "Institutional adoption: DTCC launching tokenized securities on Canton Network",
+        "Regulatory development: Senate proposal for crypto scam task force",
+        "Corporate partnership: Bitcoin miner Hut 8 securing major deal with Google"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The news highlights key institutional and regulatory developments in the crypto space. DTCC's move into tokenized securities signals growing acceptance by traditional finance. The Senate’s proposed task force may bring regulatory clarity, reducing uncertainty. Hut 8's deal with Google underscores institutional interest in Bitcoin mining. These factors collectively support bullish momentum, especially in Bitcoin and infrastructure-related tokens."
+    }
+  ]
+}

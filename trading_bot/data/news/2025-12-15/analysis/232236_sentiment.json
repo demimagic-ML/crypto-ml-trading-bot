@@ -1,0 +1,26 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": -0.15,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 21,
+  "headlines": [
+    "SEC ’eased up on’ 60% of crypto enforcement cases under Trump: Report",
+    "Bitcoin drops under $86K as $2.78B in BTC whale selling overwhelms active dip buyers",
+    "Price predictions 12/15: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Tom Lee's $320M ETH investment via Bitmine Immersion",
+    "SEC regulatory easing under Trump (historical context)",
+    "BTC whale selling pressure ($2.78B outflow)",
+    "Stablecoin expansion: Ripple expanding RLUSD across XRP Ledger and Ethereum networks",
+    "Tokenization expansion: Ondo Finance plans to roll out tokenized stocks, ETFs on Solana",
+    "Anchorage Digital acquires RIA unit of Securitize (institutional adoption)",
+    "SEC warning on regulatory overreach in crypto",
+    "Institutional adoption: Anchorage Digital acquires advisory SaaS, indicating growing institutional infrastructure in crypto",
+    "Bitcoin price drop below $86,000"
+  ],
+  "timestamp": "2025-12-15T23:22:36.104224"
+}

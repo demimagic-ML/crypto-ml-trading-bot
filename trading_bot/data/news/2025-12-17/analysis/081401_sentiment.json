@@ -1,0 +1,24 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.31666666666666665,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 22,
+  "headlines": [
+    "Bhutan pledges 10K Bitcoin to develop its ‘mindfulness city’",
+    "Saylor’s Bitcoin stash will be very hard for anyone to match: Pomp",
+    "Lightning Network hits record capacity on crypto exchange adoption",
+    "SAFE Crypto Act will have scammers shaking in their boots: Crypto lawyer",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank"
+  ],
+  "events": [
+    "Visa expands stablecoin pilot with Solana for US settlements (adoption)",
+    "Infrastructure development: Lightning Network reaches record capacity, indicating growing scalability and usage",
+    "Theta executives accuse CEO of fraud (internal conflict, potential governance risk)",
+    "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act (regulatory development)",
+    "Grayscale outlines top crypto investing themes for 2026 (institutional adoption)",
+    "Geopolitical adoption: Bhutan's pledge of 10,000 BTC for national development signals emerging market interest",
+    "Institutional adoption: MicroStrategy CEO Michael Saylor's Bitcoin holdings highlighted as a benchmark"
+  ],
+  "timestamp": "2025-12-17T08:14:01.382202"
+}

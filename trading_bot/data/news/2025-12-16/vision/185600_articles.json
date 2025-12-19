@@ -1,0 +1,70 @@
+{
+  "fetch_time": "2025-12-16T18:56:00.253055",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says",
+        "Tether leads $8 million investment in Speed to push USDT further into everyday payments",
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.8,
+      "events": [
+        "U.S. FDIC proposes first U.S. stablecoin rule under GENIUS Act (regulatory development)",
+        "Tether's $8M investment in Speed to expand USDT adoption (institutional move)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Bitcoin shows a bounce from recent lows, but analysts warn of potential downside toward $80,000. Regulatory news on stablecoins from the FDIC is emerging, which could impact market sentiment. Tether's strategic investment in Speed signals growing institutional interest in USDT adoption. While not yet breaking, these developments are high-impact and suggest cautious positioning ahead of regulatory clarity."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin liquidity 'battle' rages as bull case sees clear run to $95K",
+        "Why can't Ether hold $3K? ETH recovery in doubt as data tilts bearish",
+        "UK crypto ownership dropped to 8% in 2025: YouGov poll"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "JPMorgan launches its first tokenized money market fund on Ethereum",
+        "Web3 Antivirus detects $563k DeFi loss after phishing approval during Aave and Compound..."
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed signals in the crypto market: Bitcoin faces strong bullish momentum with liquidity battles pushing toward $95K, while Ethereum struggles to maintain support at $3K, signaling bearish sentiment. Institutional adoption is noted via JPMorgan's new tokenized fund on Ethereum, a significant development. However, DeFi security remains a concern with reported phishing losses. Overall, sentiment is neutral due to conflicting narratives between BTC bullishness and ETH weakness."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's New Entrants Face the Bite as Whales Retreat",
+        "PayPal Seeks Utah-Chartered Industrial Bank Status",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "PayPal seeking industrial bank status (institutional adoption)",
+        "Grayscale addressing quantum computing threat (long-term risk discussion)"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The top headlines reflect mixed signals: new retail interest in Bitcoin contrasts with whale selling, while PayPal’s potential banking move signals institutional adoption. Grayscale’s commentary on quantum threats adds long-term context but lacks immediate impact. No breaking regulatory or ETF news is present, and sentiment remains balanced."
+    }
+  ]
+}

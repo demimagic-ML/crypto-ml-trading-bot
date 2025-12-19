@@ -1,0 +1,23 @@
+{
+  "sentiment": "BEARISH",
+  "sentiment_score": -0.4000000000000001,
+  "confidence": 0.6,
+  "trading_suggestion": "SELL",
+  "news_count": 20,
+  "headlines": [
+    "Crypto’s ‘super app’ race is on as industry enters aggregation era: Report",
+    "Here’s what happened in crypto today",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc."
+  ],
+  "events": [
+    "Independent audit verifies gold reserves backing Kyrgyzstan's USDKG stablecoin",
+    "Visa and Circle's USDC settlement pilot with U.S. banks (institutional adoption)",
+    "Institutional selling of Bitcoin and Ethereum ETFs ($582M outflow)",
+    "Stablecoin infrastructure development ($2T economy focus)",
+    "Bitcoin price drop toward $85,000 with broader crypto market sell-off",
+    "JPMorgan launches its first tokenized money market fund on Ethereum"
+  ],
+  "timestamp": "2025-12-16T17:14:38.291599"
+}

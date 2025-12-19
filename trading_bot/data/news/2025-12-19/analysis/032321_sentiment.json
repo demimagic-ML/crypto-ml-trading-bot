@@ -1,0 +1,25 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": 0.11666666666666664,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 20,
+  "headlines": [
+    "Crypto CLARITY Act set for Senate markup in January, Sacks says",
+    "Here’s what happened in crypto today",
+    "Federal Reserve Board publishes first of several staff manuals for the supervision of the largest and most complex banks",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank"
+  ],
+  "events": [
+    "Solana and Aptos enhancing blockchain security against quantum threats (technological development)",
+    "ECB signals readiness for digital euro (institutional adoption)",
+    "SEC lawsuit against third-party Bitcoin mining services (regulatory)",
+    "Synthetix returning to Ethereum mainnet",
+    "U.S. SEC aids brokers on crypto custody, indicating regulatory developments in crypto infrastructure",
+    "Bitcoin tested $85,000 and triggered significant liquidations across altcoins",
+    "XRP ETF reaching $1B in assets",
+    "Crypto CLARITY Act advancing to Senate markup"
+  ],
+  "timestamp": "2025-12-19T03:23:21.478143"
+}

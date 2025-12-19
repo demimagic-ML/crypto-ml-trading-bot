@@ -1,0 +1,26 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.35000000000000003,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 19,
+  "headlines": [
+    "Bitcoin miner Hut 8 lands $7B Google-backed AI data center lease",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC"
+  ],
+  "events": [
+    "Bitcoin options and futures expiration (potential volatility event)",
+    "Institutional adoption: Bitcoin miner Hut 8 secures a $7B AI data center lease backed by Google",
+    "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+    "Coinbase quietly driving Bitcoin's hashrate growth via mining pod",
+    "Institutional adoption: TradFi giant EquiLend backs Digital Prime for tokenized markets",
+    "India's tokenization bill proposal (regulatory adoption signal)",
+    "Security/Regulatory action: Binance announces whistleblower program targeting fake listings",
+    "Regulatory and institutional development: Wall Street plans to tokenize US Treasuries on a $4 quadrillion backbone",
+    "Visa expanding stablecoin pilot on Solana (institutional adoption)"
+  ],
+  "timestamp": "2025-12-17T15:38:21.825223"
+}

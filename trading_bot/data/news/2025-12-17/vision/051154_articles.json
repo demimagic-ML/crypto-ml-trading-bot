@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-17T05:11:54.361196",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says",
+        "Eric Trump’s American Bitcoin jumps to 20th among public BTC treasury companies"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory development: FDIC proposes first U.S. stablecoin rule under GENIUS Act",
+        "Institutional move: Eric Trump’s American Bitcoin gains market traction in public BTC treasury rankings"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The top news includes regulatory developments around stablecoins with the FDIC proposing new rules, a short-term rebound in Bitcoin price after a dip, and institutional interest via American Bitcoin’s rise in public BTC treasury rankings. While there is some bullish momentum in price recovery, regulatory uncertainty and lack of major ETF or adoption milestones keep overall sentiment neutral. The FDIC proposal is high-impact due to its regulatory nature, but no immediate catalysts are confirmed."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Tether leads $8M funding for Lightning startup focused on stablecoins",
+        "Aave founder outlines 2026 'master plan' after end to SEC probe",
+        "US government 'tech force' gets backup from Coinbase, Robinhood"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Tether's $8M funding of a Lightning Network startup signals increased adoption and development in layer-2 solutions.",
+        "SEC probe into Aave ends, allowing the protocol to move forward with its 2026 roadmap — institutional clarity.",
+        "US government tech force receives support from Coinbase and Robinhood — potential institutional alignment and regulatory cooperation."
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent developments indicate strong bullish momentum: Tether’s investment in Lightning infrastructure supports Bitcoin scalability; Aave’s SEC resolution reduces regulatory risk; and Coinbase/Robinhood backing the US government tech team suggests growing institutional crypto integration. These are high-impact, breaking news items that could drive market sentiment upward."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Visa Expands Stablecoin Pilot to Enable US Settlements via Solana",
+        "FDIC Opens Public Comment Period for Rule Proposal on Handling Stablecoin Issuer Applications",
+        "Why Bitwise Expects New Bitcoin Highs in 2026—And the End of the 4-Year Cycle"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Visa's expansion of stablecoin pilot program (adoption)",
+        "FDIC proposal on stablecoin issuer regulation (regulatory development)",
+        "Bitwise’s bullish outlook on Bitcoin price trajectory (institutional sentiment)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "The top news highlights strong institutional and regulatory developments in crypto, including Visa’s adoption of Solana-based stablecoins and FDIC rule proposals. Combined with Bitwise’s bullish forecast, this signals growing institutional confidence and potential catalysts for BTC price momentum."
+    }
+  ]
+}

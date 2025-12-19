@@ -1,0 +1,25 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": -0.08333333333333333,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 20,
+  "headlines": [
+    "Price predictions 12/17: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK",
+    "Bitcoin tags $90K as crypto market spike liquidates $120M shorts",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Institutional adoption: Bitcoin miner Hut 8 secures a $7B AI deal with Google backing",
+    "Fed's $40 billion bill purchases signaling potential monetary tightening concerns for crypto markets",
+    "Meme coin market experiences capitulation after massive rally",
+    "Space announces public sale of its native token SPACE",
+    "Bitcoin price nears $86,000 support level with trader sentiment cautious",
+    "Real-world crypto adoption highlighted in payment activity",
+    "Regulatory/energy concern: Siberia extends indefinite ban on Bitcoin mining due to power grid strain",
+    "Binance considering new US regulatory strategy with potential stake reduction by CZ"
+  ],
+  "timestamp": "2025-12-17T23:05:37.719024"
+}

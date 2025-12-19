@@ -1,0 +1,21 @@
+{
+  "fetch_time": "2025-12-16T13:28:45.565755",
+  "source_type": "rss_feeds",
+  "count": 2,
+  "articles": [
+    {
+      "source": "cointelegraph.com",
+      "title": "Bitcoin long-term holder supply hits 8-month lows: Bullish or bearish?",
+      "published": "Tue, 16 Dec 2025 10:14:31 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin long-term holder supply hits 8-month lows: Bullish or bearish?\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Bitcoin sharks stack at fastest pace in 13 years, with BTC down 30%",
+      "published": "Tue, 16 Dec 2025 08:13:48 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin sharks stack at fastest pace in 13 years, with BTC down 30%\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly",
+      "type": "crypto"
+    }
+  ]
+}

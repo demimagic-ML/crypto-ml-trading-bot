@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-17T02:26:39.089411",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin derivatives point to broad price range play between $85,000-$100,000",
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "U.S. FDIC proposes first U.S. stablecoin regulation under GENIUS Act",
+        "Bitcoin derivatives suggest potential breakout toward $100,000",
+        "Institutional interest in Bitcoin infrastructure highlighted by OwiTing sponsorship"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is showing signs of recovery after a sharp dip, with derivatives indicating bullish momentum into the $85,000–$100,000 range. A major regulatory development—the FDIC’s proposed stablecoin rule—adds institutional credibility and could catalyze further adoption. While short-term volatility remains, the combination of regulatory progress and market sentiment suggests a constructive outlook for BTC."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Spot Bitcoin ETFs see $358M outflow: Are investors abandoning BTC?",
+        "Bank of Canada lays out criteria for 'good money' stablecoins",
+        "Here's what happened in crypto today"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin ETF outflow of $358M",
+        "Bank of Canada sets stablecoin criteria",
+        "Regulatory consultation on crypto rules by UK regulator"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights a significant $358M outflow from Bitcoin ETFs, signaling potential institutional disengagement and bearish sentiment. Regulatory developments from the UK and Bank of Canada add uncertainty, while no major positive catalysts are present. The combination of ETF outflows and regulatory scrutiny suggests a cautious or bearish market environment."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Why Bitwise Expects New Bitcoin Highs in 2026—And the End of the 4-Year Cycle",
+        "FTC Compels Nomad Operator to Repay Users After $186M Crypto Theft",
+        "Trump 'Open' to Democrats at SEC, CFTC in Possible Boon to Crypto Market Structure Bill"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Regulatory development: Trump's openness to Democratic involvement at SEC and CFTC may signal progress on crypto market structure legislation",
+        "Institutional move: Bitwise's bullish forecast for Bitcoin in 2026 indicates growing institutional confidence",
+        "Security incident: FTC action against Nomad operator over $186M theft highlights ongoing risks in DeFi"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The top news includes a bullish institutional outlook from Bitwise for Bitcoin in 2026, regulatory optimism from potential bipartisan cooperation at the SEC and CFTC, and a major enforcement action by the FTC following a $186M crypto theft. While the security breach is negative, the regulatory and institutional developments are highly positive and likely to drive long-term momentum. The combination of institutional sentiment and regulatory progress suggests a strong bullish catalyst."
+    }
+  ]
+}

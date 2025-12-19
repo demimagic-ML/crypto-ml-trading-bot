@@ -1,0 +1,25 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": 0.06666666666666667,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 21,
+  "headlines": [
+    "Crypto market cap falls to 8-month low, analysts see more pain ahead",
+    "SEC flags Bitcoin miner hosting services as subject to securities laws",
+    "Crypto has everything needed for a bull market, so why is the market down?",
+    "Federal Reserve Board publishes first of several staff manuals for the supervision of the largest and most complex banks",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation"
+  ],
+  "events": [
+    "Institutional adoption: Intuit partnering with Circle to integrate USDC into TurboTax and QuickBooks",
+    "Bitcoin testing $85,000 resistance leading to significant liquidations across altcoins",
+    "Market cap reaching an 8-month low",
+    "Senate confirmation of Trump-aligned crypto-friendly nominees for CFTC and FDIC, signaling potential regulatory easing",
+    "Bank of Japan raises interest rate to 0.75%, impacting global risk assets and strengthening Bitcoin",
+    "Institutional commentary on capital rotation into Zcash",
+    "Regulatory development: ECB signaling readiness for Digital Euro implementation",
+    "SEC regulatory action on Bitcoin mining services"
+  ],
+  "timestamp": "2025-12-19T06:27:50.992833"
+}

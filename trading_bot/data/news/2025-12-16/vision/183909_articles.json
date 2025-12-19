@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-16T18:39:09.525281",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says",
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+        "Tether leads $8 million investment in Speed to push USDT further into everyday payments"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "U.S. FDIC proposes first U.S. stablecoin regulation under GENIUS Act",
+        "Tether invests $8 million in Speed for USDT adoption in everyday payments",
+        "Bitcoin price volatility with bounce from lows but potential for further downside"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Bitcoin shows short-term recovery after a sharp drop, but analysts warn of potential further decline below $80,000. Regulatory developments are emerging with the FDIC proposing a stablecoin rule, signaling increased oversight. Tether's investment in Speed highlights institutional interest in expanding USDT adoption. While not immediate catalysts, these regulatory and adoption signals could influence market direction in the coming days."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin liquidity 'battle' rages as bull case sees clear run to $95K",
+        "Why can't Ether hold $3K? ETH recovery in doubt as data tilts bearish",
+        "Crypto's 'super app' race is on as industry enters aggregation era: Report"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "JPMorgan launches its first tokenized money market fund on Ethereum",
+        "Aster launches Shield Mode, a protected high-performance trading mode for on-chain traders"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Bitcoin shows strong bullish momentum with liquidity battles pushing toward $95K, while Ethereum faces bearish pressure near $3K. Institutional moves like JPMorgan's tokenized fund and new trading tools (e.g., Aster's Shield Mode) signal growing adoption. Regulatory tone remains neutral but supportive of innovation. Bitcoin news is breaking and high-impact; Ethereum’s weakness may present a short-term dip-buy opportunity."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's New Entrants Face the Bite as Whales Retreat",
+        "PayPal Seeks Utah-Chartered Industrial Bank Status",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "PayPal pursuing bank charter for crypto services (institutional adoption)",
+        "Grayscale addressing quantum computing risks (security/tech development)"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed signals in the crypto market: institutional interest via PayPal’s banking ambitions, caution from major players like Grayscale on long-term threats, and signs of market consolidation with whale activity declining. No immediate regulatory or ETF developments are reported. Overall sentiment is neutral, with moderate impact expected from ongoing institutional moves."
+    }
+  ]
+}

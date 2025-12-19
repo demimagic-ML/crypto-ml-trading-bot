@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-16T02:52:48.391298",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slides to $86,000 as slower rate cut risk, AI stock woes shake markets",
+        "PayPal, issuer of PYUSD, applies for Utah industrial bank license",
+        "Nasdaq, home of Coinbase, Strategy stocks, seeks 23-hour trading amid investor demand"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "PayPal applying for Utah industrial bank license (potential adoption and stablecoin expansion)",
+        "Nasdaq expanding trading hours for crypto-related stocks (institutional infrastructure development)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin dropped to $86,000 due to macroeconomic concerns around delayed rate cuts and broader market volatility from AI stock declines. PayPal's move toward banking regulation signals potential stablecoin expansion, while Nasdaq’s extended trading hours reflect growing institutional interest in crypto. Despite some positive developments, the dominant sentiment is bearish due to macro-driven sell-offs."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin, altcoins sell-off as Fed chair switch-up, AI bubble fears spook markets",
+        "SEC commissioner says Crypto is 'helping to nudge reassessment' on privacy",
+        "Here's what happened in crypto today"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.8,
+      "events": [
+        "Fed chair transition sparking market uncertainty",
+        "SEC commissioner comments on crypto and privacy regulation",
+        "AI-related fears impacting crypto markets"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights a bearish sentiment driven by macro concerns including a potential Fed chair change and rising AI-driven market fears, leading to a broad sell-off in Bitcoin and altcoins. Regulatory commentary from the SEC adds complexity but doesn't signal immediate bullish momentum. The combination of macro uncertainty and regulatory nuance suggests caution, with a strong case for reducing exposure or hedging."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Sinks Towards $85,000 as Ethereum, XRP Fall Alongside",
+        "Ripple Expanding RLUSD From Ledger and Ethereum",
+        "Bank of America's Analysts Say Regulatory Shift Towards On-Chain Assets"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.75,
+      "events": [
+        "Regulatory shift towards on-chain assets (institutional move)",
+        "Ripple expanding RLUSD (adoption event)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin and altcoins are under downward pressure with BTC nearing $85,000. Ripple's expansion of RLUSD signals ongoing adoption efforts, but regulatory shifts from major institutions like Bank of America suggest increased scrutiny or caution in the market. The sentiment is bearish due to price action and broader market sell-off."
+    }
+  ]
+}

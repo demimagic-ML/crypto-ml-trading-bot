@@ -1,0 +1,27 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": -0.08333333333333333,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 20,
+  "headlines": [
+    "Bitcoin $70K flush would reset cycle, not confirm new bear market: Analyst",
+    "Price predictions 12/17: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Regulatory news: Former SEC counsel explains RWAs compliance",
+    "Alameda CEO legal update (non-imprisonment over holiday)",
+    "Bitcoin price surge to $90K followed by sharp decline (market volatility)",
+    "DTCC launching tokenized securities on Canton Network (regulatory/institutional infrastructure development)",
+    "UK regulator consults on crypto rules for exchanges, lending and DeFi",
+    "Regulatory discussions with senators on crypto industry policy",
+    "Crypto market correction following prior rally to $90,000",
+    "Bitcoin price near $86,000, testing support levels",
+    "Web3 Antivirus detects $563k DeFi loss due to phishing attack",
+    "Hut 8's $7B AI deal with Google-backed entity (institutional adoption)"
+  ],
+  "timestamp": "2025-12-17T23:39:54.316149"
+}

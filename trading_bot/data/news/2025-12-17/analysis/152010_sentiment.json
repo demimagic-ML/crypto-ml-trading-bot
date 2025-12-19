@@ -1,0 +1,26 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.3666666666666667,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 20,
+  "headlines": [
+    "Bitcoin miner Hut 8 lands $7B Google-backed AI data center lease",
+    "CAR’s crypto push fueled ‘state capture’ by elites, criminal networks: Report",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Bitcoin options expiration event (Friday)",
+    "India's proposed tokenization bill for democratizing investment",
+    "Tokenization of US Treasuries by Wall Street institutions",
+    "Visa expanding stablecoin pilot with Solana settlement",
+    "FDIC proposing first U.S. stablecoin regulation under GENIUS Act",
+    "Institutional adoption: Bitcoin miner Hut 8 secures major AI data center lease backed by Google",
+    "Securitize launching onchain trading for real-world assets in 2026 (adoption event)",
+    "ETFs bleeding (bearish signal for Bitcoin market sentiment)",
+    "Regulatory critique from Coinbase CEO highlighting flaws in traditional finance"
+  ],
+  "timestamp": "2025-12-17T15:20:10.467627"
+}

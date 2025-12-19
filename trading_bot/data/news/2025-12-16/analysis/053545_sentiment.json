@@ -1,0 +1,25 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": -0.18333333333333335,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 22,
+  "headlines": [
+    "US crypto market structure legislation to advance in early 2026",
+    "Bitcoin to hit new all-time high within 6 months: Grayscale",
+    "Bitcoin, altcoins sell-off as Fed chair switch-up, AI bubble fears spook markets",
+    "Here’s what happened in crypto today",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
+  ],
+  "events": [
+    "US crypto market structure legislation expected to advance in early 2026 (regulatory development)",
+    "Bitcoin price movement near $85,000 with broader crypto sell-off",
+    "Regulatory shift towards on-chain assets by Bank of America analysts",
+    "Ripple expanding RLUSD (a stablecoin) on multiple blockchains",
+    "ETF adoption concerns despite growing interest in Bitcoin ETFs",
+    "Grayscale's prediction of Bitcoin reaching a new all-time high within 6 months (institutional sentiment)",
+    "Bitcoin price drop to $86,000 due to AI stock sell-off and rate cut risk",
+    "PayPal applying for Utah industrial bank license to launch PYUSD stablecoin banking services"
+  ],
+  "timestamp": "2025-12-16T05:35:45.676233"
+}

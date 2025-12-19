@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-16T02:04:21.077142",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slides to $86,000 as slower rate cut risk, AI stock woes shake markets",
+        "Nasdaq, home of Coinbase, Strategy stocks, seeks 23-hour trading amid investor demand",
+        "Senate punts crypto market structure bill to next year"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin price drop to $86,000 due to macroeconomic concerns and AI stock weakness",
+        "Senate delays crypto market structure legislation, pushing regulatory clarity into next year"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin dropped to $86,000 amid fears of delayed rate cuts and broader market volatility from AI stock declines. Institutional activity is muted by regulatory uncertainty, with the Senate delaying key crypto legislation. This combination of macro-driven selling pressure and regulatory stagnation suggests a bearish near-term outlook for crypto markets."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Here's what happened in crypto today",
+        "SEC commissioner says Crypto is 'helping to nudge reassessment' on privacy",
+        "Circle to acquire Interop Labs team and IP as Axelar remains independent"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "SEC commissioner comments on crypto privacy, indicating potential regulatory reassessment",
+        "Circle acquires Interop Labs team and IP — institutional adoption move"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The latest crypto news includes a neutral sentiment with mixed signals: regulatory commentary from the SEC suggesting possible openness to crypto privacy frameworks, and Circle’s acquisition of Interop Labs indicating institutional consolidation. No major ETF approvals, hacks, or market-moving events are reported. The headlines reflect ongoing developments in regulation and infrastructure, but lack strong bullish or bearish catalysts at this time."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Trump Says He Will 'Look At' Pardon for Samurai Bitcoin App Dev",
+        "Ripple Expanding RLUSD From XRP Ledger and Ethereum",
+        "Ondo Finance Plans to Roll Out Tokenized Stocks, ETFs on Solana"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "Institutional move: Ondo Finance planning tokenized stocks and ETFs on Solana",
+        "Regulatory development: Trump considering pardon for Bitcoin app developer",
+        "Adoption: Ripple expanding RLUSD across multiple blockchains"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The news highlights significant developments in crypto adoption and institutional innovation, including Ripple's expansion of its stablecoin, Ondo's entry into tokenized financial products, and political attention toward crypto developers. These signals suggest growing legitimacy and market momentum, particularly around infrastructure and regulatory engagement."
+    }
+  ]
+}

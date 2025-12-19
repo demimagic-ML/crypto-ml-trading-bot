@@ -1,0 +1,26 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.5333333333333333,
+  "confidence": 0.6,
+  "trading_suggestion": "STRONG_BUY",
+  "news_count": 20,
+  "headlines": [
+    "Bitcoin hunts liquidity as US CPI inflation drops to lowest since 2021",
+    "Tether CEO says AI bubble is Bitcoin’s biggest risk in 2026",
+    "Federal Reserve Board publishes first of several staff manuals for the supervision of the largest and most complex banks",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank"
+  ],
+  "events": [
+    "US Fed pulls guidance blocking its banks from engaging with crypto",
+    "Former SEC counsel explains what it takes to make RWAs compliant",
+    "Expected flood of new crypto ETFs in 2026",
+    "North Korean crypto thefts indicating ongoing risks but also market activity",
+    "Institutional adoption of Bitcoin via corporate treasuries (Starbucks)",
+    "SEC increasing scrutiny on crypto custody and ATS (Alternative Trading Systems)",
+    "Space announces public sale of its native token, SPACE",
+    "Institutional adoption signaled by CF Benchmarks' $1.4M BTC price target",
+    "SoFi launching stablecoin on Ethereum (major fintech adoption)"
+  ],
+  "timestamp": "2025-12-18T18:55:43.581601"
+}

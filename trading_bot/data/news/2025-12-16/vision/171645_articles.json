@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-16T17:16:45.682360",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slump deepens as most of top 100 tokens fall below key trading signals",
+        "Bulls beware — BofA Fund Manager Survey flashing contrarian sell signal",
+        "Visa brings Circle's USDC settlement to U.S. banks following $3.5 billion stablecoin pilot"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Visa and Circle’s $3.5 billion USDC settlement pilot with U.S. banks (adoption)",
+        "BofA Fund Manager Survey indicating a contrarian sell signal (institutional sentiment)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The market is showing signs of weakness with Bitcoin and top tokens falling below key technical levels. A major institutional survey signals bearish sentiment, while Visa's adoption of USDC is a positive development but overshadowed by the broader sell-off. This combination suggests a high-risk environment for holding crypto assets."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Crypto’s 'super app' race is on as industry enters aggregation era: Report",
+        "Here's what happened in crypto today",
+        "Ronin and ZKsync's onchain metrics fell the most in 2025"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "JPMorgan launches its first tokenized money market fund on Ethereum",
+        "BTSE announces Stable staking campaign with tiered APR incentives",
+        "Crypto urges SEC to see the good in blockchain privacy tools"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The site highlights developments in crypto adoption, institutional moves (JPMorgan), and regulatory discussions with the SEC. While there are bullish signals from institutional involvement and new product launches, bearish sentiment emerges from declining on-chain metrics for Ronin and ZKsync. No breaking news or major regulatory shifts detected; overall tone is informational with moderate market implications."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin, Ethereum ETFs Shed $582M in a Day as Institutions Trim Risk",
+        "PayPal Seeks Utah-Chartered Industrial Bank Status",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.9,
+      "events": [
+        "Institutional sell-off of Bitcoin and Ethereum ETFs ($582M shed in one day)",
+        "PayPal's move toward obtaining a bank charter for crypto services",
+        "Grayscale addressing quantum computing risks to Bitcoin"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The top news indicates significant institutional selling pressure on Bitcoin and Ethereum ETFs, which suggests a bearish shift in market sentiment. While PayPal's banking initiative hints at long-term adoption, the immediate impact is overshadowed by the large-scale withdrawal from ETFs. This could trigger further downside volatility. Regulatory or macro concerns may be driving institutions to reduce exposure."
+    }
+  ]
+}

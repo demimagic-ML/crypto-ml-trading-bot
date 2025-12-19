@@ -1,0 +1,28 @@
+{
+  "fetch_time": "2025-12-18T09:52:33.998527",
+  "source_type": "vision",
+  "count": 1,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin is all over the place ahead of U.S. inflation data",
+        "Bitcoin could drop to $10,000, one analyst says, spelling doom for ETH, ADA, XRP",
+        "VivoPower eyes $300M Ripple share deal, bagging nearly $1B in XRP exposure"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "Institutional move: VivoPower aiming for $300M Ripple share deal with $1B XRP exposure",
+        "U.S. inflation data release expected to impact Bitcoin price movement"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin faces volatility ahead of key U.S. inflation data, with analysts warning of a potential drop to $10,000. A major institutional move by VivoPower to acquire $300M in Ripple shares signals increased XRP exposure, but overall sentiment is bearish due to macroeconomic concerns and risk-off positioning."
+    }
+  ]
+}

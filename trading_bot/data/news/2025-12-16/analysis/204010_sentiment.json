@@ -1,0 +1,25 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.26666666666666666,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 21,
+  "headlines": [
+    "How scammers target crypto users during the holidays and how to stay protected",
+    "Solana enters Brazil’s main exchange as Valour expands regulated crypto access",
+    "UK crypto ownership dropped to 8% in 2025: YouGov poll",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
+  ],
+  "events": [
+    "Adoption: Marshall Islands launches world's first blockchain-based UBI on Stellar blockchain",
+    "Bitcoin and Ethereum ETF approvals nearing, but institutional adoption appears cautious",
+    "Bitwise's prediction on Bitcoin cycle end could influence long-term market positioning",
+    "Institutional adoption: US banks may issue stablecoins under FDIC-backed GENIUS Act",
+    "Institutional interest: Eric Trump's American Bitcoin jumps to 20th among public BTC treasury companies",
+    "Regulatory awareness: Crypto scams during holidays highlight security concerns",
+    "South Korea's debt relief for crypto firms signals government support for industry stabilization",
+    "Regulatory scrutiny: U.S. Senator Warren calls for investigation into Trump-linked crypto entities"
+  ],
+  "timestamp": "2025-12-16T20:40:10.010774"
+}

@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-15T21:10:26.584517",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Plunges Below $87K as Crypto Weakness Worsens",
+        "UK Supreme Court refuses BSV appeal, narrowing $13 billion lawsuit against crypto exchanges",
+        "BlackRock expands crypto bet with 7 senior hires across U.S. and Asia"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.9,
+      "events": [
+        "UK Supreme Court ruling on BSV lawsuit (regulatory)",
+        "BlackRock expanding crypto team (institutional adoption)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is breaking below $87K amid broader market weakness, with a UK regulatory decision reinforcing legal uncertainty for exchanges. However, BlackRock's expansion signals institutional interest. The dominant theme is bearish momentum, but institutional moves suggest long-term bullish potential. Immediate action should be defensive due to the sharp price drop."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin parabola breakdown raises chance for 80% correction: Veteran trader",
+        "Digital asset ETPs post third straight week of net inflows, led by US demand",
+        "Trump-backed American Bitcoin flips ProCap in corporate BTC treasury race"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "Institutional inflows into digital asset ETPs (Exchange-Traded Products)",
+        "Corporate BTC treasury adoption via Trump-backed American Bitcoin",
+        "Potential 80% Bitcoin correction signaled by veteran trader"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The top news highlights a potential major Bitcoin price correction, rising institutional inflows into crypto ETPs, and growing corporate adoption of Bitcoin as a treasury asset. While institutional interest is bullish, the dominant narrative is cautionary with a veteran trader warning of an 80% correction, indicating strong bearish sentiment. This breaking news combination suggests high volatility ahead, with short-term downside risks outweighing immediate upside."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Ethereum Treasury Firm BitMine Boosts ETH Stash Above $12 Billion With Latest Buy",
+        "JPMorgan Introduces Ethereum-Based MONY Fund",
+        "SEC and OCC Actions Signal Regulation of Tokenized Assets May Be on the Horizon"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Institutional adoption: JPMorgan launches Ethereum-based MONY fund",
+        "Regulatory development: SEC and OCC signal potential regulation of tokenized assets",
+        "Crypto market accumulation: BitMine adds over $12B to ETH stash"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights strong institutional interest in Ethereum with JPMorgan launching a new crypto fund, while large-scale ETH accumulation by BitMine suggests bullish sentiment. Regulatory signals from the SEC and OCC indicate possible future clarity, which could support long-term adoption. These developments are breaking and high-impact, especially for ETH and broader crypto markets."
+    }
+  ]
+}

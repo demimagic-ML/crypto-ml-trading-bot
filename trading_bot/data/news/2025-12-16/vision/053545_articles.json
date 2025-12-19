@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-16T05:35:45.675961",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin, AI stock slide sees over $500 million in bullish bets wiped out",
+        "Why bitcoin ETFs look like they're falling short, even as their role grows: Asia Morning Briefing",
+        "PayPal, issuer of PYUSD, applies for Utah industrial bank license"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin price drop to $86,000 due to AI stock sell-off and rate cut risk",
+        "PayPal applying for Utah industrial bank license to launch PYUSD stablecoin banking services",
+        "ETF adoption concerns despite growing interest in Bitcoin ETFs"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin dropped below $86,000 amid broader market sell-offs driven by AI stock declines and uncertainty around rate cuts. This triggered significant liquidations, with over $500M in long positions wiped out. Meanwhile, PayPal's move to seek a banking license for its PYUSD stablecoin signals institutional adoption but is offset by ongoing skepticism about Bitcoin ETF performance. Regulatory developments and institutional moves are high-impact, but current sentiment is bearish due to macro risks and technical breakdowns."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin to hit new all-time high within 6 months: Grayscale",
+        "US crypto market structure legislation to advance in early 2026",
+        "Trump to 'look into' recently convicted Samurai Wallet co-founder"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "US crypto market structure legislation expected to advance in early 2026 (regulatory development)",
+        "Grayscale's prediction of Bitcoin reaching a new all-time high within 6 months (institutional sentiment)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights strong bullish sentiment from institutional player Grayscale predicting a new BTC ATH, alongside regulatory progress in the US and political attention on crypto-related figures. These developments suggest increasing legitimacy and momentum in the crypto market, especially for Bitcoin."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Sinks Towards $85,000 as Ethereum, XRP Fall Alongside",
+        "Ripple Expanding RLUSD From Ledger and Ethereum",
+        "Bank of America's Analysts Signal Regulatory Shift Towards On-Chain Assets"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.75,
+      "events": [
+        "Regulatory shift towards on-chain assets by Bank of America analysts",
+        "Ripple expanding RLUSD (a stablecoin) on multiple blockchains",
+        "Bitcoin price movement near $85,000 with broader crypto sell-off"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin and major cryptocurrencies are experiencing a downturn near $85,000, driven by market-wide selling pressure. Ripple is expanding its stablecoin RLUSD across more networks, indicating institutional adoption. Meanwhile, Bank of America analysts suggest a potential regulatory shift favoring on-chain assets—though this may be seen as delayed or speculative given current price action. The dominant sentiment is bearish due to the sharp decline in BTC and altcoins."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.31666666666666665,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 21,
+  "headlines": [
+    "Crypto ETPs to enter ‘cheesecake factory’ era in 2026: Bitwise",
+    "Spot Bitcoin ETFs see $358M outflow: Are investors abandoning BTC?",
+    "Here’s what happened in crypto today",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
+  ],
+  "events": [
+    "Bitcoin ETF outflow of $358M",
+    "Bank of Canada defining stablecoin criteria",
+    "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+    "Regulatory consultation on crypto rules by UK regulator",
+    "Bitwise predicting expansion of crypto ETPs",
+    "Bitcoin derivatives suggest potential breakout to $85,000–$100,000 range",
+    "Potential regulatory progress with Trump open to Democratic involvement at SEC and CFTC on crypto market structure bill",
+    "FTC enforcement action against Nomad operator requiring repayment of $186M to users following a major hack"
+  ],
+  "timestamp": "2025-12-17T03:16:12.333384"
+}

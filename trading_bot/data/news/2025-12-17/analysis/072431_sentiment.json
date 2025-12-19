@@ -1,0 +1,25 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.5,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 19,
+  "headlines": [
+    "SAFE Crypto Act will have scammers shaking in their boots: Crypto lawyer",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC"
+  ],
+  "events": [
+    "Adoption event: Exodus and MoonPay launching stablecoin in early 2026",
+    "U.S. Senate's Warren asks for Trump-tied crypto probe as market structure bill drags",
+    "Visa expands stablecoin pilot with Solana for US settlements (adoption)",
+    "Hyperliquid's $200 billion pitch: Is this next Solana-scale DeFi bet? Asia Morning Briefing",
+    "Regulatory development: SAFE Crypto Act proposed (potential anti-scam legislation)",
+    "Infrastructure milestone: Lightning Network reaches record capacity",
+    "U.S. FDIC proposes first U.S. stablecoin rule to emerge from CENTUS Act",
+    "Regulatory scrutiny on crypto firms: Theta executives accuse CEO of fraud (regulation)"
+  ],
+  "timestamp": "2025-12-17T07:24:31.298252"
+}

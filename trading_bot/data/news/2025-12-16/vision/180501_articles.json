@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-16T18:05:01.251274",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says",
+        "CoreWeave collapse sparks fears of cracks in AI infrastructure boom",
+        "U.S. added 64,000 jobs in November, with unemployment rate jumping to four-year high of 4.6%"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin price recovery after sharp drop",
+        "CoreWeave collapse impacting crypto mining and AI infrastructure",
+        "U.S. employment data showing strong job growth but rising unemployment"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is recovering from a sharp decline but faces potential downside near $80,000. The CoreWeave collapse raises concerns about the stability of AI infrastructure reliant on crypto mining. U.S. labor market data shows mixed signals with job gains but rising unemployment, which could impact broader market sentiment. Institutional and macroeconomic factors are driving volatility."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin liquidity 'battle' rages as bull case sees clear run to $95K",
+        "Why can't Ethereum hold $3K? ETH recovery in doubt as data tilts bearish",
+        "Crypto's 'super app' race is on as industry enters aggregation era: Report"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "JPMorgan launches its first tokenized money market fund on Ethereum",
+        "Aster launches Shield Mode, a protected high-performance trading mode for on-chain traders"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Bitcoin shows strong bullish momentum with institutional interest and liquidity battles pointing toward $95K. Ethereum faces bearish technical pressure despite broader crypto innovation. Institutional moves like JPMorgan's tokenized fund and new tools like Aster's Shield Mode signal growing adoption and infrastructure development, supporting long-term bullish sentiment."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's New Entrants Face the Bite as Whales Retreat",
+        "PayPal Seeks Utah-Chartered Industrial Bank Status",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "PayPal seeking Utah bank charter (institutional adoption)",
+        "Grayscale addressing quantum computing threat (regulatory/technological risk)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed signals: institutional interest via PayPal's banking move, but caution from Grayscale on quantum threats. Whale activity suggests potential selling pressure. No major regulatory or ETF announcements. Market appears in a consolidation phase with neutral sentiment."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-16T17:48:21.013808",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "U.S. added 64,000 jobs in November, with unemployment rate jumping to four-year high of 4.6%",
+        "Bitcoin slump deepens as most of top 100 tokens fall below key trading signals",
+        "Visa brings Circle's USDC settlement to U.S. banks following $3.5 billion stablecoin pilot"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Visa and Circle launch USDC settlement with U.S. banks (institutional adoption)",
+        "Bitcoin market correction with top tokens breaking key technical levels",
+        "U.S. employment data showing rising unemployment (macroeconomic risk)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The latest news from CoinDesk indicates a bearish sentiment driven by macroeconomic concerns (rising unemployment), a deepening Bitcoin market downturn, and a mixed institutional move with Visa’s USDC pilot. While the Visa-USDC event is positive for adoption, it's overshadowed by broader market weakness and negative macro data. The job report and price action suggest increased volatility and downward pressure on crypto assets."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin liquidity 'battle' rages as bull case sees clear run to $95K",
+        "Why can't Ethereum hold $3K? ETH recovery in doubt as data tilts bearish",
+        "Crypto's 'super app' race is on as industry enters aggregation era: Report"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "JPMorgan launches its first tokenized money market fund on Ethereum",
+        "Aster launches Shield Mode, a protected high-performance trading mode for on-chain traders"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Bitcoin shows strong bullish momentum with liquidity battles pointing toward $95K, while Ethereum faces bearish pressure near $3K. Institutional moves like JPMorgan’s tokenized fund and new trading tools (e.g., Aster’s Shield Mode) signal growing adoption and innovation. The combination of bullish BTC sentiment and institutional crypto activity suggests a favorable environment for long-term positioning."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's New Entrants Face the Bite as Whales Retreat",
+        "PayPal Seeks Utah-Chartered Industrial Bank Status",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.2,
+      "confidence": 0.75,
+      "events": [
+        "PayPal seeking bank charter in Utah (institutional adoption)",
+        "Grayscale addressing quantum computing risks (regulatory/technological concern)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent headlines highlight mixed signals in the crypto market: institutional interest via PayPal's banking move, while whale behavior suggests caution. Grayscale’s comments on quantum threats add a long-term risk narrative. No immediate regulatory or ETF developments, but PayPal’s move could signal future adoption. Overall sentiment is neutral with moderate impact due to evolving institutional dynamics."
+    }
+  ]
+}

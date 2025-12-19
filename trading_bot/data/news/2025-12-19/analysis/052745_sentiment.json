@@ -1,0 +1,24 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": -0.15000000000000002,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 21,
+  "headlines": [
+    "SEC flags Bitcoin miner hosting services as subject to securities laws",
+    "Crypto has everything needed for a bull market, so why is the market down?",
+    "Anxiety of quantum risk to Bitcoin is weighing on its price: Execs",
+    "Federal Reserve Board publishes first of several staff manuals for the supervision of the largest and most complex banks",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation"
+  ],
+  "events": [
+    "Bitwise filing for a spot Sui ETF",
+    "Intuit's partnership with Circle for USDC integration in TurboTax and QuickBooks (adoption)",
+    "ECB signals readiness to move forward with Digital Euro (regulatory/institutional development)",
+    "SEC regulatory action on Bitcoin mining hosting services",
+    "Regulatory uncertainty highlighted by U.S. market structure questions regarding crypto",
+    "CPI data showed lower-than-expected inflation, reducing inflation hedge appeal for gold and silver",
+    "Bitcoin price tested $85,000, triggering significant liquidations in altcoins"
+  ],
+  "timestamp": "2025-12-19T05:27:45.680648"
+}

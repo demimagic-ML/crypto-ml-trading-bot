@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-16T07:31:31.996863",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin, ether and XRP extend losses as year-end caution builds",
+        "Why Dogecoin's drop below $0.13 is drawing institutional attention",
+        "ARK steps in as crypto stocks extend multi-day selloff"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.7,
+      "confidence": 0.9,
+      "events": [
+        "Institutional interest in Dogecoin below $0.13",
+        "ARK Investment firm adding to Coinbase, Bullish, Circle, and crypto miners amid selloff",
+        "Bitcoin and Ethereum ETFs facing performance pressure"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The market is showing bearish momentum with Bitcoin, Ether, and XRP extending losses due to year-end caution. Institutional moves by ARK and declining Dogecoin levels indicate broader risk aversion. Despite some bullish infrastructure developments, the prevailing sentiment is negative with significant selling pressure across major cryptos."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "MetaMask adds Bitcoin support after teasing it 10 months ago",
+        "Over 1 in 20 emails are malicious, warns internet giant Cloudflare",
+        "Crypto urges SEC to see the good in blockchain privacy tools"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "MetaMask adds Bitcoin support (adoption)",
+        "SEC regulatory discussion on blockchain privacy tools (regulatory)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "MetaMask's new Bitcoin support is a major adoption milestone, likely boosting BTC demand. Regulatory commentary from crypto advocates to the SEC could influence future policy, adding uncertainty but also potential upside if interpreted positively. Email security concerns from Cloudflare are less directly impactful. Overall sentiment leans bullish due to strong adoption signals."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Sinks Towards $85,000 as Ethereum, XRP Fall Alongside",
+        "Why President Trump Had the Biggest Impact on Bitcoin and Crypto in 2025",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.75,
+      "events": [
+        "Bitcoin price retreat to $85,000",
+        "President Trump's influence on crypto market dynamics in 2025",
+        "Grayscale addressing quantum computing risks to Bitcoin"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is experiencing a notable pullback toward $85,000, dragging other major cryptos like Ethereum and XRP lower. While Grayscale downplays quantum computing threats, political commentary from President Trump is highlighted as a major influence on crypto markets in 2025. The overall sentiment reflects bearish pressure due to recent price action and macro concerns."
+    }
+  ]
+}

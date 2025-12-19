@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-18T23:07:08.743647",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin bulls foiled again as price tumbles back to $86,000, giving up CPI gains and more",
+        "XRP slumps as bitcoin once again falls back to $85,000 level after surge",
+        "Polkadot's DOT Slips 2% on above average volume"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.7,
+      "confidence": 0.9,
+      "events": [
+        "U.S. SEC aids brokers on crypto custody, looks more closely at ATS activity",
+        "Coinbase shares rise as 'ambitious expansion' wins analyst praise"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is experiencing a sharp pullback from recent highs following a softer-than-expected U.S. CPI print, which initially lifted prices but now has led to profit-taking. The market sentiment is bearish across major cryptos including XRP and DOT. Regulatory scrutiny from the SEC on crypto custody adds uncertainty. Coinbase's positive institutional news offers a counterpoint, but overall momentum is down. This is breaking news with high market impact due to macroeconomic data and regulatory developments."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin trips at $90K despite CPI showing curbed US inflation: What gives?",
+        "Why the 'great China Bitcoin mining crackdown' fell short of early claims",
+        "Bitcoin Policy Institute reps sound alarm on de minimis tax exclusion"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "Spot Bitcoin ETFs record $457M inflows in 'early positioning' push",
+        "Regulatory concern raised over de minimis tax exclusion for crypto",
+        "China's Bitcoin mining crackdown was less impactful than initially feared"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights mixed signals for Bitcoin: a surge to $90K amid stable inflation data, significant ETF inflows suggesting institutional interest, and regulatory concerns over tax treatment. While ETF inflows are bullish, regulatory uncertainty and mixed macro sentiment create volatility. The market appears poised but cautious, with no clear breakout yet."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Over $2 Billion in Crypto Swiped by North Korean Hackers in 2025: Chainalysis",
+        "Crypto Treasuries Attract $2.6 Billion in Institutional Capital, Led by Starbucks Bitcoin Buys",
+        "SoFi Set to Launch Stablecoin on Ethereum"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Institutional adoption of Bitcoin through corporate treasuries (Starbucks)",
+        "SoFi's stablecoin launch on Ethereum (adoption and infrastructure development)",
+        "North Korean crypto thefts indicating ongoing security threats and potential regulatory scrutiny"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The news highlights strong institutional adoption with $2.6 billion flowing into crypto treasuries led by Starbucks, signaling bullish momentum. SoFi’s upcoming stablecoin launch adds to ecosystem growth. However, a major hack involving over $2 billion stolen by North Korean actors introduces risk and potential regulatory attention. The overall sentiment is bullish due to institutional moves, but risks remain from security threats."
+    }
+  ]
+}

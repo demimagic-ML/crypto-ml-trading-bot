@@ -1,0 +1,21 @@
+{
+  "fetch_time": "2025-12-18T01:06:16.713618",
+  "source_type": "rss_feeds",
+  "count": 2,
+  "articles": [
+    {
+      "source": "cointelegraph.com",
+      "title": "Here’s what happened in crypto today",
+      "published": "Wed, 17 Dec 2025 22:11:16 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91c",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Bitcoin $70K flush would reset cycle, not confirm new bear market: Analyst",
+      "published": "Wed, 17 Dec 2025 21:30:00 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin $70K flush would reset cycle, not confirm new bear market: Analyst\" src=\"https://images.cointelegraph.com/images/528_aHR",
+      "type": "crypto"
+    }
+  ]
+}

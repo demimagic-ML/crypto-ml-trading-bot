@@ -1,0 +1,26 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.2833333333333333,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 19,
+  "headlines": [
+    "Here’s what happened in crypto today",
+    "Federal Reserve Board publishes first of several staff manuals for the supervision of the largest and most complex banks",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
+  ],
+  "events": [
+    "Institutional adoption of stablecoins via Coinbase (Polkadot USDC access)",
+    "Regulatory uncertainty over U.S. crypto market structure",
+    "Spot Bitcoin ETFs seeing significant inflows ($457M) indicating early institutional positioning",
+    "SEC lawsuit against third-party Bitcoin mining services classifying them as securities—potential regulatory clarity or crackdown.",
+    "SEC compliance insights for Real World Assets (RWA) – regulatory clarity development",
+    "Bitcoin testing $85,000 resistance with significant liquidations",
+    "Brazilian stock exchange launching tokenization platform and stablecoin – major adoption milestone",
+    "Taiwan's Bitcoin holdings reported, suggesting geopolitical positioning in crypto.",
+    "Bitcoin ETFs saw significant inflows ($1.3 billion), indicating strong institutional interest and adoption."
+  ],
+  "timestamp": "2025-12-19T00:07:52.801489"
+}

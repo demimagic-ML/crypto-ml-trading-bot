@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-18T09:34:38.864570",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin is all over the place ahead of U.S. inflation data",
+        "Bitcoin could drop to $10,000, one analyst says, spelling doom for ETH, ADA, XRP",
+        "Coinbase rolls out stock trading, prediction markets and more in bid to become the 'Everything Exchange'"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "Coinbase expanding into stock trading and prediction markets",
+        "Upcoming U.S. inflation data release affecting Bitcoin price action"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "The market is reacting to mixed signals: Bitcoin volatility ahead of key inflation data, a bearish analyst forecast for crypto assets, and Coinbase's strategic expansion into broader financial services. While institutional moves like Coinbase’s diversification are positive for long-term adoption, short-term sentiment is pressured by macroeconomic uncertainty and negative outlooks. Trading should remain cautious until inflation data is released."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Ethereum needs simple explanation to see true trustlessness: Buterin",
+        "MSCI’s crypto treasury rules could spur $15B of forced selling",
+        "Crypto ETPs could see a flood of liquidations by 2027: Analyst"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.7,
+      "events": [
+        "Regulatory scrutiny on crypto exchanges, lending, and DeFi (UK regulator consultation)",
+        "Potential $15B in forced selling due to MSCI's crypto treasury rules",
+        "Concerns about ETF/ETP liquidation risks by 2027"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed signals: Ethereum’s foundational trust issues are being discussed positively by Buterin, while institutional moves (MSCI) suggest potential sell-offs due to new treasury rules. Regulatory developments from the UK and concerns over ETP liquidity add caution. No major breaking events like ETF approvals or hacks are present, so impact is moderate with no clear bullish or bearish bias."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $750M Deal With Google Backing",
+        "DTCC to Issue Tokenized Securities on Canton Network, Starting With US Treasuries",
+        "Senators Propose Task Force to Combat Crypto Scams and Protect Investors"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "Institutional adoption: DTCC launching tokenized securities on Canton Network (US Treasuries)",
+        "Regulatory development: Senators proposing task force to combat crypto scams",
+        "Corporate adoption: Bitcoin miner Hut 8 secures $750M deal with Google-backed entity"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The news highlights strong institutional and corporate adoption in crypto, including DTCC's move toward tokenized securities and Hut 8’s major mining deal. Regulatory scrutiny is also increasing with a proposed Senate task force. These developments suggest growing legitimacy and infrastructure expansion, which are bullish for long-term market sentiment. The breaking nature of these events, especially the DTCC announcement, could trigger positive price movements."
+    }
+  ]
+}

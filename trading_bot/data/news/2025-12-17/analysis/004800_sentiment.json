@@ -1,0 +1,27 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.35000000000000003,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 21,
+  "headlines": [
+    "Spot Bitcoin ETFs see $358M outflow: Are investors abandoning BTC?",
+    "Here’s what happened in crypto today",
+    "Bitcoin treasury Kindly MD faces potential delisting after Nasdaq price notice",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
+  ],
+  "events": [
+    "Regulatory development: Potential bipartisan support for crypto market structure bill (SEC/CFTC)",
+    "RedotPay raises $107M in funding for stablecoin infrastructure",
+    "Institutional expectation: Bitwise's prediction of new Bitcoin highs in 2026",
+    "Bitcoin derivatives indicate a potential price range of $85,000–$100,000",
+    "SEC urged to recognize blockchain privacy tools",
+    "Security incident: FTC action against Nomad operator following $186M theft",
+    "UK regulator consults on crypto rules for exchanges, lending and DeFi",
+    "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+    "Bitcoin ETF outflows of $358M",
+    "K33's Lunde suggests Bitcoin's underperformance vs. stocks in Q4 could be bullish for January"
+  ],
+  "timestamp": "2025-12-17T00:48:00.449963"
+}

@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-18T00:14:30.765793",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Traders mull the bottom as bitcoin returns to week's lows below $86,000",
+        "Digital Wealth Partners introduces algorithmic XRP trading for qualified retirement accounts",
+        "Crypto stocks pare gains as bitcoin retreats from $90,000 rally"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.75,
+      "events": [
+        "Institutional adoption of XRP in retirement accounts via Digital Wealth Partners",
+        "Bitcoin price retracement below $86,000 after rally"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Bitcoin has pulled back to weekly lows below $86,000 amid market caution, with traders assessing potential support. While institutional interest in XRP via retirement accounts signals adoption, the overall sentiment is bearish due to a pullback from recent highs. No major regulatory or ETF developments are reported, but price action suggests short-term weakness."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Here's what happened in crypto today",
+        "Coinbase gets nod from Indian regulators to acquire CoinDCX stake",
+        "Jito Foundation to return to US amid 'clearer rules' for digital assets"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Coinbase approved to acquire CoinDCX stake in India (institutional adoption)",
+        "Jito Foundation returning to the US due to clearer regulatory environment (regulatory clarity)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights institutional moves and regulatory clarity, with Coinbase gaining approval for a major acquisition in India and Jito Foundation returning to the US amid improved regulations. These developments signal growing institutional confidence and favorable policy shifts, supporting bullish sentiment in the crypto market."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $7 Billion AI Deal With Google Backing",
+        "Santa Rally Hopes Fade as Bitcoin Jumps to $90K, Then Falls Even Harder",
+        "Singapore Entrepreneur Loses Crypto Holdings to Malware Dressed Up as a Game"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.35,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin price surge to $90K followed by sharp decline (Santa Rally failure)",
+        "Hut 8's $7B AI deal with Google backing signals institutional crypto adoption",
+        "Crypto security breach via malware impersonating legitimate software"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The market is experiencing volatility due to a failed Santa Rally, with Bitcoin surging to $90K before reversing sharply. Institutional interest remains evident through Hut 8’s major AI deal, but security concerns persist with reports of malware targeting crypto holders. The bearish momentum and technical reversal suggest caution, with potential for further downside."
+    }
+  ]
+}

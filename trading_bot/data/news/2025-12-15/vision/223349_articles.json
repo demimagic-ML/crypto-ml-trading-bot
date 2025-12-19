@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-15T22:33:49.695128",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Plunges Below $86K as Crypto Weakness Worsens",
+        "U.S. SEC chief warns watchdogs need to be limited in tapping crypto's power to snoop",
+        "UK Supreme Court refuses BSV appeal, narrowing $13 billion lawsuit against crypto exchanges"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.9,
+      "events": [
+        "Regulatory warning from U.S. SEC chief on surveillance of crypto markets",
+        "UK Supreme Court decision limits BSV’s legal claim in $13B crypto lawsuit",
+        "Bitcoin price drop below $86K amid broader market weakness"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin has dropped below $86K amid growing market weakness, with regulatory concerns and a major legal setback for BSV adding pressure. The U.S. SEC's caution on crypto surveillance signals potential future regulatory scrutiny, while the UK court ruling reinforces institutional skepticism toward certain crypto projects. These developments suggest heightened risk and bearish momentum in the short term."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin drops under $86K as $2.78B in BTC whale selling overwhelms active dip buyers",
+        "Bitget tests TradFi trading with forex, gold and stock derivatives using USDT",
+        "Anchorage Digital deepens RIA market push by acquiring unit of Securitize"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "Major BTC whale sell-off ($2.78B) causing price drop below $86K",
+        "Anchorage Digital acquires RIA unit of Securitize (institutional adoption)",
+        "Bitget expands into TradFi via USDT-based derivatives (adoption)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is under pressure due to a major whale sell-off, pushing price below $86K. Institutional moves like Anchorage's acquisition signal long-term confidence, but immediate sentiment is bearish due to selling pressure. Bitget's TradFi integration highlights growing cross-market adoption. The breaking whale sell event dominates the narrative, suggesting short-term downside risk."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Ethereum Treasury Firm BitMine Boosts ETH Stash Above $12 Billion With Latest Buy",
+        "JPMorgan Introduces Ethereum ETF Strategy to Clients via MONY Fund",
+        "Do Kwon Could Be Tried Again in Korea Over Terra Crypto Fraud"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Institutional adoption: JPMorgan launches Ethereum ETF strategy via MONY Fund",
+        "Bitcoin/Ethereum accumulation: BitMine increases ETH holdings above $12 billion",
+        "Regulatory development: Do Kwon faces potential retrial over Terra fraud"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights strong institutional interest in Ethereum through JPMorgan's ETF strategy and massive ETH accumulation by BitMine, signaling bullish sentiment. Regulatory developments involving Terra’s Do Kwon add volatility risk but are secondary to the positive momentum from institutional moves and large-scale crypto buying."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-17T21:55:16.053946",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Traders mull the bottom as bitcoin returns to week's lows below $86,000",
+        "Polkadot's DOT drops 3% to $1.83 as crypto markets reverse lower",
+        "BNB drops nearly 3% to as bitcoin whipsaw and tech selloff hit crypto market"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin price near $86,000 with potential oversold condition",
+        "Strong selling pressure in Polkadot (DOT) and BNB amid broader crypto weakness",
+        "Tech selloff impacting crypto markets, suggesting risk-off sentiment"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin has retreated to weekly lows below $86,000, with traders assessing a possible bottom. Multiple altcoins including DOT and BNB are experiencing sharp declines amid heightened volatility and a risk-off mood driven by U.S. tech stock weakness. The market shows signs of capitulation, especially in meme coins like Memecoin, indicating bearish momentum. No major regulatory or institutional events are reported, but the current macro environment suggests caution."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Binance mulls new US strategy, CZ potentially reducing stake: Report",
+        "The real crypto adoption shows on Tuesday morning payments",
+        "Silvergate Bank lawsuit calls for FTX, Alameda clients to weigh in on $10M settlement"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.8,
+      "events": [
+        "Binance's potential strategic shift in the US market",
+        "Silvergate Bank lawsuit involving FTX and Alameda clients",
+        "Regulatory scrutiny on crypto exchanges and DeFi"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent news highlights regulatory developments, institutional moves (Binance), and legal actions (Silvergate/FTX). While there are signs of adoption and strategic shifts, no major catalysts like ETF approvals or large-scale hacks are present. Sentiment remains neutral with mixed implications."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Singapore Entrepreneur Loses Crypto Holdings to Malware Dressed Up as a Game",
+        "Bitcoin Miner Hut 8 Signs $7 Billion AI Deal With Google Backing",
+        "Central African Republic's Crypto Initiatives Criticized for Benefits to Foreign Investors Over Citizens"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "Bitcoin miner Hut 8 signs $7 billion AI deal with Google backing (institutional adoption)",
+        "Central African Republic crypto initiatives criticized (regulatory/adoption concerns)"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed developments: institutional interest in Bitcoin mining through a major AI deal with Google-backed Hut 8 is bullish, but offset by regulatory skepticism and security risks (malware attacks). No immediate breaking catalysts are present, suggesting a neutral market stance."
+    }
+  ]
+}

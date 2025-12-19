@@ -1,0 +1,21 @@
+{
+  "fetch_time": "2025-12-17T02:58:33.191991",
+  "source_type": "rss_feeds",
+  "count": 2,
+  "articles": [
+    {
+      "source": "cointelegraph.com",
+      "title": "Spot Bitcoin ETFs see $358M outflow: Are investors abandoning BTC?",
+      "published": "Tue, 16 Dec 2025 22:26:55 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Spot Bitcoin ETFs see $358M outflow: Are investors abandoning BTC?\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Here’s what happened in crypto today",
+      "published": "Tue, 16 Dec 2025 22:00:53 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91c",
+      "type": "crypto"
+    }
+  ]
+}

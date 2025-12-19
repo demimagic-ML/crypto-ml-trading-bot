@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-16T02:36:37.713725",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slides to $86,000 as slower rate cut risk, AI stock woes shake markets",
+        "Nasdaq, home of Coinbase, Strategy stocks, seeks 23-hour trading amid investor demand",
+        "Senate punts crypto market structure bill to next year"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.9,
+      "events": [
+        "Senate delays crypto market structure bill (regulatory delay)",
+        "Nasdaq expands trading hours for crypto-related stocks (institutional adoption signal)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin dropped to $86,000 amid broader market concerns over delayed Fed rate cuts and AI sector weakness. Regulatory uncertainty persists as the Senate postpones key crypto legislation. Meanwhile, Nasdaq's push for extended trading reflects growing institutional interest in crypto assets. The combination of bearish price action and regulatory stagnation suggests near-term downside pressure."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin, altcoins sell-off as Fed chair switch-up, AI bubble fears spook markets",
+        "Here's what happened in crypto today",
+        "SEC commissioner says Crypto is 'helping to nudge reassessment' on privacy"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Fed chair transition sparking market concerns",
+        "SEC commissioner comments on crypto and privacy regulation",
+        "AI bubble fears affecting crypto sentiment"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Recent headlines indicate a bearish market shift driven by Fed leadership changes, AI-related investor fears, and regulatory uncertainty. The SEC's comment on crypto privacy suggests ongoing regulatory scrutiny. This combination of macroeconomic and regulatory risks has triggered a sell-off in Bitcoin and altcoins, making it a high-impact moment for traders. Given the breaking nature of the Fed news and regulatory signals, caution is advised with a potential short-term downturn."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Sinks Towards $85,000 as Ethereum, XRP Fall Alongside",
+        "Ripple Expanding RLUSD From Ledger and Ethereum",
+        "Bank of America's Analysts See Regulatory Shift Towards On-Chain Assets"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.75,
+      "events": [
+        "Regulatory shift towards on-chain assets (institutional move)",
+        "Ripple expanding RLUSD (adoption event)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The market is showing bearish momentum with Bitcoin approaching $85,000 and altcoins like Ethereum and XRP declining. However, there are signs of institutional interest with Bank of America analysts noting a regulatory shift toward on-chain assets and Ripple expanding its stablecoin infrastructure. Despite these positive developments, the immediate price action suggests selling pressure, indicating a short-term bearish trend."
+    }
+  ]
+}

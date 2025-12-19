@@ -1,0 +1,26 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": -0.15000000000000002,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 19,
+  "headlines": [
+    "Did Bitcoin's 4-year cycle break, and is the bull market really over?",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC"
+  ],
+  "events": [
+    "Fed's $40 billion bill buys (monetary policy impact)",
+    "Web3 Antivirus detects $563k DeFi loss after phishing approval during Aave and Compound interactions",
+    "Market risk: Bitcoin treasury facing delisting risk due to stock price decline",
+    "Bitcoin approaching key technical support level",
+    "Aster launches Shield Mode, a protected high-performance trading mode for on-chain traders",
+    "Regulatory consultation on crypto rules by UK regulator for exchanges, lending, and DeFi",
+    "Adoption: Visa expands stablecoin pilot on Solana for US settlements",
+    "ETF-related market stagnation",
+    "Regulatory development: Potential crypto market structure bill progress with bipartisan support"
+  ],
+  "timestamp": "2025-12-17T17:11:49.597931"
+}

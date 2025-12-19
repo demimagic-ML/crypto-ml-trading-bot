@@ -1,0 +1,27 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.2333333333333333,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 21,
+  "headlines": [
+    "The Bitcoin-to-gold ratio fell 50% in 2025: Here’s why",
+    "How scammers target crypto users during the holidays and how to stay protected",
+    "Solana enters Brazil’s main exchange as Valour expands regulated crypto access",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
+  ],
+  "events": [
+    "Regulatory developments around stablecoin issuer applications",
+    "Potential launch of Bitcoin and Ethereum ETFs in Q1 2025",
+    "SEC probe into Aave ends after four years",
+    "Aster launches Shield Mode for on-chain traders",
+    "South Korea's $1B debt relief for crypto firms",
+    "Bitcoin options suggest range-bound movement with potential for $85K–$100K breakout",
+    "Senate inquiry into Trump-linked crypto entities raises regulatory scrutiny",
+    "JPMorgan launches first tokenized money market fund on Ethereum",
+    "FDIC plan to allow US banks to issue stablecoins under GENIUS Act",
+    "U.S. FDIC proposes first U.S. stablecoin regulation under GENIUS Act"
+  ],
+  "timestamp": "2025-12-16T21:29:26.464909"
+}

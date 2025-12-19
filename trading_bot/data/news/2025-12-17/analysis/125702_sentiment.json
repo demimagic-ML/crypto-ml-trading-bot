@@ -1,0 +1,26 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.35000000000000003,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 20,
+  "headlines": [
+    "Bitcoin institutional buys flip new supply for the first time in 6 weeks",
+    "HashKey crypto exchange sees bumpy Hong Kong debut after $206M IPO",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Institutional adoption themes outlined by Grayscale for 2026",
+    "Bhutan's institutional BTC allocation for a mindfulness city project",
+    "Bitcoin options and futures expiration (potential volatility event)",
+    "Regulatory scrutiny on Trump-tied crypto probe mentioned (policy risk)",
+    "Regulatory developments (MiCA) impacting exchange adoption in Europe",
+    "Visa's expansion of stablecoin pilot using Solana for US settlements",
+    "Hyperliquid's $1B fund governance decision affecting market dynamics",
+    "Institutional Bitcoin buying activity resumes after a 6-week pause",
+    "Bitcoin testing $3 trillion market cap floor"
+  ],
+  "timestamp": "2025-12-17T12:57:02.013997"
+}

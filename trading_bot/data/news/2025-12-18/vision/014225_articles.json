@@ -1,0 +1,70 @@
+{
+  "fetch_time": "2025-12-18T01:42:25.004705",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Coinbase rolls out stock trading, prediction markets and more in bid to become the 'Everything Exchange'",
+        "Traders mull the bottom as bitcoin returns to week's lows below $86,000",
+        "CFTC's acting chief Pham poised to go to crypto firm MoonPay once Mike Selig lands"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "Coinbase expanding into stock and prediction markets (adoption)",
+        "Regulatory transition at CFTC with potential crypto industry implications (regulation)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The latest news from CoinDesk highlights Coinbase's expansion into broader financial products, potentially increasing adoption, while Bitcoin trades near recent lows. Regulatory shifts at the CFTC may signal future policy changes, but no immediate catalysts are confirmed. Market sentiment remains cautious amid price consolidation."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Coinbase adds stock trading, prediction markets in 'everything app' push",
+        "Here's what happened in crypto today",
+        "Coinbase gets nod from Indian regulators to acquire CoinDCX stake"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Coinbase expands into stock trading and prediction markets (adoption)",
+        "Indian regulators approve Coinbase's acquisition of CoinDCX stake (regulatory approval & institutional move)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent developments highlight growing institutional adoption and regulatory progress, particularly with Coinbase expanding globally and gaining regulatory approval in India. These are bullish signals for market confidence and potential increased participation."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $7 Billion AI Deal With Google Backing",
+        "Central African Republic's Crypto Initiatives Criticized for Benefiting Foreign Investors Over Citizens",
+        "Singapore Entrepreneur Loses Crypto Holdings to Malware Dressed Up as a Game"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.75,
+      "events": [
+        "Hut 8's $7 billion AI deal with Google backing (institutional adoption)",
+        "Malware attack targeting crypto holders in Singapore (security threat)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The top headlines include a major institutional move by Bitcoin miner Hut 8 signing a large AI deal with Google-backed support, signaling potential long-term growth and adoption. However, this is offset by a security incident involving malware targeting crypto users in Singapore, raising concerns about digital asset safety. Regulatory and macro developments are absent, keeping sentiment neutral. While the Hut 8 news could be bullish on adoption, it's not yet priced in, suggesting caution. The malware report adds risk, but no systemic threat is confirmed."
+    }
+  ]
+}

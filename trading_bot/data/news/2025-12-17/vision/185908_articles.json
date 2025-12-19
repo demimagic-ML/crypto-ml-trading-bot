@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-17T18:59:08.611031",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin tumbles back below $88,000 as gains evaporate as quickly as they formed",
+        "Crypto stocks pare gains as bitcoin retreats from $90,000 rally",
+        "The Protocol: Bug that can drain all your tokens impacting 'thousands' of sites"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin price drop below $88,000 after short-lived rally",
+        "Security vulnerability in protocol affecting thousands of token holders"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin has retraced sharply from a $90,000 high to below $88,000 amid profit-taking and market uncertainty. A breaking news report highlights a critical bug in a protocol affecting thousands of users, adding downside pressure. Institutional sentiment appears cautious, with crypto stocks weakening. The combination of technical breakdown and security concerns suggests a bearish near-term outlook."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin tags $90K as crypto market spike liquidates $120M shorts",
+        "Kyrgyzstan's USDKG shows how real-asset stablecoins are evolving in emerging markets",
+        "How YouTube's stablecoin payouts could change creator monetization"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin price surge to $90K triggering short squeezes",
+        "YouTube exploring stablecoin payouts for creators (adoption)",
+        "USDKG stablecoin launch in Kyrgyzstan (emerging market adoption)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Bitcoin surged toward $90K, triggering a major short squeeze and indicating strong bullish momentum. This breaking news is supported by positive developments in stablecoin adoption in emerging markets and potential new use cases via platforms like YouTube. Institutional and macro-level interest remains high, with regulatory discussions ongoing. The market reaction suggests a significant upward catalyst."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "DTCC Handles $3.7 Quadrillion in Transactions a Year—Now Handling Crypto",
+        "Singapore Entrepreneur Loses Entire Crypto Portfolio After...",
+        "SaucerSwap Unveils Redesigned Platform and New Brand Identity"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.6,
+      "events": [
+        "DTCC's adoption of crypto into its infrastructure",
+        "SaucerSwap platform redesign and rebranding"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "LOW",
+      "summary": "The news highlights institutional infrastructure expansion (DTCC) and a platform rebrand (SaucerSwap), but lacks major regulatory, ETF, or market-moving events. No clear bullish or bearish signals present; sentiment is neutral with moderate impact from adoption trends."
+    }
+  ]
+}

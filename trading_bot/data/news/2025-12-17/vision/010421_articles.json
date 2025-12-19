@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-17T01:04:21.291821",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's massive underperformance to stocks in Q4 bodes well for January, says K33's Lunde",
+        "Bitcoin derivatives point to broad price range play between $85,000-$100,000",
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin derivatives suggest a potential breakout toward $85,000–$100,000",
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+        "Eric Trump’s American Bitcoin jumps to 20th among public BTC treasury companies"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news indicates growing optimism around Bitcoin's recovery and potential breakout, supported by bullish sentiment from analysts and derivative positioning. Regulatory developments (FDIC stablecoin rule) and institutional interest (American Bitcoin ranking) add structural support. The market is rebounding from recent lows, with $80,000 as a key near-term level. This combination of technical bounce, macro outlook, and institutional activity suggests a favorable setup for short-to-medium-term upside."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Spot Bitcoin ETFs see $358M outflow: Are investors abandoning BTC?",
+        "Here's what happened in crypto today",
+        "RedotPay raises $107M Series B led by Goodwater for stablecoin payments"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin ETF outflow of $358M",
+        "RedotPay raises $107M in funding for stablecoin infrastructure",
+        "UK regulator consults on crypto rules for exchanges, lending and DeFi"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The top news highlights a significant $358M outflow from Bitcoin ETFs, signaling potential investor skepticism or profit-taking, which is bearish for BTC. This breaking event, combined with regulatory consultations in the UK and institutional investment in stablecoin infrastructure, suggests mixed but overall cautious market sentiment. The ETF outflow is high-impact due to its direct effect on market liquidity and sentiment."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Why Bitwise Expects New Bitcoin Highs in 2026—And the End of the 4-Year Cycle",
+        "FTC Compels Nomad Operator to Repay Users After $186M Crypto Theft",
+        "Trump 'Open' to Democrats at SEC, CFTC in Possible Boon to Crypto Market Structure Bill"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "SEC/CFTC regulatory discussions potentially favoring crypto market structure bill (institutional/regulatory)",
+        "Nomad operator forced to repay users after $186M theft (security/adoption concern)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The top news highlights strong bullish sentiment with Bitwise projecting new Bitcoin highs in 2026 and potential regulatory progress under a future administration. A major security event involving Nomad adds risk, but the regulatory optimism and institutional expectations dominate the narrative. This combination suggests a favorable environment for BTC price movement."
+    }
+  ]
+}

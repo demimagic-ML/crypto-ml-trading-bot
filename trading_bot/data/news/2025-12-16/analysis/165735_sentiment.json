@@ -1,0 +1,25 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": -0.15,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 20,
+  "headlines": [
+    "Crypto’s ‘super app’ race is on as industry enters aggregation era: Report",
+    "Here’s what happened in crypto today",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc."
+  ],
+  "events": [
+    "Bitwise CIO Matt Horgan predicts BTC could hit all-time highs in 2026 with lower volatility and weaker equity correlations",
+    "Independent audit verifies gold reserves backing Kyrgyzstan's USDKG stablecoin",
+    "Crypto urges SEC to see the good in blockchain privacy tools",
+    "Market correction with BTC approaching $85K support",
+    "Institutional trimming of Bitcoin and Ethereum ETF positions",
+    "JPMorgan launches its first tokenized money market fund on Ethereum",
+    "PayPal's move to establish an industrial bank (potential crypto adoption)",
+    "Bitcoin slump deepens as most of top 100 tokens fall below key trading signals"
+  ],
+  "timestamp": "2025-12-16T16:57:35.484965"
+}

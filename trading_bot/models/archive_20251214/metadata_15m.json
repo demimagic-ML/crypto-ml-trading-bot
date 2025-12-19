@@ -1,0 +1,10 @@
+{
+  "symbol": "BTCUSDC",
+  "interval": "15m",
+  "time_steps": 60,
+  "period": "1 year ago UTC",
+  "candles": 35028,
+  "rmse": 392.24429463232644,
+  "mae": 273.7298069932334,
+  "directional_accuracy": 48.30813534917206
+}

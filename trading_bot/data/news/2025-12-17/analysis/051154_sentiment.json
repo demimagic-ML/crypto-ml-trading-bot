@@ -1,0 +1,25 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.5333333333333333,
+  "confidence": 0.6,
+  "trading_suggestion": "STRONG_BUY",
+  "news_count": 19,
+  "headlines": [
+    "Crypto ETPs to enter ‘cheesecake factory’ era in 2026: Bitwise",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC"
+  ],
+  "events": [
+    "Visa's expansion of stablecoin pilot program (adoption)",
+    "US government tech force receives support from Coinbase and Robinhood — potential institutional alignment and regulatory cooperation.",
+    "SEC probe into Aave ends, allowing the protocol to move forward with its 2026 roadmap — institutional clarity.",
+    "Institutional move: Eric Trump’s American Bitcoin gains market traction in public BTC treasury rankings",
+    "Tether's $8M funding of a Lightning Network startup signals increased adoption and development in layer-2 solutions.",
+    "Bitwise’s bullish outlook on Bitcoin price trajectory (institutional sentiment)",
+    "FDIC proposal on stablecoin issuer regulation (regulatory development)",
+    "Regulatory development: FDIC proposes first U.S. stablecoin rule under GENIUS Act"
+  ],
+  "timestamp": "2025-12-17T05:11:54.361487"
+}

@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-15T23:06:19.654185",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin plunges below $86,000 as crypto weakness worsens",
+        "U.S. SEC chief warns watchdogs need to be limited in tapping crypto's power to snoop",
+        "Strategy's STRD credit spread has tightened over past month even as bitcoin struggles"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.9,
+      "events": [
+        "Regulatory warning from U.S. SEC chief on crypto surveillance powers",
+        "Institutional move: BlackRock expands crypto bet with 7 senior hires across U.S. and Asia",
+        "Crypto market weakness indicated by Bitcoin dropping below $86,000"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin has broken below $86,000 amid broader crypto weakness, signaling bearish momentum. Regulatory concerns persist with the SEC chief cautioning against overreach, while institutional interest remains mixed—highlighted by BlackRock’s expansion into crypto. The STRD credit spread tightening suggests some institutional positioning for a potential rebound, but current price action favors selling pressure. This is breaking news with high market impact due to price drop and regulatory tone."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin drops under $86K as $2.78B in BTC whale selling overwhelms active dip buyers",
+        "SEC 'eased up on' 60% of crypto enforcement cases under Trump: Report",
+        "Anchorage Digital deepens RIA market push by acquiring unit of Securitize"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "SEC regulatory easing under Trump (historical context, but still relevant for sentiment)",
+        "Anchorage Digital acquisition of Securitize unit (institutional adoption move)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is under pressure due to a major whale sell-off, with prices dropping below $86K. Regulatory news suggests potential easing of enforcement, which could be positive long-term, but current market dynamics are dominated by bearish selling pressure. Institutional activity via Anchorage’s acquisition indicates ongoing adoption, but immediate price action is driven by large-scale liquidations."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Ethereum Treasury Firm BitMEX ETH Stash Above $12 Billion: Latest Buy",
+        "Ripple Expanding RLUSD From XRP Ledger and Ethereum",
+        "Anchorage Digital Acquires Stake in Crypto Exchange"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Institutional move: Anchorage Digital acquires stake in crypto exchange",
+        "ETF-related: Ripple expanding RLUSD on multiple blockchains (Ethereum and XRP Ledger)",
+        "Adoption signal: Ethereum treasury firm increasing ETH holdings"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Multiple bullish signals from institutional players and infrastructure expansion in the crypto space, including ETF-like tokenization efforts by Ripple and growing ETH accumulation by a major treasury firm. Regulatory sentiment appears neutral to positive with no negative regulatory actions reported. These developments suggest strong underlying demand and adoption momentum, warranting aggressive positioning."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-18T09:47:19.378716",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Traders mull the bottom as bitcoin returns to week's lows below $86,000",
+        "Bitcoin is all over the place ahead of U.S. inflation data",
+        "Bitcoin could drop to $10,000, one analyst says, spelling doom for ETH, ADA, XRP"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "U.S. inflation data release expected to show 3.1% CPI increase",
+        "Institutional interest in crypto highlighted by Digital Wealth Partners launching algorithmic XRP trading for qualified retirement accounts",
+        "VivoPower eyes $300M Ripple share deal, signaling institutional adoption in South Africa"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is trading near $86,000 amid bearish sentiment and concerns over upcoming U.S. inflation data, which could influence Fed policy. Analysts warn of a potential drop to $10,000, while institutional moves like VivoPower’s Ripple investment and new algo-trading products signal mixed market dynamics. Regulatory and macroeconomic risks dominate, with inflation expectations likely to trigger volatility."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Ethereum needs simple explanation to see true trustlessness: Buterin",
+        "MSC’s crypto treasury rules could spur $15B of forced selling",
+        "Crypto ETPs could see a flood of liquidations by 2027: Analyst"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory scrutiny on crypto exchanges, lending, and DeFi (UK regulator consultation)",
+        "Potential $15B in forced crypto selling due to institutional treasury rules (MSC)",
+        "Risk of ETF/ETP liquidations by 2027 due to market conditions"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "MEDIUM",
+      "summary": "Recent news highlights regulatory pressure from the UK and potential large-scale sell-offs from institutional treasuries, alongside bearish analyst warnings about ETP liquidations. While not breaking, these developments suggest increasing risk for crypto markets, particularly for ETH and broader exposure to institutional holdings. The sentiment is cautiously bearish with significant implications for long-term stability."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $750M Deal With Google Backing",
+        "DTCC to Issue Tokenized Securities on Canton Network, Starting With US Treasuries",
+        "Caroline Pham Leaves CFTC to Join Crypto Company MoonPay"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.7,
+      "confidence": 0.8,
+      "events": [
+        "Institutional adoption: DTCC issuing tokenized securities on Canton Network (US Treasuries)",
+        "Regulatory shift: CFTC official joins crypto firm MoonPay — potential signal of regulatory normalization",
+        "Corporate adoption: Bitcoin miner Hut 8 secures major deal with Google-backed entity"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "The latest news highlights strong institutional and corporate adoption in the crypto space, including a major tokenization initiative by DTCC and a significant deal for Hut 8. Regulatory movement is also evident with a former CFTC official joining MoonPay, signaling growing legitimacy. These developments suggest bullish momentum, especially for infrastructure and institutional-grade crypto assets."
+    }
+  ]
+}

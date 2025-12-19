@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-16T08:04:17.000804",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin, ether and XRP extend losses as year-end caution builds",
+        "ARK steps in as crypto stocks extend multi-day selloff",
+        "Why Dogecoin's drop below $0.13 is drawing institutional attention"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.9,
+      "events": [
+        "Institutional interest in Dogecoin below $0.13 level",
+        "ARK Invest adds to Coinbase, Bullish, Circle, and crypto miners amid market selloff",
+        "Global markets mirror crypto downturn with U.S. equities showing caution"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Crypto markets are experiencing a multi-day selloff driven by year-end caution, with Bitcoin, Ethereum, and XRP all extending losses. Institutional moves such as ARK Invest's additions to crypto-related stocks suggest strategic positioning during volatility, while Dogecoin’s drop below $0.13 has attracted institutional scrutiny. The broader market sentiment is bearish, reflecting risk-off behavior across equities and crypto."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "MetaMask adds Bitcoin support after teasing it 10 months ago",
+        "Ripple's RLUSD stablecoin goes multichain in new pilot",
+        "Over 1 in 20 emails are malicious, warns internet giant Cloudflare"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "MetaMask adding Bitcoin support (adoption)",
+        "Ripple launching RLUSD multichain pilot (institutional adoption)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights major developments in crypto adoption: MetaMask officially supporting Bitcoin and Ripple expanding RLUSD to multiple chains. These institutional moves signal growing mainstream integration, which could drive bullish momentum. While the Cloudflare email security alert is not directly crypto-related, it underscores digital threat awareness. The timing of MetaMask’s long-anticipated Bitcoin support may trigger positive market reaction."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Sinks Towards $85,000 as Ethereum, XRP Fall Alongside",
+        "Why President Trump Had the Biggest Impact on Bitcoin and Crypto in 2025",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.75,
+      "events": [
+        "Bitcoin price retreat to $85,000",
+        "President Trump's influence on crypto markets highlighted",
+        "Quantum computing threat discussed by Grayscale"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is experiencing a significant pullback toward $85,000 amid broader crypto market weakness, with Ethereum and XRP also declining. President Trump's potential impact on crypto in 2025 is being emphasized, suggesting political uncertainty. Meanwhile, Grayscale downplays quantum computing risks, indicating institutional reassurance but not enough to offset current bearish momentum."
+    }
+  ]
+}

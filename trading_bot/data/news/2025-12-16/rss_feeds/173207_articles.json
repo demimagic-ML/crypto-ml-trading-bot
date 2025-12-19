@@ -1,0 +1,21 @@
+{
+  "fetch_time": "2025-12-16T17:32:07.094027",
+  "source_type": "rss_feeds",
+  "count": 2,
+  "articles": [
+    {
+      "source": "cointelegraph.com",
+      "title": "Crypto’s ‘super app’ race is on as industry enters aggregation era: Report",
+      "published": "Tue, 16 Dec 2025 14:22:42 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto’s ‘super app’ race is on as industry enters aggregation era: Report\" src=\"https://images.cointelegraph.com/images/528_aHR",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Here’s what happened in crypto today",
+      "published": "Tue, 16 Dec 2025 14:10:25 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91c",
+      "type": "crypto"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-16T20:56:37.621150",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+        "Eric Trump's American Bitcoin jumps to 20th among public BTC treasury companies",
+        "BNB tops $870, outperforming crypto majors as volume surges"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.85,
+      "events": [
+        "U.S. FDIC proposes first U.S. stablecoin regulation (GENIUS Act)",
+        "BNB price surge to $870 with strong volume",
+        "Institutional adoption: Eric Trump's American Bitcoin enters top 20 BTC treasury companies"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The market is showing bullish momentum with BNB breaking above $870 and institutional interest in Bitcoin through Eric Trump's venture. Regulatory clarity on stablecoins from the FDIC could be a catalyst for broader crypto adoption. Breaking news includes both regulatory developments and strong price action in major tokens."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "The Bitcoin-to-gold ratio fell 50% in 2025: Here's why",
+        "US banks could soon issue stablecoins under FDIC plan to implement GENIUS Act",
+        "Why BitMine is accumulating Ether despite broader market fear"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "FDIC-backed stablecoin issuance by US banks (institutional adoption)",
+        "BitMine accumulating ETH amid market fear (potential accumulation signal)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights institutional developments in stablecoins with potential FDIC backing, which could boost confidence in crypto infrastructure. Meanwhile, Bitcoin’s declining ratio to gold suggests relative weakness, while ETH accumulation by BitMine hints at possible support. Regulatory and institutional moves are emerging as key themes, but sentiment remains mixed."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin and Ethereum ETFs Expected to Be Approved as Institutions Pull Back",
+        "Visa Expands Stablecoin Pilot to Include US Settlements via Solana",
+        "South Korean Government Grants $100 Million in Debt Relief to Crypto Exchange Upbit"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin and Ethereum ETF approval expected (institutional adoption)",
+        "Visa expanding stablecoin pilot with Solana (adoption by major financial institution)",
+        "South Korea providing debt relief to Upbit (regulatory support in key market)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Multiple bullish catalysts are emerging: anticipated ETF approvals, Visa's expansion into stablecoin settlements via Solana, and South Korea's financial support for a major exchange. These signals point to growing institutional adoption and regulatory tolerance, which could drive significant upward momentum in crypto markets."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "BEARISH",
+  "sentiment_score": -0.30000000000000004,
+  "confidence": 0.6,
+  "trading_suggestion": "SELL",
+  "news_count": 21,
+  "headlines": [
+    "SEC ’eased up on’ 60% of crypto enforcement cases under Trump: Report",
+    "Bitcoin drops under $86K as $2.78B in BTC whale selling overwhelms active dip buyers",
+    "Price predictions 12/15: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Coinbase announces major fintech infrastructure update",
+    "BTC whale selling of $2.78B",
+    "Circle acquiring Interop Labs team",
+    "Ripple expanding RLUSD across XRP Ledger and Ethereum (adoption)",
+    "Bitcoin price drops to $86,000 amid macroeconomic and AI-related market volatility",
+    "Ondo Finance launching tokenized stocks and ETFs on Solana (institutional adoption)",
+    "Senate delays crypto market structure legislation",
+    "UK Supreme Court decision on Bitcoin SV case appeal (regulatory)",
+    "SEC reducing crypto enforcement actions"
+  ],
+  "timestamp": "2025-12-15T23:38:58.466047"
+}

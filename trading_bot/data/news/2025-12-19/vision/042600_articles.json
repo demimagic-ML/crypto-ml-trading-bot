@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-19T04:26:00.852806",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Altcoins plunge as bitcoin's $85,000 test triggers $550 million in liquidations",
+        "What if crypto's U.S. market structure effort just never gets there?",
+        "U.S. SEC aids brokers on crypto custody, looks more closely at ATS activity"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.9,
+      "events": [
+        "Bitcoin tested $85,000, triggering significant liquidations in altcoins",
+        "SEC intensifies scrutiny of crypto custody and alternative trading systems (ATS)",
+        "Regulatory uncertainty highlighted with concerns over U.S. crypto market structure"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin reached a key resistance level near $85,000, causing widespread altcoin liquidations and bearish momentum. Regulatory developments from the SEC signal increased oversight of crypto custody and trading infrastructure, adding to market uncertainty. This combination of technical breakdown and regulatory risk suggests a high-impact bearish environment."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "XRP's familiarity helps push ETFs past $1B assets: Exec",
+        "Anxiety of quantum risk to Bitcoin is weighing on its price: Execs",
+        "Trump lauds Chris Waller as 'great' after Fed chair interview, will pick within weeks"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.2,
+      "confidence": 0.8,
+      "events": [
+        "XRP ETF assets surpass $1B",
+        "Quantum computing risk concerns for Bitcoin",
+        "Fed Chair nomination speculation involving Chris Waller"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent news highlights growing institutional interest in XRP via ETFs, while raising concerns about quantum computing threats to Bitcoin. Political developments around the Federal Reserve leadership add macroeconomic uncertainty. While some bullish signals exist (ETF growth), risks and mixed sentiment dominate, warranting caution."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Solana, Aptos Move to Harden Blockchains Against Future Quantum Threats",
+        "European Central Bank Says It's Ready to Move on Digital Euro",
+        "Third-Party Bitcoin Mining Services Are Securities Offerings, Says SEC in Lawsuit"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "SEC lawsuit against third-party Bitcoin mining services as securities",
+        "ECB signals readiness for digital euro launch",
+        "Solana and Aptos implementing quantum-resistant security measures"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Recent developments include regulatory scrutiny of Bitcoin mining services by the SEC, which could impact crypto infrastructure firms. The ECB’s readiness for a digital euro signals institutional adoption progress, while Solana and Aptos are preparing for future quantum threats, indicating long-term tech upgrades. While not directly bullish or bearish, these events represent high-impact institutional and technological shifts that warrant close monitoring."
+    }
+  ]
+}

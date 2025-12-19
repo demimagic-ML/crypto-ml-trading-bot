@@ -1,0 +1,28 @@
+{
+  "fetch_time": "2025-12-18T12:31:35.398157",
+  "source_type": "rss_feeds",
+  "count": 3,
+  "articles": [
+    {
+      "source": "cointelegraph.com",
+      "title": "Spot Bitcoin ETFs record $450M inflows in ‘early positioning’ push",
+      "published": "Thu, 18 Dec 2025 08:32:56 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Spot Bitcoin ETFs record $450M inflows in ‘early positioning’ push\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "MSCI’s crypto treasury rules could spur $15B of forced selling",
+      "published": "Thu, 18 Dec 2025 05:40:34 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MSCI’s crypto treasury rules could spur $15B of forced selling\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Crypto ETPs could see a flood of liquidations by 2027: Analyst",
+      "published": "Thu, 18 Dec 2025 04:09:48 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto ETPs could see a flood of liquidations by 2027: Analyst\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5",
+      "type": "crypto"
+    }
+  ]
+}

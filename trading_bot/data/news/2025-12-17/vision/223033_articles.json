@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-17T22:30:33.589435",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Traders mull the bottom as bitcoin returns to week's lows below $86,000",
+        "Apitos drops 5% to $1.50 as volume spikes above monthly average",
+        "Polkadot's DOT drops 3% to $1.53 as crypto markets reverse lower"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin price nears $86,000 support level with bearish momentum",
+        "Crypto market reversal following strong selling pressure on DOT and other assets"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is testing key support at $86,000 amid a broader market sell-off, with Polkadot and Aptos showing sharp declines. The sentiment is bearish due to renewed selling pressure and lack of bullish catalysts. Traders are assessing potential bottoms, but current data suggests downward momentum. Institutional activity is not highlighted, but retail sentiment appears weak. This is breaking news with high market impact."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Price predictions 12/17: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK",
+        "Binance mulls new US strategy, CZ potentially reducing stake: Report",
+        "The real crypto adoption shows on Tuesday morning payments"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.8,
+      "events": [
+        "Binance exploring new US regulatory strategy with potential stake reduction by CZ",
+        "Crypto adoption highlighted in real-world payment usage (Okolo use case)",
+        "Regulatory consultation by UK regulator on crypto rules for exchanges, lending, and DeFi"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed signals: a neutral price prediction outlook, institutional strategic shifts at Binance, and growing real-world adoption. While there are no breaking events like ETF approvals or hacks, regulatory developments and Binance's potential US pivot could influence sentiment. No immediate catalysts suggest strong directional moves, so maintaining current positions is advised."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $7 Billion AI Deal With Google Backing",
+        "Central African Republic's Crypto Initiatives Criticized for Benefiting Foreign Investors Over Citizens",
+        "Bitcoin Mining Ban in Siberia May Be Extended Indefinitely to Address Power Issues"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "Bitcoin mining regulation in Siberia may be extended indefinitely due to power concerns",
+        "Hut 8, a Bitcoin miner, signs a major $7 billion AI deal with Google backing, signaling institutional adoption"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed signals in the crypto space: positive institutional interest through Hut 8's AI partnership with Google, but regulatory headwinds from potential extended mining bans in Siberia and criticism of crypto initiatives in the Central African Republic. No immediate breaking developments, but long-term institutional moves and regulatory trends are emerging."
+    }
+  ]
+}

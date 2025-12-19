@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-17T03:32:41.701520",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's massive underperformance to stocks in Q4 bodes well for January, says K33's Lunde",
+        "Bitcoin derivatives point to broad price range play between $85,000-$100,000",
+        "Eric Trump’s American Bitcoin jumps to 20th among public BTC treasury companies"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin derivatives signaling a potential price range of $85,000–$100,000",
+        "Institutional adoption signal: Eric Trump's American Bitcoin entering top 20 public BTC treasury companies"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent news highlights mixed signals for Bitcoin: while market underperformance in Q4 is seen as bullish for future momentum, derivative flows suggest a range-bound move ahead. Institutional activity via Eric Trump’s company shows growing interest, but no major regulatory or ETF developments are present. The overall sentiment remains neutral with moderate impact on short-term trading."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Tether leads $8M funding for Lightning startup focused on stablecoins",
+        "Crypto ETPs to enter 'cheesecake factory' era in 2026: Bitwise",
+        "Bank of Canada lays out criteria for 'good money' stablecoins"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory development: Bank of Canada outlines stablecoin criteria",
+        "Institutional move: Tether funds Lightning Network startup",
+        "ETF-related news: Bitwise predicts ETP expansion"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights institutional interest in stablecoins and infrastructure (Tether funding), regulatory clarity from central banks (Bank of Canada), and future ETF expansion (Bitwise). These developments signal growing adoption and legitimacy, creating bullish momentum. The timing suggests early-stage catalysts that may lead to further market movement."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Why Bitwise Expects New Bitcoin Highs in 2026—And the End of the 4-Year Cycle",
+        "FTC Compels Nomad Operator to Repay Users After $186M Crypto Theft",
+        "Trump 'Open' to Democrats at SEC, CFTC in Possible Boon to Crypto Market Structure Bill"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Regulatory development: Potential bipartisan support for crypto market structure bill (SEC/CFTC)",
+        "Institutional move: Bitwise's bullish outlook on Bitcoin reaching new highs in 2026",
+        "Security incident: FTC enforcement action against Nomad operator following $186M theft"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "The top headlines suggest a mix of strong bullish catalysts from institutional expectations and regulatory optimism, countered by a major security event. The Bitwise forecast signals confidence in Bitcoin’s long-term trajectory, while political openness to crypto regulation could unlock market growth. Despite the Nomad hack, which is negative but not systemic, the overall sentiment leans bullish due to macro-level tailwinds. This combination supports a strong buy signal ahead of potential catalysts in early 2026."
+    }
+  ]
+}

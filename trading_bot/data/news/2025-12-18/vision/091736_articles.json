@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-18T09:17:36.452653",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin is all over the place ahead of U.S. inflation data",
+        "Bitcoin could drop to $10,000, one analyst says, spelling doom for ETH, ADA, XRP",
+        "VivoPower eyes $300M Ripple share deal, bagging nearly $1B in XRP exposure"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Institutional move: VivoPower's $300M Ripple share deal with potential $1B XRP exposure",
+        "Upcoming U.S. inflation data release expected to impact market sentiment and Fed policy expectations"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The market is facing heightened volatility ahead of key U.S. inflation data, with analysts warning of a potential Bitcoin price drop to $10,000. While there is institutional interest in XRP via VivoPower's investment, the overall tone is bearish due to macroeconomic concerns and risk-off positioning. The upcoming CPI data could trigger significant moves, making this a high-impact period for traders."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Ethereum needs simple explanation to see true trustlessness: Buterin",
+        "MSCI’s crypto treasury rules could spur $15B of forced selling",
+        "Crypto ETPs could see a flood of liquidations by 2027: Analyst"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory scrutiny on crypto rules for exchanges, lending, and DeFi (UK regulator consultation)",
+        "Potential institutional sell-off due to MSCI's crypto treasury rules",
+        "Concerns over future liquidation risks in Crypto ETPs"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The latest news covers regulatory developments, institutional policy shifts affecting crypto holdings, and market caution around ETPs. While there is no immediate breaking event, the potential for forced selling from MSCI rules and regulatory consultations suggest cautious sentiment. No major bullish catalysts are present, but risks are emerging from structural market changes."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $750M Deal With Google Backing",
+        "DTCC to Issue Tokenized Securities on Canton Network, Starting With US Treasuries",
+        "Caroline Pham Leaves CFTC to Join Crypto Company MoonPay"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Institutional adoption: DTCC issuing tokenized securities on Canton Network (institutional move)",
+        "Regulatory shift: Caroline Pham leaving CFTC to join MoonPay (regulatory insider movement)",
+        "Corporate adoption: Hut 8 signing $750M deal with Google (major institutional crypto mining partnership)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Multiple breaking news items indicate strong institutional and regulatory momentum in the crypto space. Key developments include a major institutional blockchain infrastructure move by DTCC, a high-profile regulatory insider joining a crypto firm, and a significant corporate mining deal involving Google. These signals suggest growing legitimacy and adoption, likely supporting bullish market sentiment."
+    }
+  ]
+}

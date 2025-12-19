@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-17T21:37:34.256994",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin tumbles back below $88,000 as gains evaporate as quickly as they formed",
+        "Crypto industry insiders met with key senators on market structure bill negotiation",
+        "Crypto stocks pare gains as bitcoin retreats from $90,000 rally"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Crypto industry insiders meet with U.S. senators to discuss market structure legislation",
+        "Bitcoin price drops below $88,000 after a brief rally, signaling potential bearish momentum"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin has retraced sharply below $88,000 after a recent rally, with traders questioning the strength of the recovery. Simultaneously, regulatory discussions involving key senators signal potential policy shifts that could impact market sentiment. The combination of technical weakness and looming regulatory scrutiny suggests a bearish near-term outlook."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Binance mulls new US strategy, CZ potentially reducing stake: Report",
+        "The real crypto adoption shows on Tuesday morning payments",
+        "Silvergate Bank lawsuit calls for FTX, Alameda clients to weigh in on $10M settlement"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.8,
+      "events": [
+        "Binance's potential strategic shift in the US market",
+        "Silvergate Bank legal proceedings involving FTX and Alameda",
+        "Regulatory consultation by UK regulator on crypto rules for exchanges, lending, and DeFi"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent news highlights regulatory scrutiny (UK), institutional developments (Binance, Silvergate), and early signs of crypto adoption. While there are no explosive breakthroughs like ETF approvals or major hacks, Binance’s potential U.S. strategy shift and ongoing litigation involving FTX-related entities suggest moderate market-moving implications. Regulatory discussions may impact sentiment long-term, but immediate price action is likely muted. No clear bullish or bearish bias emerges from current headlines."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Price Drop Is Linked to the Bank of Japan's Potential Interest Rate Hike",
+        "Visa and FDIC Advance Stablecoin Integration Into US Financial System, Signaling Mainstream Adoption",
+        "Gavin Newsom Targets CZ, Ross Ulbricht and Arthur Hayes as Trump's 'Criminal Cronies'"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "Stablecoin integration into US financial system by Visa and FDIC (adoption)",
+        "Potential interest rate hike by Bank of Japan (macroeconomic impact on BTC)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed signals: macro concerns from potential BoJ rate hikes could pressure Bitcoin, while institutional adoption via Visa and FDIC stablecoin initiatives supports long-term bullish sentiment. Regulatory scrutiny of crypto figures under a new administration adds uncertainty. No immediate ETF or major hack events reported."
+    }
+  ]
+}

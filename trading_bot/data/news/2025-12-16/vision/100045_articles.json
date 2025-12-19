@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-16T10:00:45.795273",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin, ether and XRP extend losses as year-end caution builds",
+        "ARK steps in as crypto stocks extend multi-day selloff",
+        "Why bitcoin ETFs look like they're falling short, even as their role grows: Asia Morning Briefing"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.75,
+      "confidence": 0.9,
+      "events": [
+        "Bitcoin ETFs failing to gain traction despite growing institutional interest",
+        "Crypto market selloff continues with ARK stepping in amid broader weakness",
+        "XRP down -5.99% amid ongoing market pressure"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The crypto market is experiencing a bearish trend with Bitcoin, Ethereum, and XRP extending losses amid year-end caution. Institutional moves are mixed—ARK's involvement signals concern over crypto stocks, while Bitcoin ETFs are underperforming despite expectations. This suggests a risk-off environment with potential for further downside."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "MetaMask adds Bitcoin support after teasing it 10 months ago",
+        "Most crypto sectors lagged Bitcoin over past 3 months: Glassnode",
+        "Ripple pilots RLUSD on Ethereum L2s in multichain push"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "MetaMask adding Bitcoin support (adoption)",
+        "Ripple launching RLUSD on Ethereum L2s (institutional adoption and scaling)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent developments show strong institutional and ecosystem-level adoption, with MetaMask integrating Bitcoin and Ripple expanding its stablecoin across Ethereum L2s. These are bullish catalysts for broader crypto market sentiment, particularly for Bitcoin and Ethereum-based assets. The news is recent and has high market relevance."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Sinks Towards $85,000 as Ethereum, XRP Fall Alongside",
+        "Why President Trump Had the Biggest Impact on Bitcoin and Crypto in 2025",
+        "Decrypto's 2025 Person of the Year: President Donald Trump"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin price drop to $85,000",
+        "President Trump's influence on crypto markets highlighted",
+        "Institutional sentiment shift due to political leadership"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is experiencing a significant sell-off, dropping toward $85,000, with Ethereum and XRP following suit. The market is reacting to political developments involving President Trump, who is being highlighted as a major influence on crypto in 2025. This suggests a potential policy-driven bearish shift, especially if institutional investors react negatively to leadership changes or regulatory uncertainty."
+    }
+  ]
+}

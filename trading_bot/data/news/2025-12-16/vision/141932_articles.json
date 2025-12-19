@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-16T14:19:32.680798",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slump deepens as most of top 100 tokens fall below key trading signals",
+        "U.S. bitcoin, ether ETFs see largest outflows since Nov. 20 as BTC declines",
+        "Crypto Markets Today: Bitcoin, ether extend pullback amid thin liquidity, macro jitters"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.75,
+      "confidence": 0.9,
+      "events": [
+        "ETF outflows from U.S. bitcoin and ether ETFs are at their highest since November 2023",
+        "UK regulators start major consultation on crypto listings, DeFi, and staking",
+        "Institutional interest in Dogecoin highlighted with price drop below $0.13 drawing attention"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The market is experiencing a broad sell-off across top cryptocurrencies, driven by significant ETF outflows, weakening sentiment, and regulatory uncertainty. Institutional moves suggest reduced confidence, while UK regulatory developments may impact future adoption. This is breaking news with high market impact."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Alexander Ray, our partner within the CTDG initiative and a Web3 entrepreneur, co-founder of Albus Protocol and JPool, has passed away",
+        "Spain's regulator sets out MICA transition rules for crypto platforms",
+        "FCA consults on UK crypto rules for exchanges, lending and DeFi"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory developments in Spain (MICA transition rules)",
+        "UK FCA consultation on crypto regulations",
+        "Death of Alexander Ray, a notable Web3 entrepreneur"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The latest news features regulatory updates from Spain and the UK, which may influence market structure and compliance costs for crypto firms. While not directly bullish or bearish, these developments are significant for long-term adoption. The passing of a prominent Web3 figure is a human interest story with minimal direct market impact. No major ETF approvals, hacks, or institutional moves were reported."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Sinks Towards $85,000 as Ethereum, XRP Fall Alongside",
+        "PayPal Seeks Utah-Chartered Industrial Bank Status",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin price decline toward $85,000",
+        "PayPal pursuing bank charter for crypto services (institutional adoption)",
+        "Grayscale addressing quantum computing risks (long-term threat)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is experiencing a notable drop near $85,000, with ETH and XRP also falling, indicating broad market weakness. PayPal's move to obtain a bank charter suggests potential institutional expansion but is offset by current bearish momentum. Grayscale’s downplaying of quantum threats signals low immediate risk, but the dominant theme is short-term selling pressure."
+    }
+  ]
+}

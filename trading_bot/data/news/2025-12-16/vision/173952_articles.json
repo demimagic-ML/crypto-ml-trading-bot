@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-16T17:39:52.613361",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slump deepens as most of top 100 tokens fall below key trading signals",
+        "Visa brings Circle's USDC settlement to U.S. banks following $3.5 billion stablecoin pilot",
+        "Building the Infrastructure for the $2 Trillion Stablecoin Economy"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Visa and Circle launch USDC settlement with U.S. banks (institutional adoption)",
+        "Bitcoin price falling below key technical levels (technical breakdown)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The market is showing signs of a bearish momentum with Bitcoin and top cryptocurrencies breaking below key support levels. However, there is a significant institutional development with Visa and Circle expanding USDC settlement infrastructure, which could be a long-term bullish catalyst. The immediate sentiment is negative due to technical breakdowns and broad market weakness."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Why can't Ethereum hold $3K? ETH recovery in doubt as data tilts bearish",
+        "Crypto's 'super app' race is on as industry enters aggregation era: Report",
+        "Here's what happened in crypto today"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.75,
+      "events": [
+        "JPMorgan launches its first tokenized money market fund on Ethereum",
+        "Web3 Antivirus detects $563k DeFi loss after phishing approval during Aave and Compound...",
+        "Aster launches Shield Mode, a protected high-performance trading mode for on-chain traders"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent news highlights mixed signals in the crypto market. While institutional adoption continues with JPMorgan launching a tokenized fund on Ethereum and new tools like Aster’s Shield Mode, sentiment remains cautious due to Ethereum’s struggle to hold above $3K and ongoing security risks like DeFi phishing attacks. The 'super app' trend suggests growing ecosystem integration, but macro concerns persist. No major regulatory or ETF announcements are present, limiting immediate catalysts."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's New Entrants Face the Bite as Whales Retreat",
+        "PayPal Seeks Utah-Chartered Industrial Bank Status",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "PayPal's pursuit of a Utah-chartered industrial bank status (institutional adoption)",
+        "Grayscale addressing quantum computing risks (regulatory/technological concern)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed signals in the crypto market: institutional interest via PayPal's banking move, caution from major players like Grayscale on quantum threats, and signs of whale activity pulling back amid new entrant inflows. No immediate regulatory or ETF developments are reported, but institutional moves suggest long-term structural changes. Overall sentiment is neutral with moderate market impact."
+    }
+  ]
+}

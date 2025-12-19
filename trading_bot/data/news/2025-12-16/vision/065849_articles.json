@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-16T06:58:49.125145",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slides to $86,000 as slower rate cut risk, AI stock woes shake markets",
+        "Why Dogecoin's drop below $0.13 is drawing institutional attention",
+        "XRP price weakens at critical level, raising risk of deeper pullback"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin price drop to $86,000 due to macro concerns (rate cuts and AI market weakness)",
+        "Dogecoin falling below $0.13 triggering institutional interest",
+        "XRP weakening near key support level"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin dropped to $86,000 amid broader market concerns over delayed rate cuts and AI sector weakness, signaling a bearish shift in sentiment. Dogecoin’s fall below $0.13 has drawn institutional scrutiny, while XRP shows signs of further downside risk. These developments suggest short-term pressure on major cryptos, especially Bitcoin, with potential for further declines if macro conditions worsen."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "MetaMask adds Bitcoin support after teasing it 10 months ago",
+        "Over 1 in 20 emails are malicious, warns internet giant Cloudflare",
+        "Crypto urges SEC to see the good in blockchain privacy tools"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "MetaMask adding Bitcoin support (adoption)",
+        "SEC being urged to recognize blockchain privacy tools (regulatory sentiment)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Breaking news includes MetaMask's long-awaited Bitcoin integration, signaling major adoption progress for Bitcoin. This is a bullish catalyst for BTC and broader crypto sentiment. Additionally, regulatory advocacy around blockchain privacy may hint at future favorable policy shifts. The email security warning from Cloudflare is unrelated to market direction but highlights cybersecurity concerns in digital infrastructure."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Sinks Towards $85,000 as Crypto Market Loses Momentum",
+        "Why President Trump Had the Biggest Impact on Bitcoin and Crypto in 2025",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.6,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin price retreat to $85,000 level",
+        "President Trump's influence on crypto market dynamics",
+        "Quantum computing threat discussion by Grayscale"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Recent headlines indicate a bearish shift in sentiment with Bitcoin approaching $85,000 amid broader market losses. The mention of President Trump’s impact suggests political influence on market psychology, while Grayscale's downplaying of quantum threats reflects ongoing institutional commentary. Despite no immediate ETF or regulatory moves, the price action and leadership shifts signal high volatility and potential downside pressure."
+    }
+  ]
+}

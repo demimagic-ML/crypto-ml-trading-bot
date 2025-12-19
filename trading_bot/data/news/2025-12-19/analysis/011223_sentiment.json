@@ -1,0 +1,25 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.2833333333333333,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 20,
+  "headlines": [
+    "Crypto CLARITY Act set for Senate markup in January, says Sacks",
+    "Here’s what happened in crypto today",
+    "Federal Reserve Board publishes first of several staff manuals for the supervision of the largest and most complex banks",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank"
+  ],
+  "events": [
+    "SEC classifying third-party Bitcoin mining services as securities (regulatory development)",
+    "ECB signaling readiness for digital euro (central bank digital currency progress)",
+    "U.S. SEC aiding brokers on crypto custody — potential regulatory development",
+    "Coinbase appoints George Osborne to advisory council (institutional adoption)",
+    "Bitcoin ETFs seeing significant inflows (institutional adoption)",
+    "Crypto CLARITY Act advancing toward Senate markup (regulatory clarity)",
+    "Bitcoin price testing $85,000 with significant liquidations across altcoins",
+    "XRP price decline following BTC pullback"
+  ],
+  "timestamp": "2025-12-19T01:12:23.726564"
+}

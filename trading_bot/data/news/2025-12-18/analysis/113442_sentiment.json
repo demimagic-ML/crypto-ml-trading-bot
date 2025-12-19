@@ -1,0 +1,26 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.48333333333333334,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 22,
+  "headlines": [
+    "Spot Bitcoin ETFs record $450M inflows in ‘early positioning’ push",
+    "MSCI’s crypto treasury rules could spur $15B of forced selling",
+    "Crypto ETPs could see a flood of liquidations by 2027: Analyst",
+    "Bitcoin’s volatility below Nvidia in 2025 as investor base grew: Bitwise",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation"
+  ],
+  "events": [
+    "Spot Bitcoin ETF inflows reaching $450M",
+    "Bitcoin price volatility ahead of U.S. inflation data release",
+    "Corporate partnership: Bitcoin mining firm Hut 8 secures major deal with Google",
+    "Institutional adoption: JP Morgan's tokenized dollars quietly rewiring Wall Street",
+    "MSCI's potential $15B forced crypto sell-off due to new treasury rules",
+    "Coinbase deepens India presence after approval of CoinDCX deal",
+    "Regulatory shift: CFTC official joins crypto firm MoonPay, signaling regulatory engagement",
+    "Regulatory consultation on crypto rules by UK regulator",
+    "Institutional adoption: DTCC launching tokenized securities on Canton Network"
+  ],
+  "timestamp": "2025-12-18T11:34:42.072838"
+}

@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-19T01:12:23.726237",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Altcoins plunge as bitcoin's $85,000 test triggers $550 million in liquidations",
+        "What if crypto's U.S. market structure effort just never gets there?",
+        "XRP slumps as bitcoin once again falls back to $85,000 level after surge"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.9,
+      "events": [
+        "Bitcoin price testing $85,000 with significant liquidations across altcoins",
+        "U.S. SEC aiding brokers on crypto custody — potential regulatory development",
+        "XRP price decline following BTC pullback"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin tested $85,000, triggering major liquidations in altcoins and a broader market sell-off. Regulatory uncertainty around U.S. crypto market structure remains a concern, while XRP continues to weaken. This is breaking news with high volatility and negative sentiment, suggesting a bearish momentum shift."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Crypto CLARITY Act set for Senate markup in January, says Sacks",
+        "Here's what happened in crypto today",
+        "Coinbase appoints former UK minister George Osborne to chair advisory council"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Crypto CLARITY Act advancing toward Senate markup (regulatory clarity)",
+        "Coinbase appoints George Osborne to advisory council (institutional adoption)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent developments include regulatory progress with the Crypto CLARITY Act moving toward Senate review, signaling potential U.S. crypto policy clarity. Additionally, Coinbase’s appointment of George Osborne indicates strong institutional interest and legitimacy. These are bullish catalysts that could drive market momentum. The news is fresh and high-impact, supporting a buy stance."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin ETFs Just Had One of the Biggest Days in Months, Adding $1.2B in Million",
+        "European Central Bank Says It's Ready to Move on Digital Euro",
+        "Third-Party Bitcoin Mining Services Are Securities Offerings, Says SEC in Lawsuit"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin ETFs seeing significant inflows (institutional adoption)",
+        "SEC classifying third-party Bitcoin mining services as securities (regulatory development)",
+        "ECB signaling readiness for digital euro (central bank digital currency progress)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights strong institutional interest in Bitcoin via ETF inflows, a major regulatory development from the SEC regarding mining services, and central bank progress on digital currencies. These developments collectively signal bullish momentum in crypto adoption and regulation, with ETF inflows being particularly impactful for market sentiment."
+    }
+  ]
+}

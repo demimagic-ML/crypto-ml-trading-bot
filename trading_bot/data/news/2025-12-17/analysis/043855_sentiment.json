@@ -1,0 +1,25 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.7166666666666667,
+  "confidence": 0.6,
+  "trading_suggestion": "STRONG_BUY",
+  "news_count": 20,
+  "headlines": [
+    "Crypto ETPs to enter ‘cheesecake factory’ era in 2026: Bitwise",
+    "Spot Bitcoin ETFs see $358M outflow: Are investors abandoning BTC?",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Bitcoin price rebound after recent dip, with analysts eyeing $80,000 support",
+    "Visa expands stablecoin pilot using Solana for US settlements (adoption)",
+    "Bitwise forecasts expansion of crypto ETPs (Exchange-Traded Products), indicating growing institutional interest",
+    "Tether leads $8M funding round for Lightning Network startup — institutional adoption of Bitcoin Layer-2",
+    "Bitwise expects new Bitcoin highs in 2026 (institutional outlook)",
+    "Actors and creators form coalition pushing AI rules amid strike (potential regulatory impact)",
+    "SEC probe into Aave ends, signaling regulatory clarity for DeFi",
+    "FDIC proposes first U.S. stablecoin regulation via GENIUS Act"
+  ],
+  "timestamp": "2025-12-17T04:38:55.153421"
+}

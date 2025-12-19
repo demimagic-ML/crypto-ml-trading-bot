@@ -1,0 +1,24 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": 0.10000000000000002,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 20,
+  "headlines": [
+    "Here’s what happened in crypto today",
+    "Bitcoin miner Hut 8 lands $7B Google-backed AI data center lease",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "New protocol aims to solve redemption delays in the tokenized market",
+    "Legal action against social media influencers for crypto promotion fraud",
+    "Institutional adoption: Hut 8 (Bitcoin miner) secures $7B long-term lease with Google for AI infrastructure",
+    "SEC/CFTC regulatory discussions on crypto market structure (potential institutional adoption)",
+    "Regulatory/monetary policy context: Federal Reserve's $40B in short-term bill purchases discussed as potential impact on crypto markets",
+    "Regulatory consultation by UK regulator on crypto rules for exchanges, lending, and DeFi",
+    "SEC counsel discusses RWA compliance framework"
+  ],
+  "timestamp": "2025-12-17T16:17:38.934622"
+}

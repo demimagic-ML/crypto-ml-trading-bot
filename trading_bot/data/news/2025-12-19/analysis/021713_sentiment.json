@@ -1,0 +1,25 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.2833333333333333,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 20,
+  "headlines": [
+    "Crypto CLARITY Act set for Senate markup in January, Sacks says",
+    "Here’s what happened in crypto today",
+    "Federal Reserve Board publishes first of several staff manuals for the supervision of the largest and most complex banks",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank"
+  ],
+  "events": [
+    "Synthetix relaunches on Ethereum mainnet",
+    "Institutional adoption: Intuit partnering with Circle to integrate USDC into TurboTax and QuickBooks",
+    "Crypto CLARITY Act to be reviewed by Senate in January",
+    "Blockchain security innovation: Solana and Aptos enhancing blockchain resilience against quantum computing threats",
+    "Central bank digital currency (CBDC) development: ECB signals readiness to move forward with a digital euro",
+    "U.S. SEC aiding brokers on crypto custody — regulatory developments underway",
+    "Bitcoin testing $85,000 resistance with significant liquidations",
+    "XRP ETF reaches $1B in assets under management"
+  ],
+  "timestamp": "2025-12-19T02:17:13.657623"
+}

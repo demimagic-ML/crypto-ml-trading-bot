@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-16T13:46:20.379621",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "U.S. bitcoin, ether ETFs see largest outflows since Nov. 20 as BTC declines",
+        "Bitcoin slump deepens as most of top 100 tokens fall below key trading signals",
+        "Axelar token falls 15% after Circle deal takes the developer team, leaves AXL behind"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.75,
+      "confidence": 0.9,
+      "events": [
+        "ETF outflows for Bitcoin and Ethereum",
+        "Circle's developer team acquisition impacting Axelar (AXL) token",
+        "BTC and top 100 tokens breaking below key technical levels"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin and Ethereum ETFs are experiencing their largest outflows since November 2023, signaling institutional withdrawal amid a broader market decline. Bitcoin is showing a deeper slump with top 100 tokens falling below key technical indicators, reinforcing bearish momentum. Additionally, a major development in the ecosystem — Circle’s acquisition of the Axelar developer team — has triggered a 15% drop in AXL, indicating negative sentiment around project stability. This cluster of events suggests heightened risk aversion and potential further downside in crypto markets."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "FCA consults on UK crypto rules for exchanges, lending and DeFi",
+        "Alexander Ray, our partner within the CTDG initiative and a Web3 entrepreneur, co-founder of Albus Protocol and JPool, has passed away",
+        "Singapore-licensed StraitsX to bring its SGD, USD stablecoins to Solana in 2026"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "UK regulatory consultation on crypto (FCA)",
+        "Stablecoin expansion by StraitsX to Solana in 2026"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The top news includes regulatory developments in the UK, a notable death in the Web3 space, and future stablecoin expansion on Solana. While regulatory news can be impactful, this is a consultation phase rather than final rules. The StraitsX announcement is forward-looking and not immediate. No breaking market-moving events are present."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Decrypto's 2025 Person of the Year: President Donald Trump",
+        "Crypto Market Liquidity Shrinks Ahead of Holidays",
+        "Myriad Markets: Trade opinions on crypto, politics, gaming, culture and technology"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "Crypto market liquidity shrinkage ahead of holidays",
+        "Institutional interest in crypto markets via Myriad Markets platform"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The top headlines indicate a mix of macroeconomic sentiment around crypto market liquidity and institutional engagement through opinion-based trading platforms. There is no major regulatory or ETF-related news, nor any immediate breaking events. The mention of liquidity shrinking ahead of holidays suggests potential caution from traders, but no strong bullish or bearish catalysts are present."
+    }
+  ]
+}

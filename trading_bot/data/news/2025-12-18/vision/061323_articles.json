@@ -1,0 +1,51 @@
+{
+  "fetch_time": "2025-12-18T06:13:23.075571",
+  "source_type": "vision",
+  "count": 2,
+  "articles": [
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's volatility below Nvidia in 2025 as investor base grew: Bitwise",
+        "Crypto ETPs could see a flood of liquidations by 2027: Analyst",
+        "US Fed pulls guidance blocking its banks from engaging with crypto"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "US Federal Reserve updates guidance on bank engagement with crypto (regulatory)",
+        "Potential ETF-related liquidation risks for crypto ETPs (adoption/regulation)",
+        "Institutional analysis of Bitcoin's growing investor base and reduced volatility"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights regulatory developments from the US Fed, potential ETF liquidation risks, and institutional insights into Bitcoin's maturing market. While there is no direct bullish catalyst, the removal of banking restrictions on crypto could support long-term adoption. However, warnings about future liquidations suggest caution. The overall tone is neutral, but regulatory shifts are high-impact."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $7 Billion AI Deal With Google Backing",
+        "Central African Republic's Crypto Initiatives Criticized for Benefiting Foreign Investors Over Citizens",
+        "Bitcoin Mining Ban in Siberia Extended Indefinitely to Address Power Grid Concerns"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.75,
+      "events": [
+        "Institutional move: Bitcoin miner Hut 8 signs $7 billion AI deal with Google backing",
+        "Regulatory development: Siberia extends indefinite ban on Bitcoin mining due to power grid concerns",
+        "Adoption concern: Central African Republic’s crypto initiatives criticized for favoring foreign investors"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights a mix of institutional developments and regulatory challenges in the crypto space. Hut 8’s AI partnership signals growing institutional interest, but regulatory headwinds in Siberia and governance issues in the Central African Republic introduce uncertainty. No major breaking events like ETF approvals or hacks are reported."
+    }
+  ]
+}

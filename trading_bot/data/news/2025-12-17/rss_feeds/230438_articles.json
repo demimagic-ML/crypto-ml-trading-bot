@@ -1,0 +1,21 @@
+{
+  "fetch_time": "2025-12-17T23:04:38.893251",
+  "source_type": "rss_feeds",
+  "count": 2,
+  "articles": [
+    {
+      "source": "cointelegraph.com",
+      "title": "Price predictions 12/17: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK",
+      "published": "Wed, 17 Dec 2025 20:26:21 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 12/17: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK\" src=\"https://images.cointelegraph.com/images/528_a",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Bitcoin tags $90K as crypto market spike liquidates $120M shorts",
+      "published": "Wed, 17 Dec 2025 15:56:20 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin tags $90K as crypto market spike liquidates $120M shorts\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zM",
+      "type": "crypto"
+    }
+  ]
+}

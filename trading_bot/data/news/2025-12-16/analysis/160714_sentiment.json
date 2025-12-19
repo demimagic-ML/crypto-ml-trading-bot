@@ -1,0 +1,24 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": -0.08333333333333333,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 18,
+  "headlines": [
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
+    "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC",
+    "Federal Reserve Board announces reappointment of Reserve Bank presidents and first vice presidents"
+  ],
+  "events": [
+    "Regulatory scrutiny on blockchain privacy tools by SEC (crypto urges SEC to see the good in blockchain privacy tools)",
+    "Visa's adoption of USDC on Solana blockchain",
+    "Visa brings Circle's USDC settlement to U.S. banks following $3.5 billion stablecoin pilot",
+    "Bitcoin and other ETFs see largest outflows since Nov. 20 as BTC declines",
+    "Grayscale addressing quantum computing threat (long-term risk mitigation)",
+    "PayPal seeking Utah-chartered industrial bank status (institutional adoption)",
+    "JPMorgan launches its first tokenized money market fund on Ethereum"
+  ],
+  "timestamp": "2025-12-16T16:07:14.429165"
+}

@@ -1,0 +1,74 @@
+{
+  "fetch_time": "2025-12-16T21:29:26.464633",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin derivatives point to broad price range play between $85,000-$100,000",
+        "U.S. Senate's Warren asks for Trump-tied crypto probe as market structure bill drags",
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.8,
+      "events": [
+        "U.S. FDIC proposes first U.S. stablecoin regulation under GENIUS Act",
+        "Senate inquiry into Trump-linked crypto entities raises regulatory scrutiny",
+        "Bitcoin options suggest range-bound movement with potential for $85K–$100K breakout"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "The top news highlights regulatory developments in the U.S., including a proposed stablecoin rule by the FDIC and political scrutiny over crypto ties to former President Trump. Bitcoin options indicate expectations of a broad range move rather than a crash or surge, suggesting volatility ahead. While no major ETF approvals or hacks are reported, regulatory actions could trigger 5%+ moves. The sentiment is neutral due to mixed signals—regulatory clarity may be bullish long-term, but short-term uncertainty remains high."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "The Bitcoin-to-gold ratio fell 50% in 2025: Here's why",
+        "US banks could soon issue stablecoins under FDIC plan to implement GENIUS Act",
+        "Crypto urges SEC to see the good in blockchain privacy tools"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "SEC probe into Aave ends after four years",
+        "JPMorgan launches first tokenized money market fund on Ethereum",
+        "FDIC plan to allow US banks to issue stablecoins under GENIUS Act",
+        "Aster launches Shield Mode for on-chain traders"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights regulatory developments (SEC, FDIC), institutional adoption (JPMorgan, US banks), and market analysis (Bitcoin-to-gold ratio). While there is a mix of bullish catalysts like institutional moves and stablecoin expansion, regulatory scrutiny remains present. The Bitcoin-to-gold ratio decline suggests potential bearish sentiment, but institutional adoption could support long-term bullish momentum. Overall, mixed signals suggest caution with a focus on monitoring regulatory outcomes."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin and Ethereum ETFs Expected to Launch in Q1 2025, Says Analyst",
+        "South Korean Government Grants $1B in Debt Relief to Crypto Firms Amid Market Downturn",
+        "Bitwise Says the Bitcoin 4-Year Cycle Will Die in 2026"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.7,
+      "events": [
+        "Potential launch of Bitcoin and Ethereum ETFs in Q1 2025",
+        "South Korea's $1B debt relief for crypto firms",
+        "Regulatory developments around stablecoin issuer applications"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights a mix of regulatory, institutional, and market cycle developments. While ETF expectations are bullish, they remain speculative. South Korea’s support signals adoption but is not immediate catalyst. The Bitwise commentary on the 4-year cycle adds bearish sentiment, though it’s long-term. No breaking events are present, so trading should be cautious."
+    }
+  ]
+}

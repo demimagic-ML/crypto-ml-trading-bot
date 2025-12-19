@@ -1,0 +1,24 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.5,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 19,
+  "headlines": [
+    "Here’s what happened in crypto today",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
+  ],
+  "events": [
+    "Hut 8's $7 billion AI deal with Google backing (institutional adoption)",
+    "CFTC leadership transition with potential regulatory implications",
+    "Institutional adoption of XRP via qualified retirement accounts",
+    "Siberian Bitcoin mining ban extension (regulatory impact on mining)",
+    "Coinbase expanding into stock and prediction markets (adoption)",
+    "Coinbase expands into stock trading and prediction markets (adoption)",
+    "Ethereum network upgrade expected in January (technical improvement)"
+  ],
+  "timestamp": "2025-12-18T04:25:17.265647"
+}

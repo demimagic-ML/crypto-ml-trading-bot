@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-18T08:04:01.936423",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin could drop to $10,000, one analyst says, spelling doom for ETH, ADA, XRP",
+        "Traders mull the bottom as bitcoin returns to week's lows below $86,000",
+        "Bitcoin drifts lower as $81.3k emerges as the market’s key fault line: Asia Morning Briefing"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.75,
+      "confidence": 0.9,
+      "events": [
+        "CFTC's acting chief Pham poised to go to crypto firm MoonPay once Mike Selig lands",
+        "VivoPower eyes $300M Ripple share deal, bagging nearly $1B in XRP exposure"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is under significant selling pressure, with analysts predicting a potential drop to $10,000 and price action testing $86,000 support. Institutional moves include VivoPower’s planned $300M investment in Ripple, while regulatory developments (CFTC official joining MoonPay) signal growing institutional interest. However, overall sentiment remains bearish due to technical breakdowns and negative analyst commentary."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Ethereum needs simple explanation to see true trustlessness: Buterin",
+        "MSCI’s crypto treasury rules could spur $15B of forced selling",
+        "Crypto ETPs could see a flood of liquidations by 2027: Analyst"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory concerns over crypto ETPs and potential liquidations by 2027",
+        "Institutional move: MSCI's new crypto treasury rules may trigger $15B in forced selling"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights regulatory and institutional headwinds for crypto, including MSCI's potential $15B forced sell-off due to new treasury rules and analyst warnings about ETP liquidations. Ethereum’s development is framed as a long-term trust issue rather than immediate catalyst. While not Bitcoin-specific, the overall sentiment leans bearish due to structural risks in institutional adoption and regulatory uncertainty."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $750M Deal With Google Backing",
+        "DTCC to Issue Tokenized Securities on Canton Network, Starting With US Treasuries",
+        "Senators Propose Task Force to Combat Crypto Scams and Protect Investors"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.75,
+      "events": [
+        "Institutional adoption: DTCC issuing tokenized securities on Canton Network",
+        "Regulatory development: Senate proposal for crypto scam task force",
+        "Corporate partnership: Hut 8's $750M deal with Google-backed entity"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "The top news includes institutional moves in tokenization (DTCC), a regulatory push from U.S. Senators, and a major corporate partnership involving Bitcoin mining. While there is bullish potential in institutional adoption, the regulatory focus introduces caution. The mix of adoption and oversight suggests neutral sentiment with high impact due to multiple significant developments."
+    }
+  ]
+}

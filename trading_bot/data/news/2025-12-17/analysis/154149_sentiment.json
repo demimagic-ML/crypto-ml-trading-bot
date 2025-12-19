@@ -1,0 +1,26 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": 0.06666666666666667,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 19,
+  "headlines": [
+    "Bitcoin miner Hut 8 lands $7B Google-backed AI data center lease",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC"
+  ],
+  "events": [
+    "Regulatory/financial innovation: Wall Street’s rollout of tokenized US Treasuries",
+    "Institutional adoption: Google-backed AI data center lease by Bitcoin miner Hut 8",
+    "U.S. FDIC proposes first U.S. stablecoin rule under GENIUS Act",
+    "Nasdaq delisting risk for Bitcoin Treasury (regulatory/liquidity risk)",
+    "Memecoin market capitulation following a $150B peak",
+    "Bitcoin options and futures contract expirations (potential volatility event)",
+    "Security and compliance: Binance's whistleblower program targeting fake listings",
+    "India's proposed tokenization bill (adoption/regulatory development)",
+    "Institutional adoption: TradFi giant EquiLend backs Digital Prime for tokenized markets"
+  ],
+  "timestamp": "2025-12-17T15:41:49.719451"
+}

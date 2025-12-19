@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-17T07:24:31.297993",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's massive underperformance to stocks in Q4 bodes well for January, says K33's Lunde",
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says",
+        "Eric Trump's American Bitcoin jumps to 20th among public BTC treasury companies"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from CENTUS Act",
+        "U.S. Senate's Warren asks for Trump-tied crypto probe as market structure bill drags",
+        "Hyperliquid's $200 billion pitch: Is this next Solana-scale DeFi bet? Asia Morning Briefing"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is showing signs of a potential rebound after underperforming equities in Q4, with analysts expecting a bullish reversal into January. Institutional interest remains strong, highlighted by Eric Trump’s American Bitcoin gaining traction. Regulatory developments in the U.S. are unfolding, with proposed stablecoin rules and Senate scrutiny on crypto market structures. These factors combined suggest a bullish sentiment driven by both macro positioning and regulatory momentum."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Lightning Network hits record capacity on crypto exchange adoption",
+        "SAFE Crypto Act will have scammers shaking in their boots: Crypto lawyer",
+        "Exodus, MoonPay to roll out stablecoin in early 2026, joining gold rush"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory development: SAFE Crypto Act proposed (potential anti-scam legislation)",
+        "Adoption event: Exodus and MoonPay launching stablecoin in early 2026",
+        "Infrastructure milestone: Lightning Network reaches record capacity"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights strong institutional and technological momentum in the crypto space, including regulatory clarity efforts via the SAFE Crypto Act, major adoption by platforms like Exodus and MoonPay launching a new stablecoin, and infrastructure improvements with Lightning Network hitting record capacity. These developments suggest bullish sentiment with high market impact potential, especially around regulatory and adoption themes."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Former Theta Executives Accuse Crypto Firm's CEO of Fraud. Retaliation",
+        "Actors, Creators Launch Coalition to Push AI Rules Amid Ongoing Industry Concerns",
+        "Visa Expands Stablecoin Pilot for US Settlements via Solana"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "Visa expands stablecoin pilot with Solana for US settlements (adoption)",
+        "Regulatory scrutiny on crypto firms: Theta executives accuse CEO of fraud (regulation)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The top headlines reflect mixed developments: regulatory concerns over a crypto firm’s leadership and institutional adoption via Visa’s stablecoin pilot. While the Visa news suggests positive adoption trends, the fraud allegations introduce uncertainty. No major ETF approvals or market-moving hacks are reported. The sentiment is neutral due to conflicting signals between adoption progress and governance risks."
+    }
+  ]
+}

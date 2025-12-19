@@ -1,0 +1,25 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": -0.1166666666666667,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 22,
+  "headlines": [
+    "Bitcoin parabola breakdown raises chance for 80% correction: Veteran trader",
+    "Trump-backed American Bitcoin flips ProCap in corporate BTC treasury race",
+    "How Bitcoin whales move markets, and the signals to ignore",
+    "Bitcoin sees ‘pure manipulation’ as US sell-off liquidates $200M in an hour",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
+  ],
+  "events": [
+    "Regulatory development: SEC and OCC signal potential regulation of tokenized assets",
+    "Crypto market accumulation: BitMine adds over $12B to ETH stash",
+    "UK Supreme Court ruling on BSV lawsuit (regulatory)",
+    "BlackRock expanding crypto team (institutional adoption)",
+    "Institutional inflows into digital asset ETPs (Exchange-Traded Products)",
+    "Institutional adoption: JPMorgan launches Ethereum-based MONY fund",
+    "Corporate BTC treasury adoption via Trump-backed American Bitcoin",
+    "Potential 80% Bitcoin correction signaled by veteran trader"
+  ],
+  "timestamp": "2025-12-15T21:10:26.584778"
+}

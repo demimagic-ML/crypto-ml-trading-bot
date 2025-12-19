@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-17T14:26:47.699186",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Memecoin boom turns into capitulation one year after $150 billion market peak",
+        "Crypto Markets Today: Bitcoin drifts lower as bearish trend persists",
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "ETF's bleed, keeping bitcoin in stasis: Crypto Daybook Americas",
+        "Norway's sovereign wealth fund supports Metaplanet bitcoin plan ahead of EGM vote",
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is drifting lower amid a bearish trend, with memecoins experiencing a capitulation after a massive bull run. Institutional moves like Norway's sovereign wealth fund supporting a bitcoin-related venture signal potential long-term interest, but regulatory developments (FDIC stablecoin rule) and ETF stagnation are creating market uncertainty. The overall sentiment is bearish due to ongoing downward pressure on BTC and lack of catalysts."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin price at 'critical' point as phishing approval during Aave and Compound... moves $348M BTC to exchanges",
+        "CAR's crypto push fueled 'state capture' by elites, criminal networks: Report",
+        "Polymarket shows stronger retention than most DeFi, wallets and exchanges"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "Bitcoin moving $348M BTC to exchanges due to phishing activity",
+        "Regulatory consultation by UK on crypto rules for exchanges, lending and DeFi",
+        "Aster launching Shield Mode for on-chain traders"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "The news highlights a critical moment in Bitcoin pricing with significant movement due to phishing-related transfers, alongside regulatory developments in the UK and new product launches in the DeFi space. While there are bullish elements like adoption (Polymarket) and institutional innovation (Aster), the phishing risk and regulatory scrutiny introduce volatility. The situation is high-impact but uncertain, suggesting caution."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin in Focus as Stock and Options Contracts Expire on Friday",
+        "Indian MP Pushes Tokenization Bill to Democratize Investment",
+        "Visa Expands Stablecoin Pilot Program with US Settlements via Solana"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin options and futures contract expiration (potential volatility event)",
+        "India's proposed tokenization bill (regulatory adoption)",
+        "Visa's stablecoin pilot expansion (institutional adoption)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The top crypto news highlights key events including Bitcoin options expiry, which may trigger volatility, a potential regulatory breakthrough in India with a tokenization bill, and Visa’s expansion of its stablecoin pilot on Solana—indicating growing institutional adoption. These developments suggest bullish momentum, especially around regulatory clarity and infrastructure growth."
+    }
+  ]
+}

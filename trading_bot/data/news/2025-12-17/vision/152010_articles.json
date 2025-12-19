@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-17T15:20:10.467387",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "ETFs bleed, keeping bitcoin in stasis: Crypto Daybook Americas",
+        "Securitize to offer first fully onchain trading for real public stocks in early 2026",
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.35,
+      "confidence": 0.85,
+      "events": [
+        "ETFs bleeding (bearish signal for Bitcoin market sentiment)",
+        "FDIC proposing first U.S. stablecoin regulation under GENIUS Act",
+        "Securitize launching onchain trading for real-world assets in 2026 (adoption event)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Bitcoin faces pressure due to ETF outflows and regulatory scrutiny, while institutional adoption via Securitize's onchain stock offering shows long-term bullish potential. The FDIC's stablecoin proposal adds regulatory uncertainty, which could weigh on crypto markets. ETF-related news is breaking and high-impact; however, the overall sentiment is bearish due to fund outflows."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin miner Hut 8 lands $7B Google-backed AI data center lease",
+        "Wall Street's $4 quadrillion backbone to roll out tokenized US Treasuries",
+        "New Coinbase report points to 'broken' traditional finance system: Armstrong"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Institutional adoption: Bitcoin miner Hut 8 secures major AI data center lease backed by Google",
+        "Tokenization of US Treasuries by Wall Street institutions",
+        "Regulatory critique from Coinbase CEO highlighting flaws in traditional finance"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Recent developments highlight strong institutional interest in crypto infrastructure and tokenization, with a notable move by Hut 8 and Wall Street’s entry into tokenized Treasuries. Coinbase’s critique of traditional finance adds narrative momentum. These are breaking, high-impact events suggesting bullish sentiment and potential for market expansion."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin in Focus as Stock and Options Contracts Expire on Friday",
+        "Indian MP Pushes Tokenization Bill to Democratize Investment",
+        "Visa Expands Stablecoin Pilot with US Settlements via Solana"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.7,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin options expiration event (Friday)",
+        "India's proposed tokenization bill for democratizing investment",
+        "Visa expanding stablecoin pilot with Solana settlement"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Key developments include Bitcoin options expiry, which can trigger volatility; a major institutional move by Visa expanding its stablecoin pilot on Solana signaling adoption; and India's legislative push toward crypto tokenization, all pointing to bullish momentum. The combination of regulatory progress and institutional activity suggests positive market sentiment."
+    }
+  ]
+}

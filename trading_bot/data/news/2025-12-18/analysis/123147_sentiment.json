@@ -1,0 +1,22 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.65,
+  "confidence": 0.78,
+  "key_events": [
+    "Spot Bitcoin ETFs record $450M inflows in ‘early positioning’ push",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
+    "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC"
+  ],
+  "trading_suggestion": "BUY",
+  "headlines": [
+    "Spot Bitcoin ETFs record $450M inflows in ‘early positioning’ push",
+    "MSCI’s crypto treasury rules could spur $15B of forced selling",
+    "Crypto ETPs could see a flood of liquidations by 2027: Analyst",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank"
+  ],
+  "news_count": 10,
+  "timestamp": "2025-12-18T12:31:47.273833"
+}

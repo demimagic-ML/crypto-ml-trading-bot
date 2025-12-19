@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-19T00:07:52.801163",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Altcoins plunge as bitcoin's $85,000 test triggers $550 million in liquidations",
+        "XRP slumps as bitcoin once again falls back to $85,000 level after surge",
+        "What if crypto's U.S. market structure effort just never gets there?"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.9,
+      "events": [
+        "Bitcoin testing $85,000 resistance with significant liquidations",
+        "Regulatory uncertainty over U.S. crypto market structure",
+        "Institutional adoption of stablecoins via Coinbase (Polkadot USDC access)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is facing strong selling pressure near $85,000, triggering $550M in liquidations across altcoins. Regulatory concerns and a lack of progress on U.S. crypto market structure add to bearish sentiment. While institutional moves like Polkadot’s USDC integration show adoption, the dominant trend is negative due to price action and macro fears."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Spot Bitcoin ETFs record $457M inflows in 'early positioning' push",
+        "Former SEC counsel explains what it takes to make RWAs compliant",
+        "Brazilian stock exchange to launch tokenization platform and stablecoin"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Spot Bitcoin ETFs seeing significant inflows ($457M) indicating early institutional positioning",
+        "Brazilian stock exchange launching tokenization platform and stablecoin – major adoption milestone",
+        "SEC compliance insights for Real World Assets (RWA) – regulatory clarity development"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights strong institutional interest in Bitcoin via ETF inflows, regulatory developments around RWAs, and a major adoption event with Brazil's stock exchange launching a tokenization platform. These signals suggest growing legitimacy and capital inflow into crypto, supporting a bullish outlook. The ETF inflows are particularly impactful as they reflect early positioning ahead of potential approval or expansion."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin ETFs Just Had One of Their Biggest Days in Months, Adding $1.3 Billion",
+        "Here's How Much Bitcoin Taiwan Owns",
+        "Third-Party Bitcoin Mining Services Are Securities Offerings, Says SEC in Lawsuit"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin ETFs saw significant inflows ($1.3 billion), indicating strong institutional interest and adoption.",
+        "SEC lawsuit against third-party Bitcoin mining services classifying them as securities—potential regulatory clarity or crackdown.",
+        "Taiwan's Bitcoin holdings reported, suggesting geopolitical positioning in crypto."
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The market is experiencing strong bullish momentum driven by massive ETF inflows, signaling institutional adoption. Regulatory news from the SEC adds complexity but could lead to long-term clarity. Breaking developments around ETFs and geopolitical holdings are high-impact catalysts for BTC price movement."
+    }
+  ]
+}

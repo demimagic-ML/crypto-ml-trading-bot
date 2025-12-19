@@ -1,0 +1,25 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.3833333333333333,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 21,
+  "headlines": [
+    "Crypto ETPs could see a flood of liquidations by 2027: Analyst",
+    "Bitcoin’s volatility below Nvidia in 2025 as investor base grew: Bitwise",
+    "US Fed pulls guidance blocking its banks from engaging with crypto",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank"
+  ],
+  "events": [
+    "US Federal Reserve updates guidance on bank engagement with crypto",
+    "Algorithmic XRP trading for retirement accounts (institutional adoption)",
+    "Potential ETF-related liquidity risks highlighted by analyst",
+    "Bitcoin mining company Hut 8 secures $7 billion AI deal with Google backing (institutional adoption)",
+    "CFTC acting chief joining MoonPay (regulatory transition/adoption signal)",
+    "Crypto-related malware targeting users in Singapore (security risk)",
+    "Coinbase expanding into stock and prediction markets (adoption/institutional move)",
+    "Institutional interest in Bitcoin growing, but volatility remains high"
+  ],
+  "timestamp": "2025-12-18T06:30:59.168800"
+}

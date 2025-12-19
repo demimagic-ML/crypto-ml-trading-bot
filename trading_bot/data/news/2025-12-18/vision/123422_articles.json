@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-18T12:34:22.273065",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "VivoPower eyes $300M Ripple share deal, bagging nearly $1B in XRP exposure",
+        "Bitcoin is all over the place ahead of U.S. inflation data",
+        "Is XRP crashing? The sustained break below $2 signals trouble"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "Institutional move: VivoPower's $300M Ripple share deal with ~$1B XRP exposure",
+        "Upcoming U.S. inflation data release impacting Bitcoin market sentiment",
+        "XRP price action breaking below $2, signaling potential bearish momentum"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "The market is reacting to a mix of institutional interest in XRP via VivoPower's $300M deal, which could be bullish for XRP, while Bitcoin remains volatile ahead of key U.S. inflation data. Meanwhile, XRP’s breakdown below $2 raises bearish concerns. Institutional moves and macroeconomic data are key drivers—monitor inflation report closely for Bitcoin direction."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Spot Bitcoin ETFs record $450M inflows in 'early positioning' push",
+        "XRP's 'bearish' setup may crash price below $1: Analyst",
+        "Tokenized stocks may be onchain, but the SEC still wants the keys"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.8,
+      "events": [
+        "Spot Bitcoin ETFs see $450M inflows indicating institutional interest",
+        "SEC continues regulatory scrutiny on tokenized securities and crypto assets"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Bitcoin ETF inflows signal strong institutional demand, potentially bullish for BTC. However, bearish technical analysis on XRP and ongoing SEC regulatory pressure on tokenized assets introduce risk. The mixed signals suggest a neutral stance with high urgency due to ETF activity and regulatory developments."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $75M Deal With Google Backing",
+        "Singapore Entrepreneur Loses Holdings to Malware Dressed as Game",
+        "DTCC to Issue Tokenized Securities on Canton Network, Starting With US Treasuries"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "Institutional adoption: DTCC issuing tokenized securities on Canton Network",
+        "Bitcoin mining infrastructure expansion: Hut 8's deal with Google",
+        "Regulatory development: Senators propose task force to combat crypto scams"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The news highlights key developments in institutional adoption (DTCC tokenization), Bitcoin infrastructure growth (Hut 8 and Google), and regulatory scrutiny. These signals suggest growing legitimacy and scalability in the crypto ecosystem, particularly for Bitcoin and DeFi-related assets. The combination of institutional moves and regulatory attention indicates bullish momentum, though caution is warranted around security risks like malware attacks."
+    }
+  ]
+}

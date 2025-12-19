@@ -1,0 +1,70 @@
+{
+  "fetch_time": "2025-12-18T05:19:21.982426",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin drifts lower as $81.3k emerges as the market’s key fault line: Asia Morning Briefing",
+        "Traders mull the bottom as bitcoin returns to week's lows below $86,000",
+        "Coinbase rolls out stock trading, prediction markets and more in bid to become the 'Everything Exchange'"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "Coinbase expands into stock trading and prediction markets, signaling broader financial ecosystem integration",
+        "CFTC’s acting chief Mike Selig joins MoonPay, indicating regulatory scrutiny and potential crypto policy shifts"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is testing key support at $81.3k and $86k levels amid bearish momentum. Coinbase's expansion into traditional finance highlights institutional adoption but also regulatory risks. CFTC leadership moving into crypto suggests heightened regulatory attention. The combination of price weakness and regulatory developments supports a cautious stance."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "US Fed pulls guidance blocking its banks from engaging with crypto",
+        "Robo-advisers, custom stablecoins: 8 things Coinbase is cooking up",
+        "World Liberty proposes using 5% of treasury to boost its stablecoin"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory shift: US Fed removes guidance restricting banks from engaging with crypto (potential adoption catalyst)",
+        "Institutional move: World Liberty plans to allocate 5% of treasury to support stablecoin (institutional backing signal)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Recent developments indicate growing institutional and regulatory acceptance of crypto, particularly with the US Fed's relaxed stance on bank involvement and World Liberty's treasury-backed stablecoin initiative. Coinbase's strategic moves in robo-advisory and stablecoins also suggest expansion into mainstream finance. These are high-impact, breaking developments that could drive bullish momentum across the market."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $7 Billion AI Deal With Google Backing",
+        "Central African Republic's Crypto Initiatives Criticized for Benefiting Foreign Investors Over Citizens",
+        "Bitcoin Mining Ban in Siberia Extended Indefinitely to Address Power Grid Strain"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "Bitcoin mining ban extended in Siberia due to power grid strain (adoption/regulatory impact)",
+        "Hut 8 signs $7B AI deal with Google backing (institutional adoption)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent news includes a major institutional move by Bitcoin miner Hut 8 securing a large AI partnership, signaling continued institutional interest in crypto infrastructure. However, regulatory headwinds persist with a mining ban extension in Siberia and criticism of crypto policies in the Central African Republic. The sentiment is mixed but leans neutral, with no clear bullish or bearish catalysts dominating. Trading should remain cautious until clearer regulatory or adoption signals emerge."
+    }
+  ]
+}

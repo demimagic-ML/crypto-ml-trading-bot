@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-16T19:49:18.981641",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says",
+        "BNB tops $870, outperforming crypto majors as volume surges",
+        "Eric Trump’s American Bitcoin jumps to 20th among public BTC treasury companies"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENITUS Act (regulatory development)",
+        "Polkadot advances with USDC integration at Coinbase (adoption/institutional move)",
+        "American Bitcoin reaches top 20 in public BTC treasury rankings (institutional adoption)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Bitcoin shows signs of recovery after a sharp drop, with analysts warning of potential pullback below $80,000. BNB is outperforming major cryptos on strong volume. Institutional activity is rising with Polkadot integrating USDC via Coinbase and Eric Trump's American Bitcoin gaining traction. Regulatory news from the FDIC adds uncertainty but signals growing oversight. Overall sentiment is bullish due to institutional moves and market rebounds."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "How scammers target crypto users during the holidays and how to stay protected",
+        "Solana enters Brazil's main exchange as Valour expands regulated crypto access",
+        "UK crypto ownership dropped to 8% in 2025: YouGov poll"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.7,
+      "events": [
+        "Solana's listing on Brazil's main exchange (adoption)",
+        "UK crypto ownership decline (regulatory/behavioral trend)"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights a mix of regulatory, adoption, and security themes. Solana's expansion into Brazil is a positive institutional development, while UK ownership data suggests cooling retail interest. Scam warnings indicate ongoing risks but are not market-moving. No breaking regulatory or ETF events present."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin and Ethereum ETFs Bleed Out as Institutions Pull Back",
+        "South Korean Government Gave $15 Million in Debt Relief to Crypto Traders",
+        "Bitwise Says the Bitcoin 4-Year Cycle Will Die in 2026"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.8,
+      "events": [
+        "Institutional pullback from Bitcoin and Ethereum ETFs",
+        "South Korean government provides debt relief to crypto traders",
+        "Bitwise predicts end of Bitcoin's 4-year cycle in 2026"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Recent news indicates a bearish shift with institutional withdrawal from BTC/ETH ETFs, signaling reduced confidence. South Korea’s debt relief is supportive but not enough to offset broader sentiment. Bitwise's cyclical prediction adds medium-term bearish pressure. This combination suggests a high-impact bearish trend."
+    }
+  ]
+}

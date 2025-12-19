@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-16T21:45:48.220162",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin derivatives point to broad price range play between $85,000-$100,000",
+        "U.S. Senate's Warren asks for Trump-tied crypto probe as market structure bill drags",
+        "BNB tops $870, outperforming crypto majors as volume surges"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.2,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory scrutiny on crypto market structure with Senator Warren calling for a probe into Trump-linked crypto activities",
+        "Bitcoin options flow indicating a potential broad range play between $85,000 and $100,000"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Bitcoin is showing signs of consolidation with derivatives pointing toward a potential price range of $85,000–$100,000, suggesting cautious optimism. Regulatory developments involving Senator Warren add uncertainty, while BNB’s strong performance highlights altcoin momentum. No major ETF approvals or institutional moves reported, but regulatory scrutiny remains a key risk factor."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "The Bitcoin-to-gold ratio fell 50% in 2025: Here's why",
+        "US banks could soon issue stablecoins under FDIC plan to implement GENIUS Act",
+        "SEC ends probe into Aave after four years, CEO says"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.8,
+      "events": [
+        "SEC ends probe into Aave (regulatory clearance)",
+        "FDIC-backed plan for US banks to issue stablecoins (institutional adoption)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights regulatory developments with the SEC closing its Aave probe and potential FDIC-backed stablecoin issuance by US banks, signaling institutional adoption. Meanwhile, a notable decline in the Bitcoin-to-gold ratio suggests shifting market dynamics. While not overtly bullish or bearish, these developments point to structural changes that may influence long-term sentiment."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin and Ethereum ETFs Expected as Institutions Pull Back",
+        "South Korean Government Grants 1.5 Trillion Won in Debt Relief to Crypto Firms",
+        "Bitwise Says the Bitcoin 4-Year Cycle Will Die in 2026"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "Institutional pullback from Bitcoin and Ethereum ETFs",
+        "South Korea's government debt relief for crypto firms",
+        "Regulatory developments around stablecoin issuer applications"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed signals: institutional caution around ETFs, supportive policy moves in South Korea, and regulatory scrutiny on stablecoins. While there are positive signs in adoption and policy, market sentiment remains cautious due to ETF delays and macro uncertainty. No immediate catalysts suggest a strong directional move."
+    }
+  ]
+}

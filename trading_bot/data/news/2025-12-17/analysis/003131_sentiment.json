@@ -1,0 +1,25 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": 0.11666666666666665,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 21,
+  "headlines": [
+    "Spot Bitcoin ETFs see $358M outflow: Are investors abandoning BTC?",
+    "Here’s what happened in crypto today",
+    "Bitcoin treasury Kindly MD faces potential delisting after Nasdaq price notice",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
+  ],
+  "events": [
+    "Bitcoin ETF outflow of $358M",
+    "RedotPay raises $107M in funding for stablecoin infrastructure",
+    "Visa expands stablecoin pilot with Solana for US settlements (adoption)",
+    "Bitcoin and Ethereum ETFs back on track (institutional interest)",
+    "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+    "Regulatory consultation on crypto rules by UK regulator",
+    "Bitcoin derivatives suggest a potential breakout range of $85,000–$100,000",
+    "K33's Lunde highlights Bitcoin's underperformance vs stocks as a bullish signal for January"
+  ],
+  "timestamp": "2025-12-17T00:31:31.992562"
+}

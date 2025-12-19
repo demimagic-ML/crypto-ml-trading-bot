@@ -1,0 +1,26 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.35000000000000003,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 20,
+  "headlines": [
+    "Bitcoin institutional buys flip new supply for the first time in 6 weeks",
+    "HashKey crypto exchange sees bumpy Hong Kong debut after $206M IPO",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Bitcoin price drop amid broader crypto market weakness",
+    "China's yuan strengthening potentially supporting BTC",
+    "UK regulator consults on crypto rules for exchanges, lending and DeFi",
+    "Bitcoin options and futures contract expiry (potential volatility event)",
+    "KuCoin expands adoption via music festival integration in Europe under MiCA regulatory framework",
+    "Visa expanding stablecoin pilot using Solana (corporate adoption)",
+    "Institutional Bitcoin buying activity resumes after 6-week pause",
+    "Bhutan's adoption of Bitcoin for sovereign development (institutional adoption)",
+    "Bhutan's institutional commitment of 10,000 BTC for a national project (institutional adoption)"
+  ],
+  "timestamp": "2025-12-17T13:33:15.285422"
+}

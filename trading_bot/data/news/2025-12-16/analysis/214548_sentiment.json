@@ -1,0 +1,24 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": 0.19999999999999998,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 20,
+  "headlines": [
+    "The Bitcoin-to-gold ratio fell 50% in 2025: Here’s why",
+    "How scammers target crypto users during the holidays and how to stay protected",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Institutional pullback from Bitcoin and Ethereum ETFs",
+    "FDIC-backed plan for US banks to issue stablecoins (institutional adoption)",
+    "South Korea's government debt relief for crypto firms",
+    "Regulatory scrutiny on crypto market structure with Senator Warren calling for a probe into Trump-linked crypto activities",
+    "Bitcoin options flow indicating a potential broad range play between $85,000 and $100,000",
+    "SEC ends probe into Aave (regulatory clearance)",
+    "Regulatory developments around stablecoin issuer applications"
+  ],
+  "timestamp": "2025-12-16T21:45:48.220362"
+}

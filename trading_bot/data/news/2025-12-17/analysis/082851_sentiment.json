@@ -1,0 +1,24 @@
+{
+  "sentiment": "BEARISH",
+  "sentiment_score": -0.23333333333333336,
+  "confidence": 0.6,
+  "trading_suggestion": "SELL",
+  "news_count": 23,
+  "headlines": [
+    "Bitcoin could go ‘sub-$50K if quantum isn’t solved by 2028: Capriole",
+    "Bhutan pledges 10K Bitcoin to develop its ‘mindfulness city’",
+    "Saylor’s Bitcoin stash will be very hard for anyone to match: Pomp",
+    "Lightning Network hits record capacity on crypto exchange adoption",
+    "SAFE Crypto Act will have scammers shaking in their boots: Crypto lawyer"
+  ],
+  "events": [
+    "XRP price drops below key support level at $1.93, indicating structural weakness",
+    "Theta executives accuse CEO of fraud (internal conflict, potential reputational risk)",
+    "Institutional adoption themes highlighted by Grayscale for 2026",
+    "Institutional adoption: Bhutan’s 10K BTC pledge",
+    "Visa expands stablecoin pilot with Solana for US settlements (adoption)",
+    "SEC urged to recognize blockchain privacy tools",
+    "Regulatory consultation on crypto rules in the UK (lending, DeFi)"
+  ],
+  "timestamp": "2025-12-17T08:28:51.493650"
+}

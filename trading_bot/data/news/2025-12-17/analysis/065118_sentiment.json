@@ -1,0 +1,25 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.7166666666666667,
+  "confidence": 0.6,
+  "trading_suggestion": "STRONG_BUY",
+  "news_count": 19,
+  "headlines": [
+    "SAFE Crypto Act will have scammers shaking in their boots: Crypto lawyer",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC"
+  ],
+  "events": [
+    "Regulatory crackdown on crypto scams via SAFE Crypto Act (potential positive regulatory shift)",
+    "Bitwise's bullish forecast for Bitcoin in 2026 (institutional sentiment)",
+    "Bitcoin price bounce after recent lows with potential support below $80,000",
+    "Institutional adoption: Coinbase and Robinhood backing US government tech force for crypto oversight",
+    "Stablecoin expansion by Exodus and MoonPay signaling broader market adoption",
+    "Visa expands stablecoin pilot with Solana for US settlements (adoption)",
+    "Actors' coalition pushing AI rules amid strike (potential regulatory impact)",
+    "Institutional adoption signaled by Eric Trump's American Bitcoin rising in BTC treasury rankings"
+  ],
+  "timestamp": "2025-12-17T06:51:18.174168"
+}

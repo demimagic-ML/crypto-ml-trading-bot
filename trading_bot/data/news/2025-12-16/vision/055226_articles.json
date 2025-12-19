@@ -1,0 +1,49 @@
+{
+  "fetch_time": "2025-12-16T05:52:26.428346",
+  "source_type": "vision",
+  "count": 2,
+  "articles": [
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin to hit new all-time high within 6 months: Grayscale",
+        "US crypto market structure legislation to advance in early 2026",
+        "Trump to 'look into' recently convicted Samurai Wallet co-founder"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "US crypto market structure legislation expected in early 2026 (regulatory progress)",
+        "Grayscale's prediction of Bitcoin reaching a new all-time high within 6 months (institutional sentiment)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "The top headlines indicate strong bullish momentum, with institutional confidence (Grayscale) predicting a new Bitcoin ATH and regulatory clarity on the horizon in the US. The mention of political figures engaging with crypto adds attention to adoption narratives. These factors combined suggest a high-impact, bullish environment for BTC."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Sinks Towards $85,000 as Ethereum, XRP Fall Alongside",
+        "Ripple Expanding RLUSD From XRP Ledger and Ethereum",
+        "Bank of America's Analysts Signal Regulatory Shift Towards On-Chain Assets"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Regulatory shift towards on-chain assets by Bank of America analysts",
+        "Ripple expanding RLUSD across XRP Ledger and Ethereum (adoption signal)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is trading near $85,000 amid a broader crypto sell-off, with Ethereum and XRP also declining. Ripple's expansion of RLUSD signals institutional adoption, but the dominant trend is bearish due to market-wide weakness and potential regulatory caution. Bank of America’s analysts indicate growing interest in on-chain assets, which could support longer-term bullish sentiment, but immediate pressure remains from macro and price action."
+    }
+  ]
+}

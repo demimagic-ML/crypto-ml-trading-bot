@@ -1,0 +1,24 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.20000000000000004,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 20,
+  "headlines": [
+    "Bitcoin $70K flush would reset cycle, not confirm new bear market: Analyst",
+    "Price predictions 12/17: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Institutional adoption of XRP in retirement accounts by Digital Wealth Partners",
+    "Regulatory clarity emerging in the US for digital assets (Jito Foundation returning)",
+    "Hut 8 signing $7B AI deal with Google (institutional crypto mining partnership)",
+    "Institutional move: Former CFTC chair joining MoonPay",
+    "DTCC issuing tokenized securities on Canton Network (institutional adoption)",
+    "Bitcoin price speculation reaching $70K as a potential cycle reset",
+    "Regulatory and political tensions highlighted by California Governor Newsom's criticism of crypto figures"
+  ],
+  "timestamp": "2025-12-17T23:57:14.622158"
+}

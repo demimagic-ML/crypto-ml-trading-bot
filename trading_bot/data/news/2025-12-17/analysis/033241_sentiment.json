@@ -1,0 +1,25 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.5333333333333333,
+  "confidence": 0.6,
+  "trading_suggestion": "STRONG_BUY",
+  "news_count": 21,
+  "headlines": [
+    "Crypto ETPs to enter ‘cheesecake factory’ era in 2026: Bitwise",
+    "Spot Bitcoin ETFs see $358M outflow: Are investors abandoning BTC?",
+    "Here’s what happened in crypto today",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
+  ],
+  "events": [
+    "Regulatory development: Potential bipartisan support for crypto market structure bill (SEC/CFTC)",
+    "Security incident: FTC enforcement action against Nomad operator following $186M theft",
+    "Institutional move: Bitwise's bullish outlook on Bitcoin reaching new highs in 2026",
+    "Regulatory development: Bank of Canada outlines stablecoin criteria",
+    "Institutional move: Tether funds Lightning Network startup",
+    "Bitcoin derivatives signaling a potential price range of $85,000–$100,000",
+    "Institutional adoption signal: Eric Trump's American Bitcoin entering top 20 public BTC treasury companies",
+    "ETF-related news: Bitwise predicts ETP expansion"
+  ],
+  "timestamp": "2025-12-17T03:32:41.701702"
+}

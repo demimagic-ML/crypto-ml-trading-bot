@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-17T07:27:24.078692",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's massive underperformance to stocks in Q4 bodes well for January, says K33's Lunde",
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says",
+        "Eric Trump’s American Bitcoin jumps to 20th among public BTC treasury companies"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from CENTUS Act",
+        "Sen. Warren asks for Trump-tied crypto probe as market structure bill drags",
+        "Hyperliquid's $200 billion pitch: is this next Solana-scale DeFi bet? Asia Morning Briefing"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed signals in the crypto market with Bitcoin showing signs of recovery after a weak Q4, but facing potential downside near $80,000. Regulatory developments around stablecoins and political scrutiny of crypto firms add uncertainty. Institutional interest via 'American Bitcoin' and infrastructure development (e.g., Hyperliquid) suggest growing adoption, but no major breaking events are reported."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Lightning Network hits record capacity on crypto exchange adoption",
+        "SAFE Crypto Act will have scammers shaking in their boots: Crypto lawyer",
+        "Exodus, MoonPay to roll out stablecoin in early 2026, joining gold rush"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory consultation by UK regulator on crypto rules for exchanges, lending and DeFi",
+        "Crypto urges SEC to see the good in blockchain privacy tools",
+        "Exodus and MoonPay planning stablecoin launch in early 2026 (adoption event)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights regulatory developments in the UK and US, growing institutional interest in stablecoins, and technological advancements like Lightning Network adoption. The tone is optimistic with multiple adoption signals and positive regulatory discussions. The mention of a future stablecoin rollout by major platforms adds bullish momentum, while regulatory clarity could drive further market expansion."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Trump 'Open' to Democrats at SEC, CFTC in Possible Boon to Crypto Market Structure Bill",
+        "Social Media Influencers in Hong Kong Face Charges for Promoting JPEX Amid $206 Million in Losses",
+        "FDIC Opens Public Comment Period for Rule Proposal on Handling Stablecoin Issuer Applications"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "Regulatory developments: FDIC proposing rules for stablecoin issuers",
+        "Political development: Trump signaling openness to crypto-friendly regulators at SEC/CFTC",
+        "Legal action against crypto influencers in Hong Kong related to JPEX scandal"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed regulatory and political signals for the crypto market. While there is potential optimism from possible pro-crypto appointments at key U.S. financial agencies, risks remain from ongoing enforcement actions (e.g., Hong Kong influencer charges) and new regulatory scrutiny of stablecoins. No major institutional moves or ETF announcements are present, but regulatory shifts could influence sentiment."
+    }
+  ]
+}

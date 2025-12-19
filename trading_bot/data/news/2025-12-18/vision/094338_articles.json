@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-18T09:43:38.400292",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Traders mull the bottom as bitcoin returns to week's lows below $86,000",
+        "Bitcoin is all over the place ahead of U.S. inflation data",
+        "Bitcoin could drop to $10,000, one analyst says, spelling doom for ETH, ADA, XRP"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "U.S. inflation data release expected to influence Federal Reserve interest rate decisions",
+        "Crypto industry insiders meet with key senators on market structure bill negotiation",
+        "VivoPower eyes $300M Ripple share deal, bagging nearly $1B in XRP exposure"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is trading near weekly lows below $86,000 amid bearish sentiment and a potential macro sell-off triggered by upcoming U.S. inflation data. Analysts warn of a possible drop to $10,000, which would impact altcoins like ETH, ADA, and XRP. Institutional activity includes VivoPower's $300M Ripple deal, signaling adoption, but regulatory discussions and macroeconomic risks dominate the narrative."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Ethereum needs simple explanation to see true trustlessness: Buterin",
+        "MSCI’s crypto treasury rules could spur $15B of forced selling",
+        "Crypto ETPs could see a flood of liquidations by 2027: Analyst"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "Regulatory consultation on crypto rules for exchanges, lending, and DeFi (UK)",
+        "Potential ETF-related liquidation risks by 2027",
+        "Institutional treasury rule changes affecting crypto holdings (MSCI)"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights regulatory developments in the UK, potential institutional sell-offs due to MSCI's crypto treasury rules, and concerns over future ETF liquidations. While there is no immediate breaking event, the mention of regulatory scrutiny and institutional moves suggests moderate market impact. Ethereum's foundational discussion adds context but lacks direct price catalysts. No strong bullish or bearish signals present."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $750M Deal With Google Backing",
+        "DTCC to Issue Tokenized Securities on Canton Network, Starting With US Treasuries",
+        "Singapore Entrepreneur Loses Holdings to Malware Dressed as Game"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "Institutional adoption: DTCC issuing tokenized securities on Canton Network (US Treasuries)",
+        "Corporate partnership: Bitcoin miner Hut 8 signs major deal with Google-backed entity",
+        "Security threat: Singapore entrepreneur loses holdings due to malware disguised as game"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The news highlights significant institutional adoption in crypto through DTCC's tokenization of US Treasuries and a major corporate partnership involving Hut 8 and Google backing, both bullish for market confidence. However, a security incident involving malware targeting crypto holders introduces risk. The overall sentiment is bullish due to strong institutional moves, but caution is advised due to emerging threats."
+    }
+  ]
+}

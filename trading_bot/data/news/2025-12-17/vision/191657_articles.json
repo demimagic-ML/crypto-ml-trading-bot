@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-17T19:16:57.611817",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin tumbles back below $88,000 as gains evaporate as quickly as they formed",
+        "Crypto stocks pare gains as bitcoin retreats from $90,000 rally",
+        "XRP falls 5% as bitcoin's sudden pump and dump rattles crypto markets"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.9,
+      "events": [
+        "Bitcoin price correction below $88,000 after sharp rally",
+        "Crypto-linked stocks pull back (MARA, CORZ down ~4-5%)",
+        "Regulatory meeting between crypto industry insiders and Senator Tim Scott on market structure bill"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin has retraced sharply from recent highs near $90,000, breaking below $88,000, triggering a broad sell-off across crypto and related stocks. XRP is down 5%, and institutional sentiment appears cautious. While a regulatory meeting with Senator Tim Scott may signal future policy developments, immediate market action is driven by profit-taking and technical breakdowns. The correction suggests short-term bearish momentum, warranting caution or selling pressure."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin tags $90K as crypto market spike liquidates $120M shorts",
+        "Kyrgyzstan's USDKG shows how real-asset stablecoins are evolving in emerging markets",
+        "How YouTube's stablecoin payouts could change creator monetization"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin price surge to $90K triggering short squeezes",
+        "Regulatory consultation on crypto rules by UK regulator (potential impact on DeFi/exchanges)",
+        "YouTube exploring stablecoin payouts for creators (adoption signal)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Bitcoin surged toward $90K, causing a major short squeeze and signaling strong bullish momentum. This breaking price action is compounded by positive regulatory engagement from the UK and growing institutional adoption signals like YouTube’s stablecoin payout experiment. The combination of market strength and macro developments supports aggressive bullish positioning."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Decrypted: 2025 Story of the Year: Crypto Treasury Firms Flood Wall Street",
+        "DTCC Handles $3.7 Quadrillion in Transactions a Year—Now Processing Crypto",
+        "Traders Are Monitoring Quarter-End Bitcoin 'Witching Friday' for Volatility"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "DTCC processing crypto transactions (institutional adoption)",
+        "Crypto treasury firms expanding into Wall Street (institutional move)",
+        "Bitcoin 'Witching Friday' volatility event (market timing)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Institutional adoption is accelerating with DTCC processing crypto and crypto treasury firms gaining Wall Street traction. Bitcoin volatility is expected around quarter-end 'Witching Friday,' signaling potential price movement. These developments suggest bullish momentum, especially as institutional infrastructure expands."
+    }
+  ]
+}

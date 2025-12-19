@@ -1,0 +1,74 @@
+{
+  "fetch_time": "2025-12-17T00:48:00.449781",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's massive underperformance to stocks in Q4 bodes well for January, says K33's Lunde",
+        "Bitcoin derivatives point to broad price range play between $85,000-$100,000",
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin derivatives indicate a potential price range of $85,000–$100,000",
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+        "K33's Lunde suggests Bitcoin's underperformance vs. stocks in Q4 could be bullish for January"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights a bullish sentiment around Bitcoin despite short-term volatility, with analysts citing underperformance against equities as a potential setup for a rally in January. Derivatives data points to a strong support zone near $85,000 and resistance at $100,000. Regulatory developments, including the FDIC’s proposed stablecoin rule, add institutional context. The market is showing signs of recovery after a weak start to the week, suggesting a possible bounce."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Spot Bitcoin ETFs see $358M outflow: Are investors abandoning BTC?",
+        "Here's what happened in crypto today",
+        "RedotPay raises $107M Series B led by Goodwater for stablecoin payments"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin ETF outflows of $358M",
+        "RedotPay raises $107M in funding for stablecoin infrastructure",
+        "UK regulator consults on crypto rules for exchanges, lending and DeFi",
+        "SEC urged to recognize blockchain privacy tools"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The top news highlights a major $358M outflow from Bitcoin ETFs, signaling potential investor pessimism or profit-taking, which is bearish for BTC. Regulatory developments in the UK and SEC discussions suggest ongoing scrutiny, while institutional funding for RedotPay shows continued adoption in stablecoin infrastructure. The ETF outflow is breaking and high-impact, warranting caution in the short term."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Why Bitwise Expects New Bitcoin Highs in 2026—And the End of the 4-Year Cycle",
+        "FTC Compels Nomad Operator to Repay Users After $186M Crypto Theft",
+        "Trump 'Open' to Democrats at SEC, CFTC in Possible Boon to Crypto Market Structure Bill"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory development: Potential bipartisan support for crypto market structure bill (SEC/CFTC)",
+        "Institutional expectation: Bitwise's prediction of new Bitcoin highs in 2026",
+        "Security incident: FTC action against Nomad operator following $186M theft"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The news highlights a mix of bullish institutional expectations for Bitcoin in 2026, regulatory progress with potential bipartisan support for crypto legislation, and a major security enforcement action by the FTC. The combination of regulatory optimism and institutional outlook supports a bullish sentiment, while the FTC action underscores ongoing risks in the space. Breaking regulatory developments and institutional forecasts are high-impact drivers."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "sentiment": "BEARISH",
+  "sentiment_score": -0.6166666666666667,
+  "confidence": 0.6,
+  "trading_suggestion": "STRONG_SELL",
+  "news_count": 23,
+  "headlines": [
+    "Trump-backed American Bitcoin flips ProCap in corporate BTC treasury race",
+    "How Bitcoin whales move markets, and the signals to ignore",
+    "Memecoins will rise from the dead, but in a new form: Crypto exec",
+    "Why oil-rich investors are fueling Bitcoin’s next liquidity wave",
+    "How HashKey plans to become Hong Kong’s first crypto IPO"
+  ],
+  "events": [
+    "Corporate BTC treasury race involving ProCap and Trump-backed American Bitcoin",
+    "Market correction: Bitcoin, Ethereum, and XRP hit weekly lows amid liquidations",
+    "China mining shutdowns impacting Bitcoin hashrate",
+    "Regulatory pressure: SEC and OCC actions signal increased scrutiny of tokenized assets",
+    "Crypto market cap nearing $3 trillion with BNB breaking key support",
+    "Bitcoin whale activity analysis",
+    "Bitcoin price dropping below $87K amid broader market weakness",
+    "Institutional adoption: JPMorgan launches Ethereum-based MONY fund",
+    "US sell-off liquidates $200M in Bitcoin within an hour"
+  ],
+  "timestamp": "2025-12-15T20:02:05.002635"
+}

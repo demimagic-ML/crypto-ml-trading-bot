@@ -1,0 +1,25 @@
+{
+  "sentiment": "BEARISH",
+  "sentiment_score": -0.6833333333333332,
+  "confidence": 0.6,
+  "trading_suggestion": "STRONG_SELL",
+  "news_count": 22,
+  "headlines": [
+    "Trump-backed American Bitcoin flips ProCap in corporate BTC treasury race",
+    "How Bitcoin whales move markets, and the signals to ignore",
+    "Bitcoin sees ‘pure manipulation’ as US sell-off liquidates $200M in an hour",
+    "Memecoins will rise from the dead, but in a new form: Crypto exec",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
+  ],
+  "events": [
+    "BNB breaking key support level, signaling broader market weakness",
+    "Hedera hitting year-low amid broad sell-off",
+    "SEC and OCC actions signal potential regulatory crackdown on tokenized assets",
+    "Bitcoin price correction warning from veteran trader",
+    "Corporate BTC treasury race involving Trump-backed American Bitcoin",
+    "JPMorgan launches Ethereum-based MONY fund (institutional adoption)",
+    "Crypto market capitulation with Bitcoin dropping below $87K",
+    "Third consecutive week of net inflows into digital asset ETPs"
+  ],
+  "timestamp": "2025-12-15T20:28:09.517143"
+}

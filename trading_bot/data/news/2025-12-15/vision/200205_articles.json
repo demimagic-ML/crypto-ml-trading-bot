@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-15T20:02:05.002371",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Plunges Below $87K as Crypto Weakness Worsens",
+        "BNB falls below key support as crypto market cap slips toward $3 trillion",
+        "Bitcoin Hashrate Sees Sharpest Post Halving Drop Since 2024 Amid China Machine Shutdowns"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.75,
+      "confidence": 0.9,
+      "events": [
+        "China mining shutdowns impacting Bitcoin hashrate",
+        "Crypto market cap nearing $3 trillion with BNB breaking key support",
+        "Bitcoin price dropping below $87K amid broader market weakness"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Multiple breaking headlines indicate a bearish turn in the crypto market, with Bitcoin falling below $87K, BNB losing key support, and Chinese mining shutdowns reducing Bitcoin's hashrate. These developments suggest widespread selling pressure and institutional concern, potentially signaling a deeper correction."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin sees 'pure manipulation' as US sell-off liquidates $200M in an hour",
+        "How Bitcoin whales move markets, and the signals to ignore",
+        "Trump-backed American Bitcoin flips ProCap in corporate BTC treasury race"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "US sell-off liquidates $200M in Bitcoin within an hour",
+        "Corporate BTC treasury race involving ProCap and Trump-backed American Bitcoin",
+        "Bitcoin whale activity analysis"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights a major market event where a $200M Bitcoin liquidation occurred during a US sell-off, signaling potential bearish momentum. Institutional-level moves are evident with corporate BTC treasury developments, while whale behavior remains a key signal. The sentiment is bearish due to the large-scale liquidation and concerns over market manipulation."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin, Ethereum and XRP Fall to Lowest Prices in a Week as Liquidations Surge",
+        "Ethereum Treasury Firm BitMine Boosts ETH Stash Above $12 Billion With Latest Buy",
+        "JPMorgan Introduces Ethereum-Based MONY Fund"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Institutional adoption: JPMorgan launches Ethereum-based MONY fund",
+        "Regulatory pressure: SEC and OCC actions signal increased scrutiny of tokenized assets",
+        "Market correction: Bitcoin, Ethereum, and XRP hit weekly lows amid liquidations"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The market is experiencing a sharp downturn with Bitcoin, Ethereum, and XRP reaching weekly lows due to liquidations. However, institutional activity remains notable, with JPMorgan launching an Ethereum-based fund and BitMine increasing its ETH holdings. Regulatory actions by the SEC and OCC add uncertainty, while ETF-related news is absent. The dominant sentiment is bearish due to price drops and liquidation events, but institutional buying offers some counterbalance."
+    }
+  ]
+}

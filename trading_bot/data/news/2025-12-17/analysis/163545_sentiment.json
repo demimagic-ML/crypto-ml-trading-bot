@@ -1,0 +1,26 @@
+{
+  "sentiment": "BEARISH",
+  "sentiment_score": -0.3333333333333333,
+  "confidence": 0.6,
+  "trading_suggestion": "SELL",
+  "news_count": 19,
+  "headlines": [
+    "Here’s what happened in crypto today",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC"
+  ],
+  "events": [
+    "Solana TVL dropping to six-month lows (market trend)",
+    "Bank of Japan rate hike expected (macro impact on crypto)",
+    "Regulatory consultation on crypto rules for exchanges, lending and DeFi (UK)",
+    "Potential regulatory development: Trump's openness to SEC/CFTC changes could signal market structure reform",
+    "Visa expanding stablecoin pilot with Solana — institutional adoption",
+    "Bitcoin approaching critical support level (technical event)",
+    "Hut 8's $7 billion long-term lease with Google for AI infrastructure (institutional adoption)",
+    "Fed's $40 billion in bill purchases (monetary policy impact)",
+    "Tokenized stock announcement by Securitize (adoption)"
+  ],
+  "timestamp": "2025-12-17T16:35:45.884698"
+}

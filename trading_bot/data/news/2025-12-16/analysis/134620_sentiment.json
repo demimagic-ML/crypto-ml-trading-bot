@@ -1,0 +1,24 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": -0.18333333333333335,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 20,
+  "headlines": [
+    "FCA consults on UK crypto rules for exchanges, lending and DeFi",
+    "Bitcoin long-term holder supply hits 8-month lows: Bullish or bearish?",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc."
+  ],
+  "events": [
+    "Circle's developer team acquisition impacting Axelar (AXL) token",
+    "ETF outflows for Bitcoin and Ethereum",
+    "BTC and top 100 tokens breaking below key technical levels",
+    "UK regulatory consultation on crypto (FCA)",
+    "Stablecoin expansion by StraitsX to Solana in 2026",
+    "Crypto market liquidity shrinkage ahead of holidays",
+    "Institutional interest in crypto markets via Myriad Markets platform"
+  ],
+  "timestamp": "2025-12-16T13:46:20.379901"
+}

@@ -1,0 +1,22 @@
+{
+  "sentiment": "BEARISH",
+  "sentiment_score": -0.55,
+  "confidence": 0.6,
+  "trading_suggestion": "STRONG_SELL",
+  "news_count": 20,
+  "headlines": [
+    "Bitcoin sharks stack at fastest pace in 13 years, with BTC down 30%",
+    "Most crypto sectors lagged Bitcoin over past 3 months: Glassnode",
+    "MetaMask adds Bitcoin support after teasing it 10 months ago",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Dogecoin dropping below $0.13 attracting institutional scrutiny",
+    "PayPal seeking bank charter in Utah (institutional adoption)",
+    "Axelar token down 15% post-Circle deal, signaling developer team shift",
+    "Bitcoin ETFs facing underperformance despite growing institutional interest",
+    "Bitcoin price decline toward $85,000 (market correction)"
+  ],
+  "timestamp": "2025-12-16T12:20:32.330222"
+}

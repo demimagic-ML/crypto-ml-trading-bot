@@ -1,0 +1,23 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": -0.08333333333333333,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 20,
+  "headlines": [
+    "Spain’s regulator sets out MiCA transition rules for crypto platforms",
+    "UK regulator consults on crypto rules for exchanges, lending and DeFi",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc."
+  ],
+  "events": [
+    "Visa and Circle's USDC settlement with U.S. banks (institutional adoption)",
+    "Custodia's legal bid for Fed master account (regulatory development)",
+    "Potential regulatory signal from Trump's mention of pardoning a crypto wallet CEO",
+    "Institutional interest in Bitcoin via Grayscale's commentary on quantum threats",
+    "Solana DDoS attack (potential network resilience test)",
+    "U.S. jobs data looming (potential macro impact)"
+  ],
+  "timestamp": "2025-12-16T15:25:17.867933"
+}

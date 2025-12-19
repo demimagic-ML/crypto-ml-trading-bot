@@ -1,0 +1,25 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": 0.06666666666666665,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 20,
+  "headlines": [
+    "Bitcoin hunts liquidity as US CPI inflation drops to lowest since 2021",
+    "Tether CEO says AI bubble is Bitcoin’s biggest risk in 2026",
+    "Federal Reserve Board publishes first of several staff manuals for the supervision of the largest and most complex banks",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank"
+  ],
+  "events": [
+    "Expected flood of new crypto ETFs in 2026 (regulatory/adoption)",
+    "SoFi's stablecoin launch on Ethereum signaling increased financial institution involvement",
+    "North Korean hackers stealing over $2 billion in crypto – potential security and regulatory implications",
+    "Adoption of post-quantum cryptographic signatures by Apotos",
+    "Institutional adoption of crypto treasuries with major capital inflow led by Starbucks",
+    "Ether ETF outflow of $553M",
+    "Regulatory lawsuit involving MEV trading and Pump.fun",
+    "U.S. SEC aids brokers on crypto custody, looks more closely at ATS activity (regulatory)"
+  ],
+  "timestamp": "2025-12-18T20:01:59.757467"
+}

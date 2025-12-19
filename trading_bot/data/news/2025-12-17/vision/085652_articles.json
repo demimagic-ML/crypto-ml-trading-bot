@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-17T08:56:52.329393",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slides with ether and XRP as market tests $3 trillion floor",
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+        "Grayscale outlines top crypto investing themes for 2026 as institutional adoption grows"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "FDIC proposes first U.S. stablecoin regulation under GENIUS Act",
+        "Grayscale highlights institutional adoption themes for 2026",
+        "Bitcoin and ETH price action near $3T market cap threshold"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is testing a $3 trillion market cap floor amid mixed signals: regulatory developments (FDIC stablecoin proposal) and institutional optimism (Grayscale’s 2026 outlook) offset recent price weakness. The market is in a pivotal moment with potential for volatility due to regulatory clarity and macro demand, but no clear catalyst yet."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin could go 'sub-$50K if quantum isn't solved by 2028: Capriole",
+        "Saylor's Bitcoin stash will be very hard for anyone to match: Pompliano",
+        "Bhutan pledges 10K Bitcoin to develop its 'mindfulness city'"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.75,
+      "events": [
+        "Regulatory consultation on crypto rules in the UK (exchanges, lending, DeFi)",
+        "SEC scrutiny of blockchain privacy tools",
+        "Institutional adoption signal from Bhutan’s 10K BTC pledge"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "The top headlines indicate a mix of regulatory caution and institutional interest. The most impactful is the bearish outlook on Bitcoin from Capriole due to quantum computing risks, while Bhutan’s BTC pledge signals growing adoption. Regulatory news from the UK and SEC adds uncertainty. Breaking news dominates with high relevance to market sentiment and potential volatility."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Treasury KindlyMD Risks Nasdaq Delisting as Stock Price Craters",
+        "Trump 'Open' to Democrats at SEC, CFTC in Possible Boon to Crypto Market Structure Bill",
+        "Social Media Influencers in H--- Face Charges for Promoting Crypto Scam, $206 Million in Losses"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "Regulatory scrutiny on crypto influencers and scams",
+        "Potential bipartisan support for crypto market structure legislation",
+        "Nasdaq delisting risk for Bitcoin-related stock due to price decline"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed signals: regulatory risks from influencer fraud cases and potential legislative progress on crypto markets, alongside a warning about a Bitcoin-linked stock facing delisting. While there is no major institutional or ETF announcement, the regulatory environment remains volatile. The sentiment is neutral with some bearish undertones from enforcement actions and stock risks, but bullish potential from policy discussions."
+    }
+  ]
+}

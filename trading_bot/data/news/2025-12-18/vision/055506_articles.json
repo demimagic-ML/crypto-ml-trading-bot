@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-18T05:55:06.272560",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin drifts lower as $81.3k emerges as the market’s key fault line: Asia Morning Briefing",
+        "CFTC's acting chief Pham poised to go to crypto firm MoonPay once Mike Selig lands",
+        "Coinbase rolls out stock trading, prediction markets and more in bid to become the 'Everything Exchange'"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "CFTC acting chief Pham to join MoonPay (regulatory transition)",
+        "Coinbase expands into stock and prediction markets (institutional adoption)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is showing signs of weakness near $81.3k resistance, with a negative sentiment from Asia. Regulatory news involving CFTC leadership moving to MoonPay signals potential regulatory shifts, while Coinbase's expansion into new asset classes highlights institutional innovation but may not yet support price recovery. The combination of bearish price action and regulatory uncertainty suggests caution."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's volatility below Nvidia in 2025 as investor base grew: Bitwise",
+        "US Fed pulls guidance blocking its banks from engaging with crypto",
+        "Robo-advisers, custom stablecoins: 8 things Coinbase is cooking up"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "US Federal Reserve updates guidance on crypto engagement by banks",
+        "Coinbase developing new financial products including robo-advisory and stablecoins",
+        "Regulatory discussions around RWA compliance and DeFi rules"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent news highlights regulatory developments (Fed guidance on crypto), institutional innovation (Coinbase's new product pipeline), and market dynamics (Bitcoin volatility compared to tech stocks). While there are no major ETF approvals or hacks, the Fed’s updated stance could signal evolving institutional acceptance of crypto, which may support longer-term sentiment. However, the overall tone remains neutral, with no clear bullish catalysts yet."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $7 Billion AI Deal With Google Backing",
+        "Central African Republic's Crypto Initiatives Criticized for Benefiting Foreign Investors Over Citizens",
+        "Bitcoin Mining Ban in Siberia Extended Indefinitely to Address Power Grid Concerns"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.75,
+      "events": [
+        "Hut 8's $7 billion AI deal with Google backing (institutional adoption)",
+        "Bitcoin mining ban extension in Siberia (regulatory/infrastructure impact)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent news includes institutional developments such as Hut 8’s major AI deal, signaling potential long-term Bitcoin infrastructure growth, while regulatory actions in Siberia may affect mining supply. CA Republic's crypto initiatives highlight geopolitical risks and uneven benefits. No immediate market-moving catalysts detected, but institutional moves are positive for long-term sentiment."
+    }
+  ]
+}

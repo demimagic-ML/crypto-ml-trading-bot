@@ -1,0 +1,24 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": -0.08333333333333333,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 19,
+  "headlines": [
+    "Bitcoin tags $90K as crypto market spike liquidates $120M shorts",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC"
+  ],
+  "events": [
+    "Silvergate Bank legal proceedings involving FTX and Alameda",
+    "Bitcoin price drops below $88,000 after a brief rally, signaling potential bearish momentum",
+    "Stablecoin integration into US financial system by Visa and FDIC (adoption)",
+    "Potential interest rate hike by Bank of Japan (macroeconomic impact on BTC)",
+    "Regulatory consultation by UK regulator on crypto rules for exchanges, lending, and DeFi",
+    "Crypto industry insiders meet with U.S. senators to discuss market structure legislation",
+    "Binance's potential strategic shift in the US market"
+  ],
+  "timestamp": "2025-12-17T21:37:34.257239"
+}

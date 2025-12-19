@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-16T07:15:09.852110",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin, ether and XRP extend losses as year-end caution builds",
+        "Why bitcoin ETFs look like they're falling short, even as their role grows: Asia Morning Briefing",
+        "Why Dogecoin's drop below $0.13 is drawing institutional attention"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin ETFs underperforming despite growing institutional interest",
+        "Dogecoin price near key support zone ($0.13) attracting institutional attention",
+        "XRP price weakening at critical level, signaling potential deeper pullback"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The market is showing signs of bearish pressure across major cryptocurrencies, with Bitcoin, Ethereum, and XRP extending losses due to year-end caution. Bitcoin ETFs are failing to gain traction despite increasing institutional interest, while Dogecoin’s drop below $0.13 has drawn attention from institutions, possibly indicating a support zone. The overall sentiment is bearish, with multiple assets facing downward pressure and regulatory uncertainty looming."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "MetaMask adds Bitcoin support after teasing it 10 months ago",
+        "Over 1 in 20 emails are malicious, warns internet giant Cloudflare",
+        "Crypto urges SEC to see the good in blockchain privacy tools"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "MetaMask adding Bitcoin support (adoption event)",
+        "SEC scrutiny on blockchain privacy tools (regulatory event)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The top news highlights MetaMask's long-awaited Bitcoin integration, a major adoption milestone likely to boost BTC demand and sentiment. Regulatory developments around blockchain privacy tools suggest ongoing tension with the SEC, which could impact innovation but not necessarily price negatively. The email security warning is less relevant to crypto markets. Overall, the narrative favors bullish momentum driven by institutional-grade adoption."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Sinks Towards $85,000 as XRP, Ethereum, and Bitcoin Fall Alongside",
+        "Why President Trump Had the Biggest Impact on Bitcoin and Crypto in 2025",
+        "Decrypto's 2025 Person of the Year: President Donald Trump"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.75,
+      "events": [
+        "Bitcoin price retreat to $85,000 level",
+        "President Trump's influence highlighted as a major market-moving factor in crypto for 2025",
+        "Institutional sentiment shift indicated by Decrypto's 'Person of the Year' selection"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The latest news from Decrypt indicates a bearish market tone with Bitcoin falling toward $85,000 amid broader crypto weakness. The spotlight on President Trump as the 'Person of the Year' suggests political influence may be driving market dynamics in 2025, potentially signaling regulatory or policy-related risks. This combination of price action and geopolitical attention underscores high urgency for traders to reassess positions."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.31666666666666665,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 22,
+  "headlines": [
+    "Bhutan pledges 10K Bitcoin to develop its ‘mindfulness city’",
+    "Saylor’s Bitcoin stash will be very hard for anyone to match: Pomp",
+    "Lightning Network hits record capacity on crypto exchange adoption",
+    "SAFE Crypto Act will have scammers shaking in their boots: Crypto lawyer",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank"
+  ],
+  "events": [
+    "Lightning Network reaches record capacity (adoption)",
+    "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+    "Bitcoin derivatives point to broad price range play between $85,000–$100,000",
+    "Theta executives accuse CEO of fraud (internal corporate conflict)",
+    "Bhutan announces 10,000 BTC pledge for development (institutional adoption)",
+    "FDIC proposes new rule for stablecoin issuer applications (regulatory development)",
+    "Grayscale outlines 2026 crypto investment themes focusing on institutional adoption",
+    "Regulatory consultation by UK on crypto rules (regulatory development)"
+  ],
+  "timestamp": "2025-12-17T08:10:25.397488"
+}

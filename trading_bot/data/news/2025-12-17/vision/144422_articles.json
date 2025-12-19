@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-17T14:44:22.811947",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "ETFs bleed, keeping bitcoin in stasis: Crypto Daybook Americas",
+        "Norway's sovereign wealth fund supports Metaplanet bitcoin plan ahead of EGM vote",
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.35,
+      "confidence": 0.85,
+      "events": [
+        "ETFs bleeding, indicating potential capitulation after $150B market peak",
+        "Norway's sovereign wealth fund backing Bitcoin adoption (institutional move)",
+        "FDIC proposing first U.S. stablecoin regulation (regulatory development)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is facing bearish pressure as ETFs show signs of bleeding, possibly signaling a market top after a prior $150 billion peak. However, there are counterbalancing bullish signals from institutional interest, including Norway's sovereign wealth fund supporting Bitcoin adoption and the FDIC moving toward stablecoin regulation. The regulatory news could trigger volatility, but current market tone is dominated by fear and profit-taking. Breaking news suggests a cautious stance with a sell signal due to prevailing bearish sentiment."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin price at 'critical' point as whale moves $348M BTC to exchanges",
+        "Solana tests quantum-resistant transactions in new Project Eleven pilot",
+        "CAR's crypto push fueled 'state capture' by elites, criminal networks: Report"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "Whale movement of $348M BTC to exchanges",
+        "UK regulator consults on crypto rules for exchanges, lending and DeFi",
+        "Solana launching quantum-resistant transaction pilot (Project Eleven)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Key developments include a major whale moving $348M BTC to exchanges—indicative of potential selling pressure—which could signal short-term bearish sentiment. Meanwhile, Solana’s quantum-resistant initiative shows long-term adoption progress. Regulatory consultations from the UK suggest ongoing policy scrutiny, which adds uncertainty. The mix of macro-level whale activity and regulatory news creates a neutral-to-bearish environment with high urgency for monitoring price action."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin in Focus as Stock and Options Contracts Expire on Friday",
+        "Indian MP Pushes Tokenization Bill to Democratize Investment",
+        "Visa Expands Stablecoin Pilot Program with US Settlements via Solana"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin options and futures expiry (potential volatility event)",
+        "India's proposed tokenization bill (institutional adoption signal)",
+        "Visa expanding stablecoin pilot with Solana (adoption by major financial institution)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The news highlights key developments in crypto adoption, including institutional moves by Visa and regulatory progress in India, alongside a major Bitcoin options expiry that could trigger market volatility. These signals suggest bullish momentum driven by both regulatory optimism and real-world usage expansion."
+    }
+  ]
+}

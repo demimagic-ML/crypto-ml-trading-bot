@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-16T10:33:48.079259",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's bearish turn deepens as 75 out of top 100 coins trade below key averages; Nasdaq resilient",
+        "Axelar token falls 15% after Circle deal takes the developer team, leaves AXL behind",
+        "Why bitcoin ETFs look like they're falling short, even as their role grows: Asia Morning Briefing"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Bearish trend in top 100 cryptocurrencies with 75 trading below key averages",
+        "Circle’s deal impacting Axelar (AXL) token price and team structure",
+        "Bitcoin ETFs facing challenges despite growing institutional interest"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The market is showing strong bearish momentum with 75% of top crypto assets trading below key technical levels. Bitcoin's ETF narrative continues to face headwinds despite rising institutional attention, while a major development involving Circle and Axelar has triggered a sharp decline in AXL. These developments suggest broader market weakness, especially among altcoins, with potential for further downside."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin sharks stack at the fastest pace in 13 years, with BTC down 30%",
+        "Most crypto sectors lagged Bitcoin over past 3 months: Glassnode",
+        "Ripple pilots RLUSD on Ethereum L2s in multichain push"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Ripple pilots RLUSD on Ethereum L2s (adoption)",
+        "Bitcoin accumulation at record pace despite price drop (market behavior)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is experiencing rapid accumulation by large holders amid a 30% price decline, signaling potential market fatigue or strategic positioning. Meanwhile, most crypto sectors underperformed Bitcoin, and Ripple's RLUSD pilot on Ethereum L2s marks a notable institutional-level adoption development. The overall sentiment leans bearish due to the sharp BTC drawdown, though accumulation could suggest a setup for a reversal."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Sinks Towards $85,000 as Ethereum, XRP Fall Alongside",
+        "Why President Trump Had the Biggest Impact on Bitcoin and Crypto in 2025",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.75,
+      "events": [
+        "Bitcoin price drop toward $85,000",
+        "President Trump's influence on crypto markets in 2025",
+        "Grayscale addressing quantum computing risks to Bitcoin"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights a sharp decline in Bitcoin and altcoins, with Bitcoin approaching $85,000 amid broader market weakness. President Trump’s potential impact on crypto policy is highlighted as a major macro factor for 2025. Grayscale downplaying quantum threats adds some stability narrative but does not offset current bearish momentum. The combination of falling prices and political uncertainty suggests a high-impact bearish environment."
+    }
+  ]
+}

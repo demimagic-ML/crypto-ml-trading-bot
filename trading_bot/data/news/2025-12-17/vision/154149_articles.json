@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-17T15:41:49.719292",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Memecoin boom turns into capitulation one year after $150 billion market peak",
+        "Bitcoin trades near key price safety net that Strategy already breached",
+        "How China's strengthening yuan could support bitcoin prices"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Memecoin market capitulation following a $150B peak",
+        "U.S. FDIC proposes first U.S. stablecoin rule under GENIUS Act",
+        "Institutional adoption: TradFi giant EquiLend backs Digital Prime for tokenized markets"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The top news highlights a major shift in meme coin sentiment from hype to capitulation, signaling potential downside risk in speculative crypto assets. Regulatory developments (FDIC stablecoin rule) and institutional moves (EquiLend-Digital Prime partnership) suggest structural changes in the market. However, the dominant theme is bearish due to the collapse of memecoin momentum and Bitcoin nearing a critical support level, indicating increased volatility and potential selling pressure."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin miner Hut 8 lands $7B Google-backed AI data center lease",
+        "Wall Street's $4 quadrillion backbone to roll out tokenized US Treasuries",
+        "Binance names alleged fake listing agents, offers up to $5M whistleblower reward"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Institutional adoption: Google-backed AI data center lease by Bitcoin miner Hut 8",
+        "Regulatory/financial innovation: Wall Street’s rollout of tokenized US Treasuries",
+        "Security and compliance: Binance's whistleblower program targeting fake listings"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "The top headlines indicate strong institutional interest in crypto infrastructure (Hut 8 + Google), major developments in financial tokenization (tokenized Treasuries), and enhanced security measures from Binance. These are high-impact, breaking developments suggesting growing legitimacy and adoption. The sentiment is bullish due to institutional involvement and innovation, with regulatory progress potentially catalyzing further market expansion."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin in Focus as Stock and Options Contracts Expire on Friday",
+        "Indian MP Pushes Tokenization Bill to Democratize Investment",
+        "Bitcoin Treasury KindlyMD Risks Nasdaq Delisting as Stock Price Craters"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "Bitcoin options and futures contract expirations (potential volatility event)",
+        "India's proposed tokenization bill (adoption/regulatory development)",
+        "Nasdaq delisting risk for Bitcoin Treasury (regulatory/liquidity risk)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "The news highlights key upcoming events including Bitcoin options expiry, which could trigger volatility; India's legislative push toward crypto tokenization signals potential adoption; and a regulatory risk for a Bitcoin-related stock (KindlyMD) facing Nasdaq delisting. While no major institutional moves or ETF approvals are mentioned, the convergence of regulatory, expiration, and adoption themes suggests heightened market sensitivity. The mixed tone reflects both bullish potential (tokenization) and bearish risks (delisting), leading to neutral sentiment with high urgency due to imminent expiry."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-17T05:28:28.480657",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's massive underperformance to stocks in Q4 bodes well for January, says K33's Lunde",
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says",
+        "Eric Trump’s American Bitcoin jumps to 20th among public BTC treasury companies"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin price bounce from recent lows with potential downside near $80,000",
+        "Institutional move: Eric Trump's American Bitcoin gains market traction in BTC treasury rankings"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Bitcoin showed signs of a bounce after recent lows, but analysts warn of potential further decline below $80,000. Market sentiment remains cautious due to Bitcoin's underperformance against equities in Q4. A new institutional player, American Bitcoin, is gaining visibility, indicating growing adoption. However, no major regulatory or ETF developments are reported, limiting bullish catalysts."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Tether leads $8M funding for Lightning startup focused on stablecoins",
+        "Aave founder outlines 2026 'master plan' after end to SEC probe",
+        "US government 'tech force' gets backup from Coinbase, Robinhood"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Tether's $8M funding for Lightning Network startup (adoption)",
+        "Aave founder announces 2026 roadmap post-SEC probe resolution (institutional clarity)",
+        "US government tech force backed by Coinbase and Robinhood (institutional adoption)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights strong institutional involvement in crypto infrastructure and DeFi innovation, including Tether’s investment in Lightning Network development, Aave’s strategic roadmap following regulatory clarity, and U.S. government collaboration with major exchanges. These developments signal growing legitimacy and adoption, supporting a bullish market outlook."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Actors, Creators Launch Coalition to Push AI Rules Amid Ongoing Strike",
+        "Why Bitwise Expects New Bitcoin Highs in 2026—And the End of the 4-Year Cycle",
+        "Visa Expands Stablecoin Pilot for US Settlements via Solana"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Visa expands stablecoin pilot with Solana for US settlements (adoption)",
+        "Bitwise's prediction of new Bitcoin highs in 2026 (institutional outlook)"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "BUY",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights institutional interest and adoption in crypto through Visa’s stablecoin pilot and Bitwise’s bullish forecast for Bitcoin, while also noting regulatory discussions around AI and crypto. No immediate breaking events like ETF approvals or hacks are reported, but long-term sentiment remains positive."
+    }
+  ]
+}

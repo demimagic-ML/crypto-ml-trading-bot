@@ -1,0 +1,25 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.31666666666666665,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 20,
+  "headlines": [
+    "Lightning Network hits record capacity on crypto exchange adoption",
+    "SAFE Crypto Act will have scammers shaking in their boots: Crypto lawyer",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Legal/Compliance risk: Social media influencers charged in Hong Kong over JPEX promotion",
+    "Regulatory development: FDIC proposes rule on stablecoin issuer applications",
+    "Institutional interest signaled by Eric Trump’s American Bitcoin gaining traction in public BTC treasury rankings",
+    "Adoption: Exodus and MoonPay planning stablecoin launch in early 2026",
+    "Bitcoin price recovery after recent lows with potential for further downside below $80,000",
+    "Security: Web3 Antivirus detects $563k DeFi loss due to phishing attack",
+    "Regulatory development: UK regulator consults on crypto rules for exchanges, lending and DeFi",
+    "Political development: Trump's openness to crypto-friendly regulators at SEC/CFTC"
+  ],
+  "timestamp": "2025-12-17T07:43:13.663237"
+}

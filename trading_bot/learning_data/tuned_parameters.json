@@ -1,0 +1,11 @@
+{
+  "zscore_threshold": 2.0,
+  "htf_strong_threshold": 0.7,
+  "htf_moderate_threshold": 0.5,
+  "htf_penalty_strong": 0.55,
+  "htf_penalty_moderate": 0.75,
+  "consensus_threshold": 0.12,
+  "single_pillar_threshold": 0.25,
+  "extreme_rsi_low": 15,
+  "extreme_rsi_high": 85
+}

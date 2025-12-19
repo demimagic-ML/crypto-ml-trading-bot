@@ -1,0 +1,25 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": 0.16666666666666666,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 23,
+  "headlines": [
+    "Bitcoin could go ‘sub-$50K if quantum isn’t solved by 2028: Capriole",
+    "Bhutan pledges 10K Bitcoin to develop its ‘mindfulness city’",
+    "Saylor’s Bitcoin stash will be very hard for anyone to match: Pomp",
+    "Lightning Network hits record capacity on crypto exchange adoption",
+    "SAFE Crypto Act will have scammers shaking in their boots: Crypto lawyer"
+  ],
+  "events": [
+    "Risk of Nasdaq delisting for Bitcoin-related stock due to price decline",
+    "Grayscale highlights institutional adoption trends for 2026",
+    "Potential regulatory developments with SEC/CFTC under new administration (Trump's openness to Democrats)",
+    "FDIC proposes first U.S. stablecoin regulation under GENIUS Act",
+    "Regulatory consultation on crypto rules in the UK (exchanges, lending, DeFi)",
+    "SEC urged by crypto advocates to recognize blockchain privacy tools",
+    "Regulatory scrutiny on crypto influencers leading to charges and financial losses",
+    "Institutional adoption signal: Buthan pledges 10K BTC for city development"
+  ],
+  "timestamp": "2025-12-17T09:34:04.108773"
+}

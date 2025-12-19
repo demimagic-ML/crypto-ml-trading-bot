@@ -1,0 +1,26 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.31666666666666665,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 21,
+  "headlines": [
+    "The Bitcoin-to-gold ratio fell 50% in 2025: Here’s why",
+    "How scammers target crypto users during the holidays and how to stay protected",
+    "Solana enters Brazil’s main exchange as Valour expands regulated crypto access",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
+  ],
+  "events": [
+    "Visa expanding stablecoin pilot with Solana integration",
+    "Marshall Islands launches world's first blockchain-based UBI on Stellar blockchain",
+    "SEC expected to approve Bitcoin and Ethereum ETFs",
+    "South Korea's $1 billion crypto debt relief initiative",
+    "Polkadot advances as Coinbase unlocks integration with USDC stablecoin",
+    "SEC scrutiny on blockchain privacy tools (regulatory risk)",
+    "Potential FDIC-backed stablecoin issuance by US banks (institutional adoption)",
+    "JPMorgan launches first tokenized money market fund on Ethereum (institutional move)",
+    "U.S. FDIC proposes first U.S. stablecoin regulation under GENIUS Act"
+  ],
+  "timestamp": "2025-12-16T21:13:05.568050"
+}

@@ -1,0 +1,28 @@
+{
+  "fetch_time": "2025-12-16T08:03:10.815730",
+  "source_type": "rss_feeds",
+  "count": 3,
+  "articles": [
+    {
+      "source": "cointelegraph.com",
+      "title": "MetaMask adds Bitcoin support after teasing it 10 months ago",
+      "published": "Tue, 16 Dec 2025 04:47:18 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MetaMask adds Bitcoin support after teasing it 10 months ago\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Crypto urges SEC to see the good in blockchain privacy tools",
+      "published": "Tue, 16 Dec 2025 04:10:13 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto urges SEC to see the good in blockchain privacy tools\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "US crypto market structure legislation to advance in early 2026",
+      "published": "Tue, 16 Dec 2025 03:01:24 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US crypto market structure legislation to advance in early 2026\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy",
+      "type": "crypto"
+    }
+  ]
+}

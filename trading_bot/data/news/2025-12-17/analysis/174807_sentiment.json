@@ -1,0 +1,26 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.31666666666666665,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 19,
+  "headlines": [
+    "Did Bitcoin's 4-year cycle break, and is the bull market really over?",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC"
+  ],
+  "events": [
+    "Regulatory development: SEC/CFTC market structure bill discussion under Trump administration",
+    "Web3 Antivirus detecting $563k DeFi loss due to phishing",
+    "Market risk: Bitcoin treasury company facing delisting due to stock price decline",
+    "Bitcoin price surge to $90,000 driven by aggressive spot buying",
+    "Adoption risk: Social media influencer fraud case impacting crypto marketing credibility",
+    "Regulatory consultation on crypto rules by UK regulator for exchanges, lending, and DeFi",
+    "Institutional players (Hut 8, Coinbase) show strong performance amid crypto rally",
+    "Securitize launching tokenized stocks with DeFi integration",
+    "Fed's $40 billion bill purchase potentially impacting crypto market sentiment"
+  ],
+  "timestamp": "2025-12-17T17:48:07.351547"
+}

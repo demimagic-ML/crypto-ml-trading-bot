@@ -1,0 +1,28 @@
+{
+  "fetch_time": "2025-12-19T06:26:38.456722",
+  "source_type": "rss_feeds",
+  "count": 3,
+  "articles": [
+    {
+      "source": "cointelegraph.com",
+      "title": "Crypto market cap falls to 8-month low, analysts see more pain ahead",
+      "published": "Fri, 19 Dec 2025 04:15:16 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto market cap falls to 8-month low, analysts see more pain ahead\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "SEC flags Bitcoin miner hosting services as subject to securities laws",
+      "published": "Fri, 19 Dec 2025 03:23:48 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC flags Bitcoin miner hosting services as subject to securities laws\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Crypto has everything needed for a bull market, so why is the market down?",
+      "published": "Fri, 19 Dec 2025 02:40:02 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto has everything needed for a bull market, so why is the market down?\" src=\"https://images.cointelegraph.com/images/528_aHR",
+      "type": "crypto"
+    }
+  ]
+}

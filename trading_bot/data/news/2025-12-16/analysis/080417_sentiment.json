@@ -1,0 +1,25 @@
+{
+  "sentiment": "BEARISH",
+  "sentiment_score": -0.21666666666666667,
+  "confidence": 0.6,
+  "trading_suggestion": "SELL",
+  "news_count": 21,
+  "headlines": [
+    "MetaMask adds Bitcoin support after teasing it 10 months ago",
+    "Crypto urges SEC to see the good in blockchain privacy tools",
+    "US crypto market structure legislation to advance in early 2026",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "MetaMask adding Bitcoin support (adoption)",
+    "ARK Invest adds to Coinbase, Bullish, Circle, and crypto miners amid market selloff",
+    "Global markets mirror crypto downturn with U.S. equities showing caution",
+    "Ripple launching RLUSD multichain pilot (institutional adoption)",
+    "Institutional interest in Dogecoin below $0.13 level",
+    "Quantum computing threat discussed by Grayscale",
+    "Bitcoin price retreat to $85,000",
+    "President Trump's influence on crypto markets highlighted"
+  ],
+  "timestamp": "2025-12-16T08:04:17.001146"
+}

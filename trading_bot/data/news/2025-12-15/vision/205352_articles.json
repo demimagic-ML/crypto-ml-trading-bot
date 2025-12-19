@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-15T20:53:52.874991",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Plunges Below $87K as Crypto Weakness Worsens",
+        "Hedera Slides to Lowest Point in a Year as Crypto Market Plunges",
+        "BNB falls below key support as crypto market cap slips toward $3 trillion"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.75,
+      "confidence": 0.9,
+      "events": [
+        "Bitcoin price drop below $87K",
+        "Crypto market cap nearing $3 trillion decline",
+        "Institutional asset manager BackRock expanding crypto bet with senior hires"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin has broken below $87K, signaling broader crypto weakness with BNB and Hedera also under pressure. Market sentiment is strongly bearish, driven by technical breakdowns and institutional caution. While BackRock's expansion hints at long-term institutional interest, immediate price action reflects selling pressure. This is breaking news with high market impact."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin parabola breakdown raises chance for 80% correction: Veteran trader",
+        "Digital asset ETPs post third straight week of net inflows, led by US demand",
+        "Trump-backed American Bitcoin flips ProCap in corporate BTC treasury race"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "ETP net inflows continuing for third week (institutional demand)",
+        "Trump-backed Bitcoin project acquiring ProCap (adoption/strategic move)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The top headlines indicate a potential major Bitcoin price correction warned by a veteran trader, while institutional flows into digital asset ETPs remain strong. A notable development is the Trump-backed Bitcoin initiative acquiring ProCap, signaling strategic adoption. However, the dominant narrative is cautionary with bearish sentiment around Bitcoin's price trajectory. The combination of breaking news on market structure shifts and institutional moves suggests high volatility ahead."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Ethereum Treasury Firm BitMine Boosts ETH Stash Above $12 Billion With Latest Buy",
+        "JPMorgan Introduces Ethereum-Based MONY Fund",
+        "Strategy Buys Almost $1 Billion in Bitcoin for Second Week Running"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Institutional adoption: JPMorgan launches Ethereum-based MONY fund",
+        "Large-scale BTC accumulation by a strategy firm (over $1B in two weeks)",
+        "ETH treasury activity: BitMine adds to ETH holdings, surpassing $12B"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Multiple bullish signals are emerging from institutional and strategic actors in the crypto space. JPMorgan's launch of an Ethereum-based fund marks major institutional adoption. Simultaneously, a strategy firm is accumulating over $1 billion in Bitcoin, signaling strong demand. ETH treasury activity also shows continued confidence with BitMine increasing its holdings. These developments suggest growing institutional interest and market strength, supporting a bullish outlook."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.25,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 21,
+  "headlines": [
+    "Bitcoin hunts liquidity as US CPI inflation drops to lowest since 2021",
+    "Tether CEO says AI bubble is Bitcoin’s biggest risk in 2026",
+    "Here’s what happened in crypto today",
+    "Federal Reserve Board publishes first of several staff manuals for the supervision of the largest and most complex banks",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation"
+  ],
+  "events": [
+    "Institutional adoption: DTCC issuing tokenized securities on Canton Network",
+    "Corporate adoption: Hut 8 signs major deal with Google-backed entity",
+    "PayPal's adoption of PYUSD stablecoin for AI infrastructure funding",
+    "US CPI inflation drop impacting Bitcoin liquidity",
+    "Regulatory shift: CFTC official joins crypto firm MoonPay",
+    "Regulatory concern over RWAs compliance (SEC counsel)",
+    "Coinbase's strategic expansion gaining analyst approval",
+    "US Fed guidance blocking banks from engaging with crypto"
+  ],
+  "timestamp": "2025-12-18T17:52:00.224162"
+}

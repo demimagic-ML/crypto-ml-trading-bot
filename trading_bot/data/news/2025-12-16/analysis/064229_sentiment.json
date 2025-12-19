@@ -1,0 +1,26 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": -0.11666666666666668,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 22,
+  "headlines": [
+    "Crypto urges SEC to see the good in blockchain privacy tools",
+    "US crypto market structure legislation to advance in early 2026",
+    "Bitcoin to hit new all-time high within 6 months: Grayscale",
+    "Bitcoin, altcoins sell-off as Fed chair switch-up, AI bubble fears spook markets",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
+  ],
+  "events": [
+    "President Trump's influence highlighted as a major macro driver for crypto in 2025",
+    "Quantum computing threat discussed but downplayed by Grayscale",
+    "Regulatory scrutiny implied by XRP weakening at key support level",
+    "Advancement of US crypto market structure legislation expected in early 2026",
+    "Bitcoin price retreat to $85,000 level indicating institutional capital rotation",
+    "Institutional attention on Dogecoin due to price drop below $0.13",
+    "Grayscale's bullish prediction on Bitcoin reaching a new all-time high",
+    "SEC-facing regulatory developments with potential impact on blockchain privacy tools",
+    "Bitcoin ETFs underperforming, suggesting structural shift in market dynamics"
+  ],
+  "timestamp": "2025-12-16T06:42:29.386371"
+}

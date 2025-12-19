@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-16T09:43:49.730855",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin, ether and XRP extend losses as year-end caution builds",
+        "ARK steps in as crypto stocks extend multi-day selloff",
+        "Why Dogecoin's drop below $0.13 is drawing institutional attention"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Institutional interest in Dogecoin below $0.13",
+        "ARK Investment (Cathie Wood) adding to Coinbase, Bullish, Circle, and crypto miners amid market downturn",
+        "Crypto market selloff extending into multiple days with broad sector weakness"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The crypto market is experiencing a multi-day selloff driven by year-end caution, with Bitcoin, Ethereum, and XRP all under pressure. ARK Invest has added exposure to crypto-related stocks despite the downturn, signaling mixed institutional sentiment. Dogecoin’s dip below $0.13 has drawn notable institutional attention, suggesting potential buying opportunities for some players. However, the overall tone remains bearish due to widespread selling pressure across major assets."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "MetaMask adds Bitcoin support after teasing it 10 months ago",
+        "Ripple pilots RLUSD on Ethereum L2s in multichain push",
+        "Most crypto sectors lagged Bitcoin over past 3 months: Glassnode"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "MetaMask adds Bitcoin support (adoption)",
+        "Ripple launches RLUSD on Ethereum L2s (institutional move, scalability)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights key adoption and infrastructure developments in the crypto space, including MetaMask's long-awaited Bitcoin integration and Ripple’s multichain expansion with RLUSD. These institutional moves suggest growing legitimacy and utility, supporting a bullish sentiment. While some headlines reflect lagging performance, the breaking nature of MetaMask and Ripple updates presents high-impact opportunities."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Sinks Towards $85,000 as XRP, Ethereum, and Other Cryptos Fall Alongside",
+        "Why President Trump Had the Biggest Impact on Bitcoin and Crypto in 2025",
+        "Decrypted's 2025 Person of the Year: President Donald Trump"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin price drop toward $85,000",
+        "President Trump's influence on crypto market highlighted as major narrative for 2025"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The top headlines indicate a bearish trend with Bitcoin approaching $85,000 amid broader crypto sell-off. While political narratives around Trump’s impact on crypto are prominent, they appear more speculative than actionable. The immediate price action suggests selling pressure, possibly driven by macro or institutional positioning. This is breaking news with high market relevance."
+    }
+  ]
+}

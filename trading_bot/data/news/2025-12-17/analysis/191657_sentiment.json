@@ -1,0 +1,26 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.2833333333333333,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 20,
+  "headlines": [
+    "Bitcoin tags $90K as crypto market spike liquidates $120M shorts",
+    "Did Bitcoin's 4-year cycle break, and is the bull market really over?",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Crypto-linked stocks pull back (MARA, CORZ down ~4-5%)",
+    "Regulatory meeting between crypto industry insiders and Senator Tim Scott on market structure bill",
+    "YouTube exploring stablecoin payouts for creators (adoption signal)",
+    "Bitcoin price correction below $88,000 after sharp rally",
+    "Regulatory consultation on crypto rules by UK regulator (potential impact on DeFi/exchanges)",
+    "Bitcoin price surge to $90K triggering short squeezes",
+    "DTCC processing crypto transactions (institutional adoption)",
+    "Bitcoin 'Witching Friday' volatility event (market timing)",
+    "Crypto treasury firms expanding into Wall Street (institutional move)"
+  ],
+  "timestamp": "2025-12-17T19:16:57.612072"
+}

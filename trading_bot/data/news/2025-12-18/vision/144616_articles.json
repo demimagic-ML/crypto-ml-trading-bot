@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-18T14:46:16.968507",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Crypto Market Today: Bitcoin-gold ratio drops to lowest since January 2024",
+        "Bitcoin ETF rebound needs to be sustained for BTC to benefit: Crypto Daybook Americas",
+        "U.S. bitcoin ETFs see strongest inflows for over a month as BTC dominance hits 60%"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.7,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin ETF rebound and strong inflows into U.S. bitcoin ETFs",
+        "BTC dominance reaching 60% indicates market consolidation and institutional interest"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights strong institutional momentum in Bitcoin with ETF inflows rising and BTC dominance increasing, suggesting renewed bullish sentiment. The Bitcoin-gold ratio hitting a low since early 2024 also signals relative strength in BTC. These developments indicate a potential catalyst for further price appreciation."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoiners push for quantum-resistant BIP-360 upgrade as debate heats up",
+        "ETHGas raises $12M as Buterin spotlights onchain gas futures",
+        "Kraken-backed xStocks launches on TON Wallet in 'nearly all markets'"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Institutional adoption: Kraken-backed xStocks launch on TON Wallet",
+        "Regulatory development: US Fed blocks banks from engaging with crypto",
+        "Technology upgrade: Bitcoin community debates quantum-resistant BIP-360"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights institutional expansion (Kraken-backed xStocks), technological upgrades in Bitcoin security, and regulatory headwinds from the US Fed. While regulatory risks exist, strong adoption signals and innovation in Ethereum's ecosystem suggest bullish momentum. The combination of breaking institutional moves and technical developments supports a cautious buy stance."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $75M Deal With Google Backing",
+        "Singapore Entrepreneur Loses Holdings to Malware Dressed as Game",
+        "DTCC to Issue Tokenized Securities on Canton Network, Starting With US Treasuries"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.2,
+      "confidence": 0.7,
+      "events": [
+        "DTCC issuing tokenized securities on Canton Network (institutional adoption)",
+        "Hut 8's $75M deal with Google (institutional crypto mining partnership)"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights institutional developments in crypto adoption (DTCC and Hut 8) alongside a security incident involving malware. While there is positive momentum from institutional moves, the presence of a cyber threat introduces risk. No major regulatory or ETF-related breaking news is present. The sentiment is neutral due to mixed signals between adoption and security concerns."
+    }
+  ]
+}

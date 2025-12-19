@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-16T11:06:30.990010",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's bearish turn deepens as 75 out of top 100 coins trade below key averages; Nasdaq resilient",
+        "Axelar token falls 15% after Circle deal takes the developer team, leaves AXL behind",
+        "Why bitcoin ETFs look like they're falling short, even as their role grows: Asia Morning Briefing"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin and other top 100 cryptocurrencies trading below key technical averages",
+        "Circle's strategic move affecting Axelar (AXL) token price and team dynamics",
+        "Ongoing challenges for Bitcoin ETFs despite growing institutional interest"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin and the broader crypto market are showing signs of a bearish trend, with 75 of the top 100 coins trading below key averages. Institutional interest in Bitcoin ETFs appears to be lagging despite growing momentum. A major development involving Circle impacting Axelar adds volatility. The overall sentiment is bearish, driven by technical breakdowns and structural concerns in ETF adoption."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin sharks stack at fastest pace in 13 years, with BTC down 30%",
+        "Most crypto sectors lagged Bitcoin over past 3 months: Glassnode",
+        "Ripple pilots RLUSD on Ethereum L2s in multichain push"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.8,
+      "events": [
+        "Ripple launches RLUSD pilot on Ethereum L2s (adoption)",
+        "Bitcoin accumulation at record pace despite price drop (institutional behavior)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is experiencing rapid accumulation by whales amid a 30% price decline, signaling potential long-term buying interest but short-term bearish momentum. Meanwhile, Ripple's RLUSD pilot on Ethereum L2s highlights growing cross-chain adoption. However, most crypto sectors are underperforming Bitcoin, indicating market divergence and caution. The combination of whale activity and institutional moves suggests underlying strength, but current price action remains bearish."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Sinks Towards $85,000 as Ethereum, XRP Fall Alongside",
+        "PayPal Seeks Utah-Chartered Industrial Bank Status",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.75,
+      "events": [
+        "PayPal's move to obtain a bank charter could signal institutional adoption of crypto infrastructure",
+        "Bitcoin price drop toward $85,000 with broader altcoin weakness (ETH, XRP)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin and major altcoins are under pressure, with BTC approaching $85,000 amid market-wide selling. While PayPal’s banking initiative is bullish for long-term adoption, the immediate sentiment is bearish due to price declines. Grayscale’s comments on quantum computing are neutral but suggest ongoing risk awareness. The current trend reflects short-term sell-off pressure, potentially triggered by macro or technical factors."
+    }
+  ]
+}

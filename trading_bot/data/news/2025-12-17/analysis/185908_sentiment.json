@@ -1,0 +1,24 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": 0.06666666666666667,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 20,
+  "headlines": [
+    "Bitcoin tags $90K as crypto market spike liquidates $120M shorts",
+    "Did Bitcoin's 4-year cycle break, and is the bull market really over?",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "YouTube exploring stablecoin payouts for creators (adoption)",
+    "SaucerSwap platform redesign and rebranding",
+    "USDKG stablecoin launch in Kyrgyzstan (emerging market adoption)",
+    "Security vulnerability in protocol affecting thousands of token holders",
+    "Bitcoin price surge to $90K triggering short squeezes",
+    "Bitcoin price drop below $88,000 after short-lived rally",
+    "DTCC's adoption of crypto into its infrastructure"
+  ],
+  "timestamp": "2025-12-17T18:59:08.611296"
+}

@@ -1,0 +1,21 @@
+{
+  "fetch_time": "2025-12-16T14:18:25.403852",
+  "source_type": "rss_feeds",
+  "count": 2,
+  "articles": [
+    {
+      "source": "cointelegraph.com",
+      "title": "FCA consults on UK crypto rules for exchanges, lending and DeFi",
+      "published": "Tue, 16 Dec 2025 11:30:13 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FCA consults on UK crypto rules for exchanges, lending and DeFi\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Bitcoin long-term holder supply hits 8-month lows: Bullish or bearish?",
+      "published": "Tue, 16 Dec 2025 10:14:31 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin long-term holder supply hits 8-month lows: Bullish or bearish?\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
+      "type": "crypto"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "sentiment": "BEARISH",
+  "sentiment_score": -0.55,
+  "confidence": 0.6,
+  "trading_suggestion": "STRONG_SELL",
+  "news_count": 20,
+  "headlines": [
+    "Bitcoin sharks stack at fastest pace in 13 years, with BTC down 30%",
+    "Most crypto sectors lagged Bitcoin over past 3 months: Glassnode",
+    "MetaMask adds Bitcoin support after teasing it 10 months ago",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Bitcoin accumulation despite price drop (institutional behavior)",
+    "Axelar token drop due to Circle-related team shift (potential institutional impact)",
+    "Bitcoin and top 100 cryptocurrencies trading below key moving averages (bearish technical signal)",
+    "Ripple launching RLUSD on Ethereum L2s (adoption)",
+    "ARK investment firm involvement in crypto market decline (institutional selling)"
+  ],
+  "timestamp": "2025-12-16T11:25:49.007158"
+}

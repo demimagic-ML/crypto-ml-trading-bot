@@ -1,0 +1,21 @@
+{
+  "fetch_time": "2025-12-17T14:07:05.863238",
+  "source_type": "rss_feeds",
+  "count": 2,
+  "articles": [
+    {
+      "source": "cointelegraph.com",
+      "title": "Bitcoin institutional buys flip new supply for the first time in 6 weeks",
+      "published": "Wed, 17 Dec 2025 09:56:58 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin institutional buys flip new supply for the first time in 6 weeks\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "HashKey crypto exchange sees bumpy Hong Kong debut after $206M IPO",
+      "published": "Wed, 17 Dec 2025 08:55:15 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"HashKey crypto exchange sees bumpy Hong Kong debut after $206M IPO\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
+      "type": "crypto"
+    }
+  ]
+}

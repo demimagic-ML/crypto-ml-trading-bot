@@ -1,0 +1,127 @@
+{
+  "fetch_time": "2025-12-18T15:43:57.843168",
+  "source_type": "macro_news",
+  "count": 15,
+  "articles": [
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+      "published": "Wed, 17 Dec 2025 21:00:00 GMT",
+      "summary": "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+      "published": "Tue, 16 Dec 2025 16:00:00 GMT",
+      "summary": "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "published": "Mon, 15 Dec 2025 16:00:00 GMT",
+      "summary": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "published": "Mon, 15 Dec 2025 16:00:00 GMT",
+      "summary": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
+      "published": "Thu, 11 Dec 2025 22:00:00 GMT",
+      "summary": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC",
+      "published": "Thu, 11 Dec 2025 22:00:00 GMT",
+      "summary": "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve Board announces reappointment of Reserve Bank presidents and first vice presidents",
+      "published": "Thu, 11 Dec 2025 21:00:00 GMT",
+      "summary": "Federal Reserve Board announces reappointment of Reserve Bank presidents and first vice presidents",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve Board announces termination of enforcement actions with Credit Suisse Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., Credit Suisse AG, New York Branch, and JPMorgan Chase & Co.",
+      "published": "Thu, 11 Dec 2025 16:00:00 GMT",
+      "summary": "Federal Reserve Board announces termination of enforcement actions with Credit Suisse Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., Credit Suisse AG, New York Branch, and JPMorgan Chase &amp; Co.",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve issues FOMC statement",
+      "published": "Wed, 10 Dec 2025 19:00:00 GMT",
+      "summary": "Federal Reserve issues FOMC statement",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
+      "published": "Wed, 10 Dec 2025 19:00:00 GMT",
+      "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "cnbc_markets",
+      "title": "Olive Garden owner Darden Restaurants hikes revenue outlook for second straight quarter",
+      "published": "Thu, 18 Dec 2025 13:08:24 GMT",
+      "summary": "Darden Restaurants reported strong demand for Olive Garden and LongHorn Steakhouse.",
+      "type": "macro",
+      "is_fed": false
+    },
+    {
+      "source": "cnbc_markets",
+      "title": "Prediction markets could hit a trillion dollars in trading volume by the end of this decade, new report says",
+      "published": "Wed, 17 Dec 2025 20:32:34 GMT",
+      "summary": "Sports is fueling the growth in prediction markets and is forecasted to make up 44% of volume as the industry matures, according to new research.",
+      "type": "macro",
+      "is_fed": false
+    },
+    {
+      "source": "cnbc_economy",
+      "title": "November consumer prices rose at a 2.7% annual rate, lower than expected, delayed data shows",
+      "published": "Thu, 18 Dec 2025 13:43:31 GMT",
+      "summary": "Economists polled by Dow Jones expected CPI to have risen 3.1% on an annualized basis.",
+      "type": "macro",
+      "is_fed": false
+    },
+    {
+      "source": "cnbc_economy",
+      "title": "Bank of England cuts interest rates, in welcome Christmas boost for consumers",
+      "published": "Thu, 18 Dec 2025 12:52:06 GMT",
+      "summary": "The Bank of England voted to cut interest rates from 4% to 3.75% in its last monetary policy move of 2025.",
+      "type": "macro",
+      "is_fed": false
+    },
+    {
+      "source": "cnbc_economy",
+      "title": "November's inflation report is the first to be released after the shutdown. Here's what to expect",
+      "published": "Thu, 18 Dec 2025 11:27:57 GMT",
+      "summary": "November's CPI report is expected to show the annual inflation rate at 3.1%, according to economists polled by Dow Jones.",
+      "type": "macro",
+      "is_fed": false
+    }
+  ]
+}

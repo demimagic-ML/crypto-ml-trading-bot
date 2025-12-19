@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-16T18:22:12.434414",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says",
+        "U.S. added 64,000 jobs in November, with unemployment rate jumping to four-year high of 4.6%",
+        "Tether leads $8 million investment in Speed to push USDT further into everyday payments"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.8,
+      "events": [
+        "Tether's $8M investment in Speed for USDT adoption",
+        "Bitcoin price bounce after Monday's dip, but potential downside to sub-$80K",
+        "U.S. job report shows strong employment gains but rising unemployment"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Bitcoin is showing signs of recovery after a sharp drop, but analysts warn of possible further downside below $80,000. Meanwhile, Tether’s investment in Speed highlights growing institutional interest in USDT adoption for real-world use. The U.S. labor market data adds macroeconomic context with strong job growth but rising unemployment, which could impact broader risk assets including crypto. No major ETF or regulatory news is present, but the sentiment remains cautiously neutral."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin liquidity 'battle' rages as bull case sees clear run to $95K",
+        "Why can't Ether hold $3K? ETH recovery in doubt as data tilts bearish",
+        "Crypto's 'super app' race is on as industry enters aggregation era: Report"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "JPMorgan launches its first tokenized money market fund on Ethereum",
+        "Aster launches Shield Mode, a protected high-performance trading mode for on-chain traders",
+        "Web3 Antivirus detects $563k DeFi loss after phishing approval during Aave and Compound..."
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The crypto market shows mixed signals with bullish momentum in Bitcoin approaching $95K, while Ethereum faces bearish pressure below $3K. Institutional adoption is highlighted by JPMorgan’s new tokenized fund on Ethereum, signaling growing legitimacy. Security threats remain relevant with a reported $563k DeFi loss due to phishing. Overall sentiment leans bullish due to strong BTC momentum and institutional moves, though ETH weakness introduces caution."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's New Entrants Face the Bite as Whales Retreat",
+        "PayPal Seeks Utah-Chartered Industrial Bank Status",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "PayPal's pursuit of a bank charter for crypto services (institutional adoption)",
+        "Grayscale addressing quantum computing risks (long-term tech threat)"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed signals in the crypto market: institutional interest via PayPal’s banking move, but caution from whale behavior and long-term threats like quantum computing. No immediate regulatory or ETF developments are reported, keeping sentiment neutral with moderate impact."
+    }
+  ]
+}

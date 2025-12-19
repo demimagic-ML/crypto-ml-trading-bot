@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-16T19:30:12.410886",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Eric Trump’s American Bitcoin jumps to 20th among public BTC treasury companies",
+        "Polkadot advances as Coinbase unlocks integration with USDC stablecoin",
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "Coinbase integrates USDC stablecoin with Polkadot (adoption)",
+        "FDIC proposes first U.S. stablecoin regulation (regulatory development)",
+        "American Bitcoin enters top 20 public BTC treasury companies (institutional adoption)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights growing institutional interest in Bitcoin and crypto adoption, including Coinbase's integration with Polkadot and the FDIC's move toward regulating stablecoins. The positive sentiment is driven by both regulatory clarity and new institutional moves, suggesting upward momentum in the market."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Crypto urges SEC to see the good in blockchain privacy tools",
+        "JPMorgan launches its first tokenized money market fund on Ethereum",
+        "UK crypto ownership dropped to 8% in 2025: YouGov poll"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "JPMorgan launches first tokenized money market fund on Ethereum (institutional adoption)",
+        "SEC regulatory discussion on blockchain privacy tools (regulatory development)"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights a mix of institutional innovation (JPMorgan's tokenized fund) and regulatory discourse, with no major breaking events or market-moving catalysts. The UK crypto ownership decline suggests cooling retail interest, but JPMorgan's move is a positive sign for institutional adoption. Overall sentiment remains neutral due to mixed signals."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's New Entrants Face the Bite as Whales Retreat",
+        "PayPal Seeks Utah-Chartered Industrial Bank Status",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "PayPal seeking Utah bank charter (institutional adoption)",
+        "Grayscale addressing quantum computing threat (long-term risk discussion)"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news feed reflects a mix of market sentiment shifts, institutional developments, and long-term technological concerns. While PayPal's move toward banking status signals potential adoption, it is not yet actionable. Bitcoin whale activity suggests caution among large holders. Grayscale’s reassurance on quantum threats reduces immediate risk fears but does not drive momentum. No major regulatory or ETF announcements are present, keeping overall sentiment neutral."
+    }
+  ]
+}

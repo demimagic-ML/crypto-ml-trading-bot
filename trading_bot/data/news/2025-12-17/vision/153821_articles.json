@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-17T15:38:21.824949",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Memecoin boom turns into capitulation one year after $150 billion market peak",
+        "Bitcoin trades near key price safety net that Strategy already breached",
+        "How China's strengthening yuan could support bitcoin prices"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+        "Coinbase quietly driving Bitcoin's hashrate growth via mining pod",
+        "Institutional adoption: TradFi giant EquiLend backs Digital Prime for tokenized markets"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The top news highlights a bearish shift in crypto sentiment with memecoins collapsing after a massive bubble, Bitcoin nearing critical support levels, and regulatory developments from the FDIC on stablecoins. Institutional moves like EquiLend’s partnership signal growing adoption but are offset by macro risks. The combination of regulatory uncertainty, market capitulation, and weakening altcoin momentum suggests caution. Breaking news includes the FDIC proposal and memecoin crash, both high-impact events."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin miner Hut 8 lands $7B Google-backed AI data center lease",
+        "Wall Street's $4 quadrillion backbone to roll out tokenized US Treasuries",
+        "Binance names alleged fake listing agents, offers up to $5M whistleblower reward"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Institutional adoption: Bitcoin miner Hut 8 secures a $7B AI data center lease backed by Google",
+        "Regulatory and institutional development: Wall Street plans to tokenize US Treasuries on a $4 quadrillion backbone",
+        "Security/Regulatory action: Binance announces whistleblower program targeting fake listings"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "The top headlines indicate strong institutional interest in crypto infrastructure (Hut 8 + Google), significant developments in asset tokenization by Wall Street, and regulatory crackdowns by major exchanges like Binance. These are all high-impact bullish signals for the broader crypto market, especially BTC and infrastructure-related tokens. The news is fresh (15–30 minutes ago) and suggests accelerating adoption and legitimacy."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin in Focus as Stock and Options Contracts Expire on Friday",
+        "Indian MP Pushes Tokenization Bill to Democratize Investment",
+        "Visa Expands Stablecoin Pilot with US Settlements via Solana"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin options and futures expiration (potential volatility event)",
+        "India's tokenization bill proposal (regulatory adoption signal)",
+        "Visa expanding stablecoin pilot on Solana (institutional adoption)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Multiple bullish catalysts are emerging: Bitcoin options expiry could trigger volatility, India's tokenization bill signals regulatory progress, and Visa's expanded stablecoin pilot reflects institutional crypto adoption. These developments collectively suggest strong momentum for crypto markets."
+    }
+  ]
+}

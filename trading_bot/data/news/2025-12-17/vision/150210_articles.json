@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-17T15:02:10.966904",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Memecoins boom turns into capitulation one year after $150 billion market peak",
+        "Bitcoin trades near key price safety net that Strategy already breached",
+        "How China's strengthening yuan could support bitcoin prices"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+        "Norway’s sovereign wealth fund supports Metaplanet bitcoin plan ahead of EGM vote",
+        "Ripple’s Asia venture looks to make XRP a yield-bearing asset"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The latest news highlights a bearish shift in the crypto market with memecoins experiencing a capitulation following a massive bubble, while Bitcoin approaches critical support levels. Regulatory developments from the FDIC and institutional moves by Norway’s sovereign wealth fund add complexity. Despite some positive adoption signals (e.g., Ripple’s Asia venture), the overall tone is cautionary due to macro risks and potential regulatory crackdowns."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Wall Street's $4 quadrillion backbone to roll out tokenized US Treasurys",
+        "New Coinbase report points to 'broken' traditional finance system: Armstrong",
+        "Solana tests quantum-resistant transactions in new Project Eleven pilot"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Institutional adoption of tokenized US Treasurys by Wall Street",
+        "Solana launching quantum-resistant transaction pilot (Project Eleven)",
+        "Coinbase report criticizing traditional finance, signaling crypto advantage"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights major institutional moves toward crypto adoption with Wall Street exploring tokenized Treasurys, Coinbase reinforcing crypto’s systemic edge over traditional finance, and Solana advancing security innovation. These developments signal strong bullish momentum, particularly for Bitcoin and Ethereum as foundational assets in a growing decentralized financial ecosystem."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin in Focus as Stock and Options Contracts Expire on Friday",
+        "Indian MP Pushes Tokenization Bill to Democratize Investment",
+        "Bitcoin Treasury KindlyMD Risks Nasdaq Delisting as Stock Price Craters"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "Bitcoin options and futures contract expiration (potential volatility event)",
+        "Indian legislative push for tokenization bill (adoption signal)",
+        "Nasdaq delisting risk for Bitcoin Treasury KindlyMD (regulatory/liquidity concern)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights a mix of regulatory, adoption, and market-moving events. Bitcoin options expiry could trigger volatility, while India's tokenization bill suggests growing institutional interest. However, the Nasdaq delisting risk for a crypto-related stock adds caution. No clear bullish or bearish catalysts dominate—suggesting a neutral stance with moderate attention required."
+    }
+  ]
+}

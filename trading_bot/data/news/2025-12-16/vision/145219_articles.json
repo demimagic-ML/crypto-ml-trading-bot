@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-16T14:52:19.249697",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slump deepens as most of top 100 tokens fall below key trading signals",
+        "U.S. bitcoin, ether ETFs see largest outflows since Nov. 20 as BTC declines",
+        "Crypto bank Custodia files petition for a rehearing by all appellate judges"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.75,
+      "confidence": 0.9,
+      "events": [
+        "ETF outflows (BTC and ETH)",
+        "Regulatory development: Custodia's appeal filing",
+        "Market sentiment shift due to technical breakdowns"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bearish market sentiment is reinforced by significant ETF outflows, technical breakdowns in top cryptocurrencies, and regulatory uncertainty. The combination of institutional withdrawal and negative technical signals suggests a high-impact downtrend. Regulatory developments from Custodia add further risk, potentially affecting broader market confidence."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "UK regulator consults on crypto rules for exchanges, lending and DeFi",
+        "Spain's regulator sets out MICA transition rules for crypto platforms",
+        "Custodia renews bid for Fed master account in rehearing push at Tenth Circuit"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "Regulatory developments in the UK and Spain (MICA framework and DeFi rules)",
+        "Custodia's ongoing legal effort to gain access to a Fed master account"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The top headlines focus on regulatory developments in major markets (UK and Spain) and a legal milestone by Custodia regarding Fed access. While these are significant institutional and regulatory updates, they are not yet finalized or directly actionable for immediate market moves. Regulatory news can influence sentiment but is currently neutral in tone with no clear bullish or bearish bias."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's New Entrants Face the Bite as Whales Retreat",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin",
+        "Why President Trump Says He Will Be Pardoning Samourai Wallet CEO"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "Institutional move: Grayscale addressing quantum computing threat to Bitcoin",
+        "Regulatory/Political event: Potential pardon of Samourai Wallet CEO by President Trump"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The headlines reflect a mix of market dynamics with new entrants entering Bitcoin while whales retreat, institutional commentary on quantum threats, and political developments involving crypto privacy tools. No major breaking events like ETF approvals or hacks are reported. Sentiment is neutral due to mixed signals—caution from whale behavior but reassurance from Grayscale. Institutional moves and regulatory overtones suggest moderate impact, warranting cautious observation rather than aggressive trading."
+    }
+  ]
+}

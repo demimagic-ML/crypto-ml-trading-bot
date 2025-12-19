@@ -1,0 +1,25 @@
+{
+  "sentiment": "BEARISH",
+  "sentiment_score": -0.25,
+  "confidence": 0.6,
+  "trading_suggestion": "SELL",
+  "news_count": 21,
+  "headlines": [
+    "Most crypto sectors lagged Bitcoin over past 3 months: Glassnode",
+    "MetaMask adds Bitcoin support after teasing it 10 months ago",
+    "Crypto urges SEC to see the good in blockchain privacy tools",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Bitcoin ETFs failing to gain traction despite growing institutional interest",
+    "Ripple launching RLUSD on Ethereum L2s (institutional adoption and scaling)",
+    "Bitcoin price drop to $85,000",
+    "MetaMask adding Bitcoin support (adoption)",
+    "XRP down -5.99% amid ongoing market pressure",
+    "President Trump's influence on crypto markets highlighted",
+    "Crypto market selloff continues with ARK stepping in amid broader weakness",
+    "Institutional sentiment shift due to political leadership"
+  ],
+  "timestamp": "2025-12-16T10:00:45.795629"
+}

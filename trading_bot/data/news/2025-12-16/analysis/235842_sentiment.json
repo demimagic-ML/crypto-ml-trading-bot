@@ -1,0 +1,25 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.26666666666666666,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 19,
+  "headlines": [
+    "Bitcoin treasury Kindly MD faces potential delisting after Nasdaq price notice",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC"
+  ],
+  "events": [
+    "Regulatory scrutiny on DeFi and market structure (US senator's warning)",
+    "Institutional investment in stablecoin infrastructure via RedotPay's $107M funding",
+    "Potential Nasdaq delisting of Bitcoin treasury Kindly MD due to price notice",
+    "Institutional pullback on Bitcoin and Ethereum ETFs",
+    "Bitwise's prediction on Bitcoin's 4-year cycle ending in 2026",
+    "Bitcoin derivatives suggest potential breakout toward $100,000",
+    "South Korea's debt relief for crypto firms",
+    "U.S. FDIC proposes first U.S. stablecoin regulation under GENIUS Act"
+  ],
+  "timestamp": "2025-12-16T23:58:42.578773"
+}

@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-16T08:53:33.853306",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin, ether and XRP extend losses as year-end caution builds",
+        "ARK steps in as crypto stocks extend multi-day selloff",
+        "New React bug that can drain all your tokens is impacting thousands of websites"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Crypto market downturn due to year-end caution and broader market sell-off",
+        "Security vulnerability (React bug) affecting thousands of websites, potentially impacting DeFi and crypto platforms",
+        "ARK Invest's involvement in crypto assets during market decline"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The crypto market is experiencing a broad-based selloff driven by year-end caution, with Bitcoin, Ethereum, and XRP all extending losses. ARK Invest's participation signals institutional concern. A critical security flaw in React could impact web3 infrastructure, adding downside risk. This combination of macro sentiment, institutional moves, and security threats suggests a bearish near-term outlook."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "MetaMask adds Bitcoin support after teasing it 10 months ago",
+        "Most crypto sectors lagged Bitcoin over past 3 months: Glassnode",
+        "Ripple's RLUSD stablecoin goes multichain in new pilot"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.2,
+      "confidence": 0.75,
+      "events": [
+        "MetaMask adds Bitcoin support (adoption)",
+        "Ripple's RLUSD stablecoin expands to multichain (institutional move)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent news highlights key developments in adoption and infrastructure, with MetaMask adding Bitcoin support and Ripple expanding its stablecoin. While these are positive for ecosystem growth, they are not catalysts for immediate price spikes. Market sentiment remains cautious due to lagging performance across sectors relative to Bitcoin."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Sinks Towards $85,000 as XRP and Ethereum, XRP Fall Alongside",
+        "Why President Trump Had the Biggest Impact on Bitcoin and Crypto in 2025",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.75,
+      "events": [
+        "Bitcoin price retreat to $85,000",
+        "President Trump's influence on crypto market dynamics in 2025",
+        "Quantum computing threat discussion by Grayscale"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Recent headlines indicate a bearish trend with Bitcoin falling toward $85,000 amid broader crypto weakness. A major focus is on President Trump’s projected impact on crypto markets in 2025, signaling potential political influence. Grayscale downplaying quantum threats suggests institutional reassurance but doesn't offset current price pressure. This combination of price action and political speculation points to significant short-term risk."
+    }
+  ]
+}

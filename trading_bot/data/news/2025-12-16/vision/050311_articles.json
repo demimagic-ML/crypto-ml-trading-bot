@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-16T05:03:11.209521",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slides to $86,000 as slower rate cut risk, AI stock woes shake markets",
+        "PayPal, issuer of PYUSD, applies for Utah industrial bank license",
+        "SBI, Startale to launch regulated yen stablecoin for global settlement"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "PayPal applies for Utah industrial bank license (institutional adoption)",
+        "SBI and Startale launching regulated yen stablecoin (adoption in Asia)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is under pressure near $86,000 amid macro concerns over rate cuts and AI sector volatility. However, institutional developments such as PayPal’s move toward banking licensure and a new regulated yen stablecoin signal ongoing adoption. While sentiment is neutral, the mix of macro headwinds and positive institutional moves suggests caution with potential upside if regulatory clarity emerges."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin to hit new all-time high within 6 months: Grayscale",
+        "US crypto market structure legislation to advance in early 2026",
+        "Trump to 'look into' recently convicted Samurai Wallet co-founder"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory development: US crypto market structure legislation expected in early 2026",
+        "Institutional endorsement: Grayscale predicts Bitcoin reaching a new all-time high within 6 months",
+        "Political involvement: Trump signals interest in case of convicted crypto wallet founder"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "The top headlines indicate strong bullish sentiment driven by institutional optimism (Grayscale), regulatory progress in the US, and political engagement with crypto figures. The prediction of a Bitcoin ATH within six months is particularly impactful, potentially driving speculative buying. Regulatory clarity in 2026 could further boost adoption. This combination suggests a high-impact bullish catalyst for the market."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Sinks Towards $85,000 as Ethereum, XRP Fall Alongside",
+        "Ripple Expanding RLUSD From Ledger and Ethereum",
+        "Bank of America's Analysts Signal Regulatory Shift Towards On-Chain Assets"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.75,
+      "events": [
+        "Regulatory shift towards on-chain assets (institutional move)",
+        "Ripple expanding its stablecoin (RLUSD) to new networks (adoption)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin and major altcoins are experiencing downward pressure, with Bitcoin approaching $85,000. While Ripple’s expansion of RLUSD signals adoption progress, the dominant trend is bearish due to market-wide declines. Institutional sentiment from Bank of America suggests a potential regulatory pivot favoring on-chain assets, which could be bullish in the long term but adds uncertainty now. Immediate trading action should prioritize caution due to breaking sell-off."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-16T17:33:21.114516",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slump deepens as most of top 100 tokens fall below key trading signals",
+        "Visa brings Circle's USDC settlement to U.S. banks following $3.5 billion stablecoin pilot",
+        "Building the Infrastructure for the $2 Trillion Stablecoin Economy"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "Visa and Circle’s $3.5 billion USDC pilot expansion into U.S. banking infrastructure",
+        "Institutional adoption of stablecoins via major financial networks (Visa)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The market is showing bearish momentum with Bitcoin and top tokens falling below key technical levels. However, a significant institutional development involving Visa and Circle’s USDC settlement marks a major adoption milestone. While this is bullish for stablecoin infrastructure, the immediate price action reflects broader selling pressure. The combination suggests short-term weakness despite long-term structural positives."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Why can't Ethereum hold $3K? ETH recovery in doubt as data tilts bearish",
+        "Crypto's 'super app' race is on as industry enters aggregation era: Report",
+        "Here's what happened in crypto today"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.8,
+      "events": [
+        "JPMorgan launches its first tokenized money market fund on Ethereum",
+        "Web3 Antivirus detects $563k DeFi loss after phishing approval during Aave and Compound...",
+        "Crypto urges SEC to see the good in blockchain privacy tools"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights a mixed but cautious sentiment in the crypto market, with bearish signals for Ethereum due to price weakness and technical data, while institutional moves like JPMorgan’s tokenized fund show growing adoption. Regulatory concerns around privacy tools and security issues such as DeFi phishing attacks add volatility. The combination of breaking institutional developments and market uncertainty suggests caution, aligning with a HOLD stance until clearer momentum emerges."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's New Entrants Face the Bite as Whales Retreat",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin",
+        "Why President Trump Had the Impact on Bitcoin and Crypto"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "Institutional interest in Bitcoin with Grayscale addressing quantum threats",
+        "Political commentary on Bitcoin by former President Trump"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed signals in the crypto market: institutional players like Grayscale downplay emerging risks (quantum computing), while political rhetoric from former President Trump may influence sentiment. No major regulatory, ETF, or adoption events are reported. Whale activity suggests caution among large holders, indicating a potential shift in momentum."
+    }
+  ]
+}

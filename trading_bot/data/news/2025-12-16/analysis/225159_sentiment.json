@@ -1,0 +1,25 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": 0.13333333333333333,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 20,
+  "headlines": [
+    "Bitcoin treasury Kindly MD faces potential delisting after Nasdaq price notice",
+    "The Bitcoin-to-gold ratio fell 50% in 2025: Here’s why",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Regulatory scrutiny of crypto market structure via Senate inquiry",
+    "XRP trading demand concerns",
+    "Bitcoin derivatives signaling potential breakout range between $85K-$100K",
+    "Bitcoin and Ethereum ETF approval expected (institutional adoption)",
+    "South Korea's debt relief for crypto firms (regulatory support)",
+    "Regulatory scrutiny on DeFi platforms (PancakeSwap) by US senator",
+    "Nasdaq price notice threatening Bitcoin ETF-like product delisting",
+    "Visa expanding stablecoin pilot with Solana (adoption and infrastructure)"
+  ],
+  "timestamp": "2025-12-16T22:51:59.802050"
+}

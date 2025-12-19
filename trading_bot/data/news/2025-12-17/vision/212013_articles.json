@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-17T21:20:13.253254",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin tumbles back below $88,000 as gains evaporate as quickly as they formed",
+        "Crypto industry insiders met with key senators on market structure bill negotiation",
+        "Don't call it QE – the Fed's $40 billion bill buys may not shake crypto out of slump"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.9,
+      "events": [
+        "Crypto industry insiders meet with U.S. senators on market structure bill (regulatory)",
+        "Fed's $40 billion in Treasury bill purchases could impact crypto markets (macroeconomic)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin has dropped below $88,000 amid a reversal in momentum, driven by macro concerns and potential regulatory scrutiny. Regulatory discussions with senators signal possible upcoming legislation that could impact market structure. The Federal Reserve’s large-scale bill purchases add uncertainty to market liquidity. Combined with negative sentiment across major altcoins (DOT, ETH), this environment suggests bearish pressure. While the Fed move is not directly crypto-specific, its implications for broader risk assets are high. Institutional and regulatory developments are present, but current price action reflects weakening demand."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Binance mulls new US strategy, CZ potentially reducing stake: Report",
+        "The real crypto adoption shows on Tuesday morning payments",
+        "Silvergate Bank lawsuit calls for FTX, Alameda clients to weigh in on $10M settlement"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.2,
+      "confidence": 0.75,
+      "events": [
+        "Binance's potential strategic shift in the US market",
+        "Regulatory developments involving Silvergate Bank and FTX/Alameda",
+        "Crypto adoption trends highlighted through payment activity"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent news highlights Binance's possible pivot in the U.S., ongoing legal proceedings involving Silvergate and FTX, and signs of growing crypto adoption. While no major ETF approvals or regulatory breakthroughs are reported, institutional moves and legal developments could influence sentiment. The overall tone is neutral, with mixed implications for market direction."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Price Drop Is Linked to the Bank of Japan's Potential Interest Rate Hike",
+        "Visa and FDIC Advance Stablecoin Integration Into US Financial System, Signaling Mainstream Adoption",
+        "Gavin Newsom Targets CZ, Ross Ulbricht and Arthur Hayes as Trump's 'Criminal Cronies'"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "Visa and FDIC advancing stablecoin integration into the U.S. financial system (adoption)",
+        "Bank of Japan's potential interest rate hike affecting Bitcoin price (macro influence)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed signals in the crypto market: regulatory scrutiny from political figures, institutional adoption via Visa and FDIC stablecoin efforts, and macroeconomic concerns tied to Japanese monetary policy. While adoption is positive, the Bank of Japan's potential rate hike introduces bearish pressure on Bitcoin. No major ETF or regulatory decisions are confirmed yet."
+    }
+  ]
+}

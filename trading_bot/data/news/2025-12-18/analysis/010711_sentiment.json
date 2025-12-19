@@ -1,0 +1,24 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.6,
+  "confidence": 0.6,
+  "trading_suggestion": "STRONG_BUY",
+  "news_count": 20,
+  "headlines": [
+    "Here’s what happened in crypto today",
+    "Bitcoin $70K flush would reset cycle, not confirm new bear market: Analyst",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Hut 8's $7 billion AI deal with Google backing (institutional adoption)",
+    "Indian regulators approve Coinbase's acquisition of CoinDCX stake (regulatory approval and institutional move)",
+    "CFTC acting chief expected to join MoonPay (regulatory influence)",
+    "Coinbase expands platform with stock and prediction markets (adoption)",
+    "Algorithmic XRP trading launched for retirement accounts (institutional adoption)",
+    "Bitcoin mining ban extension in Siberia (regulatory impact on mining operations)",
+    "Coinbase expands into stock trading and prediction markets (adoption)"
+  ],
+  "timestamp": "2025-12-18T01:07:11.038210"
+}

@@ -1,0 +1,21 @@
+{
+  "fetch_time": "2025-12-17T19:33:15.255043",
+  "source_type": "rss_feeds",
+  "count": 2,
+  "articles": [
+    {
+      "source": "cointelegraph.com",
+      "title": "Bitcoin tags $90K as crypto market spike liquidates $120M shorts",
+      "published": "Wed, 17 Dec 2025 15:56:20 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin tags $90K as crypto market spike liquidates $120M shorts\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zM",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Did Bitcoin's 4-year cycle break, and is the bull market really over?",
+      "published": "Wed, 17 Dec 2025 14:55:34 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Did Bitcoin's 4-year cycle break, and is the bull market really over?\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6",
+      "type": "crypto"
+    }
+  ]
+}

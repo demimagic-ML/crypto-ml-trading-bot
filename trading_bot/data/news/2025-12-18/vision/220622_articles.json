@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-18T22:06:22.283182",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin bulls foiled again as price tumbles back to $86,000, giving up CPI gains and more",
+        "XRP slumps as bitcoin once again falls back to $85,000 level after surge",
+        "Polkadot's DOT Slips 2% on above average volume"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.9,
+      "events": [
+        "U.S. SEC aids brokers on crypto custody, looks more closely at ATS activity",
+        "Coinbase shares rise as 'ambitious expansion' wins analyst praise"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin and broader crypto markets are showing bearish momentum after a sharp pullback from recent highs following a weaker-than-expected CPI print. The market reacted negatively, with Bitcoin dropping below $86,000 and XRP and DOT also declining. Regulatory scrutiny from the U.S. SEC on crypto custody adds uncertainty, while Coinbase’s positive institutional reception suggests some resilience in adoption. However, breaking news of a market reversal post-CPI data dominates sentiment."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin trips at $90K despite CPI showing curbed US inflation: What gives?",
+        "Why the 'great China Bitcoin mining crackdown' fell short of early claims",
+        "Bitcoin Policy Institute reps sound alarm on de minimis tax exclusion"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "US Fed guidance blocking banks from engaging with crypto (regulatory)",
+        "China's Bitcoin mining crackdown outcome analysis (adoption/regulation)",
+        "De minimis tax exclusion concern raised by Bitcoin Policy Institute (regulatory)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights regulatory concerns from the US Fed and tax policy issues affecting Bitcoin, alongside a market reaction to CPI data that failed to trigger expected bullish momentum. Despite headlines suggesting potential bearish sentiment due to regulation and tax risks, the market remains in flux with no clear directional catalyst yet. Institutional and regulatory developments are prominent, but conflicting signals keep sentiment neutral."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "SoFi Set to Launch Stablecoin on Ethereum",
+        "Over $2 Billion in Crypto Swiped by North Korean Hackers in 2025: Chainalysis",
+        "Crypto Treasuries Attract $2.6 Billion in Institutional Capital, Led by Starbucks Bitcoin Buys"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Institutional adoption of crypto treasuries with $2.6B inflow led by Starbucks",
+        "SoFi launching stablecoin on Ethereum (potential major adoption event)",
+        "North Korean cybercrime activity highlighting risks but also market volume"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights strong institutional interest in crypto with significant capital flowing into corporate treasuries, notably from Starbucks. SoFi's planned stablecoin launch adds to growing mainstream adoption. While a major hack by North Korea underscores ongoing risks, the overall trend points to bullish momentum driven by institutional moves and financial innovation."
+    }
+  ]
+}

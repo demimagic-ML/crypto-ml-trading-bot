@@ -1,0 +1,35 @@
+{
+  "fetch_time": "2025-12-19T09:08:16.039794",
+  "source_type": "rss_feeds",
+  "count": 4,
+  "articles": [
+    {
+      "source": "cointelegraph.com",
+      "title": "US Senate confirms pro-crypto Selig to lead CFTC, Hill to head FDIC",
+      "published": "Fri, 19 Dec 2025 05:01:28 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senate confirms pro-crypto Selig to lead CFTC, Hill to head FDIC\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "How cheap power turned Libya into a Bitcoin mining hotspot",
+      "published": "Fri, 19 Dec 2025 04:51:34 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"How cheap power turned Libya into a Bitcoin mining hotspot\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2l",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Crypto market cap falls to 8-month low, analysts see more pain ahead",
+      "published": "Fri, 19 Dec 2025 04:15:16 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto market cap falls to 8-month low, analysts see more pain ahead\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "SEC flags Bitcoin miner hosting services as subject to securities laws",
+      "published": "Fri, 19 Dec 2025 03:23:48 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC flags Bitcoin miner hosting services as subject to securities laws\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
+      "type": "crypto"
+    }
+  ]
+}

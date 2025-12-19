@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-17T22:12:55.744553",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Traders mull the bottom as bitcoin returns to week's lows below $86,000",
+        "Apotos drops 5% to $1.50 as volume spikes above monthly average",
+        "Polkadot's DOT drops 3% to $1.53 as crypto markets reverse lower"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin price nears $86,000 support level with traders assessing for potential bottom",
+        "Crypto market reversal amid selling pressure on DOT and APT tokens"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is testing weekly lows near $86,000, with traders uncertain about a bottom. Market sentiment is bearish as multiple altcoins like APT and DOT decline sharply, suggesting broader weakness. No major regulatory or institutional moves are reported, but the current price action indicates potential downside risk. Traders should be cautious; consider reducing exposure or setting stop-losses."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Binance mulls new US strategy, CZ potentially reducing stake: Report",
+        "The real crypto adoption shows on Tuesday morning payments",
+        "Silvergate Bank lawsuit calls for FTX, Alameda clients to weigh in on $10M settlement"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.75,
+      "events": [
+        "Binance's potential strategic shift in the US market with possible stake reduction by CZ",
+        "Silvergate Bank legal proceedings involving FTX and Alameda clients over a $10M settlement",
+        "Institutional crypto adoption highlighted through payment activity"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The latest news highlights Binance's evolving US strategy, ongoing legal developments around Silvergate and FTX, and signs of growing institutional crypto adoption. While there are no immediate breaking regulatory or ETF announcements, the institutional moves and legal outcomes could influence sentiment in the coming days. The overall tone is neutral with mixed implications."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Singapore Entrepreneur Loses Crypto Holdings to Malware Dressed Up as a Game",
+        "Bitcoin Miner Hut 8 Signs $7 Billion AI Deal With Google Backing",
+        "Central African Republic's Crypto Initiatives Criticized for Benefiting Foreign Investors Over Citizens"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "Hut 8's $7 billion AI deal with Google backing (institutional adoption)",
+        "Crypto initiatives in Central African Republic facing criticism (regulatory/adoption concerns)"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The top headlines reflect mixed signals: institutional interest via Hut 8's AI partnership is bullish, but regulatory and security concerns (malware attack, geopolitical misuse) introduce risk. No major ETF or regulatory decisions are reported. The sentiment is neutral due to balanced positive and negative developments."
+    }
+  ]
+}

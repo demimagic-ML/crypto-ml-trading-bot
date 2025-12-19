@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-16T06:26:07.290141",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slides to $86,000 as slower rate cut risk, AI stock woes shake markets",
+        "Why Dogecoin's drop below $0.13 is drawing institutional attention",
+        "XRP price weakens at critical level, raising risk of deeper pullback"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.9,
+      "events": [
+        "Bitcoin price drop to $86,000 amid macro concerns and AI market weakness",
+        "Dogecoin falling below $0.13 triggering institutional interest",
+        "XRP weakening near key support zone"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin has dropped to $86,000 due to slowing rate cut expectations and broader market sell-off driven by AI sector weakness. Dogecoin is under pressure below $0.13, attracting institutional scrutiny, while XRP shows signs of a deeper downtrend. These developments reflect bearish momentum across major cryptos with potential for further downside, especially if macro risks persist."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin to hit new all-time high within 6 months: Grayscale",
+        "US crypto market structure legislation to advance in early 2026",
+        "Crypto urges SEC to see the good in blockchain privacy tools"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Grayscale's bullish Bitcoin prediction (institutional sentiment)",
+        "SEC consideration of blockchain privacy tools (regulatory development)",
+        "Potential US crypto market structure legislation in 2026 (regulatory clarity)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "The latest news highlights strong institutional optimism around Bitcoin, with Grayscale predicting a new all-time high within six months. Regulatory developments are also emerging, including potential legislation and discussions on blockchain privacy, signaling increasing legitimacy and adoption. These factors combined suggest a bullish environment for crypto markets."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Sinks Towards $85,000 as XRP, Ethereum, and Bitcoin Fall Alongside",
+        "Why President Trump Had the Biggest Impact on Bitcoin and Crypto in 2025",
+        "Decrypted’s 2025 Person of the Year: President Donald Trump"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin price retreat to $85,000 level",
+        "President Trump's influence on crypto markets highlighted as a major theme for 2025"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is showing significant weakness, dropping toward $85,000 amid broader crypto market sell-off. The mention of President Trump as 'Person of the Year' by Decrypt suggests political influence may be shaping market sentiment. While not explicitly regulatory or ETF-related, political narratives around crypto are high-impact drivers. This breaking news indicates a bearish shift, warranting caution or selling pressure."
+    }
+  ]
+}

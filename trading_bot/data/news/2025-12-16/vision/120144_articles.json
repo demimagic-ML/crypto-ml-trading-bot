@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-16T12:01:44.483671",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's bearish turn deepens as 75 out of top 100 coins trade below key averages; Nasdaq resilient",
+        "Axelar token falls 15% after Circle deal takes the developer team, leaves AXL behind",
+        "Bitcoin, ether and XRP extend losses as year-end caution builds"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Axelar token price drop following Circle's acquisition of its development team",
+        "Bitcoin and broader crypto market trading below key technical averages",
+        "Institutional caution ahead of year-end affecting BTC and ETH"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Crypto markets are showing a broad bearish trend with Bitcoin and 75 of the top 100 coins trading below key moving averages. Institutional caution and negative sentiment around major tokens like Axelar (AXL) suggest continued downward pressure. The Nasdaq's resilience contrasts with crypto weakness, indicating potential risk-off behavior in digital assets. This is breaking news with high market impact, suggesting a cautious or sell stance."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin sharks stack at fastest pace in 13 years, with BTC down 30%",
+        "Most crypto sectors lagged Bitcoin over past 3 months: Glassnode",
+        "Winklevoss-led Gemini rolls out prediction markets in 50 US states"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.8,
+      "events": [
+        "Gemini launches prediction markets in 50 US states (adoption)",
+        "Bitcoin accumulation at record pace despite price drop (institutional behavior)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is experiencing rapid accumulation by large holders amid a 30% price decline, suggesting potential short-term weakness but long-term buying pressure. Meanwhile, Gemini's expansion into prediction markets signals growing institutional adoption. However, broad market underperformance relative to Bitcoin raises caution. The combination of macro bearishness and selective bullish activity suggests a volatile environment—wait for confirmation before aggressive moves."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Sinks Towards $85,000 as Ethereum, XRP Fall Alongside",
+        "PayPal Seeks Utah-Chartered Industrial Bank Status",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.75,
+      "events": [
+        "Bitcoin price drop towards $85,000",
+        "PayPal's move toward banking charter (potential institutional adoption)",
+        "Grayscale addressing quantum computing risks (institutional concern)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is experiencing a notable pullback near $85,000, with ETH and XRP also declining, signaling broader market weakness. While PayPal's pursuit of a bank charter suggests long-term institutional interest, the immediate sentiment is bearish due to price action. Grayscale’s downplaying of quantum threats adds context but doesn't offset current selling pressure. This is breaking news with significant market impact."
+    }
+  ]
+}

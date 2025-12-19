@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-16T16:07:14.428827",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "U.S. added 64,000 jobs in November, with unemployment rate jumping to four-year high of 4.6%",
+        "Bitcoin slump deepens as most of top 100 tokens fall below key trading signals",
+        "Axelar token falls 15% after Circle deal takes the developer team, leaves AXL behind"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin and other ETFs see largest outflows since Nov. 20 as BTC declines",
+        "Visa brings Circle's USDC settlement to U.S. banks following $3.5 billion stablecoin pilot"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Breaking news highlights a weakening macroeconomic environment with rising unemployment and declining Bitcoin prices, exacerbated by outflows from crypto ETFs. Institutional moves like Visa’s USDC settlement show adoption but are offset by bearish market signals. The sentiment is strongly bearish due to job data and price action."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Visa launches USDC settlement for US banks on Solana blockchain",
+        "Political tokens played key role in memecoin boom and bust: CoinGecko",
+        "Ronin and ZKsync's onchain metrics fell the most in 2025"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.75,
+      "events": [
+        "Visa's adoption of USDC on Solana blockchain",
+        "Regulatory scrutiny on blockchain privacy tools by SEC (crypto urges SEC to see the good in blockchain privacy tools)",
+        "JPMorgan launches its first tokenized money market fund on Ethereum"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Recent developments include major institutional moves such as Visa adopting USDC on Solana and JPMorgan launching a tokenized money market fund, signaling growing mainstream adoption. Regulatory attention on privacy tools adds uncertainty. While there are bullish signals from institutional involvement, bearish sentiment is emerging from declining onchain metrics and memecoin volatility. The mix of adoption and regulatory concerns creates a neutral-to-slightly-bullish environment with high urgency due to breaking news."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's New Entrants Face the Bite as Whales Retreat",
+        "PayPal Seeks Utah-Chartered Industrial Bank Status",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "PayPal seeking Utah-chartered industrial bank status (institutional adoption)",
+        "Grayscale addressing quantum computing threat (long-term risk mitigation)"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed signals in the crypto market: institutional interest from PayPal via banking infrastructure moves, while whale activity shows caution and Grayscale downplays quantum threats. No major regulatory or ETF developments are present. The overall tone is neutral with moderate institutional relevance."
+    }
+  ]
+}

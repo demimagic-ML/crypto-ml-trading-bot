@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-16T20:40:10.010544",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says",
+        "U.S. Senate's Warren asks for Trump-tied crypto probe as market structure bill drags",
+        "BNB tops $870, outperforming crypto majors as volume surges"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.2,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory scrutiny: U.S. Senator Warren calls for investigation into Trump-linked crypto entities",
+        "Institutional interest: Eric Trump's American Bitcoin jumps to 20th among public BTC treasury companies",
+        "Adoption: Marshall Islands launches world's first blockchain-based UBI on Stellar blockchain"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Bitcoin shows a bounce after recent lows but faces resistance below $80,000. Regulatory concerns persist with Senator Warren calling for a crypto probe, while institutional activity and adoption news (e.g., BNB rally, Marshall Islands UBI) provide mixed signals. The market is reacting to both bullish momentum and regulatory uncertainty."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "US banks could soon issue stablecoins under FDIC plan to implement GENIUS Act",
+        "Why BitMine is accumulating Ether despite broader market fear",
+        "How scammers target crypto users during the holidays and how to stay protected"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.7,
+      "events": [
+        "Institutional adoption: US banks may issue stablecoins under FDIC-backed GENIUS Act",
+        "Regulatory awareness: Crypto scams during holidays highlight security concerns"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The top news highlights potential institutional adoption of stablecoins by US banks, signaling growing mainstream acceptance. However, there's no major regulatory breakthrough or ETF approval. A cautionary note on holiday scams underscores ongoing risks. While not a breakout event, the GENIUS Act development could be bullish for stablecoin issuers and infrastructure providers over time. The overall sentiment remains neutral with moderate market impact."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin and Ethereum ETFs Edge Closer as Institutions Pull Back",
+        "South Korean Government Grants $100M in Debt Relief to Crypto Firms",
+        "Bitwise Says the Bitcoin 4-Year Cycle Will Die in 2026"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.75,
+      "events": [
+        "Bitcoin and Ethereum ETF approvals nearing, but institutional adoption appears cautious",
+        "South Korea's debt relief for crypto firms signals government support for industry stabilization",
+        "Bitwise's prediction on Bitcoin cycle end could influence long-term market positioning"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The latest news from Decrypt reflects mixed signals: while ETF progress continues to build anticipation, institutional hesitation persists. South Korea’s financial support for crypto firms adds a positive regulatory tone, but Bitwise’s bearish cycle forecast introduces caution. No immediate catalysts are evident, suggesting a period of consolidation ahead."
+    }
+  ]
+}

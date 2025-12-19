@@ -1,0 +1,24 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.2833333333333333,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 22,
+  "headlines": [
+    "How scammers target crypto users during the holidays and how to stay protected",
+    "Solana enters Brazil’s main exchange as Valour expands regulated crypto access",
+    "UK crypto ownership dropped to 8% in 2025: YouGov poll",
+    "Bitcoin liquidity ‘battle’ rages as bull case sees clear run to $95K",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank"
+  ],
+  "events": [
+    "Coinbase integrates USDC stablecoin with Polkadot (adoption)",
+    "PayPal seeking Utah bank charter (institutional adoption)",
+    "JPMorgan launches first tokenized money market fund on Ethereum (institutional adoption)",
+    "Grayscale addressing quantum computing threat (long-term risk discussion)",
+    "American Bitcoin enters top 20 public BTC treasury companies (institutional adoption)",
+    "FDIC proposes first U.S. stablecoin regulation (regulatory development)",
+    "SEC regulatory discussion on blockchain privacy tools (regulatory development)"
+  ],
+  "timestamp": "2025-12-16T19:30:12.411108"
+}

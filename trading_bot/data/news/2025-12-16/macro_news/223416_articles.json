@@ -1,0 +1,127 @@
+{
+  "fetch_time": "2025-12-16T22:34:16.856065",
+  "source_type": "macro_news",
+  "count": 15,
+  "articles": [
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+      "published": "Tue, 16 Dec 2025 16:00:00 GMT",
+      "summary": "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "published": "Mon, 15 Dec 2025 16:00:00 GMT",
+      "summary": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "published": "Mon, 15 Dec 2025 16:00:00 GMT",
+      "summary": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC",
+      "published": "Thu, 11 Dec 2025 22:00:00 GMT",
+      "summary": "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
+      "published": "Thu, 11 Dec 2025 22:00:00 GMT",
+      "summary": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve Board announces reappointment of Reserve Bank presidents and first vice presidents",
+      "published": "Thu, 11 Dec 2025 21:00:00 GMT",
+      "summary": "Federal Reserve Board announces reappointment of Reserve Bank presidents and first vice presidents",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve Board announces termination of enforcement actions with Credit Suisse Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., Credit Suisse AG, New York Branch, and JPMorgan Chase & Co.",
+      "published": "Thu, 11 Dec 2025 16:00:00 GMT",
+      "summary": "Federal Reserve Board announces termination of enforcement actions with Credit Suisse Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., Credit Suisse AG, New York Branch, and JPMorgan Chase &amp; Co.",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve issues FOMC statement",
+      "published": "Wed, 10 Dec 2025 19:00:00 GMT",
+      "summary": "Federal Reserve issues FOMC statement",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
+      "published": "Wed, 10 Dec 2025 19:00:00 GMT",
+      "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve Board issues enforcement action with former employee of Synovus Bank",
+      "published": "Fri, 5 Dec 2025 16:00:00 GMT",
+      "summary": "Federal Reserve Board issues enforcement action with former employee of Synovus Bank",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "cnbc_markets",
+      "title": "Consumers are feeling gloomy about the economy. Here's why they're spending anyway",
+      "published": "Tue, 16 Dec 2025 16:17:22 GMT",
+      "summary": "Consumer sentiment is low and the job market is shaky. Shoppers are still spending during the holidays.",
+      "type": "macro",
+      "is_fed": false
+    },
+    {
+      "source": "cnbc_markets",
+      "title": "What Trump's reclassification of pot and CBD could mean for seniors, research and stocks",
+      "published": "Tue, 16 Dec 2025 20:23:53 GMT",
+      "summary": "Reclassification to a Schedule III drug and possible Medicare coverage for pot could unlock new investment from pharmaceutical companies.",
+      "type": "macro",
+      "is_fed": false
+    },
+    {
+      "source": "cnbc_markets",
+      "title": "Birkin bag prices are sinking at auction despite high-profile sales",
+      "published": "Tue, 16 Dec 2025 17:53:06 GMT",
+      "summary": "Luxury experts say aspirational luxury consumers are facing new pressures from inflation and a slowing job market, meaning fewer Birkin buyers at auction.",
+      "type": "macro",
+      "is_fed": false
+    },
+    {
+      "source": "cnbc_markets",
+      "title": "As catastrophe losses top $100 billion again, insurers are helping policyholders mitigate risk",
+      "published": "Tue, 16 Dec 2025 13:21:26 GMT",
+      "summary": "Wildfires and severe storms are the main driver of losses, accounting for 83% of the total insured losses, according to Swiss Re.",
+      "type": "macro",
+      "is_fed": false
+    },
+    {
+      "source": "cnbc_markets",
+      "title": "From puppies to superheroes, Chinese AI toys are bringing hugs — and hesitation",
+      "published": "Mon, 15 Dec 2025 15:53:18 GMT",
+      "summary": "China's AI toy industry is growing as Beijing pushes companies and consumers to integrate the technology.",
+      "type": "macro",
+      "is_fed": false
+    }
+  ]
+}

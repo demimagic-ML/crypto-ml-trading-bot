@@ -1,0 +1,25 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": -0.08333333333333333,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 19,
+  "headlines": [
+    "Bitcoin tags $90K as crypto market spike liquidates $120M shorts",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC"
+  ],
+  "events": [
+    "Bitcoin miner Hut 8 signs $7 billion AI deal with Google backing (institutional adoption)",
+    "Central African Republic crypto initiatives criticized (regulatory/adoption concerns)",
+    "Tech selloff impacting crypto markets, suggesting risk-off sentiment",
+    "Strong selling pressure in Polkadot (DOT) and BNB amid broader crypto weakness",
+    "Silvergate Bank lawsuit involving FTX and Alameda clients",
+    "Bitcoin price near $86,000 with potential oversold condition",
+    "Regulatory scrutiny on crypto exchanges and DeFi",
+    "Binance's potential strategic shift in the US market"
+  ],
+  "timestamp": "2025-12-17T21:55:16.054214"
+}

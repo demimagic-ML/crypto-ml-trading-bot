@@ -1,0 +1,70 @@
+{
+  "fetch_time": "2025-12-16T03:41:22.642743",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slides to $86,000 as slower rate cut risk, AI stock woes shake markets",
+        "PayPal, issuer of PYUSD, applies for Utah industrial bank license",
+        "SBI, Startale to launch regulated yen stablecoin for global settlement"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "PayPal applying for Utah industrial bank license (regulatory adoption)",
+        "SBI and Startale launching regulated yen stablecoin (institutional adoption)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is trading below $86,000 amid macro concerns over delayed rate cuts and AI sector weakness. Despite positive institutional developments like PayPal's banking application and a new regulated yen stablecoin, the dominant market sentiment is bearish due to broader macro pressures. The breaking news on Bitcoin's price drop is high-impact, suggesting near-term downside pressure."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin, altcoins sell-off as Fed chair switch-up, AI bubble fears spook markets",
+        "Japan's SBI and Startale plan regulated yen stablecoin in 2026 under new framework",
+        "Here's what happened in crypto today"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "Japan's SBI and Startale planning a regulated yen stablecoin by 2026 (regulatory/adoption)",
+        "Fed chair change and AI bubble fears triggering market sell-off (macro/market sentiment)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The top news highlights a bearish market reaction due to macro concerns over Fed leadership changes and AI-related speculative fears, causing a broad sell-off in Bitcoin and altcoins. A significant regulatory development is also emerging with Japan’s SBI and Startale planning a regulated yen stablecoin, which could impact adoption but is not yet live. The breaking nature of the sell-off suggests immediate caution."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Sinks Towards $85,000 as Ethereum, XRP Fall Alongside",
+        "Ripple Expanding RLUSD From Ledger and Ethereum",
+        "Bank of America's Analysts Signal Regulatory Shift Towards On-Chain Assets"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.75,
+      "events": [
+        "Regulatory shift toward on-chain assets (institutional move)",
+        "Ripple expanding its stablecoin (RLUSD) on multiple blockchains (adoption)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin and altcoins are under pressure with BTC near $85,000, signaling bearish momentum. Ripple's expansion of RLUSD shows ongoing adoption, but regulatory signals from Bank of America suggest a cautious institutional stance. While adoption is growing, the market is reacting negatively to price action and macro concerns."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-16T13:15:27.450710",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slump deepens as most of top 100 tokens fall below key trading signals",
+        "Axelar token falls 15% after Circle deal takes the developer team, leaves AXL behind",
+        "Why Dogecoin's drop below $0.13 is drawing institutional attention"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.9,
+      "events": [
+        "Bitcoin and top 100 tokens falling below key technical levels",
+        "Institutional interest in Dogecoin near $0.13 support level",
+        "Circle's strategic move affecting Axelar (AXL) ecosystem"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The market is showing widespread weakness with Bitcoin and most top 100 tokens breaking key technical supports. Institutional attention on Dogecoin suggests potential short-term stabilization, but overall sentiment remains bearish. Axelar’s sharp decline due to a developer team shift adds to risk aversion. This is breaking news with high impact, suggesting a sell signal for broad crypto exposure."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin long-term holder supply hits 8-month lows: Bullish or bearish?",
+        "Winklevoss-led Gemini rolls out prediction markets in 50 US states",
+        "Singapore-licensed StraitsX to bring its SGD, USD stablecoins to Solana in 2026"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "Gemini launches prediction markets in 50 US states (institutional adoption)",
+        "StraitsX expanding stablecoin offerings to Solana (adoption)"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent news highlights institutional developments in prediction markets and stablecoin expansion on Solana, with mixed signals from Bitcoin's long-term holder activity. No major regulatory or ETF announcements are present, and sentiment remains neutral with no strong bullish or bearish catalysts."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Sinks Towards $85,000 as Ethereum, XRP Fall Alongside",
+        "PayPal Seeks Utah-Chartered Industrial Bank Status",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.75,
+      "events": [
+        "Bitcoin price decline towards $85,000",
+        "PayPal's pursuit of bank charter status (potential institutional adoption)",
+        "Grayscale addressing quantum computing risks (institutional concern)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is experiencing downward pressure near $85,000 with broader crypto market weakness. PayPal's move toward a banking charter signals potential institutional expansion but is offset by bearish market trends. Grayscale’s reassurance on quantum threats indicates ongoing institutional scrutiny. The combination of price action and sentiment suggests a short-term bearish environment."
+    }
+  ]
+}

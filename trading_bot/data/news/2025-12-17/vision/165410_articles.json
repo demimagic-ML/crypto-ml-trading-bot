@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-17T16:54:10.791598",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Hut 8 stock surges 20% on Fluidstack AI data center deal",
+        "Don't call it QE – the Fed's $40 billion bill buys may not shake crypto out of slump",
+        "Bitcoin trades near key price safety net that Strategy already breached"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "Hut 8's strategic pivot into AI infrastructure with a $7 billion lease from Google",
+        "Fed's $40 billion in quantitative easing (QE) impacting market liquidity and crypto sentiment",
+        "Bitcoin approaching critical technical support level"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent news highlights institutional moves in crypto infrastructure (Hut 8), macroeconomic factors affecting liquidity (Fed QE), and technical concerns around Bitcoin’s price support. While there is some bullish momentum in mining stocks, broader market sentiment remains cautious amid macro uncertainty. No major regulatory or ETF developments are reported. The breaking nature of Hut 8’s AI expansion and Bitcoin’s technical position warrant monitoring but do not yet signal strong directional bias."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Securitize announces 'real' tokenized stocks, touts DeFi integration",
+        "Solana TVL hits $8.6B six-month lows: Is $80 SOL price next?",
+        "New protocol targets redemption delays in $20B tokenized market"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "Regulatory consultation on crypto rules for exchanges, lending and DeFi (UK)",
+        "Adoption of tokenized stocks via Securitize and DeFi integration"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights developments in tokenization, DeFi adoption, and regulatory discussions around crypto markets. While there is positive movement in institutional tokenization and protocol innovation, the Solana TVL decline signals caution. No major breaking events like ETF approvals or hacks are reported. Regulatory news from the UK could influence sentiment but lacks immediate actionability."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Traders Brace for Bank of Japan Rate Hike Amid Crypto Sell-Off",
+        "Trump 'Open' to Democrats at SEC, CFTC in Possible Boon to Crypto Market Structure Bill",
+        "Social Media Influencers in Hawaii Face Charges for Promoting Crypto, Accused of $206 Million in Losses"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "Bank of Japan rate hike expected to impact crypto markets",
+        "Potential regulatory shift with Trump's openness to SEC/CFTC reform",
+        "Crypto influencer crackdown in Hawaii highlights regulatory scrutiny"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The top headlines reflect a mix of macroeconomic concerns (BOJ rate hike) and regulatory developments, with a bearish tone due to the anticipated sell-off from monetary tightening and increased enforcement against crypto influencers. Institutional sentiment appears cautious, and regulatory risks are elevated. The combination of potential policy shifts and market reaction to central bank actions suggests downside pressure on Bitcoin and broader crypto markets."
+    }
+  ]
+}

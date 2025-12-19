@@ -1,0 +1,24 @@
+{
+  "sentiment": "BEARISH",
+  "sentiment_score": -0.3333333333333333,
+  "confidence": 0.6,
+  "trading_suggestion": "SELL",
+  "news_count": 20,
+  "headlines": [
+    "Crypto’s ‘super app’ race is on as industry enters aggregation era: Report",
+    "Here’s what happened in crypto today",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc."
+  ],
+  "events": [
+    "JPMorgan launches its first tokenized money market fund on Ethereum",
+    "Web3 Antivirus detects $563k DeFi loss after phishing approval during Aave and Compound...",
+    "Bitcoin price falling below key technical levels (technical breakdown)",
+    "PayPal's pursuit of a Utah-chartered industrial bank status (institutional adoption)",
+    "Grayscale addressing quantum computing risks (regulatory/technological concern)",
+    "Aster launches Shield Mode, a protected high-performance trading mode for on-chain traders",
+    "Visa and Circle launch USDC settlement with U.S. banks (institutional adoption)"
+  ],
+  "timestamp": "2025-12-16T17:39:52.613571"
+}

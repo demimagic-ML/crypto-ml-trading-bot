@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-16T12:42:32.078760",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's bearish turn deepens as 75 out of top 100 coins trade below key averages; Nasdaq resilient",
+        "Why bitcoin ETFs look like they're falling short, even as their role grows: Asia Morning Briefing",
+        "Bitcoin, ether and XRP extend losses as year-end caution builds"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.9,
+      "events": [
+        "Bitcoin ETFs showing underperformance despite growing institutional interest",
+        "StraitsX to debut Singapore and U.S. dollar stablecoins on Solana for quick currency exchange (adoption event)",
+        "Axelar token drops 15% after Circle deal takes developer team, leaves AXL behind (institutional move)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The market is showing signs of a broad bearish trend with 75% of top 100 cryptocurrencies trading below key technical averages. Bitcoin ETFs are failing to gain traction despite growing institutional interest, signaling caution among large players. Institutional shifts, such as the Circle deal impacting Axelar, and regulatory uncertainty are contributing to a risk-off sentiment. While there is some positive adoption news (StraitsX stablecoin launch), it's overshadowed by dominant negative momentum. This environment suggests a high-risk period for long positions."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin long-term holder supply hits 8-month lows: Bullish or bearish?",
+        "Bitcoin sharks stack at fastest pace in 13 years, with BTC down 30%",
+        "Winklevoss-led Gemini rolls out prediction markets in 50 US states"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin long-term holder supply hitting 8-month lows",
+        "Gemini launching prediction markets across 50 US states",
+        "Bitcoin whale accumulation at fastest pace in 13 years despite price drop"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights a mixed but cautiously bearish sentiment for Bitcoin. Long-term holder supply is at an 8-month low, which may signal selling pressure, while whales are accumulating at the fastest rate in 13 years—suggesting potential bottom fishing. Gemini's expansion into prediction markets signals institutional innovation, but lacks direct market-moving impact. The combination of technical weakness and whale activity warrants caution; avoid aggressive entries until clearer trend confirmation."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Sinks Towards $85,000 as Ethereum, XRP Fall Alongside",
+        "PayPal Seeks Utah-Chartered Industrial Bank Status",
+        "President Trump Says He Will Consider Pardoning Samourai Wallet Developer"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.75,
+      "events": [
+        "Bitcoin price decline toward $85,000",
+        "PayPal pursuing bank charter in Utah (potential institutional adoption)",
+        "Trump's comment on Samourai Wallet developer (possible regulatory or political signal)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The top headlines indicate a bearish market tone with Bitcoin and altcoins declining sharply. PayPal's move to obtain a bank charter signals potential institutional crypto integration but is overshadowed by the immediate price sell-off. Trump's comment introduces political uncertainty around privacy-focused wallets. The breaking nature of the price drop and institutional developments suggests high urgency for traders to reassess exposure."
+    }
+  ]
+}

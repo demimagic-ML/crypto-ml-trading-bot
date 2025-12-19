@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-17T08:23:10.655999",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slides with ether and XRP as market tests $3 trillion floor",
+        "Grayscale outlines top crypto investing themes for 2026 as institutional adoption grows",
+        "Why XRP’s drop below $1.93 shits short-term market structure"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "Grayscale outlines 2026 crypto investing themes with focus on institutional adoption",
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+        "Senator Warren asks for Trump-tied crypto probe as market structure bill drags"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Bitcoin and broader crypto markets are testing a $3 trillion valuation, showing weakness amid macro concerns despite institutional interest. Grayscale highlights growing institutional adoption in 2026, while regulatory developments (FDIC stablecoin rule, Senate probe) add uncertainty. XRP faces near-term technical pressure below $1.93. The mix of bearish price action and bullish institutional sentiment creates a neutral-to-cautious trading environment."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin could go 'sub-$50K if quantum isn't solved by 2028: Capriole",
+        "Saylor's Bitcoin stash will be very hard for anyone to match: Pompl",
+        "Bhutan pledges 10K Bitcoin to develop its 'mindfulness city'"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory consultation on crypto rules in the UK (exchanges, lending, DeFi)",
+        "SEC urged to recognize value in blockchain privacy tools",
+        "Institutional adoption signal: Bhutan's 10K BTC pledge for development"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights a mix of regulatory developments, institutional interest from Bhutan, and speculative concerns about quantum computing threats to Bitcoin. While there are bullish signals from adoption, regulatory uncertainty and long-term risks temper overall sentiment. The most immediate impact comes from Bhutan’s BTC pledge and UK regulatory consultations, but no major ETF or hack events are reported."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Former Theta Executives Accuse Crypto Firm's CEO of Fraud. Retaliation",
+        "Actors, Creators Launch Coalition to Push AI Rules Amid Ongoing Concerns",
+        "FDIC Opens Public Comment Period for Rule Proposal on Handling Stablecoin Issuer Applications"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "FDIC proposes rule for stablecoin issuer applications (regulatory)",
+        "Theta executives accuse CEO of fraud (internal conflict in crypto firm)"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights regulatory developments with the FDIC's stablecoin proposal and internal disputes within a crypto firm (Theta). No major ETF approvals, hacks, or institutional adoption announcements are present. The sentiment is neutral, with no clear bullish or bearish catalysts. Regulatory actions could have moderate impact over time."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "sentiment": "BEARISH",
+  "sentiment_score": -0.6166666666666666,
+  "confidence": 0.6,
+  "trading_suggestion": "STRONG_SELL",
+  "news_count": 21,
+  "headlines": [
+    "Bitcoin sharks stack at fastest pace in 13 years, with BTC down 30%",
+    "Most crypto sectors lagged Bitcoin over past 3 months: Glassnode",
+    "MetaMask adds Bitcoin support after teasing it 10 months ago",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Bitcoin accumulation at record pace despite price drop (institutional behavior)",
+    "Bitcoin and other major cryptocurrencies are trading below key technical averages",
+    "PayPal's move toward a Utah-chartered bank status (potential institutional adoption)",
+    "XRP price down over 5% indicating broader market weakness",
+    "Gemini launches prediction markets in 50 US states (adoption)",
+    "Institutional investor ARK is active amid market downturn",
+    "Bitcoin price drop toward $85,000 with broader crypto market weakness"
+  ],
+  "timestamp": "2025-12-16T12:12:58.500301"
+}

@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-16T06:09:48.777499",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slides to $86,000 as slower rate cut risk, AI stock woes shake markets",
+        "Dogecoin's drop below $0.13 is drawing institutional attention",
+        "XRP price weakens at critical level, raising risk of deeper pullback"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.9,
+      "events": [
+        "Bitcoin price drop due to macro concerns (rate cuts and AI stock weakness)",
+        "Institutional interest in Dogecoin near key support ($0.13)",
+        "XRP weakening at critical technical level"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin has dropped to $86,000 amid macroeconomic concerns over delayed rate cuts and broader market sell-off in AI stocks. Dogecoin is attracting institutional attention after falling below $0.13, while XRP shows signs of a deeper downtrend. The overall sentiment is bearish, driven by macro fears and technical breakdowns in major altcoins. This is breaking news with significant market impact, suggesting caution for crypto traders."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin to hit new all-time high within 6 months: Grayscale",
+        "US crypto market structure legislation to advance in early 2026",
+        "Trump to 'look into' recently convicted Samurai Wallet co-founder"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Regulatory development: US crypto market structure legislation expected in early 2026",
+        "Institutional commentary: Grayscale predicts Bitcoin reaching a new all-time high within 6 months",
+        "Political involvement: Trump signals interest in reviewing case of convicted crypto figure"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "The top headlines indicate strong bullish momentum with institutional predictions of BTC hitting new highs, regulatory clarity on the horizon, and political engagement in crypto-related cases. The combination of regulatory progress and positive sentiment from major institutions suggests a significant upward catalyst for the market."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Sinks Towards $85,000 as Ethereum, XRP Fall Alongside",
+        "Ripple Expanding RLUSD From Ledger and Ethereum",
+        "Bank of America's Analysts Signal Regulatory Shift Towards On-Chain Assets"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin price decline toward $85,000",
+        "Regulatory shift signaled by Bank of America analysts",
+        "Ripple expanding RLUSD on multiple blockchains"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is experiencing a notable pullback toward $85,000 with ETH and XRP following in tandem, signaling broader market weakness. While Ripple’s expansion of its stablecoin RLUSD suggests institutional adoption, the dominant narrative is bearish due to declining prices and regulatory caution from major financial institutions. This is breaking news with significant market implications."
+    }
+  ]
+}

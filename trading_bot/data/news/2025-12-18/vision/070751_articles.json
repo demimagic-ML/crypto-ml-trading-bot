@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-18T07:07:51.349973",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin drifts lower as $81.3k emerges as the market’s key fault line: Asia Morning Briefing",
+        "Traders mull the bottom as bitcoin returns to week's lows below $86,000",
+        "CFTC's acting chief Pham poised to go to crypto firm MoonPay once Mike Selig lands"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "CFTC regulatory leadership change with acting chief moving to MoonPay (institutional shift)",
+        "Coinbase expanding into stock trading and prediction markets (adoption and platform diversification)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is testing key support near $81.3k and $86k after a sharp pullback, with traders assessing potential for further downside. Regulatory uncertainty persists as CFTC leadership shifts toward industry involvement. Coinbase's expansion into traditional finance could signal broader adoption but adds volatility risk. Institutional moves and regulatory news suggest caution."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's volatility below Nvidia in 2025 as investor base grew: Bitwise",
+        "Crypto ETPs could see a flood of liquidations by 2027: Analyst",
+        "US Fed pulls guidance blocking its banks from engaging with crypto"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "US Federal Reserve updates guidance on banks' engagement with crypto (regulatory)",
+        "Potential ETP liquidation risks by 2027 (adoption/regulatory risk)",
+        "Bitcoin volatility comparison to Nvidia (market dynamics)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "The latest news highlights mixed signals: the US Fed’s updated stance on crypto could signal institutional openness, while warnings about ETP liquidations suggest systemic risks. Bitcoin’s growing investor base is noted, but volatility remains a concern. Regulatory developments and potential ETF-related risks are key themes. While not overtly bullish or bearish, regulatory clarity may be emerging, warranting caution and close monitoring."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $7 Billion AI Deal With Google Backing",
+        "Singapore Entrepreneur Loses Crypto Holdings to Malware Dressed Up as a Game",
+        "Central African Republic's Crypto Initiatives Criticized for Benefiting Foreign Investors Over Citizens"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "Hut 8's $7 billion AI deal with Google backing (institutional adoption)",
+        "Malware targeting crypto holders in Singapore (security risk)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The top news includes a major institutional move by Bitcoin miner Hut 8 securing a $7B AI deal with Google, signaling growing institutional interest in crypto infrastructure. However, this is balanced by a security warning about malware targeting crypto users in Singapore. The CA Republic crypto initiative raises concerns over equitable benefits. Overall sentiment is neutral due to mixed signals: positive institutional momentum vs. security risks and regulatory skepticism."
+    }
+  ]
+}

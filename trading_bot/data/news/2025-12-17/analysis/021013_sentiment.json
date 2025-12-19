@@ -1,0 +1,25 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.31666666666666665,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 20,
+  "headlines": [
+    "Spot Bitcoin ETFs see $358M outflow: Are investors abandoning BTC?",
+    "Here’s what happened in crypto today",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Bitcoin ETF outflow of $358M",
+    "Bank of Canada outlines stablecoin criteria",
+    "Institutional outlook: Bitwise's prediction of new Bitcoin highs in 2026 suggests strong institutional bullish sentiment.",
+    "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENTUS Act (regulatory development)",
+    "Security incident: FTC action against Nomad operator over $186M theft highlights ongoing risks but also regulatory enforcement.",
+    "Regulatory development: Trump's openness to Democratic leadership at SEC and CFTC may signal favorable crypto market structure legislation.",
+    "Regulatory consultation on crypto rules by UK regulator",
+    "Bitcoin derivatives indicate potential bullish breakout to $85,000–$100,000"
+  ],
+  "timestamp": "2025-12-17T02:10:13.997337"
+}

@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-17T18:05:29.960786",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin re-takes $90,000 as price spikes early in U.S. session",
+        "Bitcoin shorts scramble for the exits as BTC climbs",
+        "Hut 8 and Coinbase outperform as Crypto stocks jump on bitcoin's sudden rally"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin price surge to $90,000",
+        "Institutional stocks (Hut 8, Coinbase) outperforming due to crypto rally",
+        "Wall Street giant DTCC picks privacy-focused blockchain for tokenization"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Bitcoin has re-entered the $90,000 range amid strong institutional momentum, with Hut 8 and Coinbase stocks surging. Shorts are exiting aggressively, indicating a shift in market conviction. Institutional adoption by DTCC adds long-term credibility. This is breaking news with significant bullish implications."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin tags $90K as crypto market spike liquidates $120M shorts",
+        "Kyrgyzstan's USDKG shows how real-asset stablecoins are evolving in emerging markets",
+        "How YouTube's stablecoin payouts could change creator monetization"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin price surge to $90K triggering short squeezes",
+        "Regulatory consultation on crypto rules by UK regulator",
+        "YouTube exploring stablecoin payouts for creators"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Bitcoin surged toward $90K, triggering a major short squeeze and signaling strong bullish momentum. Regulatory developments in the UK and emerging use cases like YouTube's stablecoin payouts add long-term positive catalysts. The market is reacting to breaking news with high volatility and institutional interest."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8's Stock Soars After Inking $7 Billion Google-Backed Deal",
+        "Central African Republic's Crypto Experiment 'Riddled With Problems'",
+        "Bitcoin Treasury KindlyMD Risks Nasdaq Delisting as Stock Price Craters"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "Google-backed deal with Bitcoin mining company Hut 8",
+        "Regulatory risk for Bitcoin Treasury KindlyMD due to Nasdaq delisting threat",
+        "Crypto experiment in Central African Republic facing issues"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Mixed signals in crypto news: a bullish institutional development (Google-backed mining deal) is offset by regulatory concerns and geopolitical risks. No major breaking events like ETF approvals or widespread hacks, but Hut 8’s partnership could signal growing institutional adoption."
+    }
+  ]
+}

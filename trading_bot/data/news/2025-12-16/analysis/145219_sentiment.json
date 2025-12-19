@@ -1,0 +1,24 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": -0.18333333333333335,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 20,
+  "headlines": [
+    "Spain’s regulator sets out MiCA transition rules for crypto platforms",
+    "UK regulator consults on crypto rules for exchanges, lending and DeFi",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc."
+  ],
+  "events": [
+    "ETF outflows (BTC and ETH)",
+    "Regulatory/Political event: Potential pardon of Samourai Wallet CEO by President Trump",
+    "Institutional move: Grayscale addressing quantum computing threat to Bitcoin",
+    "Regulatory development: Custodia's appeal filing",
+    "Market sentiment shift due to technical breakdowns",
+    "Custodia's ongoing legal effort to gain access to a Fed master account",
+    "Regulatory developments in the UK and Spain (MICA framework and DeFi rules)"
+  ],
+  "timestamp": "2025-12-16T14:52:19.249949"
+}

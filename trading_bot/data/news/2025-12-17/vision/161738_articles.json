@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-17T16:17:38.934335",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Hut 8 stock surges 20% on Fluidstack AI data center deal",
+        "Don't call it QE – the Fed's $40 billion of bill purchases may not shake crypto out of its slump",
+        "Uniform Labs' Multiliquid targets structural gap in $35 billion tokenized asset market"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "Institutional adoption: Hut 8 (Bitcoin miner) secures $7B long-term lease with Google for AI infrastructure",
+        "Regulatory/monetary policy context: Federal Reserve's $40B in short-term bill purchases discussed as potential impact on crypto markets"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The top news includes a bullish institutional development with Hut 8 expanding into AI data centers via a major lease agreement, signaling continued crypto mining and infrastructure growth. However, macroeconomic concerns persist, with the Fed’s recent bond-buying activity failing to lift crypto markets. The overall sentiment is neutral due to mixed signals—positive institutional moves offset by weak market response to monetary policy. No major regulatory or ETF developments are reported."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Former SEC counsel explains what it takes to make RWAs compliant",
+        "UK regulator consults on crypto rules for exchanges, lending and DeFi",
+        "New protocol targets redemption delays in $20B tokenized market"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory consultation by UK regulator on crypto rules for exchanges, lending, and DeFi",
+        "SEC counsel discusses RWA compliance framework",
+        "New protocol aims to solve redemption delays in the tokenized market"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The latest news highlights regulatory developments from the UK and SEC regarding crypto compliance and real-world asset (RWA) frameworks, along with a new protocol targeting inefficiencies in the tokenized market. While there are no major institutional moves or ETF announcements, regulatory clarity is emerging, which could influence market sentiment over time. No immediate price catalysts detected, but ongoing regulatory discussions may impact long-term trends."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Treasury KindlyMD Risks Nasdaq Delisting as Stock Price Craters",
+        "Trump 'Open' to Democrats at SEC, CFTC in Possible Boon to Crypto Market Structure Bill",
+        "Social Media Influencers in H... Face Charges for Promoting $206 Million in Losses"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "SEC/CFTC regulatory discussions on crypto market structure (potential institutional adoption)",
+        "Legal action against social media influencers for crypto promotion fraud"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent news includes regulatory developments involving SEC and CFTC with potential implications for crypto market structure, a warning sign from a Bitcoin treasury's stock delisting risk, and legal actions against crypto influencers. While there are no immediate breaking events like ETF approvals or major hacks, regulatory momentum and enforcement actions suggest cautious monitoring. No strong bullish or bearish catalysts present."
+    }
+  ]
+}

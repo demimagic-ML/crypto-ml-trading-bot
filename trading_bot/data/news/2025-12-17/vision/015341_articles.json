@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-17T01:53:41.382098",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin derivatives point to broad price range play between $85,000-$100,000",
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says",
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENUIS Act"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.85,
+      "events": [
+        "U.S. FDIC proposes first U.S. stablecoin rule from GENUIS Act (regulatory development)",
+        "Bitcoin derivatives suggest potential breakout to $85,000–$100,000 (institutional positioning)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights strong bullish sentiment driven by regulatory progress on stablecoins and technical indicators pointing toward a price rally in Bitcoin. The FDIC’s proposed stablecoin rule is a major institutional development, while derivative flows suggest upward momentum. Price action shows recovery from lows, with analysts warning of possible pullback near $80,000. This combination of regulatory tailwinds and market structure supports a cautious buy stance."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Spot Bitcoin ETFs see $358M outflow: Are investors abandoning BTC?",
+        "Here's what happened in crypto today",
+        "RedotPay raises $107M Series B led by Goodwater for stablecoin payments"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin ETF outflow of $358M",
+        "RedotPay raises $107M in funding for stablecoin infrastructure",
+        "UK regulator consults on crypto rules for exchanges, lending and DeFi"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The top news highlights a significant $358M outflow from Bitcoin ETFs, signaling potential investor caution or profit-taking. This is compounded by regulatory developments in the UK and institutional funding moves in stablecoin infrastructure. The ETF outflow is particularly impactful as it reflects real-time institutional sentiment shifts. While RedotPay's funding is positive for stablecoins, the dominant theme is bearish due to ETF withdrawals."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Why Bitwise Expects New Bitcoin Highs in 2026—And the End of the 4-Year Cycle",
+        "FTC Compels Nomad Operator to Repay Users After $186M Crypto Theft",
+        "Trump 'Open' to Democrats at SEC, CFTC in Possible Boon to Crypto Market Structure Bill"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Bitwise's bullish forecast for Bitcoin reaching new highs in 2026",
+        "SEC/CFTC regulatory discussions possibly leading to favorable market structure changes",
+        "FTC enforcement action against Nomad operator over $186M theft"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "The top news highlights a strong institutional bullish outlook on Bitcoin by Bitwise, potential regulatory progress under a possible bipartisan approach at the SEC and CFTC, and a major enforcement action by the FTC related to a large crypto theft. The combination of positive sentiment from institutions and regulatory momentum suggests a bullish environment, while the FTC action underscores ongoing risks in the ecosystem. This mix supports a strong buy signal due to high impact and breaking nature of the developments."
+    }
+  ]
+}

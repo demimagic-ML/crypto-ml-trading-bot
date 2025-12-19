@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-17T04:05:57.749874",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's massive underperformance to stocks in Q4 bodes well for January, says K33's Lunde",
+        "Bitcoin derivatives point to broad price range play between $85,000-$100,000",
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin derivatives signaling a potential bullish breakout in the $85,000–$100,000 range",
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act (regulatory development)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights a shift in sentiment toward Bitcoin as underperformance against equities in Q4 is viewed as a positive sign for a rally in January. Derivatives data suggests strong upside potential into the $85,000–$100,000 range, while institutional and regulatory developments—such as the FDIC’s proposed stablecoin rule—are adding structural momentum. Price action shows a bounce from recent lows, with analysts cautioning on possible pullbacks below $80,000. The combination of technical, derivative, and macro signals supports a bullish bias."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Tether leads $8M funding for Lightning startup focused on stablecoins",
+        "Crypto ETPs to enter 'cheesecake factory' era in 2026: Bitwise",
+        "Bank of Canada lays out criteria for 'good money' stablecoins"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.7,
+      "confidence": 0.8,
+      "events": [
+        "Tether funding Lightning Network startup (adoption)",
+        "Bitwise's prediction of ETP expansion (institutional adoption)",
+        "Bank of Canada defining stablecoin standards (regulation)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights growing institutional and regulatory interest in stablecoins and crypto infrastructure, with Tether backing a Lightning-focused startup, Bitwise forecasting ETP growth, and the Bank of Canada setting stablecoin criteria—indicating strong bullish momentum and potential catalysts for market expansion."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Actors, Creators Launch Coalition to Push AI Rules Amid Ongoing Strike",
+        "Why Bitwise Expects New Bitcoin Highs in 2026—And the End of the 4-Year Cycle",
+        "Visa Expands Stablecoin Pilot for US Settlements via Solana"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Visa expands stablecoin pilot using Solana for US settlements (adoption)",
+        "Bitwise's prediction of new Bitcoin highs in 2026 (institutional outlook)",
+        "Coalition of actors and creators pushing AI regulation (potential impact on crypto/AI integration)"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "BUY",
+      "urgency": "MEDIUM",
+      "summary": "The site highlights positive developments including Visa’s expansion into Solana-based stablecoin settlements, signaling growing institutional adoption. Bitwise’s bullish forecast for Bitcoin adds macro optimism. While not breaking news, these signals support a constructive market view with potential upside ahead."
+    }
+  ]
+}

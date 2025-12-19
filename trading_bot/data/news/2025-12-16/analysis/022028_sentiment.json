@@ -1,0 +1,25 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": -0.1166666666666667,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 22,
+  "headlines": [
+    "Here’s what happened in crypto today",
+    "SEC commissioner says Crypto is ‘helping to nudge reassessment’ on privacy",
+    "SEC ’eased up on’ 60% of crypto enforcement cases under Trump: Report",
+    "Bitcoin drops under $86K as $2.78B in BTC whale selling overwhelms active dip buyers",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
+  ],
+  "events": [
+    "Potential pardon for Samurai Bitcoin app developer (institutional/political signal)",
+    "Nasdaq expands trading hours for crypto-related stocks (institutional adoption)",
+    "Bank of America analysts predicting regulatory shift toward on-chain assets (institutional sentiment)",
+    "Senate delays crypto market structure bill (regulatory delay)",
+    "Fed chair transition sparking market uncertainty",
+    "AI bubble fears impacting crypto markets",
+    "Ripple expanding RLUSD across multiple blockchains (adoption)",
+    "SEC commissioner comments on crypto's role in regulatory reassessment"
+  ],
+  "timestamp": "2025-12-16T02:20:28.145066"
+}

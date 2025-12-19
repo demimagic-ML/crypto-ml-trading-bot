@@ -1,0 +1,127 @@
+{
+  "fetch_time": "2025-12-15T20:20:23.381487",
+  "source_type": "macro_news",
+  "count": 15,
+  "articles": [
+    {
+      "source": "fed_press",
+      "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "published": "Mon, 15 Dec 2025 16:00:00 GMT",
+      "summary": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "published": "Mon, 15 Dec 2025 16:00:00 GMT",
+      "summary": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
+      "published": "Thu, 11 Dec 2025 22:00:00 GMT",
+      "summary": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC",
+      "published": "Thu, 11 Dec 2025 22:00:00 GMT",
+      "summary": "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve Board announces reappointment of Reserve Bank presidents and first vice presidents",
+      "published": "Thu, 11 Dec 2025 21:00:00 GMT",
+      "summary": "Federal Reserve Board announces reappointment of Reserve Bank presidents and first vice presidents",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve Board announces termination of enforcement actions with Credit Suisse Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., Credit Suisse AG, New York Branch, and JPMorgan Chase & Co.",
+      "published": "Thu, 11 Dec 2025 16:00:00 GMT",
+      "summary": "Federal Reserve Board announces termination of enforcement actions with Credit Suisse Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., Credit Suisse AG, New York Branch, and JPMorgan Chase &amp; Co.",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve issues FOMC statement",
+      "published": "Wed, 10 Dec 2025 19:00:00 GMT",
+      "summary": "Federal Reserve issues FOMC statement",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
+      "published": "Wed, 10 Dec 2025 19:00:00 GMT",
+      "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve Board issues enforcement action with former employee of Synovus Bank",
+      "published": "Fri, 5 Dec 2025 16:00:00 GMT",
+      "summary": "Federal Reserve Board issues enforcement action with former employee of Synovus Bank",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "fed_press",
+      "title": "Federal Reserve Board requests public input on the impact of potential strategic changes to check services provided by the Fed, as well as check usage and preferences",
+      "published": "Thu, 4 Dec 2025 22:00:00 GMT",
+      "summary": "Federal Reserve Board requests public input on the impact of potential strategic changes to check services provided by the Fed, as well as check usage and preferences",
+      "type": "fed",
+      "is_fed": true
+    },
+    {
+      "source": "cnbc_markets",
+      "title": "From puppies to superheroes, Chinese AI toys are bringing hugs — and hesitation",
+      "published": "Mon, 15 Dec 2025 15:53:18 GMT",
+      "summary": "China's AI toy industry is growing as Beijing pushes companies and consumers to integrate the technology.",
+      "type": "macro",
+      "is_fed": false
+    },
+    {
+      "source": "cnbc_markets",
+      "title": "'Stranger Things' ushered in a new era for Netflix",
+      "published": "Mon, 15 Dec 2025 11:13:35 GMT",
+      "summary": "A lot has changed since its first season in 2016, as Netflix has announced dozens of \"Stranger Things\" partnerships and collaborations with brands.",
+      "type": "macro",
+      "is_fed": false
+    },
+    {
+      "source": "cnbc_markets",
+      "title": "Disney's 'Zootopia 2' to hit $1 billion box office, only the second Hollywood film to do so this year",
+      "published": "Fri, 12 Dec 2025 19:34:17 GMT",
+      "summary": "Disney Animation's \"Zootopia 2\" is set to cross the billion-dollar box-office mark on Friday, becoming the second Hollywood film to reach the benchmark in 2025.",
+      "type": "macro",
+      "is_fed": false
+    },
+    {
+      "source": "cnbc_markets",
+      "title": "Lululemon CEO Calvin McDonald to depart in January as retailer struggles to compete, woo shoppers",
+      "published": "Fri, 12 Dec 2025 16:01:28 GMT",
+      "summary": "Lululemon's CEO Calvin McDonald will leave the athleisure retailer at the end of January as sales in its largest market sag and consumers flee to competitors.",
+      "type": "macro",
+      "is_fed": false
+    },
+    {
+      "source": "cnbc_economy",
+      "title": "'Appetizer economy': Food inflation is on restaurant table as diners go smaller with menu choices",
+      "published": "Fri, 12 Dec 2025 16:12:56 GMT",
+      "summary": "Spending on restaurant appetizers is booming during this period of food inflation as consumers find creative ways to cut back even as they continue to dine out.",
+      "type": "macro",
+      "is_fed": false
+    }
+  ]
+}

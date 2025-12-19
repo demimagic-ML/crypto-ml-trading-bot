@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-16T11:42:29.013192",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's bearish turn deepens as 75 out of top 100 coins trade below key averages; Nasdaq resilient",
+        "Axelar token falls 15% after Circle deal takes the developer team, leaves AXL behind",
+        "StraitsX to debut Singapore and U.S. dollar stablecoins on Solana for quick currency exchange"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Axelar token price drop due to Circle acquiring its development team",
+        "StraitsX launching USD and SGD stablecoins on Solana (adoption event)",
+        "Bitcoin and broader crypto market trading below key technical averages"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The market is showing signs of a bearish trend with Bitcoin and most top cryptocurrencies trading below key moving averages. A major catalyst is the Axelar token's 15% decline following a strategic acquisition by Circle, which signals potential institutional shifts. While there is positive news around stablecoin adoption in Southeast Asia via StraitsX, it is overshadowed by widespread market weakness and negative sentiment. Institutional attention to Bitcoin’s price drop below $0.13 also suggests growing concern."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin sharks stack at fastest pace in 13 years, with BTC down 30%",
+        "Most crypto sectors lagged Bitcoin over past 3 months: Glassnode",
+        "Ripple pilots RLUSD on Ethereum L2s in multichain push"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.8,
+      "events": [
+        "Ripple launches RLUSD pilot on Ethereum L2s (adoption)",
+        "Bitcoin accumulation at record pace despite price drop (institutional interest)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Bitcoin is experiencing significant accumulation at a time of 30% price decline, suggesting institutional buying amid bearish sentiment. Meanwhile, Ripple's RLUSD pilot on Ethereum L2s signals growing cross-chain adoption. Most crypto sectors underperformed Bitcoin recently, indicating broader market weakness. The news mix reflects cautious optimism in accumulation but bears remain in control."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Sinks Towards $85,000 as Ethereum, XRP Fall Alongside",
+        "PayPal Seeks Utah-Chartered Industrial Bank Status",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.78,
+      "events": [
+        "PayPal seeking bank charter for crypto services (institutional adoption)",
+        "Bitcoin price drop toward $85,000 (market correction)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is experiencing downward pressure near $85,000 with broader market weakness across Ethereum and XRP. While PayPal's move into banking could signal long-term institutional interest, the current price action reflects bearish sentiment. Grayscale’s downplay of quantum threats adds stability but does not offset immediate sell-off momentum."
+    }
+  ]
+}

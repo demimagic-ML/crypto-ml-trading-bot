@@ -1,0 +1,70 @@
+{
+  "fetch_time": "2025-12-16T04:46:55.097984",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slides to $86,000 as slower rate cut risk, AI stock woes shake markets",
+        "PayPal, issuer of PYUSD, applies for Utah industrial bank license",
+        "SBI, Startale to launch regulated yen stablecoin for global settlement"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "PayPal's application for an industrial bank license signals potential institutional adoption and regulatory progress for stablecoins.",
+        "Launch of a regulated yen stablecoin by SBI and Startale indicates growing institutional interest in cross-border crypto infrastructure."
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Bitcoin price declined to $86,000 amid macroeconomic concerns and AI sector volatility, while PayPal's move toward banking licensure and Japan's new stablecoin initiative signal institutional adoption trends. Regulatory and structural developments are key drivers, but market sentiment remains cautious due to broader economic uncertainty."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin, altcoins sell-off as Fed chair switch-up, AI bubble fears spook markets",
+        "Japan’s SBI and Startale plan regulated yen stablecoin in 2026 under new framework",
+        "Trump to 'look into' recently convicted Samurai Wallet co-founder"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory development: Japan's SBI and Startale planning a regulated yen stablecoin (institutional adoption)",
+        "Potential regulatory scrutiny: Trump's interest in convicted crypto figure (possible policy shift)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The top headlines indicate bearish sentiment driven by market fear around Fed policy shifts and AI bubbles affecting Bitcoin and altcoins. However, there is institutional progress with Japan’s regulated stablecoin announcement, which may provide longer-term support. The mention of Trump reviewing a crypto-related conviction adds regulatory uncertainty. Breaking news dominates, especially the sell-off due to macro concerns, suggesting short-term downside pressure."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Sinks Towards $85,000 as Ethereum, XRP Fall Alongside",
+        "Ripple Expanding RLUSD From Ledger and Ethereum",
+        "Bank of America's Analysts Signal Regulatory Shift Towards On-Chain Assets"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.75,
+      "events": [
+        "Regulatory shift towards on-chain assets (institutional move)",
+        "Ripple expanding its stablecoin (RLUSD) across networks (adoption)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The top news indicates a bearish market trend with Bitcoin approaching $85,000 amid broader crypto weakness. However, there are signs of institutional interest with Bank of America analysts signaling regulatory shifts favoring on-chain assets, and Ripple expanding its stablecoin infrastructure. While adoption is progressing, the immediate price action suggests selling pressure. Regulatory developments could be pivotal for future moves."
+    }
+  ]
+}

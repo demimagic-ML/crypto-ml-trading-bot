@@ -1,0 +1,25 @@
+{
+  "sentiment": "BEARISH",
+  "sentiment_score": -0.5833333333333334,
+  "confidence": 0.6,
+  "trading_suggestion": "STRONG_SELL",
+  "news_count": 21,
+  "headlines": [
+    "Bitcoin sharks stack at fastest pace in 13 years, with BTC down 30%",
+    "Most crypto sectors lagged Bitcoin over past 3 months: Glassnode",
+    "MetaMask adds Bitcoin support after teasing it 10 months ago",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Grayscale addressing quantum computing risks (institutional concern)",
+    "Gemini launches prediction markets in 50 US states (adoption)",
+    "Bitcoin and broader crypto market trading below key technical averages",
+    "PayPal's move toward banking charter (potential institutional adoption)",
+    "Bitcoin price drop towards $85,000",
+    "Institutional caution ahead of year-end affecting BTC and ETH",
+    "Bitcoin accumulation at record pace despite price drop (institutional behavior)",
+    "Axelar token price drop following Circle's acquisition of its development team"
+  ],
+  "timestamp": "2025-12-16T12:01:44.483870"
+}

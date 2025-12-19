@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-18T11:52:21.164497",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "VivoPower eyes $300M Ripple share deal, bagging nearly $1B in XRP exposure",
+        "Bitcoin is all over the place ahead of U.S. inflation data",
+        "Is XRP crashing? The sustained break below $2 signals trouble"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "JP Morgan's tokenized dollars are quietly rewiring how Wall Street moves money",
+        "Coinbase deepens India presence after approval of CoinDCX deal",
+        "Bitcoin could drop to $10,000, one analyst says, spelling doom for ETH, ADA, XRP"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights institutional adoption (JP Morgan's tokenized dollars), regulatory and market uncertainty around XRP, and macroeconomic concerns ahead of U.S. inflation data. While there are bullish signs in institutional interest and infrastructure development, bearish sentiment emerges from price action in XRP and Bitcoin, with analysts warning of a potential $10K drop. The overall sentiment is mixed, but breaking developments in adoption and macro factors suggest high volatility ahead."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Spot Bitcoin ETFs record $450M inflows in 'early positioning' push",
+        "Ethereum needs simple explanation to see true trustlessness: Buterin",
+        "MSCI's crypto treasury rules could spur $15B of forced selling"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin ETF inflows of $450M indicate strong institutional interest",
+        "MSCI's potential crypto treasury rules may trigger $15B in forced liquidations"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights significant inflows into Bitcoin ETFs, signaling strong institutional demand and bullish sentiment. Meanwhile, MSCI’s potential crypto treasury rules introduce a bearish risk factor with possible forced selling. The overall sentiment leans bullish due to ETF inflows, but traders should monitor regulatory developments closely."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $750M Deal With Google Backing",
+        "DTCC to Issue Tokenized Securities on Canton Network, Starting With US Treasuries",
+        "Singapore Entrepreneur Loses Holdings to Malware Dressed as Game"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "Institutional adoption: DTCC issuing tokenized securities on Canton Network",
+        "Corporate crypto integration: Bitcoin miner Hut 8 secures major deal with Google-backed entity",
+        "Security threat: Malware targeting crypto holders via gaming platforms"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The top headlines highlight significant institutional and corporate developments in the crypto space, including DTCC's move toward tokenized securities and a major deal involving Hut 8 and Google. These suggest growing legitimacy and adoption of blockchain technology. However, a malware threat underscores ongoing security risks. Overall sentiment is bullish due to strong institutional momentum."
+    }
+  ]
+}

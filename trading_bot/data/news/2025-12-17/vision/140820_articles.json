@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-17T14:08:20.647332",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin long term holder supply hits 8 month low, breaking historical cycle patterns",
+        "Crypto Markets Today: Bitcoin drifts lower as bearish trend persists",
+        "How China's strengthening yuan could support bitcoin prices"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+        "Bitcoin long-term holder supply drops to 8-month low, signaling potential market weakness",
+        "China's strengthening yuan may provide support for BTC price"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is showing signs of a bearish trend with declining long-term holder supply and weak market sentiment. Regulatory developments in the U.S. (FDIC stablecoin rules) and macroeconomic factors like China's yuan strength are influencing market dynamics. The current environment suggests caution, with bearish momentum prevailing."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin institutional buys flip new supply for the first time in 6 weeks",
+        "KuCoin taps Tomorrowland festivals as MiCA-era on-ramp for European fans",
+        "Polymarket shows stronger retention than most DeFi, wallets and exchanges"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Institutional Bitcoin buying activity resumes after a 6-week pause",
+        "KuCoin's adoption initiative at Tomorrowland under MiCA regulatory framework",
+        "Regulatory consultation by UK regulator on crypto rules for exchanges, lending and DeFi"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights renewed institutional interest in Bitcoin, signaling strong demand, while KuCoin's strategic event-based onboarding targets European users amid MiCA regulations. Regulatory developments in the UK add uncertainty but also potential long-term structure. Combined with positive DeFi retention data, this creates a bullish narrative for crypto markets."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin in Focus as Stock and Options Contracts Expire on Friday",
+        "Bhutan Pledges 10,000 Bitcoin Worth $1B to Fund Mindfulness City",
+        "Visa Expands Stablecoin Pilot with US Settlements via Solana"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin options and stock contracts expiration (potential volatility event)",
+        "Bhutan's institutional commitment of 10,000 BTC for a mindfulness city project",
+        "Visa expanding stablecoin pilot using Solana for US settlements"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The top crypto news highlights significant developments: Bitcoin options expiry could trigger market volatility, Bhutan’s large-scale BTC allocation signals growing institutional adoption, and Visa’s expanded stablecoin pilot reflects increased corporate engagement in blockchain infrastructure. These events collectively point to bullish momentum, especially around Bitcoin and institutional adoption."
+    }
+  ]
+}

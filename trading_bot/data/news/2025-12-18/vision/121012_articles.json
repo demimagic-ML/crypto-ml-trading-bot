@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-18T12:10:12.059988",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin is all over the place ahead of U.S. inflation data",
+        "Is XRP crashing? The sustained break below $2 signals trouble",
+        "VivoPower eyes $300M Ripple share deal, bagging nearly $1B in XRP exposure"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "JP Morgan's tokenized dollars quietly rewiring Wall Street moves (institutional adoption)",
+        "Coinbase rolls out stock trading, prediction markets, and more in bid to become the 'Everything Exchange' (adoption)",
+        "VivoPower's $300M Ripple share deal (institutional move)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Mixed sentiment across crypto markets with key developments in institutional adoption (JP Morgan, VivoPower), Coinbase expanding services, and concerns over XRP price action. Bitcoin volatility ahead of inflation data adds uncertainty. Institutional moves are positive for long-term outlook, but short-term bearish signals from XRP and macroeconomic risks warrant caution."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Spot Bitcoin ETFs record $450M inflows in 'early positioning' push",
+        "Ethereum needs simple explanation to see true trustlessness: Buterin",
+        "MSCI's crypto treasury rules could spur $15B of forced selling"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.85,
+      "events": [
+        "Spot Bitcoin ETF inflows of $450M indicating institutional interest and early positioning",
+        "Regulatory development: MSCI's crypto treasury rules may trigger $15B in forced selling, a major regulatory event",
+        "Institutional adoption: SBI Ripple Asia partners with Doppler Finance for XRP yield and RWA tokenization"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The top news highlights strong institutional inflows into spot Bitcoin ETFs, signaling bullish sentiment and growing adoption. Simultaneously, MSCI's potential rule changes pose a bearish risk due to possible forced selling. Ethereum’s narrative remains focused on trustless innovation. The combination of ETF momentum and regulatory uncertainty creates a high-impact environment where BTC and ETH could see volatility. Institutional moves and ETF developments are dominant themes, supporting a cautious buy stance."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $750M Deal With Google Backing",
+        "DTCC to Issue Tokenized Securities on Canton Network, Starting With US Treasuries",
+        "Senators Propose Task Force to Combat Crypto Scams and Protect Investors"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "Institutional adoption: DTCC launching tokenized securities on Canton Network (US Treasuries)",
+        "Regulatory development: Senate proposes task force to combat crypto scams",
+        "Corporate partnership: Bitcoin miner Hut 8 secures $750M deal with Google-backed entity"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "The latest news highlights strong institutional adoption with DTCC's move into tokenized securities, a major corporate partnership for Bitcoin mining, and regulatory attention via a proposed Senate task force. These developments signal growing legitimacy and infrastructure expansion in the crypto space, supporting bullish momentum."
+    }
+  ]
+}

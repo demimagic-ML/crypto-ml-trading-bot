@@ -1,0 +1,24 @@
+{
+  "sentiment": "BEARISH",
+  "sentiment_score": -0.6166666666666667,
+  "confidence": 0.6,
+  "trading_suggestion": "STRONG_SELL",
+  "news_count": 22,
+  "headlines": [
+    "Trump-backed American Bitcoin flips ProCap in corporate BTC treasury race",
+    "How Bitcoin whales move markets, and the signals to ignore",
+    "Memecoins will rise from the dead, but in a new form: Crypto exec",
+    "Why oil-rich investors are fueling Bitcoin’s next liquidity wave",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
+  ],
+  "events": [
+    "Institutional inflows into digital asset ETPs",
+    "Bitcoin price correction warning from veteran trader",
+    "SEC and OCC regulatory actions on tokenized assets (regulatory development)",
+    "Institutional move: BlackRock expands crypto bet with senior hires across U.S. and Asia",
+    "JPMorgan launches Ethereum-based MONY fund (institutional adoption)",
+    "Corporate BTC treasury move by Trump-backed American Bitcoin",
+    "Bitcoin price drop below $87K indicating market weakness"
+  ],
+  "timestamp": "2025-12-15T20:21:26.794635"
+}

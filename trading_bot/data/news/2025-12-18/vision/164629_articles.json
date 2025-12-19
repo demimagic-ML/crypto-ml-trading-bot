@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-18T16:46:29.983915",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "U.S. inflation data surprises, with CPI higher by just 2.7% in November",
+        "Trump Media stock surges 25% on merger agreement with nuclear fusion firm TAE Technologies",
+        "CoinDesk 20 Performance Update: Uniswap Surges 8.4% as All Index Constituents Rise"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "Trump Media's merger with TAE Technologies (institutional move)",
+        "Uniswap performance surge in CoinDesk 20 index (adoption signal)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Breaking news highlights strong positive momentum in crypto markets, driven by U.S. CPI data showing lower-than-expected inflation, which supports Bitcoin’s appeal as an inflation hedge. Institutional moves like Trump Media's merger and Uniswap’s rise signal growing adoption and confidence. The market sentiment is bullish, with multiple catalysts suggesting upward price pressure."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Attacker takes over multisig minutes after creation, drains up to $40M slowly",
+        "Here's what happened in crypto today",
+        "DAT longevity hinges on avoiding 'mNAV roller coaster': Solmate CEO"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.75,
+      "events": [
+        "Major hack involving $40M drained from a multisig wallet",
+        "Regulatory guidance from US Fed blocking banks from engaging with crypto",
+        "Former SEC counsel discusses RWA compliance, signaling regulatory scrutiny"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The top news highlights a major security breach where $40M was drained from a multisig wallet shortly after creation, signaling significant risks in smart contract and wallet security. Additionally, regulatory actions from the US Fed restricting bank involvement in crypto and commentary on RWA compliance suggest increased regulatory pressure. These developments create a bearish sentiment due to heightened risk and institutional caution."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin ETFs Notch $457M Haul, Third-Largest Since October",
+        "DTCC to Issue Tokenized Securities on Canton Network, Starting With US Treasuries",
+        "Caroline Pham Leaves CFTC to Join Crypto Company MoonPay"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin ETF inflows of $457M (third-largest since October)",
+        "DTCC launching tokenized securities on Canton Network (institutional adoption)",
+        "Regulatory figure Caroline Pham joining MoonPay (potential regulatory alignment)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights strong institutional momentum in crypto with significant Bitcoin ETF inflows and DTCC's entry into tokenized securities. Regulatory talent moving into the industry adds credibility. These developments suggest growing mainstream acceptance and could trigger bullish market reactions."
+    }
+  ]
+}

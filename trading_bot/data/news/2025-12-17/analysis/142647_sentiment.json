@@ -1,0 +1,26 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": 0.06666666666666665,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 21,
+  "headlines": [
+    "CAR’s crypto push fueled ‘state capture’ by elites, criminal networks: Report",
+    "Bitcoin price at ‘critical’ point as whale moves $348M BTC to exchanges",
+    "Bitcoin institutional buys flip new supply for the first time in 6 weeks",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
+  ],
+  "events": [
+    "Visa's stablecoin pilot expansion (institutional adoption)",
+    "ETF's bleed, keeping bitcoin in stasis: Crypto Daybook Americas",
+    "Bitcoin options and futures contract expiration (potential volatility event)",
+    "India's proposed tokenization bill (regulatory adoption)",
+    "Bitcoin moving $348M BTC to exchanges due to phishing activity",
+    "Aster launching Shield Mode for on-chain traders",
+    "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+    "Regulatory consultation by UK on crypto rules for exchanges, lending and DeFi",
+    "Norway's sovereign wealth fund supports Metaplanet bitcoin plan ahead of EGM vote"
+  ],
+  "timestamp": "2025-12-17T14:26:47.699584"
+}

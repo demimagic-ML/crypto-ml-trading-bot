@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-15T21:43:33.280298",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Plunges Below $87K as Crypto Weakness Worsens",
+        "U.S. SEC chief warns watchdogs need to be limited in tapping crypto's power to snoop",
+        "BackRock expands crypto bet with 7 senior hires across U.S. and Asia"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.9,
+      "events": [
+        "Regulatory warning from U.S. SEC chief on crypto surveillance",
+        "BlackRock expanding crypto team with institutional hires"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin has dropped below $87K amid broader market weakness, with regulatory concerns and institutional moves dominating headlines. The SEC's warning on crypto surveillance adds uncertainty, while BlackRock’s hiring signals long-term institutional interest. However, the immediate price drop suggests bearish momentum, making this a high-impact breaking event."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin parabola breakdown raises chance for 80% correction: Veteran trader",
+        "Digital asset ETPs post third straight week of net inflows, led by US demand",
+        "Price predictions 12/15: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.75,
+      "events": [
+        "Digital asset ETPs show sustained net inflows (institutional adoption)",
+        "Bitcoin market structure suggests potential 80% correction (technical warning)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The latest news highlights a potential major Bitcoin price correction warned by a veteran trader, alongside strong institutional inflows into digital asset ETPs. While ETF inflows suggest bullish sentiment from institutions, the bearish technical analysis on Bitcoin's price trajectory dominates the narrative, signaling high volatility and risk. This creates a conflicting but high-impact environment where traders should prioritize risk management."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Ethereum Treasury Firm BitMine Boosts ETH Stash Above $12 Billion With Latest Buy",
+        "JPMorgan Introduces Ethereum-Backed MONY Fund",
+        "Strategy Buys Almost $1 Billion Bitcoin for Second Week Running"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Institutional adoption: JPMorgan launches Ethereum-backed fund (MONY)",
+        "Large-scale BTC accumulation by Strategy (institutional buy signal)",
+        "BitMine's significant ETH treasury increase indicating strong conviction"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights strong institutional interest and accumulation in both Bitcoin and Ethereum, with JPMorgan launching an Ethereum-backed fund and Strategy buying nearly $1B in BTC. These are high-impact institutional moves that signal bullish sentiment. The continued ETF-related momentum and large-scale purchases suggest a sustained uptrend, supporting a strong buy stance."
+    }
+  ]
+}

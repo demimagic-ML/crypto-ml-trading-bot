@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-18T17:52:00.223916",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Coinbase shares rise as 'ambitious expansion' wins analyst praise",
+        "PayPal to use PYUSD stablecoin to fund AI infrastructure through USD.AI",
+        "Gold, silver shine in basement trade as bitcoin is left behind"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "PayPal's adoption of PYUSD stablecoin for AI infrastructure funding",
+        "Coinbase's strategic expansion gaining analyst approval"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights institutional momentum in crypto with PayPal adopting a stablecoin for AI infrastructure and Coinbase gaining positive analyst sentiment. While gold and silver are outperforming, Bitcoin appears lagging. The focus on stablecoins and institutional adoption suggests bullish structural trends, especially in the context of growing AI demand."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin hunts liquidity as US CPI inflation drops to lowest since 2021",
+        "Tether CEO says AI bubble is Bitcoin's biggest risk in 2026",
+        "Ethereum down 42% from all-time high: Where will ETH price bottom?"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "US CPI inflation drop impacting Bitcoin liquidity",
+        "Regulatory concern over RWAs compliance (SEC counsel)",
+        "US Fed guidance blocking banks from engaging with crypto"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights bearish sentiment due to falling inflation reducing macro-driven Bitcoin demand, regulatory headwinds from the SEC and US Fed restricting banking involvement in crypto, and Ethereum's sharp correction. While some institutional adoption signals exist (e.g., Kalshi integrating TRON), the dominant theme is regulatory caution and market pessimism. The combination of macroeconomic shifts and regulatory pressure suggests a potential downturn in momentum."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $750M Deal With Google Backing",
+        "DTCC to Issue Tokenized Securities on Canton Network, Starting With US Treasuries",
+        "Caroline Pham Leaves CFTC to Join Crypto Company MoonPay"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "Institutional adoption: DTCC issuing tokenized securities on Canton Network",
+        "Regulatory shift: CFTC official joins crypto firm MoonPay",
+        "Corporate adoption: Hut 8 signs major deal with Google-backed entity"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights strong institutional and corporate adoption in the crypto space, including DTCC's move into tokenized securities and a major deal between Hut 8 and Google-backed entities. Regulatory shifts are also evident with former CFTC official joining MoonPay, signaling growing legitimacy. These developments suggest bullish momentum, especially for Bitcoin and infrastructure-focused tokens."
+    }
+  ]
+}

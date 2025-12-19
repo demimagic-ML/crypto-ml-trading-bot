@@ -1,0 +1,15 @@
+{
+  "sentiment": "BEARISH",
+  "sentiment_score": -0.4,
+  "confidence": 0.5,
+  "news_count": 10,
+  "headlines": [
+    "Price predictions 12/17: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK",
+    "Bitcoin tags $90K as crypto market spike liquidates $120M shorts",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [],
+  "timestamp": "2025-12-17T23:22:10.091873"
+}

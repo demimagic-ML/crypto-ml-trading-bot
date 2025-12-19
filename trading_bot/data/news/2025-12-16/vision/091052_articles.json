@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-16T09:10:52.917287",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin, ether and XRP extend losses as year-end caution builds",
+        "ARK steps in as crypto stocks extend multi-day selloff",
+        "Why Dogecoin's drop below $0.13 is drawing institutional attention"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.9,
+      "events": [
+        "Institutional interest in Dogecoin below $0.13",
+        "ARK Invest (Cathie Wood) adding to Coinbase, Bullish, Circle, and crypto miners amid market downturn",
+        "Global markets softening with Bitcoin, ETH, and XRP extending losses"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin, Ethereum, and XRP are experiencing extended losses amid year-end caution, with broader market weakness affecting crypto stocks. ARK Invest's entry into crypto-related equities signals institutional positioning during a selloff, while Dogecoin’s drop below $0.13 has attracted institutional scrutiny. The overall sentiment is bearish, driven by macro caution and profit-taking ahead of year-end. This is breaking news with significant market impact."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Most crypto sectors lagged Bitcoin over past 3 months: Glassnode",
+        "Ripple's RLUSD stablecoin goes multichain in new pilot",
+        "MetaMask adds Bitcoin support after teasing it 10 months ago"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.2,
+      "confidence": 0.75,
+      "events": [
+        "MetaMask adds Bitcoin support (adoption)",
+        "Ripple launches RLUSD multichain pilot (institutional move)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent news highlights mixed momentum in the crypto market, with MetaMask's Bitcoin integration signaling growing adoption and Ripple's multichain stablecoin pilot indicating institutional innovation. However, broader sector underperformance relative to Bitcoin suggests caution. No major regulatory or ETF developments are present, keeping overall sentiment neutral."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Sinks Towards $85,000 as Ethereum, XRP Fall Alongside",
+        "Why President Trump Had the Biggest Impact on Bitcoin and Crypto in 2025",
+        "President Trump Says He Will Consider Pardoning Samourai Wallet Developer"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin price drop to $85,000",
+        "Potential pardon of Samourai Wallet developer (regulatory/political signal)",
+        "Trump's influence on crypto market highlighted"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is experiencing a notable price decline toward $85,000, dragging down Ethereum and XRP. This bearish move coincides with political commentary from President Trump, who may consider pardoning a crypto developer, signaling potential regulatory shifts. The combination of price action and political influence suggests a high-impact event with bearish momentum. Traders should be cautious, as this could indicate broader market weakness."
+    }
+  ]
+}

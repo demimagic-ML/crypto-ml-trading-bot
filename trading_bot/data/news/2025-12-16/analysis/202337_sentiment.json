@@ -1,0 +1,24 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": 0.016666666666666673,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 21,
+  "headlines": [
+    "How scammers target crypto users during the holidays and how to stay protected",
+    "Solana enters Brazil’s main exchange as Valour expands regulated crypto access",
+    "UK crypto ownership dropped to 8% in 2025: YouGov poll",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
+  ],
+  "events": [
+    "Institutional interest: Eric Trump's American Bitcoin jumps to 20th among public BTC treasury companies",
+    "US banks may issue stablecoins under FDIC-backed GENIUS Act (adoption)",
+    "Potential approval of Bitcoin and Ethereum ETFs",
+    "Regulatory scrutiny: U.S. Senate's Warren calls for crypto probe tied to Trump, delaying market structure bill",
+    "South Korea's proposed debt relief bill for crypto market",
+    "Institutional pullback from crypto assets",
+    "JPMorgan launches first tokenized money market fund on Ethereum (institutional move)"
+  ],
+  "timestamp": "2025-12-16T20:23:37.354039"
+}

@@ -1,0 +1,74 @@
+{
+  "fetch_time": "2025-12-15T22:17:33.060136",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Plunges Below $86K as Crypto Weakness Worsens",
+        "U.S. SEC chief warns watchdogs need to be limited in tapping crypto's power to snoop",
+        "UK Supreme Court refuses RSV appeal, narrowing $13 billion lawsuit against crypto exchanges"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.75,
+      "confidence": 0.9,
+      "events": [
+        "SEC regulatory warning on surveillance of crypto",
+        "UK Supreme Court ruling limits crypto exchange liability",
+        "STRD credit spread narrows amid Bitcoin weakness",
+        "BackRock expands crypto bet with 7 senior hires"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin has broken below $86K amid broader market weakness, signaling a bearish trend. Regulatory concerns from the U.S. SEC and legal developments in the UK add uncertainty. Institutional moves like BackRock’s expansion suggest ongoing interest, but current price action and sentiment are dominated by negative headlines. The breaking nature of the Bitcoin drop and regulatory warnings warrant caution and potential short-term selling."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Firestorm erupts in Aave governance forum over CoW Swap fees",
+        "Meme coins will rise from the dead, but in a new form: Crypto exec",
+        "Price predictions 12/15: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.7,
+      "events": [
+        "Aave governance controversy over CoW Swap fees",
+        "Crypto executive commentary on memecoins resurgence",
+        "Market price predictions for multiple assets including BTC and ETH"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "LOW",
+      "summary": "The news highlights ongoing debates in DeFi governance (Aave), speculative commentary on memecoins, and price predictions across major cryptocurrencies. No significant regulatory, ETF, or institutional adoption events are reported. The sentiment is mixed but leans neutral with no immediate catalysts for strong market moves."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Ethereum Treasury Firm BitMine Boosts ETH Stash Above $12 Billion With Latest Buy",
+        "JPMorgan Introduces Ethereum ETF to MONY Fund",
+        "Do Kwon Could Be Tried Again in Korea Over Terra Crypto Fraud"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Institutional adoption: JPMorgan introduces Ethereum ETF into MONY Fund",
+        "Bitcoin/ETH accumulation: BitMine increases ETH holdings above $12 billion",
+        "Regulatory/legal development: Do Kwon faces potential retrial over Terra collapse"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights strong institutional interest in Ethereum with JPMorgan launching an ETH ETF, alongside significant accumulation by BitMine. These developments suggest growing institutional adoption and bullish sentiment. Legal developments around Terra’s founder add risk but are outweighed by the positive institutional moves. This is breaking news with high market impact."
+    }
+  ]
+}

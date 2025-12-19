@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-19T03:23:21.477919",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Altcoins plunge as bitcoin's $85,000 test triggers $550 million in liquidations",
+        "What if crypto's U.S. market structure effort just never gets there?",
+        "XRP slumps as bitcoin once again falls back to $85,000 level after surge"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.9,
+      "events": [
+        "Bitcoin tested $85,000 and triggered significant liquidations across altcoins",
+        "U.S. SEC aids brokers on crypto custody, indicating regulatory developments in crypto infrastructure"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin has retreated from a $85,000 test, triggering $550 million in liquidations and causing broad altcoin sell-offs. Regulatory uncertainty around U.S. market structure and custody rules adds to bearish sentiment. The move follows a short-term rally, suggesting a potential reversal. Institutional attention to crypto custody may signal longer-term adoption, but near-term market dynamics are bearish."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "XRP's familiarity helps push ETF past $1B assets: Exec",
+        "Synthetix returns to Ethereum mainnet after 3 years: 'We can run it back'",
+        "Crypto CLARITY Act set for Senate markup in January, Sacks says"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.7,
+      "confidence": 0.8,
+      "events": [
+        "XRP ETF reaching $1B in assets",
+        "Crypto CLARITY Act advancing to Senate markup",
+        "Synthetix returning to Ethereum mainnet"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Recent developments indicate strong bullish momentum with XRP ETF hitting $1B in assets, signaling institutional interest and adoption. The Crypto CLARITY Act moving toward Senate markup is a major regulatory development that could benefit the broader crypto market. Additionally, Synthetix's return to Ethereum highlights renewed innovation and network activity. These are breaking, high-impact events favoring long-term accumulation."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Solana, Aptos Move to Harden Blockchains Against Future Quantum Threats",
+        "European Central Bank Says It's Ready to Move on Digital Euro",
+        "Third-Party Bitcoin Mining Services Are Securities Offerings, Says SEC in Lawsuit"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.8,
+      "events": [
+        "SEC lawsuit against third-party Bitcoin mining services (regulatory)",
+        "ECB signals readiness for digital euro (institutional adoption)",
+        "Solana and Aptos enhancing blockchain security against quantum threats (technological development)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights regulatory scrutiny on crypto mining services by the SEC, institutional progress on the digital euro by the ECB, and technological advancements in blockchain security by Solana and Aptos. While no immediate market-moving catalysts are confirmed, regulatory actions and central bank developments could influence sentiment. The overall tone is neutral with mixed implications—regulatory risks offset by institutional interest."
+    }
+  ]
+}

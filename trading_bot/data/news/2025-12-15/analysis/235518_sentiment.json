@@ -1,0 +1,25 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": -0.09999999999999999,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 21,
+  "headlines": [
+    "SEC commissioner says Crypto is ‘helping to nudge reassessment’ on privacy",
+    "SEC ’eased up on’ 60% of crypto enforcement cases under Trump: Report",
+    "Bitcoin drops under $86K as $2.78B in BTC whale selling overwhelms active dip buyers",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
+  ],
+  "events": [
+    "Bank of America analysts signaling regulatory shift toward on-chain assets",
+    "SEC reducing enforcement actions during Trump era (regulatory shift)",
+    "Senate delays crypto market structure bill (regulatory delay)",
+    "Circle acquiring Interop Labs team (institutional move)",
+    "UK Supreme Court ruling on Bitcoin SV case appeal",
+    "Regulatory reassessment by SEC on crypto privacy",
+    "Ripple expanding RLUSD across XRP Ledger and Ethereum",
+    "Coinbase announces major fintech infrastructure upgrade (adoption/tech evolution)"
+  ],
+  "timestamp": "2025-12-15T23:55:18.340484"
+}

@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-17T17:11:49.597723",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Don't call it QE – the Fed's $40 billion bill buys may not shake crypto out of slump",
+        "Bitcoin trades near key price safety net that Strategy already breached",
+        "ETFs bleed, keeping bitcoin in stasis: Crypto Daybook Americas"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Fed's $40 billion bill buys (monetary policy impact)",
+        "Bitcoin approaching key technical support level",
+        "ETF-related market stagnation"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The latest news from CoinDesk highlights a bearish sentiment in the crypto market due to Federal Reserve monetary actions failing to stimulate growth, Bitcoin testing critical support levels, and ETF markets showing weakness. These factors suggest a potential downward pressure on prices, especially if support is broken. Institutional caution and lack of momentum indicate a high-risk environment for buyers."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Did Bitcoin's 4-year cycle break, and is the bull market really over?",
+        "How YouTube's stablecoin payouts could change creator monetization",
+        "Securitize announces 'real' tokenized stocks, touts DeFi integration"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory consultation on crypto rules by UK regulator for exchanges, lending, and DeFi",
+        "Aster launches Shield Mode, a protected high-performance trading mode for on-chain traders",
+        "Web3 Antivirus detects $563k DeFi loss after phishing approval during Aave and Compound interactions"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The site highlights mixed developments in the crypto space: regulatory scrutiny from the UK, a significant phishing incident involving DeFi protocols, and new product launches like Aster’s Shield Mode. While there are bullish elements (e.g., institutional adoption via Securitize), concerns about security and regulatory uncertainty dominate. The headline questioning Bitcoin’s cycle suggests potential market fatigue, but no definitive breakout or crash signal is confirmed yet."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Treasury KindlyMD Risks Nasdaq Delisting as Stock Price Craters",
+        "Trump 'Open' to Democrats at SEC, CFTC in Possible Boon to Crypto Market Structure Bill",
+        "Visa Expands Stablecoin Pilot US Settlements via Solana"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "Regulatory development: Potential crypto market structure bill progress with bipartisan support",
+        "Adoption: Visa expands stablecoin pilot on Solana for US settlements",
+        "Market risk: Bitcoin treasury facing delisting risk due to stock price decline"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed signals in the crypto space: a potential regulatory boost from bipartisan interest in crypto market reform, institutional adoption via Visa's expanded stablecoin pilot on Solana, and risks from a declining Bitcoin treasury stock threatening delisting. While regulatory optimism and institutional moves are positive, the delisting risk adds uncertainty. No major ETF or macro event is confirmed yet, so impact remains moderate."
+    }
+  ]
+}

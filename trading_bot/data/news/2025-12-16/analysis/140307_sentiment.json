@@ -1,0 +1,26 @@
+{
+  "sentiment": "BEARISH",
+  "sentiment_score": -0.35000000000000003,
+  "confidence": 0.6,
+  "trading_suggestion": "SELL",
+  "news_count": 20,
+  "headlines": [
+    "FCA consults on UK crypto rules for exchanges, lending and DeFi",
+    "Bitcoin long-term holder supply hits 8-month lows: Bullish or bearish?",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc."
+  ],
+  "events": [
+    "PayPal's potential banking charter move (institutional adoption)",
+    "Death of notable Web3 entrepreneur Alexander Ray (market sentiment)",
+    "Institutional interest in Dogecoin as price drops below $0.13",
+    "StraitsX expanding stablecoin offerings to Solana (adoption)",
+    "Grayscale addressing quantum computing risks (regulatory/technological concern)",
+    "ETF outflows reaching highest levels since November 2023",
+    "Bitcoin price drop toward $85,000",
+    "UK regulatory consultation on crypto rules (FCA)",
+    "Regulatory consultation by UK Treasury on crypto listings, DeFi, and staking"
+  ],
+  "timestamp": "2025-12-16T14:03:07.684458"
+}

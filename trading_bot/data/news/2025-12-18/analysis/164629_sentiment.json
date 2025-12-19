@@ -1,0 +1,25 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.25,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 20,
+  "headlines": [
+    "Here’s what happened in crypto today",
+    "Crypto losses near $3.4B as hackers went ‘big game hunting’",
+    "Federal Reserve Board publishes first of several staff manuals for the supervision of the largest and most complex banks",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank"
+  ],
+  "events": [
+    "Major hack involving $40M drained from a multisig wallet",
+    "Uniswap performance surge in CoinDesk 20 index (adoption signal)",
+    "Regulatory figure Caroline Pham joining MoonPay (potential regulatory alignment)",
+    "DTCC launching tokenized securities on Canton Network (institutional adoption)",
+    "Regulatory guidance from US Fed blocking banks from engaging with crypto",
+    "Bitcoin ETF inflows of $457M (third-largest since October)",
+    "Trump Media's merger with TAE Technologies (institutional move)",
+    "Former SEC counsel discusses RWA compliance, signaling regulatory scrutiny"
+  ],
+  "timestamp": "2025-12-18T16:46:29.984249"
+}

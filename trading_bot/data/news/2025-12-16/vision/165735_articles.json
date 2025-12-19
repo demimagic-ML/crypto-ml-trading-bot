@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-16T16:57:35.484730",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Crypto asset manager Bitwise says bitcoin will break its four-year cycle in 2026",
+        "Number of crypto users in the UK drops even as amount held increases",
+        "CoinDesk 20 Performance Update: SUI Gains 3.9% as Index Moves Higher"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "Bitwise CIO Matt Horgan predicts BTC could hit all-time highs in 2026 with lower volatility and weaker equity correlations",
+        "Bitcoin slump deepens as most of top 100 tokens fall below key trading signals"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed signals for Bitcoin: a bullish outlook from institutional manager Bitwise for 2026, offset by bearish market trends and declining user growth in the UK. No major regulatory or ETF events are reported. Market sentiment remains neutral with some optimism around long-term cycles but caution due to current price weakness."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Crypto’s 'super app' race is on as industry enters aggregation era: Report",
+        "Here's what happened in crypto today",
+        "Ronin and ZKsync's onchain metrics fell the most in 2025"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "JPMorgan launches its first tokenized money market fund on Ethereum",
+        "Independent audit verifies gold reserves backing Kyrgyzstan's USDKG stablecoin",
+        "Crypto urges SEC to see the good in blockchain privacy tools"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights emerging trends in crypto aggregation, institutional adoption via JPMorgan's tokenized fund, and regulatory engagement with privacy tools. While there are positive signals from institutional moves and stablecoin transparency, performance metrics for Ronin and ZKsync suggest bearish sentiment in Layer 2 ecosystems. No major breaking events like ETF approvals or hacks are reported, but the combination of regulatory dialogue and new product launches indicates evolving market dynamics."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin, Ethereum ETFs Shed $582M in a Day as Institutions Trim Risk",
+        "Bitcoin Sinks Towards $85,000 as Ethereum, XRP Fall Alongside",
+        "PayPal Seeks Utah-Chartered Industrial Bank Status"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "Institutional trimming of Bitcoin and Ethereum ETF positions",
+        "PayPal's move to establish an industrial bank (potential crypto adoption)",
+        "Market correction with BTC approaching $85K support"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The market is experiencing a significant sell-off driven by institutional outflows from Bitcoin and Ethereum ETFs, indicating risk aversion. Despite PayPal’s potential move into banking, which could signal future crypto adoption, the immediate trend is bearish. The drop toward $85,000 for BTC suggests support testing, but current sentiment favors caution."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-17T08:10:25.397286",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slides with ether and XRP as market tests $3 trillion floor",
+        "Bitcoin's massive underperformance to stocks in Q4 bodes well for January, says K33's Lunde",
+        "Grayscale outlines top crypto investing themes for 2026 as institutional adoption grows"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "Grayscale outlines 2026 crypto investment themes focusing on institutional adoption",
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+        "Bitcoin derivatives point to broad price range play between $85,000–$100,000"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Bitcoin is showing weakness relative to stocks and major altcoins, testing a $3 trillion market cap floor. However, there are bullish signals from analysts expecting a rebound in January and growing institutional interest highlighted by Grayscale’s outlook. Regulatory developments around stablecoins and Bitcoin derivatives suggest potential future volatility. No immediate breaking events, but sentiment remains mixed with underlying support from macro trends and institutional positioning."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Saylor's Bitcoin stash will be very hard for anyone to match: Pompl",
+        "Lightning Network hits record capacity on crypto exchange adoption",
+        "Bhutan pledges 10K Bitcoin to develop its 'mindfulness city'"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Lightning Network reaches record capacity (adoption)",
+        "Bhutan announces 10,000 BTC pledge for development (institutional adoption)",
+        "Regulatory consultation by UK on crypto rules (regulatory development)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights significant institutional and technological developments in the crypto space, including Bhutan’s large BTC commitment, Lightning Network growth, and regulatory discussions. These indicate strong bullish momentum driven by adoption and infrastructure improvements."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Former Theta Executives Accuse Crypto Firm's CEO of Fraud. Retaliation",
+        "Actors, Creators Launch Coalition to Push AI Rules Amid Ongoing Concerns",
+        "FDIC Opens Public Comment Period for Rule Proposal on Handling Stablecoin Issuer Applications"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "FDIC proposes new rule for stablecoin issuer applications (regulatory development)",
+        "Theta executives accuse CEO of fraud (internal corporate conflict)"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights regulatory developments around stablecoins from the FDIC and internal disputes within a crypto firm (Theta), with no major market-moving events like ETF approvals or hacks. The sentiment is neutral as these are procedural or internal issues without clear bullish or bearish implications."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "sentiment": "BULLISH",
+  "sentiment_score": 0.2833333333333333,
+  "confidence": 0.6,
+  "trading_suggestion": "BUY",
+  "news_count": 21,
+  "headlines": [
+    "Bitcoin liquidity ‘battle’ rages as bull case sees clear run to $95K",
+    "Crypto’s ‘super app’ race is on as industry enters aggregation era: Report",
+    "Here’s what happened in crypto today",
+    "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+    "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
+  ],
+  "events": [
+    "PayPal seeking Utah bank charter (institutional adoption)",
+    "Aster launches Shield Mode, a protected high-performance trading mode for on-chain traders",
+    "Grayscale addressing quantum computing threat (regulatory/technological risk)",
+    "JPMorgan launches its first tokenized money market fund on Ethereum",
+    "CoreWeave collapse impacting crypto mining and AI infrastructure",
+    "Bitcoin price recovery after sharp drop",
+    "U.S. employment data showing strong job growth but rising unemployment"
+  ],
+  "timestamp": "2025-12-16T18:05:01.251554"
+}

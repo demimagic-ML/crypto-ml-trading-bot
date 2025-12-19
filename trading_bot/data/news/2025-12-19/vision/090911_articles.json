@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-19T09:09:11.113914",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin jumps above $87,000, yen slides as Bank of Japan hikes interest rates",
+        "Crypto breaks higher as BOJ decision clears a macro overhang",
+        "Senate confirms Trump crypto-friendly nominees to take over CFTC, FDIC"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Bank of Japan raises short-term policy rate to 0.75% (major macro shift)",
+        "Senate confirms pro-crypto nominees for CFTC and FDIC (regulatory tailwinds)",
+        "Bitcoin price surges above $87,000 amid institutional interest in Ripple-linked assets"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Breaking bullish news from Coindesk highlights Bitcoin's surge past $87,000 driven by the Bank of Japan's rate hike and a clearing of macro overhang. Regulatory developments with pro-crypto Senate confirmations for key financial agencies add long-term tailwinds. Institutional interest in Ripple remains strong despite limited overall market participation. This combination of macro, regulatory, and price momentum suggests a high-impact bullish catalyst."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Crypto market cap falls to 8-month low, analysts see more pain ahead",
+        "How cheap power turned Libya into a Bitcoin mining hotspot",
+        "US Senate confirms pro-crypto Selig to lead CFTC, Hill to head FDIC"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.65,
+      "confidence": 0.85,
+      "events": [
+        "US Senate confirms pro-crypto Selig to lead CFTC",
+        "Bitcoin mining activity in Libya due to cheap power",
+        "Crypto market cap reaches 8-month low"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "The crypto market is experiencing downward pressure with market cap hitting an 8-month low, signaling bearish momentum. However, there is positive regulatory news with a pro-crypto figure confirmed for the CFTC, which may provide future support. The ongoing mining activity in Libya highlights operational resilience but does not offset current market weakness. Immediate caution advised."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Solana Developers Test Quantum-Resistant Cryptography to Prepare for Future Risks",
+        "Cardano's Hoskinson Criticizes Trump's Crypto Involvement, Says It Risk Industry Bipartisan Efforts",
+        "Third-Party Bitcoin Mining Services May Be Ending Securities Offerings, Says SEC Lawsuit"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "SEC lawsuit against third-party Bitcoin mining services (regulatory action)",
+        "Solana testing quantum-resistant cryptography (adoption/technology development)",
+        "Cardano CEO criticism of political involvement in crypto (regulatory/political risk)"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights a mix of regulatory scrutiny (SEC lawsuit), technological preparedness (Solana’s quantum resistance), and political commentary (Cardano’s CEO). While none are breaking developments, the SEC-related story could impact investor sentiment and regulatory clarity in the future. No major ETF approvals or institutional adoption announcements were observed."
+    }
+  ]
+}

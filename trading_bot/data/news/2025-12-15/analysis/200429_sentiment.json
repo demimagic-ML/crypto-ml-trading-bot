@@ -1,0 +1,24 @@
+{
+  "sentiment": "NEUTRAL",
+  "sentiment_score": -0.18333333333333335,
+  "confidence": 0.6,
+  "trading_suggestion": "HOLD",
+  "news_count": 23,
+  "headlines": [
+    "Trump-backed American Bitcoin flips ProCap in corporate BTC treasury race",
+    "How Bitcoin whales move markets, and the signals to ignore",
+    "Memecoins will rise from the dead, but in a new form: Crypto exec",
+    "Why oil-rich investors are fueling Bitcoin’s next liquidity wave",
+    "How HashKey plans to become Hong Kong’s first crypto IPO"
+  ],
+  "events": [
+    "BNB price dropping below key technical support level",
+    "Crypto market cap declining toward $3 trillion",
+    "ETF inflows continuing for third consecutive week (institutional adoption)",
+    "JPMorgan launches Ethereum-based MONY fund (institutional adoption)",
+    "China mining shutdowns leading to sharp drop in Bitcoin hashrate",
+    "SEC and OCC regulatory actions on tokenized assets (regulatory risk)",
+    "Corporate BTC treasury move by Trump-backed American Bitcoin (institutional adoption)"
+  ],
+  "timestamp": "2025-12-15T20:04:29.681661"
+}

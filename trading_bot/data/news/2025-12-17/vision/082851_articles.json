@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-17T08:28:51.493469",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin slides with ether and XRP as market tests $3 trillion floor",
+        "Grayscale outlines top crypto investing themes for 2026 as institutional adoption grows",
+        "Why XRP’s drop below $1.93 shits short-term market structure"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "Institutional adoption themes highlighted by Grayscale for 2026",
+        "XRP price drops below key support level at $1.93, indicating structural weakness"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin and broader crypto markets are under pressure as they test the $3 trillion market cap floor, with XRP showing technical breakdown below key support. Grayscale's institutional outlook signals long-term bullish sentiment but does not offset current bearish momentum. Regulatory scrutiny from U.S. Senate and FDIC proposals add uncertainty. Immediate trading action should be cautious due to volatility."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin could go 'sub-$50K if quantum isn't solved by 2028: Capriole",
+        "Saylor's Bitcoin stash will be very hard for anyone to match: Pompliano",
+        "Bhutan pledges 10K Bitcoin to develop its 'mindfulness city'"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.35,
+      "confidence": 0.75,
+      "events": [
+        "Regulatory consultation on crypto rules in the UK (lending, DeFi)",
+        "SEC urged to recognize blockchain privacy tools",
+        "Institutional adoption: Bhutan’s 10K BTC pledge"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The latest news highlights a mix of regulatory scrutiny and institutional interest. While there is cautious optimism from Bhutan’s Bitcoin commitment, concerns over quantum computing threats to Bitcoin security and ongoing regulatory discussions in the UK introduce downside risk. The sentiment leans bearish due to long-term risks, but institutional moves suggest underlying support."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Former Theta Executives Accuse Crypto Firm's CEO of Fraud. Retaliation",
+        "Actors, Creators Launch Coalition to Push AI Rules Amid Ongoing Concerns",
+        "Visa Expands Stablecoin Pilot for US Settlements via Solana"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "Visa expands stablecoin pilot with Solana for US settlements (adoption)",
+        "Theta executives accuse CEO of fraud (internal conflict, potential reputational risk)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The top headlines reflect mixed developments: Visa's stablecoin pilot signals institutional adoption progress, while internal fraud allegations at Theta could impact market perception. Regulatory and legal themes are present but not dominant. No major ETF approvals or regulatory rulings are reported, keeping sentiment neutral. The breaking nature of the Theta executive claims warrants monitoring but does not yet justify strong directional trades."
+    }
+  ]
+}

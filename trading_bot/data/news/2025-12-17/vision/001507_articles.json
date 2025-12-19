@@ -1,0 +1,71 @@
+{
+  "fetch_time": "2025-12-17T00:15:07.620039",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+        "Bitcoin derivatives point to broad price range play between $85,000-$100,000",
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.8,
+      "events": [
+        "U.S. FDIC proposes first U.S. stablecoin regulation under GENIUS Act",
+        "Bitcoin derivatives signaling potential breakout to $85K–$100K range"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights regulatory developments with the FDIC proposing a U.S. stablecoin rule, which could influence market structure and institutional adoption. Bitcoin derivatives suggest strong bullish sentiment with targets in the $85K–$100K range, while on-chain data shows a bounce from recent lows. However, analysts warn of possible retest below $80K. The mix of regulatory progress and technical optimism creates a neutral-to-bullish environment with high volatility expected."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "US senator sounds alarm on DeFi, cites PancakeSwap amid market structure delay",
+        "RedotPay raises $107M Series B led by Goodwater for stablecoin payments",
+        "Here's what happened in crypto today"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.3,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory scrutiny on DeFi platforms (PancakeSwap mentioned)",
+        "Institutional investment: RedotPay raises $107M Series B led by Goodwater"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The top news includes regulatory concerns over DeFi protocols like PancakeSwap and a significant institutional funding round for RedotPay focused on stablecoin payments. While the regulatory tone is cautionary, the funding event signals growing institutional interest in crypto infrastructure. No major ETF approvals or hacks are reported, but sentiment remains mixed due to regulatory uncertainty."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin and Ethereum ETFs Expected to Be Approved by SEC, as Institutions Pull Back",
+        "Visa Expands Stablecoin Pilot to Include US Settlements via Solana",
+        "FDIC Opens Public Comment Period for Rule Proposal on Handling Stablecoin Issuer Applications"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin and Ethereum ETF approval expected (institutional move)",
+        "Visa expanding stablecoin pilot with Solana (adoption event)",
+        "FDIC proposing rules for stablecoin issuers (regulatory development)"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights regulatory developments around stablecoins, potential ETF approvals for Bitcoin and Ethereum, and institutional adoption via Visa's stablecoin pilot. While there are positive signals in adoption and ETF expectations, the sentiment remains neutral due to mixed regulatory tone and lack of confirmed breaking events. No immediate price catalysts are evident, suggesting a wait-and-see approach."
+    }
+  ]
+}

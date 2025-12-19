@@ -1,0 +1,72 @@
+{
+  "fetch_time": "2025-12-18T01:59:42.548421",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Coinbase rolls out stock trading, prediction markets and more in bid to become the 'Everything Exchange'",
+        "CFTC's acting chief Pham poised to go to crypto firm MoonPay once Mike Selig lands",
+        "Digital Wealth Partners introduces algorithmic XRP trading for qualified retirement accounts"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Coinbase expanding into stock and prediction markets (adoption/institutional move)",
+        "Regulatory shift signaled by CFTC acting chief moving to MoonPay (regulation-related event)",
+        "XRP integrated into retirement accounts via Digital Wealth Partners (institutional adoption)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "Coinbase's expansion into new financial products signals strong institutional adoption and market expansion. Regulatory movement with a top CFTC official joining MoonPay suggests favorable sentiment toward crypto firms. Additionally, XRP being added to retirement accounts marks significant institutional acceptance. These developments collectively point to a bullish environment with high potential for market momentum."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Coinbase adds stock trading, prediction markets in 'everything app' push",
+        "Here's what happened in crypto today",
+        "Coinbase gets nod from Indian regulators to acquire CoinDCX stake"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.8,
+      "events": [
+        "Coinbase expands into stock trading and prediction markets (adoption)",
+        "Indian regulators approve Coinbase's acquisition of CoinDCX stake (regulatory approval & institutional move)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent developments highlight strong institutional adoption and regulatory progress, particularly with Coinbase expanding its platform and gaining regulatory approval in India. These are bullish signals for market confidence and potential inflows, especially in the broader crypto ecosystem."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Miner Hut 8 Signs $7 Billion AI Deal With Google Backing",
+        "Central African Republic's Crypto Initiatives Criticized for Benefiting Foreign Investors Over Citizens",
+        "Bitcoin Mining Ban in Siberia Extended Indefinitely to Address Power Concerns"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "Institutional move: Bitcoin miner Hut 8 secures $7B AI deal with Google backing",
+        "Regulatory action: Russia extends Bitcoin mining ban due to power concerns",
+        "Adoption concern: CAR's crypto initiatives criticized for favoring foreign investors"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The top headlines reflect a mix of institutional developments, regulatory actions, and adoption challenges. The Hut 8 deal signals strong institutional interest in crypto infrastructure, which is bullish, but the Russian mining ban and CAR criticism introduce cautionary elements. Overall sentiment is neutral as positive institutional moves are offset by regulatory risks and adoption skepticism."
+    }
+  ]
+}

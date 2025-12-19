@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-17T02:43:15.558873",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin's massive underperformance to stocks in Q4 bodes well for January, says K33's Lunde",
+        "Bitcoin derivatives point to broad price range play between $85,000-$100,000",
+        "Bitcoin bounces from Monday's worst levels, but sub-$80,000 may come next, analyst says"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.65,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin derivatives indicate a potential breakout range ($85,000–$100,000)",
+        "U.S. FDIC proposes first U.S. stablecoin rule to emerge from GENIUS Act",
+        "Senator Warren asks for Trump-tied crypto probe as market structure bill drags"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "BUY",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights bullish sentiment around Bitcoin’s potential rebound in January after underperforming equities in Q4, supported by derivative positioning pointing to a $85k–$100k price range. Regulatory developments including the FDIC’s stablecoin proposal and Senate scrutiny of crypto markets add institutional context. While no ETF or major hack is reported, institutional-level policy discussions suggest elevated market attention. The bounce from lows with caution on near-term support below $80k signals volatility ahead, but overall tone favors upward momentum."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Spot Bitcoin ETFs see $358M outflow: Are investors abandoning BTC?",
+        "Here's what happened in crypto today",
+        "Bank of Canada lays out criteria for 'good money' stablecoins"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.85,
+      "events": [
+        "Bitcoin ETF outflow of $358M",
+        "Bank of Canada outlines stablecoin criteria",
+        "Regulatory consultation on crypto rules by UK regulator"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights a significant $358M outflow from Bitcoin ETFs, signaling potential institutional disengagement and bearish sentiment. The Bank of Canada's stablecoin framework introduces regulatory clarity but may limit innovation. Combined with ongoing regulatory scrutiny from the UK and SEC, these developments suggest heightened caution in the market. While not a direct crash signal, the confluence of regulatory focus and ETF outflows indicates a risk-off environment, warranting a defensive stance."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Why Bitwise Expects New Bitcoin Highs in 2026—And the End of the 4-Year Cycle",
+        "FTC Compels Nomad Operator to Repay Users After $186M Crypto Theft",
+        "Trump 'Open' to Democrats at SEC, CFTC in Possible Boon to Crypto Market Structure Bill"
+      ],
+      "sentiment": "BULLISH",
+      "sentiment_score": 0.75,
+      "confidence": 0.85,
+      "events": [
+        "Bitwise's bullish outlook on Bitcoin reaching new highs in 2026",
+        "SEC/CFTC regulatory developments possibly advancing crypto market structure bill",
+        "FTC enforcement action against Nomad operator for $186M theft"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "STRONG_BUY",
+      "urgency": "HIGH",
+      "summary": "The top news highlights a strong institutional bullish forecast for Bitcoin by Bitwise, signaling potential new all-time highs in 2026. Regulatory optimism from potential bipartisan support at the SEC and CFTC adds structural tailwinds. Meanwhile, a major FTC enforcement case against a crypto operator underscores ongoing risks but also regulatory scrutiny that may improve market integrity. This mix of macro optimism and regulatory progress supports a bullish bias."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "fetch_time": "2025-12-17T23:39:54.315823",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Traders mull the bottom as bitcoin returns to week's lows below $86,000",
+        "Bitcoin News: Traders mull the bottom as bitcoin returns to week's lows below $86,000",
+        "Crypto stocks pare gains as bitcoin retreats from $90,000 rally"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin price near $86,000, testing support levels",
+        "Crypto market correction following prior rally to $90,000",
+        "Regulatory discussions with senators on crypto industry policy"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin has retreated to $86,000, marking a potential short-term bottom after a sharp pullback from recent highs. Market sentiment is bearish due to overbought conditions and technical resistance. While no major regulatory or institutional events are confirmed, ongoing policy discussions may influence future moves. Traders are assessing whether this is a buying opportunity or further downside."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin $70K flush would reset cycle, not confirm new bear market: Analyst",
+        "Acting CFTC chair to join MoonPay after leaving agency",
+        "Ex-Alameda CEO won't be spending the holidays in federal prison"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "Regulatory news: Former SEC counsel explains RWAs compliance",
+        "UK regulator consults on crypto rules for exchanges, lending and DeFi",
+        "Web3 Antivirus detects $563k DeFi loss due to phishing attack",
+        "Alameda CEO legal update (non-imprisonment over holiday)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent headlines include a neutral-to-bullish analyst view on Bitcoin reaching $70K, regulatory developments involving SEC and UK regulators, and a security incident in DeFi. The Alameda CEO news is low-impact but positive sentimentally. No major ETF or institutional adoption moves are reported. Regulatory themes dominate, which may cause volatility, but no immediate catalysts for strong directional movement."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Santa Rally Hopes Fade as Bitcoin Jumps to $90K, Then Falls Even Harder",
+        "Bitcoin Miner Hut 8 Signs $7 Billion AI Deal With Google Backing",
+        "DTCC to Issue Tokenized Securities on Canton Network, Starting With US Treasuries"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "Bitcoin price surge to $90K followed by sharp decline (market volatility)",
+        "Hut 8's $7B AI deal with Google-backed entity (institutional adoption)",
+        "DTCC launching tokenized securities on Canton Network (regulatory/institutional infrastructure development)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "HOLD",
+      "urgency": "HIGH",
+      "summary": "Recent news highlights a volatile market with Bitcoin briefly reaching $90K before a pullback, signaling potential exhaustion after a rally. Institutional moves include Hut 8’s major AI partnership and DTCC’s entry into tokenized securities, indicating growing institutional adoption. While bullish momentum was present, the reversal suggests caution. Regulatory and infrastructural developments are positive for long-term adoption but do not yet justify aggressive positioning."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-16T14:03:07.684202",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "U.S. bitcoin, ether ETFs see largest outflows since Nov. 20 as BTC declines",
+        "Axelar token falls 15% after Circle deal takes the developer team, leaves AXL behind",
+        "Bitcoin slump deepens as most of top 100 tokens fall below key trading signals"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.7,
+      "confidence": 0.9,
+      "events": [
+        "ETF outflows reaching highest levels since November 2023",
+        "Regulatory consultation by UK Treasury on crypto listings, DeFi, and staking",
+        "Institutional interest in Dogecoin as price drops below $0.13"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Multiple breaking headlines indicate a bearish market trend with significant ETF outflows, declining BTC price, and negative sentiment across major cryptocurrencies. Institutional moves are mixed but show concern, while regulatory developments in the UK could influence future market structure. The combination of ETF outflows and falling prices suggests a potential downward momentum."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "FCA consults on UK crypto rules for exchanges, lending and DeFi",
+        "Singapore-licensed StraitsX to bring its SGD, USD stablecoins to Solana in 2026",
+        "Alexander Ray, our partner within the CTDG initiative and a Web3 entrepreneur, co-founder of Albus Protocol and jPool, has passed away"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.75,
+      "events": [
+        "UK regulatory consultation on crypto rules (FCA)",
+        "StraitsX expanding stablecoin offerings to Solana (adoption)",
+        "Death of notable Web3 entrepreneur Alexander Ray (market sentiment)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The top news includes UK regulatory developments affecting crypto exchanges and DeFi, which could influence market structure and compliance costs. A new stablecoin launch on Solana signals adoption growth, while the passing of a prominent Web3 figure may affect community morale. No major ETF approvals, hacks, or institutional moves are reported. Regulatory news is present but not yet finalized; thus, impact remains uncertain. Overall sentiment is neutral with moderate urgency due to evolving regulatory landscape."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Sinks Towards $85,000 as Ethereum, XRP Fall Alongside",
+        "PayPal Seeks Utah-Chartered Industrial Bank Status",
+        "Grayscale Downplays Quantum Computing Threat to Bitcoin"
+      ],
+      "sentiment": "BEARISH",
+      "sentiment_score": -0.45,
+      "confidence": 0.75,
+      "events": [
+        "Bitcoin price drop toward $85,000",
+        "PayPal's potential banking charter move (institutional adoption)",
+        "Grayscale addressing quantum computing risks (regulatory/technological concern)"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "SIGNIFICANT",
+      "trading_suggestion": "SELL",
+      "urgency": "HIGH",
+      "summary": "Bitcoin is under pressure near $85,000 with broader crypto weakness. While PayPal's bank charter pursuit signals long-term institutional interest, immediate market sentiment is bearish due to price declines and macro concerns. Grayscale's downplay of quantum threats suggests no imminent technical risk, but the current dip may reflect profit-taking or regulatory caution. This is breaking news with high market impact."
+    }
+  ]
+}

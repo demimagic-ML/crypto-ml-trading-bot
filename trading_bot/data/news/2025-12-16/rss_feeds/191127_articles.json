@@ -1,0 +1,35 @@
+{
+  "fetch_time": "2025-12-16T19:11:27.246438",
+  "source_type": "rss_feeds",
+  "count": 4,
+  "articles": [
+    {
+      "source": "cointelegraph.com",
+      "title": "UK crypto ownership dropped to 8% in 2025: YouGov poll",
+      "published": "Tue, 16 Dec 2025 16:45:44 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK crypto ownership dropped to 8% in 2025: YouGov poll\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGV",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Bitcoin liquidity ‘battle’ rages as bull case sees clear run to $95K",
+      "published": "Tue, 16 Dec 2025 15:39:10 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin liquidity ‘battle’ rages as bull case sees clear run to $95K\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Crypto’s ‘super app’ race is on as industry enters aggregation era: Report",
+      "published": "Tue, 16 Dec 2025 14:22:42 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto’s ‘super app’ race is on as industry enters aggregation era: Report\" src=\"https://images.cointelegraph.com/images/528_aHR",
+      "type": "crypto"
+    },
+    {
+      "source": "cointelegraph.com",
+      "title": "Here’s what happened in crypto today",
+      "published": "Tue, 16 Dec 2025 14:10:25 +0000",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91c",
+      "type": "crypto"
+    }
+  ]
+}

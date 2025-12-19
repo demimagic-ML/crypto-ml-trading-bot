@@ -1,0 +1,73 @@
+{
+  "fetch_time": "2025-12-17T15:59:24.770439",
+  "source_type": "vision",
+  "count": 3,
+  "articles": [
+    {
+      "source": "coindesk",
+      "source_type": "news",
+      "headlines": [
+        "Don't call it QE — the Fed's $40 billion of bill purchases may not shake crypto out of its slump",
+        "Bitcoin trades near key price safety net that Strategy already breached",
+        "How China's strengthening yuan could support bitcoin prices"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "Fed's $40 billion in bill purchases (monetary policy impact)",
+        "Bitcoin nearing key technical support level",
+        "China's yuan strength potentially supporting BTC"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "Recent news highlights mixed signals for Bitcoin: weak market response to Fed stimulus, technical breakdown near support, and potential macro tailwinds from China. No major institutional or regulatory developments reported. Sentiment remains cautious with no clear bullish catalysts."
+    },
+    {
+      "source": "cointelegraph",
+      "source_type": "news",
+      "headlines": [
+        "Binance alleges fake listing agents, offers up to $5M whistleblower reward",
+        "Former SEC counsel explains what it takes to make RWAs compliant",
+        "Here's what happened in crypto today"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.8,
+      "events": [
+        "Binance announces $5M whistleblower reward for exposing fake listing agents",
+        "SEC compliance discussion around Real-World Assets (RWAs)",
+        "UK regulator consults on crypto rules for exchanges, lending and DeFi"
+      ],
+      "is_breaking_news": true,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights regulatory scrutiny (UK consultation, SEC RWA compliance) and Binance’s anti-fraud initiative. While no major ETF approvals or hacks are reported, institutional and regulatory developments suggest cautious market positioning. The sentiment is neutral due to mixed signals—regulatory clarity could be bullish, but enforcement actions may cause volatility."
+    },
+    {
+      "source": "decrypt",
+      "source_type": "news",
+      "headlines": [
+        "Bitcoin Treasury KindlyMD Risks Nasdaq Delisting as Stock Price Craters",
+        "Trump 'Open' to Democrats at SEC, CFTC in Possible Boon to Crypto Market Structure Bill",
+        "Social Media Influencers in H... Face Charges for Promoting Crypto, $206 Million in Losses"
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": 0.1,
+      "confidence": 0.7,
+      "events": [
+        "Regulatory scrutiny on crypto influencers and potential enforcement action",
+        "Possible bipartisan support for crypto market structure legislation",
+        "Nasdaq delisting risk for Bitcoin-related stock due to price decline"
+      ],
+      "is_breaking_news": false,
+      "market_impact": "MODERATE",
+      "trading_suggestion": "HOLD",
+      "urgency": "MEDIUM",
+      "summary": "The news highlights mixed signals in the crypto space: regulatory pressure on influencers may dampen speculative activity, while political developments suggest possible institutional progress on crypto regulation. However, no major breaking events like ETF approvals or large-scale adoption are present. Sentiment is neutral with a slight bearish undertone due to delisting risks and enforcement actions."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "sentiment": "BEARISH",
+  "sentiment_score": -0.45,
+  "confidence": 0.6,
+  "trading_suggestion": "SELL",
+  "news_count": 20,
+  "headlines": [
+    "MSCI’s crypto treasury rules could spur $15B of forced selling",
+    "Crypto ETPs could see a flood of liquidations by 2027: Analyst",
+    "Bitcoin’s volatility below Nvidia in 2025 as investor base grew: Bitwise",
+    "US Fed pulls guidance blocking its banks from engaging with crypto",
+    "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation"
+  ],
+  "events": [
+    "U.S. inflation data release expected to impact Bitcoin price movement",
+    "Institutional move: VivoPower aiming for $300M Ripple share deal with $1B XRP exposure"
+  ],
+  "timestamp": "2025-12-18T09:52:33.998772"
+}
