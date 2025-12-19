@@ -384,7 +384,35 @@ View in dashboard header or `learning_data/trade_history.json`.
 
 ---
 
-## 📄 License
+## � Future Improvements
+
+### Short-term
+- [ ] **Multi-Asset Support** - Extend beyond BTC to ETH, SOL, and other major pairs
+- [ ] **Backtesting Dashboard** - Visual backtesting interface with strategy comparison
+- [ ] **Telegram/Discord Alerts** - Real-time trade notifications and commands
+- [ ] **Portfolio Tracking** - Track overall performance across multiple positions
+
+### Medium-term
+- [ ] **Reinforcement Learning Agent** - RL-based position sizing and entry optimization
+- [ ] **Order Flow Analysis** - CVD, delta, and footprint chart integration
+- [ ] **Sentiment Aggregator** - Twitter/X, Reddit, and Fear & Greed index integration
+- [ ] **Auto-Retraining Pipeline** - Scheduled model retraining with fresh market data
+
+### Long-term
+- [ ] **Multi-Exchange Support** - Bybit, OKX, Kraken integration
+- [ ] **Options Strategies** - Hedging with BTC options for risk management
+- [ ] **Distributed Architecture** - Kubernetes deployment for high availability
+- [ ] **Mobile App** - React Native companion app for monitoring
+
+### Research Ideas
+- [ ] **Transformer Price Prediction** - Replace LSTM with modern transformer architecture
+- [ ] **Graph Neural Networks** - Model crypto market correlations
+- [ ] **Causal Inference** - Better understand what drives price movements
+- [ ] **Adversarial Testing** - Stress test strategies against market manipulation scenarios
+
+---
+
+## �📄 License
 
 MIT License - Use at your own risk.
 
