@@ -11,6 +11,8 @@
 
 [Features](#-features) • [Architecture](#-architecture) • [Installation](#-installation) • [Usage](#-usage) • [Dashboard](#-dashboard) • [Configuration](#-configuration)
 
+![Dashboard Screenshot](screenshots/dashboard.png)
+
 </div>
 
 ---
